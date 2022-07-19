@@ -15,12 +15,13 @@ tr:hover{background-color:#252525}
 </table>
 
 <script>
+//Variáveis
+Tabela = document.getElementById("TabelaDeFilmes");
 //Obter json com o filmes e loopar em função para adicionar filmes a tabela
 fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
 
 //Adição de filmes a tabela
 function AdicionarFilme(filme) {
-	var Tabela = document.getElementById("TabelaDeFilmes");
 	var row = Tabela.insertRow();
 	var cell1 = row.insertCell();
 	var cell2 = row.insertCell();
@@ -28,7 +29,7 @@ function AdicionarFilme(filme) {
 	var cell4 = row.insertCell();
 	//Celula Nome
 	cell1.innerHTML = filme.nome
-	cell1.style = "cursor: pointer";
+	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
 	//Celula score
