@@ -1,5 +1,33 @@
 <title>Vag's Filmes</title>
-<body style="background-color:#181818;color:#a19d9d">
+<style>
+body {background-color:#181818;color:#a19d9d}
+table {width:100%}
+th {text-align:left}
+</style>
+<table id="TabelaDeFilmes">
+  <tr>
+    <th>Filme</th>
+    <th>Ano</th>
+    <th>Score</th>
+	<th>Duração</th>
+  </tr>
+</table>
+
 <script>
-fetch('filmes.json').then(response => response.json()).then(json => console.log(json))
+//Obter json com o filmes e loopar em função para adicionar filmes a tabela
+fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
+
+//Adição de filmes a tabela
+function AdicionarFilme(filme) {
+	var Tabela = document.getElementById("TabelaDeFilmes");
+	var row = Tabela.insertRow();
+	var cell1 = row.insertCell();
+	var cell2 = row.insertCell();
+	var cell3 = row.insertCell();
+	var cell4 = row.insertCell();
+	cell1.innerHTML = filme.nome;
+	cell2.innerHTML = filme.ano;
+	cell3.innerHTML = filme.score;
+	cell4.innerHTML = filme.duracao;
+}
 </script>
