@@ -1,8 +1,9 @@
 <title>Vag's Filmes</title>
 <style>
 body {background-color:#181818;color:#a19d9d}
-table {width:100%}
+table {width:100%;border-collapse:collapse}
 th {text-align:left}
+tr:hover{background-color:#252525}
 </style>
 <table id="TabelaDeFilmes">
   <tr>
@@ -25,10 +26,15 @@ function AdicionarFilme(filme) {
 	var cell2 = row.insertCell();
 	var cell3 = row.insertCell();
 	var cell4 = row.insertCell();
-	cell1.innerHTML = filme.nome;
+	//Celula Nome
+	cell1.innerHTML = filme.nome
+	cell1.style = "cursor: pointer";
+	//Celula ano
 	cell2.innerHTML = filme.ano;
+	//Celula score
 	cell3.innerHTML = filme.score.toFixed(1);
 	cell3.style = "color:hsl("+filme.score.toFixed(1).replace(".", "")+", 70%, 30%);"
+	//Celula duração
 	cell4.innerHTML = filme.duracao;
 }
 </script>
