@@ -4,7 +4,9 @@ body {background-color:#181818;color:#a19d9d}
 table {width:100%;border-collapse:collapse}
 th {text-align:left}
 tr:hover{background-color:#252525}
+video {position:absolute;display:none;}
 </style>
+<video width="640" height="360" id="player" controls autoplay></video>
 <table id="TabelaDeFilmes">
   <tr>
     <th>Filme</th>
@@ -15,8 +17,11 @@ tr:hover{background-color:#252525}
 </table>
 
 <script>
-//Variáveis
+//Variáveis permanentes
 Tabela = document.getElementById("TabelaDeFilmes");
+Player = document.getElementById("player");
+//Variáveis mutáveis
+var SegurandoMouse = false;
 //Obter json com o filmes e loopar em função para adicionar filmes a tabela
 fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
 
@@ -41,11 +46,27 @@ function AdicionarFilme(filme) {
 	cell4.innerHTML = filme.duracao;
 }
 
-//Eventos
-//Exibir vídeo ao clicar
+function MoverPlayer() {
+	console.log("testd");
+}
+
+//Registrar eventos do mouse sobre o player, para poder mover o player
+Player.addEventListener('click', (e) => e.preventDefault() )
+Player.addEventListener('mousedown', function(e) {SegurandoMouse = true;Player.controls = false;}, true);
+Player.addEventListener('mouseup', function() {SegurandoMouse = false;Player.controls = true;}, true);
+document.addEventListener('mousemove', function(event) {
+	event.preventDefault();
+	if (SegurandoMouse) {
+	Player.style.left = event.clientX-320 + 'px';
+	Player.style.top  = event.clientY-180 + 'px';
+ }
+}, true);
+
 Tabela.addEventListener("click", function(event) {
 	if (event.target.dataset.videoid) {
 		console.log(event.target.dataset.videoid);
+		Player.src="https://www.onirikal.com/videos/mp4/assembly_line.mp4"
+		Player.style.display = "block";
 	}
 });
 </script>
