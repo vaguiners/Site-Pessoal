@@ -65,7 +65,7 @@ document.addEventListener('mousemove', function(event) {
 Tabela.addEventListener("click", function(event) {
 	if (event.target.dataset.videoid) {
 		console.log(event.target.dataset.videoid);
-		Player.src="https://video.vaguiner.eu.org/"+event.target.dataset.videoid;
+		Player.src="https://video.vaguiner.eu.org/?id="+event.target.dataset.videoid;
 		Player.style.display = "block";
 	}
 });
