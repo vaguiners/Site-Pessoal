@@ -20,6 +20,7 @@ Tabela = document.getElementById("TabelaDeFilmes");
 //Obter json com o filmes e loopar em função para adicionar filmes a tabela
 fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
 
+//Funções
 //Adição de filmes a tabela
 function AdicionarFilme(filme) {
 	var row = Tabela.insertRow();
@@ -29,6 +30,7 @@ function AdicionarFilme(filme) {
 	var cell4 = row.insertCell();
 	//Celula Nome
 	cell1.innerHTML = filme.nome
+	cell1.dataset.videoid=filme.videoid;
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
@@ -38,4 +40,12 @@ function AdicionarFilme(filme) {
 	//Celula duração
 	cell4.innerHTML = filme.duracao;
 }
+
+//Eventos
+//Exibir vídeo ao clicar
+Tabela.addEventListener("click", function(event) {
+	if (event.target.dataset.videoid) {
+		console.log(event.target.dataset.videoid);
+	}
+});
 </script>
