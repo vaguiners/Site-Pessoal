@@ -5,7 +5,9 @@ table {width:100%;border-collapse:collapse}
 th {text-align:left}
 tr:hover{background-color:#252525}
 video {position:absolute;display:none;}
+img {position:absolute;display:none;pointer-events:none}
 </style>
+<img id="posterOverlay">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
 <table id="TabelaDeFilmes">
   <tr>
@@ -20,6 +22,7 @@ video {position:absolute;display:none;}
 //Variáveis permanentes
 Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
+PosterOverlay = document.getElementById("posterOverlay");
 //Variáveis mutáveis
 var SegurandoMouse = false;
 let oldValue = 0;
@@ -37,6 +40,7 @@ function AdicionarFilme(filme) {
 	//Celula Nome
 	cell1.innerHTML = filme.nome
 	cell1.dataset.videoid=filme.videoid;
+	cell1.dataset.poster=filme.poster;
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
@@ -48,11 +52,32 @@ function AdicionarFilme(filme) {
 }
 
 //Registrar eventos do mouse sobre o player, para poder mover o player
-Player.addEventListener('click', (e) => e.preventDefault() )
-Player.addEventListener('mousedown', function(e) {SegurandoMouse=true;Player.controls=false;offsetX=e.clientX-parseInt(window.getComputedStyle(this).left);offsetY = e.clientY - parseInt(window.getComputedStyle(this).top);}, true);
+//Atalhos: Scroll no player para dar zoom, click no botão do meio do mouse no player para fechar o player e descarregar o vídeo
+Player.addEventListener('click', (e) => e.preventDefault())
+Player.addEventListener('mousedown', function(e) {
+	if(e.which == 1) {
+		SegurandoMouse=true
+		Player.controls=false
+		offsetX=e.clientX-parseInt(window.getComputedStyle(this).left)
+		offsetY = e.clientY - parseInt(window.getComputedStyle(this).top)
+	}
+	
+	if(e.which == 2) {
+		Player.src="";
+		Player.style.display = "none";
+	}
+}, true);
 Player.addEventListener('mouseup', function() {SegurandoMouse = false;Player.controls = true;}, true);
 document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
+	if (event.target.dataset.poster) {
+		posterOverlay.src=event.target.dataset.poster;
+		posterOverlay.style.display = "block";
+		posterOverlay.style.top = event.clientY + 'px';
+		posterOverlay.style.left = event.clientX+10 + 'px';
+	} else {
+		posterOverlay.style.display = "none";
+	}
 	if (SegurandoMouse) {
 		Player.style.top = (event.clientY - offsetY) + 'px';
 		Player.style.left = (event.clientX - offsetX) + 'px';
