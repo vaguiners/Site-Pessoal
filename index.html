@@ -63,12 +63,12 @@ document.addEventListener('mousemove', function(event) {
 Player.addEventListener('wheel', function(evt) {
 	event.preventDefault();
 	if (evt.deltaY < 0) {
-		Player.width-=10
-		Player.height-=10
+		Player.width-=48
+		Player.height-=27
 	}
 	if(evt.deltaY > 0)  {
-		Player.width+=10
-		Player.height+=10
+		Player.width+=48
+		Player.height+=27
 	}
 }, true);
 
