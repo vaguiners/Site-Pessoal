@@ -22,10 +22,11 @@ Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
 //Variáveis mutáveis
 var SegurandoMouse = false;
+let oldValue = 0;
+
 //Obter json com o filmes e loopar em função para adicionar filmes a tabela
 fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
 
-//Funções
 //Adição de filmes a tabela
 function AdicionarFilme(filme) {
 	var row = Tabela.insertRow();
@@ -46,25 +47,34 @@ function AdicionarFilme(filme) {
 	cell4.innerHTML = filme.duracao;
 }
 
-function MoverPlayer() {
-	console.log("testd");
-}
-
 //Registrar eventos do mouse sobre o player, para poder mover o player
 Player.addEventListener('click', (e) => e.preventDefault() )
-Player.addEventListener('mousedown', function(e) {SegurandoMouse = true;Player.controls = false;}, true);
+Player.addEventListener('mousedown', function(e) {SegurandoMouse=true;Player.controls=false;offsetX=e.clientX-parseInt(window.getComputedStyle(this).left);offsetY = e.clientY - parseInt(window.getComputedStyle(this).top);}, true);
 Player.addEventListener('mouseup', function() {SegurandoMouse = false;Player.controls = true;}, true);
 document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	if (SegurandoMouse) {
-	Player.style.left = event.clientX-320 + 'px';
-	Player.style.top  = event.clientY-180 + 'px';
- }
+		Player.style.top = (event.clientY - offsetY) + 'px';
+		Player.style.left = (event.clientX - offsetX) + 'px';
+	}
 }, true);
 
+//Registro do evento para dar zoom no vídeo com scroll
+Player.addEventListener('wheel', function(evt) {
+	event.preventDefault();
+	if (evt.deltaY < 0) {
+		Player.width-=10
+		Player.height-=10
+	}
+	if(evt.deltaY > 0)  {
+		Player.width+=10
+		Player.height+=10
+	}
+}, true);
+
+//Abrir player ao clicar no filme
 Tabela.addEventListener("click", function(event) {
 	if (event.target.dataset.videoid) {
-		console.log(event.target.dataset.videoid);
 		Player.src="https://video.vaguiner.eu.org/?id="+event.target.dataset.videoid;
 		Player.style.display = "block";
 	}
