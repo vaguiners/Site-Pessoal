@@ -72,9 +72,14 @@ document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	if (event.target.dataset.poster) {
 		posterOverlay.src=event.target.dataset.poster;
-		posterOverlay.style.display = "block";
-		posterOverlay.style.top = event.clientY + 'px';
 		posterOverlay.style.left = event.clientX+10 + 'px';
+		posterOverlay.style.display = "block";
+		if (window.innerHeight-event.clientY > 278) {
+			posterOverlay.style.top = event.clientY + 'px';
+		} else {
+			posterOverlay.style.top = window.innerHeight-278
+		}
+		
 	} else {
 		posterOverlay.style.display = "none";
 	}
