@@ -89,8 +89,8 @@ Player.addEventListener('mousedown', function(e) {
 	if(e.which == 1) {
 		SegurandoMouse=true
 		Player.controls=false
-		offsetX=e.clientX-parseInt(window.getComputedStyle(this).left)
-		offsetY = e.clientY - parseInt(window.getComputedStyle(this).top)
+		offsetX=e.pageX-parseInt(window.getComputedStyle(this).left)
+		offsetY=e.pageY-parseInt(window.getComputedStyle(this).top)
 	}
 	
 	if(e.which == 2) {
@@ -103,23 +103,24 @@ document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	InputBusca.style.display = "none";
 	if (event.target.dataset.poster) {
+		console.log(event)
 		posterOverlay.src=event.target.dataset.poster;
-		OverlayDIV.style.left = event.clientX+10 + 'px';
+		OverlayDIV.style.left = event.pageX+10 + 'px';
 		OverlayDIV.style.display = "block";
 		OverlayBackdrop.src = event.target.dataset.background;
 		resolucaoArmazenada.innerText=event.target.dataset.resolucaoArmazenada;
 		if (window.innerHeight-event.clientY > 300) {
-			OverlayDIV.style.top = event.clientY + 'px';
+			OverlayDIV.style.top = event.pageY + 'px';
 		} else {
-			OverlayDIV.style.top = window.innerHeight-300
+			OverlayDIV.style.top = event.pageY-300 + 'px';
 		}
 		
 	} else {
 		OverlayDIV.style.display = "none";
 	}
 	if (SegurandoMouse) {
-		Player.style.top = (event.clientY - offsetY) + 'px';
-		Player.style.left = (event.clientX - offsetX) + 'px';
+		Player.style.top = (event.pageY - offsetY) + 'px';
+		Player.style.left = (event.pageX - offsetX) + 'px';
 	}
 }, true);
 
@@ -141,6 +142,8 @@ Tabela.addEventListener("click", function(event) {
 	if (event.target.dataset.videoid) {
 		Player.src="https://video.vaguiner.eu.org/?id="+event.target.dataset.videoid;
 		Player.style.display = "block";
+		Player.style.top = event.pageY + 'px';
+		Player.style.left = event.pageX + 'px';
 	}
 });
 </script>
