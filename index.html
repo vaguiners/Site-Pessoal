@@ -1,15 +1,18 @@
 <title>Vag's Filmes</title>
 <style>
-body {background-color:#181818;color:#a19d9d}
+body {background-color:#181818;color:#a19d9d;overflow-y: hidden;overflow-x: hidden;}
 table {width:100%;border-collapse:collapse}
 th {text-align:left}
 tr:hover{background-color:#252525}
 video {position:absolute;display:none;}
-img {position:absolute;display:none;pointer-events:none}
+#posterOverlay {position:absolute;pointer-events:none}
+#divDescricao {position:absolute;pointer-events:none;left:200;}
+#OverlayBackdrop {position:absolute;pointer-events:none;width:auto;height:300px;opacity:0.1;}
+#OverlayDIV {pointer-events:none;width:733px;height:300px;position:absolute;overflow:hidden;display:none;}
 input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;position:absolute;display:none;pointer-events:none;border:0;}
 </style>
+<div id="OverlayDIV"><img width="200" height="300" id="posterOverlay"><div id="divDescricao"><img id="OverlayBackdrop"><fieldset><legend>Arquivo</legend>Resolução armazenada: <a id="resolucaoArmazenada">0x0</a>. (Transmite em 360p) </fieldset></div></div>
 <input oninput="FiltrarTabela(this.value)" type="text" id="InputBusca">
-<img id="posterOverlay">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
 <table id="TabelaDeFilmes">
   <tr>
@@ -25,7 +28,10 @@ input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;posit
 Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
 PosterOverlay = document.getElementById("posterOverlay");
+OverlayDIV = document.getElementById("OverlayDIV");
+divDescricao = document.getElementById("divDescricao");
 InputBusca = document.getElementById("InputBusca");
+resolucaoArmazenada = document.getElementById("resolucaoArmazenada");
 //Variáveis mutáveis
 var SegurandoMouse = false;
 let oldValue = 0;
@@ -44,6 +50,8 @@ function AdicionarFilme(filme) {
 	cell1.innerHTML = filme.nome
 	cell1.dataset.videoid=filme.videoid;
 	cell1.dataset.poster=filme.poster;
+	cell1.dataset.background=filme.background;
+	cell1.dataset.resolucaoArmazenada=filme.resolucaoArmazenada;
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
@@ -96,16 +104,18 @@ document.addEventListener('mousemove', function(event) {
 	InputBusca.style.display = "none";
 	if (event.target.dataset.poster) {
 		posterOverlay.src=event.target.dataset.poster;
-		posterOverlay.style.left = event.clientX+10 + 'px';
-		posterOverlay.style.display = "block";
-		if (window.innerHeight-event.clientY > 278) {
-			posterOverlay.style.top = event.clientY + 'px';
+		OverlayDIV.style.left = event.clientX+10 + 'px';
+		OverlayDIV.style.display = "block";
+		OverlayBackdrop.src = event.target.dataset.background;
+		resolucaoArmazenada.innerText=event.target.dataset.resolucaoArmazenada;
+		if (window.innerHeight-event.clientY > 300) {
+			OverlayDIV.style.top = event.clientY + 'px';
 		} else {
-			posterOverlay.style.top = window.innerHeight-278
+			OverlayDIV.style.top = window.innerHeight-300
 		}
 		
 	} else {
-		posterOverlay.style.display = "none";
+		OverlayDIV.style.display = "none";
 	}
 	if (SegurandoMouse) {
 		Player.style.top = (event.clientY - offsetY) + 'px';
