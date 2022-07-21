@@ -3,11 +3,13 @@
 body {background-color:#181818;color:#a19d9d}
 table {width:100%;border-collapse:collapse}
 th {text-align:left}
-tr:hover{background-color:#252525}
-video {position:absolute;display:none;}
-img {position:absolute;display:none;pointer-events:none}
-input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;position:absolute;display:none;pointer-events:none;border:0;}
+tr:hover{background-color:#252525;}
+#player {position:absolute;display:none;}
+#posterOverlay {position:absolute;display:none;pointer-events:none;}
+#InputBusca {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;position:absolute;display:none;pointer-events:none;border:0;}
+#backgroundimage {background-repeat:no-repeat;background-size: cover;background-position:center center;width: 100vw;height: 100vh;overflow: hidden;position: absolute;top: 0;left: 0;z-index: -1;filter: brightness(20%);}
 </style>
+<div id="backgroundimage"></div>
 <input oninput="FiltrarTabela(this.value)" type="text" id="InputBusca">
 <img id="posterOverlay">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
@@ -22,6 +24,7 @@ input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;posit
 
 <script>
 //Variáveis permanentes
+backgroundimage = document.getElementById("backgroundimage");
 Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
 PosterOverlay = document.getElementById("posterOverlay");
@@ -44,6 +47,7 @@ function AdicionarFilme(filme) {
 	cell1.innerHTML = filme.nome
 	cell1.dataset.videoid=filme.videoid;
 	cell1.dataset.poster=filme.poster;
+	cell1.dataset.background=filme.background;
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
@@ -95,6 +99,7 @@ document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	InputBusca.style.display = "none";
 	if (event.target.dataset.poster) {
+		backgroundimage.style.backgroundImage = "url("+event.target.dataset.background+")";
 		posterOverlay.src=event.target.dataset.poster;
 		posterOverlay.style.left = event.clientX+10 + 'px';
 		posterOverlay.style.display = "block";
@@ -106,6 +111,7 @@ document.addEventListener('mousemove', function(event) {
 		
 	} else {
 		posterOverlay.style.display = "none";
+		backgroundimage.style.backgroundImage ="";
 	}
 	if (SegurandoMouse) {
 		Player.style.top = (event.clientY - offsetY) + 'px';
