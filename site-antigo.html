@@ -1,0 +1,347 @@
+Este é o cache do Google de https://vaguiner.eu.org/. Ele é um instantâneo da página com a aparência que ela tinha em 5 maio 2022 10:35:42 GMT. A página atual pode ter sido alterada nesse meio tempo. Saiba mais.
+Versão completaVersão somente textoVer código-fonte
+Dica: para localizar rapidamente o termo de pesquisa nesta página, pressione Ctrl+F ou ⌘-F (Mac) e use a barra de localização.
+<style>
+img{opacity:0.3}
+img:hover{opacity:1}
+a:hover{color:blue}
+body{color:white;background-color:black;user-select:none}
+google-cast-launcher{float:right;margin:10px6px14px0px;width:40px;height:32px;opacity:0.7;background-color:#000;border:none;outline:none;}
+google-cast-launcher:hover{--disconnected-color:white;--connected-color:white;}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/chromecast/chromecast.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelementplayer.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/chromecast/chromecast.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.css"/>
+<script>
+//Confiurações da página
+document.title = "VagFilmes";
+
+//Variáveis
+pedido=window.location.search.match(/\d+/);
+atualizandoDB=false;
+
+//Nem terminei o  site ainda, quem dirá deixá-lo bonito em celulares
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+	document.write("<h1 style=text-align:center;width:100%;background-color:orange>Site não optmizado para celulares</h1>");
+}
+
+//Inicio do Banco de dados
+let openRequest = indexedDB.open("Shows");
+console.log('Verificando situação da database...');
+openRequest.onupgradeneeded = function() {
+	console.log('Database não existe e será criada agora.');
+	atualizandoDB=true;
+	db = openRequest.result;
+	db.createObjectStore('Shows', {keyPath: 'id'});
+	fetch('https://lista.vaguiner.eu.org/')
+	  .then(response => response.json())
+	  .then(data => {
+		data.shows.forEach(function(valor, chave){
+			let transaction = db.transaction("Shows", "readwrite");
+			let Shows = transaction.objectStore("Shows");
+			if (valor) {
+				console.log('Show adicionado a database.');
+				let Show={id:chave, nome:valor[1], poster:valor[2], sinopse:valor[3], lancamento:valor[4], score:valor[5], episodios:valor[0], generos:valor[6], nota:valor[7], palavraschave:valor[8], comentarios:valor[9], elenco:valor[10], similares:valor[11], imagemfundo:valor[12], duracao:valor[13], qualidade:valor[14]}
+				Shows.add(Show)
+			}
+		});
+		console.log('Concluido a adição de shows a database');
+		principal();
+		atualizandoDB=false;
+	  });
+};
+
+openRequest.onerror = function() {
+  console.error("Error ao abrir a database: ", openRequest.error);
+};
+
+openRequest.onsuccess = function() {
+	db = openRequest.result;
+	if (atualizandoDB) {
+		console.log('Database foi aberta com sucesso, porém ainda está sendo atualizada. Aguardando a conclusão...');
+	} else {
+		console.log('Database foi aberta com sucesso.');
+		principal();
+	}
+};
+//Fim do Banco de dados
+
+function principal() {
+	if (pedido) {
+		var objectStore = db.transaction("Shows").objectStore("Shows");
+		var request = objectStore.get(parseInt(pedido));
+		
+		request.onsuccess = function(event) {
+			if (request.result) {
+				document.title += ' - '+request.result.nome;
+				ExibirPainelPlayer(request.result.sinopse, request.result.nota, request.result.imagemfundo);
+				ExibirListaDeEpisodios(request.result.episodios);
+				ExibirSimilares(request.result.similares);
+				ExibirComentarios(request.result.comentarios);
+			} else {
+				console.log('O ID solicitado não existe. Será exibido a lista de  shows.');
+				ListarShows();
+			}
+		};
+	} else {
+		ListarShows();
+	}
+}
+
+function move(e){
+	var newX = e.clientX + 10;
+	var newY = e.clientY;
+
+	image.style.left = newX + "px";
+	if (window.innerHeight-newY > 447) {
+		image.style.top = newY + "px";
+	} else {
+		image.style.top = window.innerHeight-447
+	}
+}
+
+function ListarShows() {
+	var objectStore = db.transaction("Shows").objectStore("Shows");
+	UltimaBusca = sessionStorage.getItem(1);
+	document.body.innerHTML +='<div id=DivComOsGeneros style="border-style:solid;border-color:azure"></div>';
+	objectStore.openCursor(null, 'prev').onsuccess = function(event) {
+		var cursor = event.target.result;
+		var DivComOsGeneros=document.getElementById('DivComOsGeneros')
+		if (cursor) {
+			if (cursor.value.episodios.length == 1) {
+				var tipo = "Filme";
+			} else {
+				var tipo = "Série";
+			}
+			var image = document.createElement('img');
+			image.src=cursor.value.poster;
+			var nota="";
+			if (cursor.value.nota) {
+				var nota="\nNota: "+cursor.value.nota;
+			}
+			image.setAttribute("loading","lazy");
+			image.setAttribute("width", "185");
+			image.setAttribute("height", "272");
+			image.setAttribute("onclick","window.location.href='?id="+cursor.value.id+"'");
+			var GenerosDoShow="";
+			//Generos
+			var generos = cursor.value.generos.split(',');
+			for (index in generos) {
+				if (generos[index]) {
+					GenerosDoShow+=generos[index]+",";
+					if (!document.getElementById(generos[index])) {
+						var genero=document.createElement("a");
+						genero.id=generos[index];
+						genero.innerHTML="["+generos[index]+"] ";
+						genero.setAttribute("quantidade", 0);
+						genero.setAttribute("onclick","FiltrarGeneros(this.id);");
+						DivComOsGeneros.appendChild(genero);
+					}
+					var genero=document.getElementById(generos[index]);
+					var quantidade=genero.getAttribute("quantidade");
+					var novaquantidade=parseInt(quantidade)+1;
+					genero.setAttribute("quantidade", novaquantidade);
+					genero.innerHTML="["+generos[index]+" <font color=orange>("+novaquantidade+")</font>] ";
+				}
+			}
+			image.setAttribute("title",tipo+": "+cursor.value.nome+"\nAno: "+new Date(cursor.value.lancamento).getFullYear()+"\nDuração: "+cursor.value.duracao+"\nQualidade: "+cursor.value.qualidade+"\nScore: "+cursor.value.score+"\n"+GenerosDoShow+nota);
+			document.body.appendChild(image);
+			cursor.continue();
+		}
+	}
+}
+
+function FiltrarGeneros (generoclicado) {
+	var genclic=document.getElementById(generoclicado);
+	if (genclic.style.color=="red") {
+		genclic.style.color = "";
+	} else {
+		genclic.style.color="red";
+	}
+	var btgens = document.querySelectorAll('a');
+	var imagens = document.querySelectorAll('img');
+	var genselecionados = [];
+	for (indexgens in btgens) {
+		if (btgens[indexgens]) {
+			if (btgens[indexgens].style) {
+				if (btgens[indexgens].style.color) {
+					if (btgens[indexgens].style.color === "red") {
+						genselecionados.push(btgens[indexgens].id);
+					}
+				}
+			}
+		}
+	}
+	imagens.forEach(function(imagem){
+		var generosnaimagem = imagem.attributes.title.value.split("\n")[5].split(",");
+		var achou=true;
+		for (IndexGens in genselecionados) {
+			if (!generosnaimagem.includes(genselecionados[IndexGens])) {
+				var achou=false;
+				break;
+			}
+		}
+		if (achou) {
+			if (imagem.style.display) {
+				imagem.style.display = '';
+				generosnaimagem.forEach(function(generopickado){
+					if (generopickado) {
+						var generop=document.getElementById(generopickado);
+						var quantidade=generop.getAttribute("quantidade");
+						var novaquantidade=parseInt(quantidade)+1;
+						generop.setAttribute("quantidade", novaquantidade);
+						if (novaquantidade==0) {
+							generop.style.display = 'none';
+							generop.innerHTML="["+generopickado+" ("+novaquantidade+")] ";
+						} else {
+							generop.innerHTML="["+generopickado+" <font color=orange>("+novaquantidade+")</font>] ";
+							generop.style.display = '';
+						}
+					}
+				});
+			}
+		} else {
+			if (!imagem.style.display) {
+				imagem.style.display = 'none';
+				generosnaimagem.forEach(function(generopickado){
+					if (generopickado) {
+						var generop=document.getElementById(generopickado);
+						var quantidade=generop.getAttribute("quantidade");
+						var novaquantidade=parseInt(quantidade)-1;
+						generop.setAttribute("quantidade", novaquantidade);
+						if (novaquantidade==0) {
+							generop.style.display = 'none';
+							generop.innerHTML="["+generopickado+" ("+novaquantidade+")] ";
+						} else {
+							generop.innerHTML="["+generopickado+" <font color=orange>("+novaquantidade+")</font>] ";
+							generop.style.display = '';
+						}
+					}
+				});
+			}
+		}
+	});
+}
+
+function ExibirPainelPlayer(sinopse, nota, imagemfundo) {
+	var table = document.createElement("table");
+	table.id = "TabelaPlayer";
+	var row = table.insertRow();
+	
+	player1=document.createElement("video");
+	player1.id="player1";
+	player1.setAttribute("width", "384");
+	player1.setAttribute("height", "216");
+	player1.setAttribute("preload", "none");
+	player1.setAttribute("data-cast-title", "none");
+	player1.setAttribute("data-cast-description", "none");
+	player1.setAttribute("poster", imagemfundo);
+	
+	document.body.appendChild(table);
+	
+	row.insertCell().appendChild(player1);
+	row.insertCell().innerHTML=sinopse;
+	if (nota) {
+		row.cells[1].innerHTML+="<br><br><b><p style=color:red>Nota: </b>"+nota+"</p>";
+	}
+	
+	document.body.innerHTML += "<hr>";
+}
+
+function MudarEpissodio (episodio) {
+	if (typeof player === 'undefined') {
+		document.getElementById('player1').setAttribute("data-cast-title", document.title.replace("VagFilmes - ",""));
+		document.getElementById('player1').setAttribute("data-cast-description", document.getElementById('TabelaPlayer').rows[0].cells[1].innerText);
+		player = new MediaElementPlayer('player1', {
+			stretching: 'stretching',
+			features: ['playpause', 'fullscreen', 'current', 'progress', 'duration', 'speed', 'volume', 'chromecast'],
+			success: function (mediaElement, domObject) {}
+		});
+	}
+	player.setSrc("https://query.vaguiner.eu.org/?id="+episodio);
+	player.play();
+}
+
+function ExibirListaDeEpisodios (episodios) {
+	if (episodios.length==1) {
+		document.body.innerHTML += "<a onclick=MudarEpissodio('"+episodios[0]+"');>[Clique aqui para tocar o filme]</a> ";
+		document.body.innerHTML += "<hr>";
+	} else {
+		episodios.forEach(function(valor, chave){
+			document.body.innerHTML += "<a onclick=MudarEpissodio('"+valor+"');>[Episodio "+parseInt(chave+1).toString().padStart(2,0)+"]</a> ";
+		});
+		document.body.innerHTML += "<hr>";
+	}
+}
+
+function ExibirSimilares (similares) {
+	var i;
+	var a=0;
+	var table = document.createElement("table");
+	table.id = "TabelaDeShows";
+	document.body.appendChild(table);
+	for (i = 0; i < 10; i++) {
+		if (similares[i]) {
+			a++
+			var row = table.insertRow();
+			row.insertCell().innerHTML = similares[i][1];
+			row.insertCell().innerHTML = similares[i][2]+"%";
+		}
+	}
+	if (!a) {
+		document.body.innerHTML += "Nenhum show similar.";
+	}
+	document.body.innerHTML += "<hr>";
+}
+
+function ExibirComentarios (comentarios) {
+	document.body.innerHTML +='<input size="50" onkeypress="Comentar(event, this.value)" id=InputComentario autocomplete="off" placeholder="Enviar um comentário"><br><br>';
+	if (comentarios) {
+		for (index in comentarios) {
+			document.body.innerHTML += "<a style=word-break:break-all>"+comentarios[index]+"</a><br>";
+		}
+	} else {
+	document.getElementById('InputComentario').placeholder+="...Seja o primeiro a comentar!";
+	}
+}
+
+//https://www.codegrepper.com/code-examples/javascript/onenter+event+in+javascript
+const Comentar = function (event, comentario) {
+	var keyPressed = event.keyCode || event.which;
+	if (keyPressed === 13) {
+		if (comentario) {
+			document.getElementById('InputComentario').value="Adicionando comentário...";
+			document.getElementById("InputComentario").disabled = true;
+			fetch('https://comentar.vaguiner.eu.org/', {
+				method: 'POST',
+				mode: 'no-cors', //Pra que esperar resposta?
+				headers: {"content-type": "application/json"},
+				body: '{"comentario":"'+comentario+'","id":"'+pedido+'"}'})
+			.then(function (response) {
+				document.getElementById("InputComentario").disabled = false;
+				document.getElementById('InputComentario').placeholder="Adicionado. Ficará visível no próximo cache.";
+				document.getElementById('InputComentario').value="";
+			})
+			event.preventDefault();
+		}
+	}
+}
+
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && (event.key === 'z' || event.key === 'Z')) {
+    if (atualizandoDB) {
+		alert('A database ainda está sendo atualizada. Aguarde.');
+	} else {
+		db.close();
+		indexedDB.deleteDatabase("Shows");
+		alert('Database removida.');
+	}
+  }
+});
+
+</script>
+<script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1651730400'></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'70676e40ec165a16',m:'zLzWYAJpqW0s_.00j9fFCY3O9DvZ7eV53fROJgke8dQ-1651732260-0-AfKCCW0ycDGG8a1Lv0JgJ83J2NE62lSWvYafUFqwK3RNHn8nADgpY6/W8RRwVWVOtrOKhnt0v3In3gYVk0EkYh6sh3vI3l+uTrLZCa/YnEgdkPqh/N1bD1+Gm6nkB/2X4Q==',s:[0x4bb8316e84,0x5f3d1c2d75],u:'/cdn-cgi/challenge-platform/h/g'}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"70676e40ec165a16","version":"2021.12.0","r":1,"token":"19db1d31a8694933ba84b0561ae512e0","si":100}' crossorigin="anonymous"></script>
