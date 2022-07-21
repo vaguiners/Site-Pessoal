@@ -7,6 +7,7 @@ tr:hover{background-color:#252525}
 video {position:absolute;display:none;}
 img {position:absolute;display:none;pointer-events:none}
 </style>
+<input oninput="FiltrarTabela(this.value)" style="width:185px;position:absolute;display:none;pointer-events:none;border:0;outline:0;outline:none!important;" type="text" id="InputBusca">
 <img id="posterOverlay">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
 <table id="TabelaDeFilmes">
@@ -23,6 +24,7 @@ img {position:absolute;display:none;pointer-events:none}
 Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
 PosterOverlay = document.getElementById("posterOverlay");
+InputBusca = document.getElementById("InputBusca");
 //Variáveis mutáveis
 var SegurandoMouse = false;
 let oldValue = 0;
@@ -51,8 +53,28 @@ function AdicionarFilme(filme) {
 	cell4.innerHTML = filme.duracao;
 }
 
+//Função de filtro de tabela por input
+function FiltrarTabela(filtro) {
+	var tr, td, i, txtValue;
+	tr = Tabela.getElementsByTagName("tr");
+	for (i = 0; i < tr.length; i++) {
+		td = tr[i].getElementsByTagName("td")[0];
+		if (td) {
+			txtValue = td.textContent || td.innerText;
+			if (txtValue.toLowerCase().replace(/\s/g, '').normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-zA-Z0-9 ]/g, '').indexOf(filtro.toLowerCase().replace(/\s/g, '').normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-zA-Z0-9 ]/g, '')) > -1) {
+				tr[i].style.display = "";
+			} else {
+				tr[i].style.display = "none";
+			}
+		}
+	}
+}
 //Registrar eventos do mouse sobre o player, para poder mover o player
 //Atalhos: Scroll no player para dar zoom, click no botão do meio do mouse no player para fechar o player e descarregar o vídeo
+document.body.addEventListener('keypress', function(e) {
+	InputBusca.style.display = "block";
+	InputBusca.focus()
+}, true);
 Player.addEventListener('click', (e) => e.preventDefault())
 Player.addEventListener('mousedown', function(e) {
 	if(e.which == 1) {
@@ -70,6 +92,9 @@ Player.addEventListener('mousedown', function(e) {
 Player.addEventListener('mouseup', function() {SegurandoMouse = false;Player.controls = true;}, true);
 document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
+	InputBusca.style.display = "none";
+	InputBusca.style.left = event.clientX+10 + 'px';
+	InputBusca.style.top = event.clientY-25 + 'px';
 	if (event.target.dataset.poster) {
 		posterOverlay.src=event.target.dataset.poster;
 		posterOverlay.style.left = event.clientX+10 + 'px';
