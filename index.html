@@ -24,6 +24,11 @@ input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;posit
 </table>
 
 <script>
+//Aviso de incompatibilidade com smartphones
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+	document.write("<h1 style=text-align:center;width:100%;background-color:orange>Site não optmizado para celulares</h1>");
+}
+
 //Variáveis permanentes
 Tabela = document.getElementById("TabelaDeFilmes");
 Player = document.getElementById("player");
