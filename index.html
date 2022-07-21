@@ -6,8 +6,9 @@ th {text-align:left}
 tr:hover{background-color:#252525}
 video {position:absolute;display:none;}
 img {position:absolute;display:none;pointer-events:none}
+input {bottom:0;right:0;width:185px;position:absolute;display:none;pointer-events:none;border:0;outline:0;outline:none!important;}
 </style>
-<input oninput="FiltrarTabela(this.value)" style="width:185px;position:absolute;display:none;pointer-events:none;border:0;outline:0;outline:none!important;" type="text" id="InputBusca">
+<input oninput="FiltrarTabela(this.value)" type="text" id="InputBusca">
 <img id="posterOverlay">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
 <table id="TabelaDeFilmes">
@@ -93,8 +94,6 @@ Player.addEventListener('mouseup', function() {SegurandoMouse = false;Player.con
 document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	InputBusca.style.display = "none";
-	InputBusca.style.left = event.clientX+10 + 'px';
-	InputBusca.style.top = event.clientY-25 + 'px';
 	if (event.target.dataset.poster) {
 		posterOverlay.src=event.target.dataset.poster;
 		posterOverlay.style.left = event.clientX+10 + 'px';
