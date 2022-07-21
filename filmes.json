@@ -10,6 +10,36 @@
 		"resolucaoArmazenada": "1920x1080"
 	},
 	{
+		"nome": "O Castelo de Vidro",
+		"duracao": "2:06:57",
+		"ano": 2017,
+		"score": 7.1,
+		"poster": "https://www.themoviedb.org/t/p/w200/3loaEocXUyMkNSseh9ej0blZs0d.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mIaR9Wno6FhBLCqoICe09PUFnYu.jpg",
+		"videoid": "636969504c50095c410a72",
+		"resolucaoArmazenada": "1920x784"
+	},
+	{
+		"nome": "Mulher-Maravilha",
+		"duracao": "2:21:16",
+		"ano": 2017,
+		"score": 7.2,
+		"poster": "https://www.themoviedb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+		"videoid": "5f70735716416f436f5d4c",
+		"resolucaoArmazenada": "1920x800"
+	},
+	{
+		"nome": "Your Name.",
+		"duracao": "1:46:36",
+		"ano": 2016,
+		"score": 8.5,
+		"poster": "https://www.themoviedb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+		"videoid": "76435d6a58626b627a5562",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
 		"nome": "Abandonada: O Mal Foi Eleito",
 		"duracao": "1:29:22",
 		"ano": 2016,
@@ -20,6 +50,46 @@
 		"resolucaoArmazenada": "1920x816"
 	},
 	{
+		"nome": "Boa Noite, Mamãe!",
+		"duracao": "1:39:55",
+		"ano": 2014,
+		"score": 6.7,
+		"poster": "https://www.themoviedb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
+		"videoid": "554d030873740c6b78784c",
+		"resolucaoArmazenada": "1920x804"
+	},
+	{
+		"nome": "Interestelar",
+		"duracao": "2:49:04",
+		"ano": 2014,
+		"score": 8.4,
+		"poster": "https://www.themoviedb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
+		"videoid": "4e72735909710955495650",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
+		"nome": "O Lobo de Wall Street",
+		"duracao": "2:59:53",
+		"ano": 2013,
+		"score": 8,
+		"poster": "https://www.themoviedb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
+		"videoid": "025e565a7a6b037a527158",
+		"resolucaoArmazenada": "1920x800"
+	},
+	{
+		"nome": "Além da Escuridão - Star Trek",
+		"duracao": "2:12:07",
+		"ano": 2013,
+		"score": 7.3,
+		"poster": "https://www.themoviedb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
+		"videoid": "085262026c0969420e4e7e",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
 		"nome": "O Espelho",
 		"duracao": "1:44:04",
 		"ano": 2013,
@@ -28,6 +98,46 @@
 		"background": "https://image.tmdb.org/t/p/w780/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
 		"videoid": "6d4b6c5c72727c7972690b",
 		"resolucaoArmazenada": "1920x800"
+	},
+	{
+		"nome": "Premonição 5",
+		"duracao": "1:31:50",
+		"ano": 2011,
+		"score": 6.1,
+		"poster": "https://www.themoviedb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
+		"videoid": "616f7a7e0d7874165e5a4c",
+		"resolucaoArmazenada": "1920x752"
+	},
+	{
+		"nome": "Premonição 4",
+		"duracao": "1:21:48",
+		"ano": 2009,
+		"score": 5.6,
+		"poster": "https://www.themoviedb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
+		"videoid": "4302627f647f747c724f4c",
+		"resolucaoArmazenada": "1920x754"
+	},
+	{
+		"nome": "Efeito Borboleta 3: Revelação",
+		"duracao": "1:30:17",
+		"ano": 2009,
+		"score": 5.4,
+		"poster": "https://www.themoviedb.org/t/p/w200/6svx2au08QMyfXCEgNUht6maRIb.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/foplAbUZrCeWHntCAb2BqFJCZHw.jpg",
+		"videoid": "597e636359755c6b4b697e",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
+		"nome": "Efeito Borboleta 2",
+		"duracao": "1:32:21",
+		"ano": 2006,
+		"score": 4.9,
+		"poster": "https://www.themoviedb.org/t/p/w200/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
+		"videoid": "6e0c096403690a41560a50",
+		"resolucaoArmazenada": "1920x1080"
 	},
 	{
 		"nome": "Premonição 3",
@@ -110,6 +220,16 @@
 		"resolucaoArmazenada": "1920x1080"
 	},
 	{
+		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
+		"duracao": "1:35:12",
+		"ano": 1992,
+		"score": 4.8,
+		"poster": "https://www.themoviedb.org/t/p/w200/7PNCxEh7dzuhCiMOrfguVjdUgl0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8t0KYCkBaK3aAgNvfrgVHpcuNI6.jpg",
+		"videoid": "4c4e430b0b50760c5a4d62",
+		"resolucaoArmazenada": "1280x688"
+	},
+	{
 		"nome": "Drácula de Bram Stoker",
 		"duracao": "2:07:23",
 		"ano": 1992,
@@ -138,6 +258,36 @@
 		"background": "https://image.tmdb.org/t/p/w780/lcLoZoIbTLdYiXjLE2l0ciS9Vdx.jpg",
 		"videoid": "5c77610f7e096264566c7a",
 		"resolucaoArmazenada": "1280x720"
+	},
+	{
+		"nome": "A Casa do Espanto 3",
+		"duracao": "1:34:23",
+		"ano": 1989,
+		"score": 5.3,
+		"poster": "https://www.themoviedb.org/t/p/w200/azkxRbusgAZiXGcZMfjWdYdqdGb.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tZcOail3NuHDWUxh77FihNpsnH.jpg",
+		"videoid": "5f6c55596142764d7f0d03",
+		"resolucaoArmazenada": "1280x688"
+	},
+	{
+		"nome": "A Casa do Espanto 2",
+		"duracao": "1:28:11",
+		"ano": 1987,
+		"score": 5.5,
+		"poster": "https://www.themoviedb.org/t/p/w200/A4tfyHwA0aZjDIBMRpONkNfhzUD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/r3uHyikGNv5oiRbZvbryhnHk9ql.jpg",
+		"videoid": "766e7f5d6e5a7a0258547a",
+		"resolucaoArmazenada": "1280x714"
+	},
+	{
+		"nome": "A Noite dos Arrepios",
+		"duracao": "1:29:53",
+		"ano": 1986,
+		"score": 6.8,
+		"poster": "https://www.themoviedb.org/t/p/w200/ApOIn9hfTkI95eDAFcKOYrc4Qu7.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/i1fGLYO2nzkFazh58sgOT7ohosU.jpg",
+		"videoid": "724a795048736f590d6b0b",
+		"resolucaoArmazenada": "1280x688"
 	},
 	{
 		"nome": "A Casa do Espanto",
