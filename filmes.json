@@ -9,7 +9,8 @@
 		"videoid": "7e646b0c7e680e68084348",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Animação,Comédia,Ficção científica,"
 	},
 	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
@@ -21,7 +22,8 @@
 		"videoid": "566a506b02636d037d4a7e",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "200M",
-		"receita": "953.2M"
+		"receita": "953.2M",
+		"tags": "Fantasia,Ação,Aventura,"
 	},
 	{
 		"nome": "Liga da Justiça de Zack Snyder",
@@ -33,7 +35,8 @@
 		"videoid": "4c52736c490869486e417a",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "70M",
-		"receita": 0
+		"receita": 0,
+		"tags": "Ação,Aventura,Fantasia,Ficção científica,"
 	},
 	{
 		"nome": "Meu Filho",
@@ -45,7 +48,8 @@
 		"videoid": "480c0b5143097008785f0f",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Suspense,Mistério,Drama,Crime,"
 	},
 	{
 		"nome": "Homem-Aranha: Sem Volta Para Casa",
@@ -57,7 +61,8 @@
 		"videoid": "5c6c7c704c526a6c434b03",
 		"resolucaoArmazenada": "3840x1608",
 		"orcamento": "200M",
-		"receita": "1.9B"
+		"receita": "1.9B",
+		"tags": "Ação,Aventura,Ficção científica,"
 	},
 	{
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -69,7 +74,8 @@
 		"videoid": "530963557a727e76746e48",
 		"resolucaoArmazenada": "1920x1012",
 		"orcamento": "150M",
-		"receita": "432.2M"
+		"receita": "432.2M",
+		"tags": "Ação,Aventura,Fantasia,"
 	},
 	{
 		"nome": "Eternos",
@@ -81,7 +87,8 @@
 		"videoid": "02530f0859746c6e68587a",
 		"resolucaoArmazenada": "3840x1608",
 		"orcamento": "200M",
-		"receita": "402.1M"
+		"receita": "402.1M",
+		"tags": "Ficção científica,Ação,Aventura,"
 	},
 	{
 		"nome": "O Mundo dos Esquecidos",
@@ -93,7 +100,8 @@
 		"videoid": "690a0b564b4c41725d784c",
 		"resolucaoArmazenada": "1916x796",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Terror,Suspense,"
 	},
 	{
 		"nome": "The Forty-Year-Old Version",
@@ -105,7 +113,8 @@
 		"videoid": "48786f504f0f50626a6b50",
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Comédia,Drama,Música,"
 	},
 	{
 		"nome": "A Garota dos Seus Sonhos",
@@ -117,7 +126,8 @@
 		"videoid": "420c6450644c5c7d71417e",
 		"resolucaoArmazenada": "1916x800",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Romance,Drama,Comédia,"
 	},
 	{
 		"nome": "Lindinhas",
@@ -129,7 +139,8 @@
 		"videoid": "4f765253566f4d5461736a",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Tenet",
@@ -141,7 +152,8 @@
 		"videoid": "776b0a7f6a7f4158514203",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "205M",
-		"receita": "363.1M"
+		"receita": "363.1M",
+		"tags": "Ação,Suspense,Ficção científica,"
 	},
 	{
 		"nome": "Mulher-Maravilha 1984",
@@ -153,7 +165,8 @@
 		"videoid": "7e68576c0a6175164d0d50",
 		"resolucaoArmazenada": "3840x2024",
 		"orcamento": "200M",
-		"receita": "165.2M"
+		"receita": "165.2M",
+		"tags": "Ação,Aventura,Fantasia,"
 	},
 	{
 		"nome": "O Problema de Nascer",
@@ -165,7 +178,8 @@
 		"videoid": "68545d0d4d680c6c0a0f0f",
 		"resolucaoArmazenada": "1440x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Ficção científica,Drama,"
 	},
 	{
 		"nome": "Um Brinde ao Sucesso",
@@ -177,7 +191,8 @@
 		"videoid": "630b795e71730f73547050",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Comédia,"
 	},
 	{
 		"nome": "Karma: Aqui se Faz, Aqui se Paga",
@@ -189,7 +204,8 @@
 		"videoid": "5a797316560f0c50097e7a",
 		"resolucaoArmazenada": "1280x716",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Terror,"
 	},
 	{
 		"nome": "Inocência Roubada",
@@ -201,7 +217,8 @@
 		"videoid": "58434b7e0c574f766f5572",
 		"resolucaoArmazenada": "1332x720",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Professor Marston e as Mulheres-Maravilhas",
@@ -213,7 +230,8 @@
 		"videoid": "54166b597f57617e624d0f",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": 0,
-		"receita": "1.6M"
+		"receita": "1.6M",
+		"tags": "Drama,Romance,"
 	},
 	{
 		"nome": "O Castelo de Vidro",
@@ -225,7 +243,8 @@
 		"videoid": "636969504c50095c410a72",
 		"resolucaoArmazenada": "1920x784",
 		"orcamento": "9M",
-		"receita": "22.1M"
+		"receita": "22.1M",
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Mulher-Maravilha",
@@ -237,7 +256,8 @@
 		"videoid": "5f70735716416f436f5d4c",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "149M",
-		"receita": "821.8M"
+		"receita": "821.8M",
+		"tags": "Ação,Aventura,Fantasia,"
 	},
 	{
 		"nome": "Your Name.",
@@ -249,7 +269,8 @@
 		"videoid": "76435d6a58626b627a5562",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Romance,Animação,Drama,"
 	},
 	{
 		"nome": "Abandonada: O Mal Foi Eleito",
@@ -261,7 +282,8 @@
 		"videoid": "5c795453707056754a596a",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Terror,"
 	},
 	{
 		"nome": "O Jogo da Imitação",
@@ -273,7 +295,8 @@
 		"videoid": "16700f64536b0f57640d03",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "14M",
-		"receita": "233.6M"
+		"receita": "233.6M",
+		"tags": "História,Drama,Suspense,Guerra,"
 	},
 	{
 		"nome": "Boa Noite, Mamãe!",
@@ -285,7 +308,8 @@
 		"videoid": "554d030873740c6b78784c",
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": 0,
-		"receita": "2.2M"
+		"receita": "2.2M",
+		"tags": "Drama,Terror,Suspense,Mistério,"
 	},
 	{
 		"nome": "Interestelar",
@@ -297,7 +321,8 @@
 		"videoid": "4e72735909710955495650",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "165M",
-		"receita": "701.7M"
+		"receita": "701.7M",
+		"tags": "Aventura,Drama,Ficção científica,"
 	},
 	{
 		"nome": "O Lobo de Wall Street",
@@ -309,7 +334,8 @@
 		"videoid": "025e565a7a6b037a527158",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "100M",
-		"receita": "392M"
+		"receita": "392M",
+		"tags": "Crime,Drama,Comédia,"
 	},
 	{
 		"nome": "Além da Escuridão - Star Trek",
@@ -321,7 +347,8 @@
 		"videoid": "085262026c0969420e4e7e",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "190M",
-		"receita": "467.4M"
+		"receita": "467.4M",
+		"tags": "Ação,Aventura,Ficção científica,"
 	},
 	{
 		"nome": "O Espelho",
@@ -333,7 +360,8 @@
 		"videoid": "6d4b6c5c72727c7972690b",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "5M",
-		"receita": "44.5M"
+		"receita": "44.5M",
+		"tags": "Terror,"
 	},
 	{
 		"nome": "Os Agentes do Destino",
@@ -345,7 +373,8 @@
 		"videoid": "5e4c7e704b4f790e534e62",
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "50.2M",
-		"receita": "127.9M"
+		"receita": "127.9M",
+		"tags": "Ficção científica,Suspense,Romance,"
 	},
 	{
 		"nome": "Premonição 5",
@@ -357,7 +386,8 @@
 		"videoid": "616f7a7e0d7874165e5a4c",
 		"resolucaoArmazenada": "1920x752",
 		"orcamento": "47M",
-		"receita": "157.9M"
+		"receita": "157.9M",
+		"tags": "Terror,Mistério,"
 	},
 	{
 		"nome": "Premonição 4",
@@ -369,7 +399,8 @@
 		"videoid": "4302627f647f747c724f4c",
 		"resolucaoArmazenada": "1920x754",
 		"orcamento": "40M",
-		"receita": "186.2M"
+		"receita": "186.2M",
+		"tags": "Terror,Mistério,"
 	},
 	{
 		"nome": "Efeito Borboleta 3: Revelação",
@@ -381,7 +412,8 @@
 		"videoid": "597e636359755c6b4b697e",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Ficção científica,Suspense,Drama,Crime,"
 	},
 	{
 		"nome": "O Reino Proibido",
@@ -393,7 +425,8 @@
 		"videoid": "4273554b5f4f424c6b530b",
 		"resolucaoArmazenada": "1280x532",
 		"orcamento": "55M",
-		"receita": "127.9M"
+		"receita": "127.9M",
+		"tags": "Ação,Aventura,Fantasia,"
 	},
 	{
 		"nome": "Primitivo",
@@ -405,7 +438,8 @@
 		"videoid": "535479626e087f51526d5c",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": "10.6M"
+		"receita": "10.6M",
+		"tags": "Aventura,Terror,"
 	},
 	{
 		"nome": "Efeito Borboleta 2",
@@ -417,7 +451,8 @@
 		"videoid": "6e0c096403690a41560a50",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "6M",
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,Ficção científica,Suspense,"
 	},
 	{
 		"nome": "Premonição 3",
@@ -429,7 +464,8 @@
 		"videoid": "554c510a596948717a4c58",
 		"resolucaoArmazenada": "1920x1020",
 		"orcamento": "25M",
-		"receita": "118.9M"
+		"receita": "118.9M",
+		"tags": "Terror,Mistério,"
 	},
 	{
 		"nome": "Efeito Borboleta",
@@ -441,7 +477,8 @@
 		"videoid": "4a6352024c7448640d4154",
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "13M",
-		"receita": "96.1M"
+		"receita": "96.1M",
+		"tags": "Ficção científica,Suspense,"
 	},
 	{
 		"nome": "Premonição 2",
@@ -453,7 +490,8 @@
 		"videoid": "540c7171514156726f6458",
 		"resolucaoArmazenada": "1920x1020",
 		"orcamento": "26M",
-		"receita": "90.9M"
+		"receita": "90.9M",
+		"tags": "Terror,Mistério,"
 	},
 	{
 		"nome": "Cidade de Deus",
@@ -465,7 +503,8 @@
 		"videoid": "5f6f56580c5c775e694e7e",
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "3.3M",
-		"receita": "30.6M"
+		"receita": "30.6M",
+		"tags": "Drama,Crime,Nacional,"
 	},
 	{
 		"nome": "A Viagem de Chihiro",
@@ -477,7 +516,8 @@
 		"videoid": "580c646a686f5c7656430b",
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "19M",
-		"receita": "274.9M"
+		"receita": "274.9M",
+		"tags": "Animação,Família,Fantasia,"
 	},
 	{
 		"nome": "Bater ou Correr",
@@ -489,7 +529,8 @@
 		"videoid": "79516f557e0a7c72577e6a",
 		"resolucaoArmazenada": "1920x824",
 		"orcamento": "55M",
-		"receita": "56.9M"
+		"receita": "56.9M",
+		"tags": "Aventura,Ação,Comédia,Faroeste,"
 	},
 	{
 		"nome": "Premonição",
@@ -501,7 +542,8 @@
 		"videoid": "744c5873645e0f16747e0b",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "23M",
-		"receita": "112.9M"
+		"receita": "112.9M",
+		"tags": "Terror,"
 	},
 	{
 		"nome": "Do Fundo do Mar",
@@ -513,7 +555,8 @@
 		"videoid": "7677430c0c6c755d694a6e",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "60M",
-		"receita": "164.6M"
+		"receita": "164.6M",
+		"tags": "Ação,Terror,Ficção científica,"
 	},
 	{
 		"nome": "A Lenda do Cavaleiro Sem Cabeça",
@@ -525,7 +568,8 @@
 		"videoid": "6950615859166b717f7576",
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "100M",
-		"receita": "206.1M"
+		"receita": "206.1M",
+		"tags": "Drama,Fantasia,Suspense,Mistério,Terror,"
 	},
 	{
 		"nome": "187: O Código",
@@ -537,7 +581,8 @@
 		"videoid": "52766c616f6b53427a0b0f",
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "20M",
-		"receita": "5.7M"
+		"receita": "5.7M",
+		"tags": "Drama,Suspense,"
 	},
 	{
 		"nome": "Beavis e Butt-Head Detonam a América",
@@ -549,7 +594,8 @@
 		"videoid": "567d735c5e6b5e61540262",
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "12M",
-		"receita": "63.1M"
+		"receita": "63.1M",
+		"tags": "Animação,Comédia,"
 	},
 	{
 		"nome": "Lembranças de Outra Vida",
@@ -561,7 +607,8 @@
 		"videoid": "4a566e7e566f0f0e5c640b",
 		"resolucaoArmazenada": "1904x1040",
 		"orcamento": "15M",
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,Aventura,Família,"
 	},
 	{
 		"nome": "A Fuga",
@@ -573,7 +620,8 @@
 		"videoid": "764e5476704e756c42537a",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": "30.1M"
+		"receita": "30.1M",
+		"tags": "Ação,Crime,Drama,Mistério,Romance,Suspense,"
 	},
 	{
 		"nome": "Um Sonho de Liberdade",
@@ -585,7 +633,8 @@
 		"videoid": "770d785c630b6e555d037a",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "25M",
-		"receita": "28.3M"
+		"receita": "28.3M",
+		"tags": "Drama,Crime,"
 	},
 	{
 		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
@@ -597,7 +646,8 @@
 		"videoid": "4c4e430b0b50760c5a4d62",
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Suspense,Terror,"
 	},
 	{
 		"nome": "Drácula de Bram Stoker",
@@ -609,7 +659,8 @@
 		"videoid": "560f48080c554143095d54",
 		"resolucaoArmazenada": "3840x2076",
 		"orcamento": "40M",
-		"receita": "215.9M"
+		"receita": "215.9M",
+		"tags": "Romance,Terror,"
 	},
 	{
 		"nome": "O Poderoso Chefão: Parte III",
@@ -621,7 +672,8 @@
 		"videoid": "7e0b636373615c58776350",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "54M",
-		"receita": "136.8M"
+		"receita": "136.8M",
+		"tags": "Crime,Drama,Suspense,"
 	},
 	{
 		"nome": "O Exorcista III",
@@ -633,7 +685,8 @@
 		"videoid": "5c77610f7e096264566c7a",
 		"resolucaoArmazenada": "1280x720",
 		"orcamento": "9.3M",
-		"receita": "39M"
+		"receita": "39M",
+		"tags": "Terror,Mistério,"
 	},
 	{
 		"nome": "A Casa do Espanto 3",
@@ -645,7 +698,8 @@
 		"videoid": "5f6c55596142764d7f0d03",
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": 0,
-		"receita": "1.7M"
+		"receita": "1.7M",
+		"tags": "Terror,Suspense,"
 	},
 	{
 		"nome": "A Casa do Espanto 2",
@@ -657,7 +711,8 @@
 		"videoid": "766e7f5d6e5a7a0258547a",
 		"resolucaoArmazenada": "1280x714",
 		"orcamento": 0,
-		"receita": "7.8M"
+		"receita": "7.8M",
+		"tags": "Fantasia,Terror,Comédia,"
 	},
 	{
 		"nome": "A Noite dos Arrepios",
@@ -669,7 +724,8 @@
 		"videoid": "724a795048736f590d6b0b",
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": "5M",
-		"receita": "591.4K"
+		"receita": "591.4K",
+		"tags": "Terror,Comédia,Ficção científica,"
 	},
 	{
 		"nome": "A Casa do Espanto",
@@ -681,7 +737,8 @@
 		"videoid": "544e73517072554a6e7176",
 		"resolucaoArmazenada": "1920x1036",
 		"orcamento": "3M",
-		"receita": "19.4M"
+		"receita": "19.4M",
+		"tags": "Comédia,Terror,"
 	},
 	{
 		"nome": "FX - Assassinato sem Morte",
@@ -693,7 +750,8 @@
 		"videoid": "41734c5d686b584d166a62",
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": "10M",
-		"receita": "20.6M"
+		"receita": "20.6M",
+		"tags": "Ação,"
 	},
 	{
 		"nome": "Estrelas do Kung Fu",
@@ -705,7 +763,8 @@
 		"videoid": "5a4f7c494879167d576272",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Ação,Comédia,"
 	},
 	{
 		"nome": "O Enigma de Outro Mundo",
@@ -717,7 +776,8 @@
 		"videoid": "6d48700b7f4a5108744862",
 		"resolucaoArmazenada": "1280x544",
 		"orcamento": "15M",
-		"receita": "19.6M"
+		"receita": "19.6M",
+		"tags": "Terror,Mistério,Ficção científica,"
 	},
 	{
 		"nome": "O Veredicto",
@@ -729,7 +789,8 @@
 		"videoid": "7e0c6250595972784d6854",
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "16M",
-		"receita": "54M"
+		"receita": "54M",
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Justiça Para Todos",
@@ -741,7 +802,8 @@
 		"videoid": "036d640b755f535f6b527e",
 		"resolucaoArmazenada": "720x480",
 		"orcamento": "6M",
-		"receita": "33.3M"
+		"receita": "33.3M",
+		"tags": "Crime,Drama,Suspense,"
 	},
 	{
 		"nome": "O Exorcista II: O Herege",
@@ -753,7 +815,8 @@
 		"videoid": "5f645d56495f4174797862",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "14M",
-		"receita": "30.7M"
+		"receita": "30.7M",
+		"tags": "Drama,Fantasia,Terror,Suspense,"
 	},
 	{
 		"nome": "O Poderoso Chefão: Parte II",
@@ -765,7 +828,8 @@
 		"videoid": "4b4c706d765e165e6e5350",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "13M",
-		"receita": "102.6M"
+		"receita": "102.6M",
+		"tags": "Drama,Crime,"
 	},
 	{
 		"nome": "Os Ritos Satânicos de Drácula",
@@ -777,7 +841,8 @@
 		"videoid": "4e6b79764e795f0f525650",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": "544.5K"
+		"receita": "544.5K",
+		"tags": "Terror,"
 	},
 	{
 		"nome": "Terra de Ninguém",
@@ -789,7 +854,8 @@
 		"videoid": "0c4f6d686f4375766b7c54",
 		"resolucaoArmazenada": "1920x1036",
 		"orcamento": "450K",
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,Crime,"
 	},
 	{
 		"nome": "O Exorcista",
@@ -801,7 +867,8 @@
 		"videoid": "42766f594d7479535e4c03",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "11M",
-		"receita": "441.3M"
+		"receita": "441.3M",
+		"tags": "Terror,"
 	},
 	{
 		"nome": "O Poderoso Chefão",
@@ -813,7 +880,8 @@
 		"videoid": "4c6351700b686b76437f72",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "6M",
-		"receita": "245.1M"
+		"receita": "245.1M",
+		"tags": "Drama,Crime,"
 	},
 	{
 		"nome": "Tora! Tora! Tora!",
@@ -825,7 +893,8 @@
 		"videoid": "735f5f79020f09420e5054",
 		"resolucaoArmazenada": "1920x814",
 		"orcamento": "25.5M",
-		"receita": "37.1M"
+		"receita": "37.1M",
+		"tags": "Drama,História,Guerra,"
 	},
 	{
 		"nome": "Era uma Vez no Oeste",
@@ -837,7 +906,8 @@
 		"videoid": "760c097c7d7a0d710d646a",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": "5M",
-		"receita": "5.4M"
+		"receita": "5.4M",
+		"tags": "Drama,Faroeste,"
 	},
 	{
 		"nome": "Os Doze Condenados",
@@ -849,7 +919,8 @@
 		"videoid": "775e434a6a5c576f5d6e4c",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "5.4M",
-		"receita": "45.3M"
+		"receita": "45.3M",
+		"tags": "Ação,Aventura,Guerra,"
 	},
 	{
 		"nome": "O Vento Será Tua Herança",
@@ -861,7 +932,8 @@
 		"videoid": "4c5950165757505554590f",
 		"resolucaoArmazenada": "1792x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Drama,História,"
 	},
 	{
 		"nome": "Cinderela em Paris",
@@ -873,7 +945,8 @@
 		"videoid": "4a506a030b485c6b765a03",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Música,Comédia,Romance,"
 	},
 	{
 		"nome": "A Embriaguez do Sucesso",
@@ -885,7 +958,8 @@
 		"videoid": "0c566a7a6473555d025376",
 		"resolucaoArmazenada": "1200x720",
 		"orcamento": "3.4M",
-		"receita": "2.5M"
+		"receita": "2.5M",
+		"tags": "Drama,"
 	},
 	{
 		"nome": "12 Homens e Uma Sentença",
@@ -897,7 +971,8 @@
 		"videoid": "7d7a4d7a616b7a7c735d48",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "350K",
-		"receita": "1M"
+		"receita": "1M",
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Os Sete Samurais",
@@ -909,7 +984,8 @@
 		"videoid": "7756740a4e620e77556e6a",
 		"resolucaoArmazenada": "936x704",
 		"orcamento": "2M",
-		"receita": "346.3K"
+		"receita": "346.3K",
+		"tags": "Ação,Drama,"
 	},
 	{
 		"nome": "Sindicato de Ladrões",
@@ -921,7 +997,8 @@
 		"videoid": "776b785a70787d56705d0f",
 		"resolucaoArmazenada": "1792x1072",
 		"orcamento": "910K",
-		"receita": "9.6M"
+		"receita": "9.6M",
+		"tags": "Crime,Drama,"
 	},
 	{
 		"nome": "Crepúsculo dos Deuses",
@@ -933,7 +1010,8 @@
 		"videoid": "0e704a497316646b584c03",
 		"resolucaoArmazenada": "1472x1080",
 		"orcamento": "1.8M",
-		"receita": "5M"
+		"receita": "5M",
+		"tags": "Drama,"
 	},
 	{
 		"nome": "Desfile de Páscoa",
@@ -945,7 +1023,8 @@
 		"videoid": "7a4e645f7f6f726a6d4254",
 		"resolucaoArmazenada": "1480x1080",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"tags": "Música,Romance,"
 	},
 	{
 		"nome": "Casablanca",
@@ -957,7 +1036,8 @@
 		"videoid": "414a6954700a0203576e03",
 		"resolucaoArmazenada": "976x720",
 		"orcamento": "878K",
-		"receita": "10.5M"
+		"receita": "10.5M",
+		"tags": "Drama,Romance,"
 	},
 	{
 		"nome": "Cidadão Kane",
@@ -969,6 +1049,7 @@
 		"videoid": "0a786d5c5251770e02616e",
 		"resolucaoArmazenada": "1488x1080",
 		"orcamento": "839.7K",
-		"receita": "23.2M"
+		"receita": "23.2M",
+		"tags": "Mistério,Drama,"
 	}
 ]
