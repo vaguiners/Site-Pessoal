@@ -75,7 +75,7 @@
 		"nome": "Eternos",
 		"duracao": "2:35:51",
 		"ano": 2021,
-		"score": 7.091,
+		"score": 7.09,
 		"poster": "https://image.tmdb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
 		"videoid": "02530f0859746c6e68587a",
@@ -430,6 +430,18 @@
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "13M",
 		"receita": "96.1M"
+	},
+	{
+		"nome": "Premonição 2",
+		"duracao": "1:30:11",
+		"ano": 2003,
+		"score": 6.193,
+		"poster": "https://image.tmdb.org/t/p/w200/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tSCozfXKeALzwcCilWcCXM14edJ.jpg",
+		"videoid": "540c7171514156726f6458",
+		"resolucaoArmazenada": "1920x1020",
+		"orcamento": "26M",
+		"receita": "90.9M"
 	},
 	{
 		"nome": "Cidade de Deus",
