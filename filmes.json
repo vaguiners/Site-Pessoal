@@ -336,6 +336,18 @@
 		"receita": "44.5M"
 	},
 	{
+		"nome": "1911: A Revolução",
+		"duracao": "0",
+		"ano": 2011,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
+		"videoid": "5c716b577e73560f764a4c",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "30M",
+		"receita": "3.8M"
+	},
+	{
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
 		"ano": 2011,
@@ -622,6 +634,18 @@
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "12M",
 		"receita": "63.1M"
+	},
+	{
+		"nome": "Arrebentando em Nova York",
+		"duracao": "1:29:37",
+		"ano": 1995,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
+		"videoid": "620f510374560b03717054",
+		"resolucaoArmazenada": "1280x528",
+		"orcamento": "7.5M",
+		"receita": "32.4M"
 	},
 	{
 		"nome": "Thunderbolt: Ação Sobre Rodas",
@@ -1030,6 +1054,18 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "5.4M",
 		"receita": "45.3M"
+	},
+	{
+		"nome": "O Vento Será Tua Herança",
+		"duracao": "2:07:56",
+		"ano": 1960,
+		"score": 7.8,
+		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
+		"videoid": "4c5950165757505554590f",
+		"resolucaoArmazenada": "1792x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Cinderela em Paris",
