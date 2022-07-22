@@ -7,7 +7,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "7e646b0c7e680e68084348",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
@@ -17,7 +19,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "200M",
+		"receita": "953.2M"
 	},
 	{
 		"nome": "Liga da Justiça de Zack Snyder",
@@ -27,7 +31,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
 		"videoid": "4c52736c490869486e417a",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "70M",
+		"receita": 0
 	},
 	{
 		"nome": "Meu Filho",
@@ -37,7 +43,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
 		"videoid": "480c0b5143097008785f0f",
-		"resolucaoArmazenada": "1920x816"
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Homem-Aranha: Sem Volta Para Casa",
@@ -47,7 +55,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"videoid": "5c6c7c704c526a6c434b03",
-		"resolucaoArmazenada": "3840x1608"
+		"resolucaoArmazenada": "3840x1608",
+		"orcamento": "200M",
+		"receita": "1.9B"
 	},
 	{
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -57,7 +67,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
 		"videoid": "530963557a727e76746e48",
-		"resolucaoArmazenada": "1920x1012"
+		"resolucaoArmazenada": "1920x1012",
+		"orcamento": "150M",
+		"receita": "432.2M"
 	},
 	{
 		"nome": "Eternos",
@@ -67,7 +79,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
 		"videoid": "02530f0859746c6e68587a",
-		"resolucaoArmazenada": "3840x1608"
+		"resolucaoArmazenada": "3840x1608",
+		"orcamento": "200M",
+		"receita": "402.1M"
 	},
 	{
 		"nome": "O Mundo dos Esquecidos",
@@ -77,7 +91,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/444gIv4PAWC82O22ey1vdlA3xza.jpg",
 		"videoid": "690a0b564b4c41725d784c",
-		"resolucaoArmazenada": "1916x796"
+		"resolucaoArmazenada": "1916x796",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "The Forty-Year-Old Version",
@@ -87,7 +103,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
 		"videoid": "48786f504f0f50626a6b50",
-		"resolucaoArmazenada": "1920x804"
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "A Garota dos Seus Sonhos",
@@ -97,7 +115,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/1iafCMS7cZ1mbZIMznPu3xqXeOI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xZJNtBFpCfdB2nyffbStIxHFnLq.jpg",
 		"videoid": "420c6450644c5c7d71417e",
-		"resolucaoArmazenada": "1916x800"
+		"resolucaoArmazenada": "1916x800",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Lindinhas",
@@ -107,7 +127,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/3HvqVuCDcq6DTN2aAvOEOfgyzXi.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
 		"videoid": "4f765253566f4d5461736a",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Tenet",
@@ -117,7 +139,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
 		"videoid": "776b0a7f6a7f4158514203",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "205M",
+		"receita": "363.1M"
 	},
 	{
 		"nome": "Mulher-Maravilha 1984",
@@ -127,7 +151,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/AweDlIiohqw4sjC7gCsPVd1zo77.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzpCv8CCWondN7O5au1KGiqnC3A.jpg",
 		"videoid": "7e68576c0a6175164d0d50",
-		"resolucaoArmazenada": "3840x2024"
+		"resolucaoArmazenada": "3840x2024",
+		"orcamento": "200M",
+		"receita": "165.2M"
 	},
 	{
 		"nome": "O Problema de Nascer",
@@ -137,7 +163,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/od6MlN4vysfb3mfGMCK3Jqr1STq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bEHbZEjDX7qZF1ZJl1Auon0cQlk.jpg",
 		"videoid": "68545d0d4d680c6c0a0f0f",
-		"resolucaoArmazenada": "1440x1080"
+		"resolucaoArmazenada": "1440x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Um Brinde ao Sucesso",
@@ -147,7 +175,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/msh8815FFVl0luVOPxIAJGe1seY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nxlZEThfhjlNEOaCUuuI2b9llKk.jpg",
 		"videoid": "630b795e71730f73547050",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Karma: Aqui se Faz, Aqui se Paga",
@@ -157,7 +187,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/skj7fo58v0cTLpmTXtCPbtOIWjs.jpg",
 		"videoid": "5a797316560f0c50097e7a",
-		"resolucaoArmazenada": "1280x716"
+		"resolucaoArmazenada": "1280x716",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Inocência Roubada",
@@ -167,7 +199,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/3UFiTOkNsGvmDapwWk08bQpjV8T.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4euxhzNRsrDLaqkAVTBid0EbIfw.jpg",
 		"videoid": "58434b7e0c574f766f5572",
-		"resolucaoArmazenada": "1332x720"
+		"resolucaoArmazenada": "1332x720",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Professor Marston e as Mulheres-Maravilhas",
@@ -177,7 +211,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/9Mk4VMhOnRa6lTMNcJ7lpxbRsrr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/f9sTcBX9M0BvwBHVvlOIUfNx98r.jpg",
 		"videoid": "54166b597f57617e624d0f",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": "1.6M"
 	},
 	{
 		"nome": "O Castelo de Vidro",
@@ -187,7 +223,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/3loaEocXUyMkNSseh9ej0blZs0d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mIaR9Wno6FhBLCqoICe09PUFnYu.jpg",
 		"videoid": "636969504c50095c410a72",
-		"resolucaoArmazenada": "1920x784"
+		"resolucaoArmazenada": "1920x784",
+		"orcamento": "9M",
+		"receita": "22.1M"
 	},
 	{
 		"nome": "Mulher-Maravilha",
@@ -197,7 +235,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
 		"videoid": "5f70735716416f436f5d4c",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "149M",
+		"receita": "821.8M"
 	},
 	{
 		"nome": "Your Name.",
@@ -207,7 +247,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Abandonada: O Mal Foi Eleito",
@@ -217,7 +259,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/1YhIAq1LkdCd4V7C4ciBaBXWCln.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k0vXy591VCMF4GNJGRNYJmLbtGP.jpg",
 		"videoid": "5c795453707056754a596a",
-		"resolucaoArmazenada": "1920x816"
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "O Jogo da Imitação",
@@ -227,7 +271,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "14M",
+		"receita": "233.6M"
 	},
 	{
 		"nome": "Boa Noite, Mamãe!",
@@ -237,7 +283,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
 		"videoid": "554d030873740c6b78784c",
-		"resolucaoArmazenada": "1920x804"
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": "2.2M"
 	},
 	{
 		"nome": "Interestelar",
@@ -247,7 +295,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
 		"videoid": "4e72735909710955495650",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "165M",
+		"receita": "701.7M"
 	},
 	{
 		"nome": "O Lobo de Wall Street",
@@ -257,7 +307,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
 		"videoid": "025e565a7a6b037a527158",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "100M",
+		"receita": "392M"
 	},
 	{
 		"nome": "Além da Escuridão - Star Trek",
@@ -267,7 +319,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
 		"videoid": "085262026c0969420e4e7e",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "190M",
+		"receita": "467.4M"
 	},
 	{
 		"nome": "O Espelho",
@@ -277,7 +331,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/5xAzE9cgbWWL2ZDD4YyWR1iINPK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
 		"videoid": "6d4b6c5c72727c7972690b",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "5M",
+		"receita": "44.5M"
 	},
 	{
 		"nome": "Os Agentes do Destino",
@@ -287,7 +343,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/4yqEixwuJ1dgQ0C28ILHnotpIIY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
 		"videoid": "5e4c7e704b4f790e534e62",
-		"resolucaoArmazenada": "1920x1040"
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "50.2M",
+		"receita": "127.9M"
 	},
 	{
 		"nome": "Premonição 5",
@@ -297,7 +355,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
 		"videoid": "616f7a7e0d7874165e5a4c",
-		"resolucaoArmazenada": "1920x752"
+		"resolucaoArmazenada": "1920x752",
+		"orcamento": "47M",
+		"receita": "157.9M"
 	},
 	{
 		"nome": "Premonição 4",
@@ -307,7 +367,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
-		"resolucaoArmazenada": "1920x754"
+		"resolucaoArmazenada": "1920x754",
+		"orcamento": "40M",
+		"receita": "186.2M"
 	},
 	{
 		"nome": "Efeito Borboleta 3: Revelação",
@@ -317,7 +379,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/6svx2au08QMyfXCEgNUht6maRIb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/foplAbUZrCeWHntCAb2BqFJCZHw.jpg",
 		"videoid": "597e636359755c6b4b697e",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Primitivo",
@@ -327,7 +391,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
 		"videoid": "535479626e087f51526d5c",
-		"resolucaoArmazenada": "1920x816"
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": "10.6M"
 	},
 	{
 		"nome": "Efeito Borboleta 2",
@@ -337,7 +403,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
 		"videoid": "6e0c096403690a41560a50",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "6M",
+		"receita": 0
 	},
 	{
 		"nome": "Premonição 3",
@@ -347,7 +415,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
 		"videoid": "554c510a596948717a4c58",
-		"resolucaoArmazenada": "1920x1020"
+		"resolucaoArmazenada": "1920x1020",
+		"orcamento": "25M",
+		"receita": "118.9M"
 	},
 	{
 		"nome": "Efeito Borboleta",
@@ -357,7 +427,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
-		"resolucaoArmazenada": "1920x1072"
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "13M",
+		"receita": "96.1M"
 	},
 	{
 		"nome": "Premonição 2",
@@ -367,7 +439,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tSCozfXKeALzwcCilWcCXM14edJ.jpg",
 		"videoid": "540c7171514156726f6458",
-		"resolucaoArmazenada": "1920x1020"
+		"resolucaoArmazenada": "1920x1020",
+		"orcamento": "26M",
+		"receita": "90.9M"
 	},
 	{
 		"nome": "Cidade de Deus",
@@ -377,7 +451,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
 		"videoid": "5f6f56580c5c775e694e7e",
-		"resolucaoArmazenada": "1920x1040"
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "3.3M",
+		"receita": "30.6M"
 	},
 	{
 		"nome": "A Viagem de Chihiro",
@@ -387,7 +463,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
 		"videoid": "580c646a686f5c7656430b",
-		"resolucaoArmazenada": "1920x1040"
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "19M",
+		"receita": "274.9M"
 	},
 	{
 		"nome": "Premonição",
@@ -397,7 +475,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "23M",
+		"receita": "112.9M"
 	},
 	{
 		"nome": "Do Fundo do Mar",
@@ -407,7 +487,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
 		"videoid": "7677430c0c6c755d694a6e",
-		"resolucaoArmazenada": "1920x800"
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "60M",
+		"receita": "164.6M"
 	},
 	{
 		"nome": "A Lenda do Cavaleiro Sem Cabeça",
@@ -417,7 +499,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
 		"videoid": "6950615859166b717f7576",
-		"resolucaoArmazenada": "1920x1072"
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "100M",
+		"receita": "206.1M"
 	},
 	{
 		"nome": "187: O Código",
@@ -427,7 +511,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/oYj3TtkOOGFpV6ARX3KcZAVW2RX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/atxSD5UwoVGtIitOyNfQ6ry8q4u.jpg",
 		"videoid": "52766c616f6b53427a0b0f",
-		"resolucaoArmazenada": "1920x1040"
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "20M",
+		"receita": "5.7M"
 	},
 	{
 		"nome": "Beavis e Butt-Head Detonam a América",
@@ -437,7 +523,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/wEB1GPT7mQcTNuYT73s72ljjbMF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/myc2N1GjIKLTjSbIzmI0KEXdaPB.jpg",
 		"videoid": "567d735c5e6b5e61540262",
-		"resolucaoArmazenada": "1920x1072"
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "12M",
+		"receita": "63.1M"
 	},
 	{
 		"nome": "Lembranças de Outra Vida",
@@ -447,7 +535,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/kCBAmH4K5hgL2H8hpQ8wHRwMAwI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lwnM9P0rtXdNdV2uZ9r84ALQTyt.jpg",
 		"videoid": "4a566e7e566f0f0e5c640b",
-		"resolucaoArmazenada": "1904x1040"
+		"resolucaoArmazenada": "1904x1040",
+		"orcamento": "15M",
+		"receita": 0
 	},
 	{
 		"nome": "A Fuga",
@@ -457,7 +547,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/eByIA9G8dinaMJRexKbjmqJF8nF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nut4QrJMRM836INrpEaAbfO8DLp.jpg",
 		"videoid": "764e5476704e756c42537a",
-		"resolucaoArmazenada": "1920x816"
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": "30.1M"
 	},
 	{
 		"nome": "Um Sonho de Liberdade",
@@ -467,7 +559,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
 		"videoid": "770d785c630b6e555d037a",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "25M",
+		"receita": "28.3M"
 	},
 	{
 		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
@@ -477,7 +571,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/7PNCxEh7dzuhCiMOrfguVjdUgl0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8t0KYCkBaK3aAgNvfrgVHpcuNI6.jpg",
 		"videoid": "4c4e430b0b50760c5a4d62",
-		"resolucaoArmazenada": "1280x688"
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Drácula de Bram Stoker",
@@ -487,7 +583,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
 		"videoid": "560f48080c554143095d54",
-		"resolucaoArmazenada": "3840x2076"
+		"resolucaoArmazenada": "3840x2076",
+		"orcamento": "40M",
+		"receita": "215.9M"
 	},
 	{
 		"nome": "O Poderoso Chefão: Parte III",
@@ -497,7 +595,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9jzcBj3K3sOJe1yF73JEFPISIHE.jpg",
 		"videoid": "7e0b636373615c58776350",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "54M",
+		"receita": "136.8M"
 	},
 	{
 		"nome": "O Exorcista III",
@@ -507,7 +607,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lcLoZoIbTLdYiXjLE2l0ciS9Vdx.jpg",
 		"videoid": "5c77610f7e096264566c7a",
-		"resolucaoArmazenada": "1280x720"
+		"resolucaoArmazenada": "1280x720",
+		"orcamento": "9.3M",
+		"receita": "39M"
 	},
 	{
 		"nome": "A Casa do Espanto 3",
@@ -517,7 +619,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/azkxRbusgAZiXGcZMfjWdYdqdGb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tZcOail3NuHDWUxh77FihNpsnH.jpg",
 		"videoid": "5f6c55596142764d7f0d03",
-		"resolucaoArmazenada": "1280x688"
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": 0,
+		"receita": "1.7M"
 	},
 	{
 		"nome": "A Casa do Espanto 2",
@@ -527,7 +631,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/A4tfyHwA0aZjDIBMRpONkNfhzUD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/r3uHyikGNv5oiRbZvbryhnHk9ql.jpg",
 		"videoid": "766e7f5d6e5a7a0258547a",
-		"resolucaoArmazenada": "1280x714"
+		"resolucaoArmazenada": "1280x714",
+		"orcamento": 0,
+		"receita": "7.8M"
 	},
 	{
 		"nome": "A Noite dos Arrepios",
@@ -537,7 +643,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ApOIn9hfTkI95eDAFcKOYrc4Qu7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/i1fGLYO2nzkFazh58sgOT7ohosU.jpg",
 		"videoid": "724a795048736f590d6b0b",
-		"resolucaoArmazenada": "1280x688"
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": "5M",
+		"receita": "591.4K"
 	},
 	{
 		"nome": "A Casa do Espanto",
@@ -547,7 +655,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/kiIZdDYP2vUV3PZrgY5vJBHhhdf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dQ1NwW8LE4PR8UfLEf8eAQpgTpG.jpg",
 		"videoid": "544e73517072554a6e7176",
-		"resolucaoArmazenada": "1920x1036"
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": "3M",
+		"receita": "19.4M"
 	},
 	{
 		"nome": "FX - Assassinato sem Morte",
@@ -557,7 +667,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/kViIizFhXM6kJFTLbrVrxUxYta9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iQpM9uZDW4R1d96xuTOO0DQUMVy.jpg",
 		"videoid": "41734c5d686b584d166a62",
-		"resolucaoArmazenada": "1280x688"
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": "10M",
+		"receita": "20.6M"
 	},
 	{
 		"nome": "O Enigma de Outro Mundo",
@@ -567,7 +679,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
 		"videoid": "6d48700b7f4a5108744862",
-		"resolucaoArmazenada": "1280x544"
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": "15M",
+		"receita": "19.6M"
 	},
 	{
 		"nome": "O Veredicto",
@@ -577,7 +691,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
 		"videoid": "7e0c6250595972784d6854",
-		"resolucaoArmazenada": "1920x1040"
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "16M",
+		"receita": "54M"
 	},
 	{
 		"nome": "Justiça Para Todos",
@@ -587,7 +703,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/l82JLXaJK9hqv08P4A9pTM8OCtq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSE7G4lmaTFgjj7KHIWlWoPo6q5.jpg",
 		"videoid": "036d640b755f535f6b527e",
-		"resolucaoArmazenada": "720x480"
+		"resolucaoArmazenada": "720x480",
+		"orcamento": 0,
+		"receita": "33.3M"
 	},
 	{
 		"nome": "O Exorcista II: O Herege",
@@ -597,7 +715,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/2XASU2NnhnOTitNwSN9GmWVhlov.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rJKoO5DhzDc40b5v4w5yj3gfU2x.jpg",
 		"videoid": "5f645d56495f4174797862",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "14M",
+		"receita": "30.7M"
 	},
 	{
 		"nome": "O Poderoso Chefão: Parte II",
@@ -607,7 +727,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
 		"videoid": "4b4c706d765e165e6e5350",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "13M",
+		"receita": "102.6M"
 	},
 	{
 		"nome": "Os Ritos Satânicos de Drácula",
@@ -617,7 +739,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/ssPuMch8b9tHSzlKAqJK7yp5lNo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7iHNbmOpNuRN8SFITE7nKlk00qY.jpg",
 		"videoid": "4e6b79764e795f0f525650",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": "544.5K"
 	},
 	{
 		"nome": "Terra de Ninguém",
@@ -627,7 +751,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "0c4f6d686f4375766b7c54",
-		"resolucaoArmazenada": "1920x1036"
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": "450K",
+		"receita": 0
 	},
 	{
 		"nome": "O Exorcista",
@@ -637,7 +763,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
 		"videoid": "42766f594d7479535e4c03",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "11M",
+		"receita": "441.3M"
 	},
 	{
 		"nome": "O Poderoso Chefão",
@@ -647,7 +775,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
 		"videoid": "4c6351700b686b76437f72",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "6M",
+		"receita": "245.1M"
 	},
 	{
 		"nome": "Tora! Tora! Tora!",
@@ -657,7 +787,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
 		"videoid": "735f5f79020f09420e5054",
-		"resolucaoArmazenada": "1920x814"
+		"resolucaoArmazenada": "1920x814",
+		"orcamento": "25.5M",
+		"receita": "37.1M"
 	},
 	{
 		"nome": "Era uma Vez no Oeste",
@@ -667,7 +799,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
 		"videoid": "760c097c7d7a0d710d646a",
-		"resolucaoArmazenada": "1920x816"
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "5M",
+		"receita": "5.4M"
 	},
 	{
 		"nome": "Os Doze Condenados",
@@ -677,7 +811,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/djGA2A1DuP8YYIkLmeiMzIgC9B9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hDzCnoDiYMZ4rPQO4U0GB7exCzG.jpg",
 		"videoid": "775e434a6a5c576f5d6e4c",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "5.4M",
+		"receita": "45.3M"
 	},
 	{
 		"nome": "O Vento Será Tua Herança",
@@ -687,7 +823,21 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
 		"videoid": "4c5950165757505554590f",
-		"resolucaoArmazenada": "1792x1080"
+		"resolucaoArmazenada": "1792x1080",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
+		"nome": "Cinderela em Paris",
+		"duracao": "1:43:20",
+		"ano": 1957,
+		"score": 7,
+		"poster": "https://www.themoviedb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
+		"videoid": "4a506a030b485c6b765a03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "A Embriaguez do Sucesso",
@@ -697,7 +847,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/a0rWG90gNd85ttLjXAYNUAUG8GK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nC8u2U0YpmFOzJjbQaCt5NwbkGQ.jpg",
 		"videoid": "0c566a7a6473555d025376",
-		"resolucaoArmazenada": "1200x720"
+		"resolucaoArmazenada": "1200x720",
+		"orcamento": "3.4M",
+		"receita": "2.5M"
 	},
 	{
 		"nome": "12 Homens e Uma Sentença",
@@ -707,7 +859,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
 		"videoid": "7d7a4d7a616b7a7c735d48",
-		"resolucaoArmazenada": "1920x1080"
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "350K",
+		"receita": "1M"
 	},
 	{
 		"nome": "Os Sete Samurais",
@@ -717,7 +871,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "7756740a4e620e77556e6a",
-		"resolucaoArmazenada": "936x704"
+		"resolucaoArmazenada": "936x704",
+		"orcamento": "2M",
+		"receita": "346.3K"
 	},
 	{
 		"nome": "Sindicato de Ladrões",
@@ -727,7 +883,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
 		"videoid": "776b785a70787d56705d0f",
-		"resolucaoArmazenada": "1792x1072"
+		"resolucaoArmazenada": "1792x1072",
+		"orcamento": "910K",
+		"receita": "9.6M"
 	},
 	{
 		"nome": "Crepúsculo dos Deuses",
@@ -737,7 +895,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/nOgsN1JibIKsb0tr8w2dCpYnU1R.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
 		"videoid": "0e704a497316646b584c03",
-		"resolucaoArmazenada": "1472x1080"
+		"resolucaoArmazenada": "1472x1080",
+		"orcamento": "1.8M",
+		"receita": "5M"
 	},
 	{
 		"nome": "Desfile de Páscoa",
@@ -747,7 +907,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/aLgvafQvb6D6at4khC0b7kn0h8f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yf8Ct7WikW3TlgGlrMoCsCn7YBY.jpg",
 		"videoid": "7a4e645f7f6f726a6d4254",
-		"resolucaoArmazenada": "1480x1080"
+		"resolucaoArmazenada": "1480x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Casablanca",
@@ -757,7 +919,9 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
 		"videoid": "414a6954700a0203576e03",
-		"resolucaoArmazenada": "976x720"
+		"resolucaoArmazenada": "976x720",
+		"orcamento": "878K",
+		"receita": "10.5M"
 	},
 	{
 		"nome": "Cidadão Kane",
@@ -767,6 +931,8 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
 		"videoid": "0a786d5c5251770e02616e",
-		"resolucaoArmazenada": "1488x1080"
+		"resolucaoArmazenada": "1488x1080",
+		"orcamento": "839.7K",
+		"receita": "23.2M"
 	}
 ]
