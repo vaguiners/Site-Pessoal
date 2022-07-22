@@ -444,6 +444,18 @@
 		"receita": "96.1M"
 	},
 	{
+		"nome": "O Medalhão",
+		"duracao": "1:28:28",
+		"ano": 2003,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5GDwpS7FFnlkqLFtT06A93zOTRG.jpg",
+		"videoid": "6a414e0c61544f4e545503",
+		"resolucaoArmazenada": "1280x528",
+		"orcamento": "41M",
+		"receita": 0
+	},
+	{
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
 		"ano": 2003,
@@ -478,6 +490,18 @@
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "3.3M",
 		"receita": "30.6M"
+	},
+	{
+		"nome": "Espião por Acidente",
+		"duracao": "0",
+		"ano": 2001,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/sfSXkCTeJ7qBJm44V65u3y7YQf6.jpg",
+		"videoid": "4c594a71734f0b495f5d58",
+		"resolucaoArmazenada": "1920x812",
+		"orcamento": "25.7M",
+		"receita": "790.1K"
 	},
 	{
 		"nome": "A Viagem de Chihiro",
@@ -752,6 +776,18 @@
 		"background": "https://image.tmdb.org/t/p/w780/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
 		"videoid": "5a4f7c494879167d576272",
 		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
+		"nome": "Detonando em Barcelona",
+		"duracao": "1:48:33",
+		"ano": 1984,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iABwTioi1g9EyWfE7xsSIU4Gkqi.jpg",
+		"videoid": "4f6a6b487c0202500b5d50",
+		"resolucaoArmazenada": "1280x692",
 		"orcamento": 0,
 		"receita": 0
 	},
