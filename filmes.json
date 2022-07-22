@@ -408,6 +408,18 @@
 		"receita": "10.6M"
 	},
 	{
+		"nome": "A Garota dos Meus Sonhos",
+		"duracao": "1:30:50",
+		"ano": 2006,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
+		"videoid": "7a6e75424d71567f424250",
+		"resolucaoArmazenada": "672x384",
+		"orcamento": 0,
+		"receita": "944.5K"
+	},
+	{
 		"nome": "Efeito Borboleta 2",
 		"duracao": "1:32:21",
 		"ano": 2006,
@@ -804,6 +816,18 @@
 		"receita": 0
 	},
 	{
+		"nome": "Projeto China",
+		"duracao": "1:46:01",
+		"ano": 1983,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/uvQadnCrtustVtz49hv3mRpNVZg.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ax6u1hXy9ZWvdl7uYTadx7RFReg.jpg",
+		"videoid": "6370024b0c63085a76797a",
+		"resolucaoArmazenada": "1920x812",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
 		"nome": "O Enigma de Outro Mundo",
 		"duracao": "1:48:43",
 		"ano": 1982,
@@ -826,6 +850,18 @@
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "16M",
 		"receita": "54M"
+	},
+	{
+		"nome": "O Grande Lutador",
+		"duracao": "1:36:11",
+		"ano": 1980,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/xmlWFjvhmKjTiSqcvYrRDbRsTjQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/yzrkvKADAP2DHXjG3dutmW85tRC.jpg",
+		"videoid": "42785c73085a095009530b",
+		"resolucaoArmazenada": "1280x534",
+		"orcamento": 0,
+		"receita": 854
 	},
 	{
 		"nome": "Justiça Para Todos",
@@ -913,7 +949,7 @@
 	},
 	{
 		"nome": "Um Violinista no Telhado",
-		"duracao": "0",
+		"duracao": "3:01:08",
 		"ano": 1971,
 		"score": 7.76,
 		"poster": "https://image.tmdb.org/t/p/w200/bFSDFdFrLWmaLavenuHFIUxgUVW.jpg",
