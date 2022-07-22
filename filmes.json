@@ -480,6 +480,18 @@
 		"receita": "274.9M"
 	},
 	{
+		"nome": "Bater ou Correr",
+		"duracao": "1:50:18",
+		"ano": 2000,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/82ZXnrTOcNOm1NjWAWrSROQMULc.jpg",
+		"videoid": "79516f557e0a7c72577e6a",
+		"resolucaoArmazenada": "1920x824",
+		"orcamento": "55M",
+		"receita": "56.9M"
+	},
+	{
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
@@ -682,6 +694,18 @@
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": "10M",
 		"receita": "20.6M"
+	},
+	{
+		"nome": "Estrelas do Kung Fu",
+		"duracao": "1:36:18",
+		"ano": 1985,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/9RsG0eY9sJHd6Ar0OnZZ3k8WFCY.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
+		"videoid": "5a4f7c494879167d576272",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "O Enigma de Outro Mundo",
