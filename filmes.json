@@ -20,6 +20,16 @@
 		"resolucaoArmazenada": "1920x816"
 	},
 	{
+		"nome": "Homem-Aranha: Sem Volta Para Casa",
+		"duracao": "2:28:10",
+		"ano": 2021,
+		"score": 8.054,
+		"poster": "https://www.themoviedb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
+		"videoid": "5c6c7c704c526a6c434b03",
+		"resolucaoArmazenada": "3840x1608"
+	},
+	{
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
 		"duracao": "2:12:21",
 		"ano": 2021,
@@ -183,7 +193,7 @@
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": 8,
+		"score": 8.016,
 		"poster": "https://www.themoviedb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
