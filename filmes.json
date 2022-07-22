@@ -1,5 +1,15 @@
 [
 	{
+		"nome": "Beavis e Butt-Head: Detonam o Universo",
+		"duracao": "1:25:53",
+		"ano": 2022,
+		"score": 7,
+		"poster": "https://www.themoviedb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
+		"videoid": "7e646b0c7e680e68084348",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
@@ -7,6 +17,16 @@
 		"poster": "https://www.themoviedb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
+		"resolucaoArmazenada": "1920x1080"
+	},
+	{
+		"nome": "Liga da Justiça de Zack Snyder",
+		"duracao": "4:02:08",
+		"ano": 2021,
+		"score": 8.27,
+		"poster": "https://www.themoviedb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+		"videoid": "4c52736c490869486e417a",
 		"resolucaoArmazenada": "1920x1080"
 	},
 	{
@@ -308,6 +328,16 @@
 		"background": "https://image.tmdb.org/t/p/w780/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
 		"videoid": "6e0c096403690a41560a50",
 		"resolucaoArmazenada": "1920x1080"
+	},
+	{
+		"nome": "Premonição 3",
+		"duracao": "1:32:50",
+		"ano": 2006,
+		"score": 6.1,
+		"poster": "https://www.themoviedb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
+		"videoid": "554c510a596948717a4c58",
+		"resolucaoArmazenada": "1920x1020"
 	},
 	{
 		"nome": "Premonição 3",
