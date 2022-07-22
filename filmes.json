@@ -720,6 +720,18 @@
 		"receita": "39M"
 	},
 	{
+		"nome": "Chefão Por Acaso",
+		"duracao": "2:06:58",
+		"ano": 1989,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/aJgLhPwmzKtX0AONtWXWpIQpIHx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/baKUm23wuT8AqDu2ucx5bgfqETN.jpg",
+		"videoid": "507176565f6a6c0d4b7272",
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": 0,
+		"receita": "34M"
+	},
+	{
 		"nome": "A Casa do Espanto 3",
 		"duracao": "1:34:23",
 		"ano": 1989,
@@ -730,6 +742,18 @@
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": 0,
 		"receita": "1.7M"
+	},
+	{
+		"nome": "Dragões para Sempre",
+		"duracao": "1:29:57",
+		"ano": 1988,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
+		"videoid": "586d616b7f4268080f6403",
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "A Casa do Espanto 2",
@@ -812,6 +836,18 @@
 		"background": "https://image.tmdb.org/t/p/w780/iABwTioi1g9EyWfE7xsSIU4Gkqi.jpg",
 		"videoid": "4f6a6b487c0202500b5d50",
 		"resolucaoArmazenada": "1280x692",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
+		"nome": "Perdedores e Vencedores",
+		"duracao": "1:48:14",
+		"ano": 1983,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/3GtnjzDrdIhnnyZZhFzATh61wD1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/106zrDyHpD0T1ZtNBrBh1K5M9up.jpg",
+		"videoid": "4355744d7f720d725f7462",
+		"resolucaoArmazenada": "1920x1040",
 		"orcamento": 0,
 		"receita": 0
 	},
