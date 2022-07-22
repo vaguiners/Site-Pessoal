@@ -1,5 +1,17 @@
 [
 	{
+		"nome": "Uncharted: Fora do Mapa",
+		"duracao": "1:55:57",
+		"ano": 2022,
+		"score": 7.137,
+		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+		"videoid": "755d78720a7851530c7d72",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "120M",
+		"receita": "400.8M"
+	},
+	{
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
@@ -1174,17 +1186,5 @@
 		"resolucaoArmazenada": "976x720",
 		"orcamento": "878K",
 		"receita": "10.5M"
-	},
-	{
-		"nome": "Cidadão Kane",
-		"duracao": "1:59:24",
-		"ano": 1941,
-		"score": 8.03,
-		"poster": "https://image.tmdb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
-		"videoid": "0a786d5c5251770e02616e",
-		"resolucaoArmazenada": "1488x1080",
-		"orcamento": "839.7K",
-		"receita": "23.2M"
 	}
 ]
