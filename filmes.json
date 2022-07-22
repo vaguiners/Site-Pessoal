@@ -576,6 +576,18 @@
 		"receita": 0
 	},
 	{
+		"nome": "12 Homens e uma Sentença",
+		"duracao": "1:57:28",
+		"ano": 1997,
+		"score": 7.7,
+		"poster": "https://image.tmdb.org/t/p/w200/fBWeLc6Kj8ok0Qsjj98VG91RO4U.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kc1e8Atb1Dntzry6un1z3MAUzGe.jpg",
+		"videoid": "427350505574687e51765c",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "1.8M",
+		"receita": 0
+	},
+	{
 		"nome": "187: O Código",
 		"duracao": "1:59:35",
 		"ano": 1997,
@@ -898,6 +910,18 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "6M",
 		"receita": "245.1M"
+	},
+	{
+		"nome": "Um Violinista no Telhado",
+		"duracao": "0",
+		"ano": 1971,
+		"score": 7.76,
+		"poster": "https://image.tmdb.org/t/p/w200/bFSDFdFrLWmaLavenuHFIUxgUVW.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4nQOHKYRwPhAXqYACxVY6bMKbu8.jpg",
+		"videoid": "424a7c6e5175030a7a780b",
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": "9M",
+		"receita": "83.3M"
 	},
 	{
 		"nome": "Tora! Tora! Tora!",
