@@ -51,7 +51,7 @@
 		"nome": "Homem-Aranha: Sem Volta Para Casa",
 		"duracao": "2:28:10",
 		"ano": 2021,
-		"score": 8.054,
+		"score": 8.052,
 		"poster": "https://image.tmdb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"videoid": "5c6c7c704c526a6c434b03",
@@ -444,6 +444,18 @@
 		"receita": "96.1M"
 	},
 	{
+		"nome": "Bater ou Correr em Londres",
+		"duracao": "1:54:28",
+		"ano": 2003,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/fVPZumNA50cSePKm56lEZ9G86f4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ctSHPoptLOGtg2tKgVWhz1eCNNi.jpg",
+		"videoid": "0f790b52584d5e08710258",
+		"resolucaoArmazenada": "1920x824",
+		"orcamento": "50M",
+		"receita": "88.3M"
+	},
+	{
 		"nome": "Premonição 2",
 		"duracao": "1:30:11",
 		"ano": 2003,
@@ -562,6 +574,18 @@
 		"resolucaoArmazenada": "1920x1072",
 		"orcamento": "12M",
 		"receita": "63.1M"
+	},
+	{
+		"nome": "Thunderbolt: Ação Sobre Rodas",
+		"duracao": "1:45:50",
+		"ano": 1995,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/f87fY5kuGCKiWJduVXtBWxtJttF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mwt58ScrmiPUwgkR8NTEA26joMf.jpg",
+		"videoid": "517a7a160351767f494c76",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0
 	},
 	{
 		"nome": "Lembranças de Outra Vida",
