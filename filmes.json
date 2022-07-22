@@ -113,7 +113,7 @@
 		"nome": "Tenet",
 		"duracao": "2:30:10",
 		"ano": 2020,
-		"score": 7.2,
+		"score": 7.229,
 		"poster": "https://www.themoviedb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
 		"videoid": "776b0a7f6a7f4158514203",
@@ -168,6 +168,16 @@
 		"background": "https://image.tmdb.org/t/p/w780/4euxhzNRsrDLaqkAVTBid0EbIfw.jpg",
 		"videoid": "58434b7e0c574f766f5572",
 		"resolucaoArmazenada": "1332x720"
+	},
+	{
+		"nome": "Professor Marston e as Mulheres-Maravilhas",
+		"duracao": "1:48:27",
+		"ano": 2017,
+		"score": 7.3,
+		"poster": "https://www.themoviedb.org/t/p/w200/9Mk4VMhOnRa6lTMNcJ7lpxbRsrr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/f9sTcBX9M0BvwBHVvlOIUfNx98r.jpg",
+		"videoid": "54166b597f57617e624d0f",
+		"resolucaoArmazenada": "1920x800"
 	},
 	{
 		"nome": "O Castelo de Vidro",
