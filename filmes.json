@@ -540,18 +540,6 @@
 		"receita": "88.3M"
 	},
 	{
-		"nome": "Premonição 2",
-		"duracao": "1:30:11",
-		"ano": 2003,
-		"score": 6.193,
-		"poster": "https://image.tmdb.org/t/p/w200/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tSCozfXKeALzwcCilWcCXM14edJ.jpg",
-		"videoid": "540c7171514156726f6458",
-		"resolucaoArmazenada": "1920x1020",
-		"orcamento": "26M",
-		"receita": "90.9M"
-	},
-	{
 		"nome": "Cidade de Deus",
 		"duracao": "2:09:49",
 		"ano": 2002,
@@ -1162,6 +1150,18 @@
 		"resolucaoArmazenada": "936x704",
 		"orcamento": "2M",
 		"receita": "346.3K"
+	},
+	{
+		"nome": "Sindicato de Ladrões",
+		"duracao": "1:47:42",
+		"ano": 1954,
+		"score": 8,
+		"poster": "https://image.tmdb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+		"videoid": "776b785a70787d56705d0f",
+		"resolucaoArmazenada": "1792x1072",
+		"orcamento": "910K",
+		"receita": "9.6M"
 	},
 	{
 		"nome": "Sindicato de Ladrões",
