@@ -36,6 +36,18 @@
 		"receita": "953.2M"
 	},
 	{
+		"nome": "Cruella",
+		"duracao": "2:17:16",
+		"ano": 2021,
+		"score": 8.147,
+		"poster": "https://image.tmdb.org/t/p/w200/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
+		"videoid": "09640b7d5464521677534c",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": "200M",
+		"receita": "233.5M"
+	},
+	{
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
 		"ano": 2021,
@@ -214,6 +226,18 @@
 		"resolucaoArmazenada": "1332x720",
 		"orcamento": 0,
 		"receita": 0
+	},
+	{
+		"nome": "Kung Fu Yoga",
+		"duracao": "0",
+		"ano": 2017,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
+		"videoid": "760d70025d5c706b586d0f",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "65M",
+		"receita": "254.2M"
 	},
 	{
 		"nome": "Professor Marston e as Mulheres-Maravilhas",
