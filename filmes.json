@@ -1,5 +1,57 @@
 [
 	{
+		"nome": "Agente das Sombras",
+		"duracao": "1:44:54",
+		"ano": 2022,
+		"score": 6.306,
+		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
+		"videoid": "636d5e77720c41570f7f72",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "43M",
+		"receita": "15.4M",
+		"similares": "[{\"filme\":\"Morbius\",\"similaridade\":4},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":4},{\"filme\":\"A Garota dos Meus Sonhos\",\"similaridade\":3},{\"filme\":\"Efeito Borboleta\",\"similaridade\":3},{\"filme\":\"Espião por Acidente\",\"similaridade\":2}]"
+	},
+	{
+		"nome": "Ambulância: Um Dia de Crime",
+		"duracao": "2:16:34",
+		"ano": 2022,
+		"score": 6.935,
+		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
+		"videoid": "5d7d6f706450505f797354",
+		"resolucaoArmazenada": "1920x798",
+		"orcamento": "40M",
+		"receita": "50.3M",
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":27},{\"filme\":\"Eternos\",\"similaridade\":23},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":23},{\"filme\":\"A Princesa\",\"similaridade\":18},{\"filme\":\"Premonição 5\",\"similaridade\":18}]"
+	},
+	{
+		"nome": "A Princesa",
+		"duracao": "1:34:03",
+		"ano": 2022,
+		"score": 7.007,
+		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+		"videoid": "5a6b4c634c6b610e7e4a58",
+		"resolucaoArmazenada": "1920x960",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":118},{\"filme\":\"Eternos\",\"similaridade\":100},{\"filme\":\"Premonição 5\",\"similaridade\":99},{\"filme\":\"Music\",\"similaridade\":92},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":88}]"
+	},
+	{
+		"nome": "Rise",
+		"duracao": "1:51:19",
+		"ano": 2022,
+		"score": 7.032,
+		"poster": "https://image.tmdb.org/t/p/w200/czXyMcmiulyZjhYAnnMwVhFCvN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
+		"videoid": "0a54794a5e736158767662",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":11},{\"filme\":\"Interestelar\",\"similaridade\":9},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":8},{\"filme\":\"Morbius\",\"similaridade\":7},{\"filme\":\"Karatê Kid\",\"similaridade\":7}]"
+	},
+	{
 		"nome": "Pânico",
 		"duracao": "1:54:29",
 		"ano": 2022,
@@ -10,7 +62,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "24M",
 		"receita": "140M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":136},{\"filme\":\"Interestelar\",\"similaridade\":94},{\"filme\":\"Eternos\",\"similaridade\":87},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":87},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":85}]"
+		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":15},{\"filme\":\"A Garota dos Meus Sonhos\",\"similaridade\":13},{\"filme\":\"Efeito Borboleta 2\",\"similaridade\":13},{\"filme\":\"Interestelar\",\"similaridade\":12},{\"filme\":\"Karatê Kid\",\"similaridade\":10}]"
 	},
 	{
 		"nome": "O Homem do Norte",
@@ -23,7 +75,7 @@
 		"resolucaoArmazenada": "1920x960",
 		"orcamento": "70M",
 		"receita": "68.4M",
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":79},{\"filme\":\"Interestelar\",\"similaridade\":77},{\"filme\":\"Premonição 4\",\"similaridade\":63},{\"filme\":\"Cruella\",\"similaridade\":58},{\"filme\":\"Karatê Kid\",\"similaridade\":57}]"
+		"similares": "[{\"filme\":\"Abandonada: O Mal Foi Eleito\",\"similaridade\":3},{\"filme\":\"Quem Sou Eu?\",\"similaridade\":3},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":3},{\"filme\":\"Perdedores e Vencedores\",\"similaridade\":3},{\"filme\":\"Terra de Ninguém\",\"similaridade\":3}]"
 	},
 	{
 		"nome": "Contrato Perigoso",
@@ -36,7 +88,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": 0,
 		"receita": "2.1M",
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":19},{\"filme\":\"Premonição 5\",\"similaridade\":17},{\"filme\":\"Interestelar\",\"similaridade\":16},{\"filme\":\"Eternos\",\"similaridade\":15},{\"filme\":\"Music\",\"similaridade\":13}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":136},{\"filme\":\"Interestelar\",\"similaridade\":94},{\"filme\":\"Eternos\",\"similaridade\":87},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":87},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":85}]"
 	},
 	{
 		"nome": "Morbius",
@@ -49,7 +101,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "75M",
 		"receita": "161M",
-		"similares": "[{\"filme\":\"Premonição 5\",\"similaridade\":136},{\"filme\":\"Eternos\",\"similaridade\":130},{\"filme\":\"Interestelar\",\"similaridade\":128},{\"filme\":\"Music\",\"similaridade\":126},{\"filme\":\"Meu Filho\",\"similaridade\":122}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":79},{\"filme\":\"Interestelar\",\"similaridade\":77},{\"filme\":\"Premonição 4\",\"similaridade\":63},{\"filme\":\"Cruella\",\"similaridade\":58},{\"filme\":\"Karatê Kid\",\"similaridade\":57}]"
 	},
 	{
 		"nome": "As Agentes 355",
@@ -62,7 +114,7 @@
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": "75M",
 		"receita": "24M",
-		"similares": "[{\"filme\":\"Karatê Kid\",\"similaridade\":7},{\"filme\":\"Cruella\",\"similaridade\":6},{\"filme\":\"Premonição 4\",\"similaridade\":5},{\"filme\":\"Cidadão Kane\",\"similaridade\":5},{\"filme\":\"Batman\",\"similaridade\":4}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":19},{\"filme\":\"Premonição 5\",\"similaridade\":17},{\"filme\":\"Interestelar\",\"similaridade\":16},{\"filme\":\"Eternos\",\"similaridade\":15},{\"filme\":\"Music\",\"similaridade\":13}]"
 	},
 	{
 		"nome": "Red: Crescer é Uma Fera",
@@ -75,20 +127,20 @@
 		"resolucaoArmazenada": "1920x1036",
 		"orcamento": "190M",
 		"receita": "18.9M",
-		"similares": "[{\"filme\":\"Premonição 4\",\"similaridade\":8},{\"filme\":\"Meu Filho\",\"similaridade\":6},{\"filme\":\"Os Agentes do Destino\",\"similaridade\":6},{\"filme\":\"Music\",\"similaridade\":5},{\"filme\":\"Morbius\",\"similaridade\":4}]"
+		"similares": "[{\"filme\":\"Premonição 5\",\"similaridade\":136},{\"filme\":\"Eternos\",\"similaridade\":130},{\"filme\":\"Interestelar\",\"similaridade\":128},{\"filme\":\"Music\",\"similaridade\":126},{\"filme\":\"Meu Filho\",\"similaridade\":122}]"
 	},
 	{
 		"nome": "Batman",
 		"duracao": "2:56:01",
 		"ano": 2022,
-		"score": 7.8,
+		"score": 7.761,
 		"poster": "https://image.tmdb.org/t/p/w200/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
 		"videoid": "645c0f776c0a4273166158",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "185M",
 		"receita": "770.8M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":120},{\"filme\":\"Interestelar\",\"similaridade\":111},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":102},{\"filme\":\"Premonição 5\",\"similaridade\":98},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":96}]"
+		"similares": "[{\"filme\":\"Karatê Kid\",\"similaridade\":7},{\"filme\":\"Cruella\",\"similaridade\":6},{\"filme\":\"Premonição 4\",\"similaridade\":5},{\"filme\":\"Cidadão Kane\",\"similaridade\":5},{\"filme\":\"Beavis e Butt-Head: Detonam o Universo\",\"similaridade\":4}]"
 	},
 	{
 		"nome": "Uncharted: Fora do Mapa",
@@ -101,7 +153,7 @@
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": "120M",
 		"receita": "400.8M",
-		"similares": "[{\"filme\":\"Premonição 5\",\"similaridade\":129},{\"filme\":\"Morbius\",\"similaridade\":122},{\"filme\":\"Meu Filho\",\"similaridade\":117},{\"filme\":\"Eternos\",\"similaridade\":109},{\"filme\":\"Music\",\"similaridade\":105}]"
+		"similares": "[{\"filme\":\"Premonição 4\",\"similaridade\":8},{\"filme\":\"Meu Filho\",\"similaridade\":6},{\"filme\":\"Os Agentes do Destino\",\"similaridade\":6},{\"filme\":\"Music\",\"similaridade\":5},{\"filme\":\"A Princesa\",\"similaridade\":4}]"
 	},
 	{
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
@@ -114,7 +166,7 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Karatê Kid\",\"similaridade\":3},{\"filme\":\"Morbius\",\"similaridade\":2},{\"filme\":\"Uncharted: Fora do Mapa\",\"similaridade\":2},{\"filme\":\"Eternos\",\"similaridade\":2},{\"filme\":\"The Forty-Year-Old Version\",\"similaridade\":2}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":120},{\"filme\":\"Interestelar\",\"similaridade\":111},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":102},{\"filme\":\"Premonição 5\",\"similaridade\":98},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":96}]"
 	},
 	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
@@ -127,6 +179,32 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "200M",
 		"receita": "953.2M",
+		"similares": "[{\"filme\":\"Premonição 5\",\"similaridade\":129},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":122},{\"filme\":\"Meu Filho\",\"similaridade\":117},{\"filme\":\"Eternos\",\"similaridade\":109},{\"filme\":\"Music\",\"similaridade\":105}]"
+	},
+	{
+		"nome": "Descascado",
+		"duracao": "1:26:01",
+		"ano": 2021,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
+		"videoid": "4e7016035503625c79757a",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": "[{\"filme\":\"Karatê Kid\",\"similaridade\":3},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":2},{\"filme\":\"Doutor Estranho no Multiverso da Loucura\",\"similaridade\":2},{\"filme\":\"Eternos\",\"similaridade\":2},{\"filme\":\"The Forty-Year-Old Version\",\"similaridade\":2}]"
+	},
+	{
+		"nome": "Sedenta de Sangue",
+		"duracao": "1:24:31",
+		"ano": 2021,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1TWlQusiA0G7xoWMMDIpM70EVDf.jpg",
+		"videoid": "69085d090c595358095076",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": "[{\"filme\":\"Premonição 4\",\"similaridade\":29},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":26},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":26},{\"filme\":\"Interestelar\",\"similaridade\":25},{\"filme\":\"Homem-Aranha: Sem Volta Para Casa\",\"similaridade\":22}]"
 	},
 	{
@@ -140,7 +218,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Premonição\",\"similaridade\":43},{\"filme\":\"Interestelar\",\"similaridade\":20},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":17},{\"filme\":\"O Grande Lutador\",\"similaridade\":17},{\"filme\":\"Batman\",\"similaridade\":16}]"
+		"similares": "[{\"filme\":\"Premonição\",\"similaridade\":43},{\"filme\":\"Interestelar\",\"similaridade\":20},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":17},{\"filme\":\"O Grande Lutador\",\"similaridade\":17},{\"filme\":\"Beavis e Butt-Head: Detonam o Universo\",\"similaridade\":16}]"
 	},
 	{
 		"nome": "Music",
@@ -153,7 +231,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "16M",
 		"receita": 0,
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":144},{\"filme\":\"Interestelar\",\"similaridade\":143},{\"filme\":\"Eternos\",\"similaridade\":126},{\"filme\":\"Morbius\",\"similaridade\":125},{\"filme\":\"Premonição 5\",\"similaridade\":120}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":144},{\"filme\":\"Interestelar\",\"similaridade\":143},{\"filme\":\"Eternos\",\"similaridade\":126},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":125},{\"filme\":\"Premonição 5\",\"similaridade\":120}]"
 	},
 	{
 		"nome": "Duna",
@@ -166,13 +244,13 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "165M",
 		"receita": "400.7M",
-		"similares": "[{\"filme\":\"Batman\",\"similaridade\":8},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":8},{\"filme\":\"Karatê Kid\",\"similaridade\":7},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":7},{\"filme\":\"Perdedores e Vencedores\",\"similaridade\":7}]"
+		"similares": "[{\"filme\":\"Beavis e Butt-Head: Detonam o Universo\",\"similaridade\":8},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":8},{\"filme\":\"Karatê Kid\",\"similaridade\":7},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":7},{\"filme\":\"Perdedores e Vencedores\",\"similaridade\":7}]"
 	},
 	{
 		"nome": "Cruella",
 		"duracao": "2:17:16",
 		"ano": 2021,
-		"score": 8.1,
+		"score": 8.146,
 		"poster": "https://image.tmdb.org/t/p/w200/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
 		"videoid": "09640b7d5464521677534c",
@@ -192,7 +270,7 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "70M",
 		"receita": 0,
-		"similares": "[{\"filme\":\"Pânico\",\"similaridade\":1},{\"filme\":\"A Liga de Monstros\",\"similaridade\":1},{\"filme\":\"Cruella\",\"similaridade\":1},{\"filme\":\"Homem-Aranha: Sem Volta Para Casa\",\"similaridade\":1},{\"filme\":\"Mulher-Maravilha\",\"similaridade\":1}]"
+		"similares": "[{\"filme\":\"Contrato Perigoso\",\"similaridade\":1},{\"filme\":\"A Liga de Monstros\",\"similaridade\":1},{\"filme\":\"Cruella\",\"similaridade\":1},{\"filme\":\"Homem-Aranha: Sem Volta Para Casa\",\"similaridade\":1},{\"filme\":\"Mulher-Maravilha\",\"similaridade\":1}]"
 	},
 	{
 		"nome": "Meu Filho",
@@ -231,7 +309,7 @@
 		"resolucaoArmazenada": "1920x1012",
 		"orcamento": "150M",
 		"receita": "432.2M",
-		"similares": "[{\"filme\":\"Your Name.\",\"similaridade\":3},{\"filme\":\"Karatê Kid\",\"similaridade\":3},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":3},{\"filme\":\"Cidadão Kane\",\"similaridade\":3},{\"filme\":\"Interestelar\",\"similaridade\":2}]"
+		"similares": "[{\"filme\":\"Your Name.\",\"similaridade\":3},{\"filme\":\"Karatê Kid\",\"similaridade\":3},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":3},{\"filme\":\"Cidadão Kane\",\"similaridade\":3},{\"filme\":\"A Princesa\",\"similaridade\":2}]"
 	},
 	{
 		"nome": "Eternos",
@@ -244,7 +322,7 @@
 		"resolucaoArmazenada": "3840x1608",
 		"orcamento": "200M",
 		"receita": "402.1M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":174},{\"filme\":\"Premonição 5\",\"similaridade\":163},{\"filme\":\"Interestelar\",\"similaridade\":153},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":144},{\"filme\":\"Morbius\",\"similaridade\":143}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":174},{\"filme\":\"Premonição 5\",\"similaridade\":163},{\"filme\":\"Interestelar\",\"similaridade\":153},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":144},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":143}]"
 	},
 	{
 		"nome": "O Mundo dos Esquecidos",
@@ -283,7 +361,7 @@
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":30},{\"filme\":\"Eternos\",\"similaridade\":25},{\"filme\":\"Karatê Kid\",\"similaridade\":25},{\"filme\":\"Morbius\",\"similaridade\":24},{\"filme\":\"Music\",\"similaridade\":23}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":30},{\"filme\":\"Eternos\",\"similaridade\":25},{\"filme\":\"Karatê Kid\",\"similaridade\":25},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":24},{\"filme\":\"Music\",\"similaridade\":23}]"
 	},
 	{
 		"nome": "A Garota dos Seus Sonhos",
@@ -361,7 +439,7 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Eternos\",\"similaridade\":7},{\"filme\":\"Morbius\",\"similaridade\":6},{\"filme\":\"Meu Filho\",\"similaridade\":6},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":6},{\"filme\":\"Uncharted: Fora do Mapa\",\"similaridade\":5}]"
+		"similares": "[{\"filme\":\"Eternos\",\"similaridade\":7},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":6},{\"filme\":\"Meu Filho\",\"similaridade\":6},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":6},{\"filme\":\"Doutor Estranho no Multiverso da Loucura\",\"similaridade\":5}]"
 	},
 	{
 		"nome": "Contos do Caçador de Sombras",
@@ -387,7 +465,7 @@
 		"resolucaoArmazenada": "1912x796",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Abandonada: O Mal Foi Eleito\",\"similaridade\":5},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":3},{\"filme\":\"Cidadão Kane\",\"similaridade\":3},{\"filme\":\"Pânico\",\"similaridade\":2},{\"filme\":\"Batman\",\"similaridade\":2}]"
+		"similares": "[{\"filme\":\"Abandonada: O Mal Foi Eleito\",\"similaridade\":5},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":3},{\"filme\":\"Cidadão Kane\",\"similaridade\":3},{\"filme\":\"O Homem do Norte\",\"similaridade\":2},{\"filme\":\"Contrato Perigoso\",\"similaridade\":2}]"
 	},
 	{
 		"nome": "A Máscara de Ferro",
@@ -406,7 +484,7 @@
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
-		"score": 7.2,
+		"score": 7.197,
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
 		"videoid": "7075710b7d580e79164c72",
@@ -426,7 +504,7 @@
 		"resolucaoArmazenada": "1280x720",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":50},{\"filme\":\"Professor Marston e as Mulheres-Maravilhas\",\"similaridade\":46},{\"filme\":\"Music\",\"similaridade\":42},{\"filme\":\"Karatê Kid\",\"similaridade\":41},{\"filme\":\"Morbius\",\"similaridade\":38}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":50},{\"filme\":\"Professor Marston e as Mulheres-Maravilhas\",\"similaridade\":46},{\"filme\":\"Music\",\"similaridade\":42},{\"filme\":\"Karatê Kid\",\"similaridade\":41},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":38}]"
 	},
 	{
 		"nome": "Karma: Aqui se Faz, Aqui se Paga",
@@ -439,7 +517,7 @@
 		"resolucaoArmazenada": "1280x716",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Agentes Vanguard\",\"similaridade\":4},{\"filme\":\"Karatê Kid\",\"similaridade\":4},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":4},{\"filme\":\"A Casa do Espanto 2\",\"similaridade\":4},{\"filme\":\"Pânico\",\"similaridade\":3}]"
+		"similares": "[{\"filme\":\"Agentes Vanguard\",\"similaridade\":4},{\"filme\":\"Karatê Kid\",\"similaridade\":4},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":4},{\"filme\":\"A Casa do Espanto 2\",\"similaridade\":4},{\"filme\":\"Contrato Perigoso\",\"similaridade\":3}]"
 	},
 	{
 		"nome": "Inocência Roubada",
@@ -478,7 +556,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "65M",
 		"receita": "254.2M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":39},{\"filme\":\"Music\",\"similaridade\":36},{\"filme\":\"Morbius\",\"similaridade\":33},{\"filme\":\"Eternos\",\"similaridade\":31},{\"filme\":\"Inocência Roubada\",\"similaridade\":30}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":39},{\"filme\":\"Music\",\"similaridade\":36},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":33},{\"filme\":\"Eternos\",\"similaridade\":31},{\"filme\":\"Inocência Roubada\",\"similaridade\":30}]"
 	},
 	{
 		"nome": "O Estrangeiro",
@@ -504,7 +582,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": 0,
 		"receita": "1.6M",
-		"similares": "[{\"filme\":\"Morbius\",\"similaridade\":113},{\"filme\":\"Music\",\"similaridade\":105},{\"filme\":\"Premonição 5\",\"similaridade\":104},{\"filme\":\"Meu Filho\",\"similaridade\":102},{\"filme\":\"Eternos\",\"similaridade\":100}]"
+		"similares": "[{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":113},{\"filme\":\"Music\",\"similaridade\":105},{\"filme\":\"Premonição 5\",\"similaridade\":104},{\"filme\":\"Meu Filho\",\"similaridade\":102},{\"filme\":\"Eternos\",\"similaridade\":100}]"
 	},
 	{
 		"nome": "O Castelo de Vidro",
@@ -608,7 +686,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "100M",
 		"receita": "392M",
-		"similares": "[{\"filme\":\"Efeito Borboleta\",\"similaridade\":2},{\"filme\":\"Arrebentando em Nova York\",\"similaridade\":2},{\"filme\":\"Pânico\",\"similaridade\":1},{\"filme\":\"Morbius\",\"similaridade\":1},{\"filme\":\"Batman\",\"similaridade\":1}]"
+		"similares": "[{\"filme\":\"Efeito Borboleta\",\"similaridade\":2},{\"filme\":\"Arrebentando em Nova York\",\"similaridade\":2},{\"filme\":\"A Princesa\",\"similaridade\":1},{\"filme\":\"Contrato Perigoso\",\"similaridade\":1},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":1}]"
 	},
 	{
 		"nome": "Além da Escuridão - Star Trek",
@@ -634,7 +712,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "5M",
 		"receita": "44.5M",
-		"similares": "[{\"filme\":\"Doutor Estranho no Multiverso da Loucura\",\"similaridade\":3},{\"filme\":\"Abandonada: O Mal Foi Eleito\",\"similaridade\":3},{\"filme\":\"Premonição 4\",\"similaridade\":3},{\"filme\":\"Music\",\"similaridade\":2},{\"filme\":\"Homem-Aranha: Sem Volta Para Casa\",\"similaridade\":2}]"
+		"similares": "[{\"filme\":\"Sedenta de Sangue\",\"similaridade\":3},{\"filme\":\"Abandonada: O Mal Foi Eleito\",\"similaridade\":3},{\"filme\":\"Premonição 4\",\"similaridade\":3},{\"filme\":\"Music\",\"similaridade\":2},{\"filme\":\"Homem-Aranha: Sem Volta Para Casa\",\"similaridade\":2}]"
 	},
 	{
 		"nome": "1911: A Revolução",
@@ -647,7 +725,7 @@
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": "30M",
 		"receita": "3.8M",
-		"similares": "[{\"filme\":\"Pânico\",\"similaridade\":4},{\"filme\":\"Cruella\",\"similaridade\":4},{\"filme\":\"O Homem do Norte\",\"similaridade\":3},{\"filme\":\"Inimigo Mortal\",\"similaridade\":3},{\"filme\":\"Karatê Kid\",\"similaridade\":3}]"
+		"similares": "[{\"filme\":\"Contrato Perigoso\",\"similaridade\":4},{\"filme\":\"Cruella\",\"similaridade\":4},{\"filme\":\"Morbius\",\"similaridade\":3},{\"filme\":\"Inimigo Mortal\",\"similaridade\":3},{\"filme\":\"Karatê Kid\",\"similaridade\":3}]"
 	},
 	{
 		"nome": "Os Agentes do Destino",
@@ -660,7 +738,7 @@
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "50.2M",
 		"receita": "127.9M",
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":11},{\"filme\":\"Premonição 4\",\"similaridade\":10},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":10},{\"filme\":\"Doutor Estranho no Multiverso da Loucura\",\"similaridade\":9},{\"filme\":\"Karatê Kid\",\"similaridade\":9}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":11},{\"filme\":\"Premonição 4\",\"similaridade\":10},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":10},{\"filme\":\"Sedenta de Sangue\",\"similaridade\":9},{\"filme\":\"Karatê Kid\",\"similaridade\":9}]"
 	},
 	{
 		"nome": "Premonição 5",
@@ -673,7 +751,7 @@
 		"resolucaoArmazenada": "1920x752",
 		"orcamento": "47M",
 		"receita": "157.9M",
-		"similares": "[{\"filme\":\"Interestelar\",\"similaridade\":169},{\"filme\":\"Meu Filho\",\"similaridade\":152},{\"filme\":\"Eternos\",\"similaridade\":152},{\"filme\":\"Morbius\",\"similaridade\":146},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":140}]"
+		"similares": "[{\"filme\":\"Interestelar\",\"similaridade\":169},{\"filme\":\"Meu Filho\",\"similaridade\":152},{\"filme\":\"Eternos\",\"similaridade\":152},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":146},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":140}]"
 	},
 	{
 		"nome": "Karatê Kid",
@@ -738,7 +816,7 @@
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
 		"receita": "10.6M",
-		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":17},{\"filme\":\"Eternos\",\"similaridade\":11},{\"filme\":\"Justiça Para Todos\",\"similaridade\":11},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":10},{\"filme\":\"Pânico\",\"similaridade\":9}]"
+		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":17},{\"filme\":\"Eternos\",\"similaridade\":11},{\"filme\":\"Justiça Para Todos\",\"similaridade\":11},{\"filme\":\"A Princesa\",\"similaridade\":10},{\"filme\":\"Além da Escuridão - Star Trek\",\"similaridade\":10}]"
 	},
 	{
 		"nome": "A Garota dos Meus Sonhos",
@@ -803,7 +881,7 @@
 		"resolucaoArmazenada": "1280x528",
 		"orcamento": "41M",
 		"receita": 0,
-		"similares": "[{\"filme\":\"Pânico\",\"similaridade\":1},{\"filme\":\"O Homem do Norte\",\"similaridade\":1},{\"filme\":\"Morbius\",\"similaridade\":1},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":1},{\"filme\":\"Batman\",\"similaridade\":1}]"
+		"similares": "[{\"filme\":\"A Princesa\",\"similaridade\":1},{\"filme\":\"Pânico\",\"similaridade\":1},{\"filme\":\"Contrato Perigoso\",\"similaridade\":1},{\"filme\":\"Morbius\",\"similaridade\":1},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":1}]"
 	},
 	{
 		"nome": "Bater ou Correr em Londres",
@@ -906,7 +984,7 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "60M",
 		"receita": "164.6M",
-		"similares": "[{\"filme\":\"Interestelar\",\"similaridade\":30},{\"filme\":\"Eternos\",\"similaridade\":29},{\"filme\":\"Morbius\",\"similaridade\":27},{\"filme\":\"Music\",\"similaridade\":24},{\"filme\":\"Meu Filho\",\"similaridade\":24}]"
+		"similares": "[{\"filme\":\"Interestelar\",\"similaridade\":30},{\"filme\":\"Eternos\",\"similaridade\":29},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":27},{\"filme\":\"Music\",\"similaridade\":24},{\"filme\":\"Meu Filho\",\"similaridade\":24}]"
 	},
 	{
 		"nome": "A Lenda do Cavaleiro Sem Cabeça",
@@ -1127,7 +1205,7 @@
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":32},{\"filme\":\"Justiça Para Todos\",\"similaridade\":26},{\"filme\":\"Interestelar\",\"similaridade\":23},{\"filme\":\"Meu Filho\",\"similaridade\":21},{\"filme\":\"Pânico\",\"similaridade\":19}]"
+		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":32},{\"filme\":\"Justiça Para Todos\",\"similaridade\":26},{\"filme\":\"Interestelar\",\"similaridade\":23},{\"filme\":\"Meu Filho\",\"similaridade\":21},{\"filme\":\"Contrato Perigoso\",\"similaridade\":19}]"
 	},
 	{
 		"nome": "A Casa do Espanto 2",
@@ -1179,7 +1257,7 @@
 		"resolucaoArmazenada": "1280x688",
 		"orcamento": "10M",
 		"receita": "20.6M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":40},{\"filme\":\"Eternos\",\"similaridade\":32},{\"filme\":\"Professor Marston e as Mulheres-Maravilhas\",\"similaridade\":32},{\"filme\":\"Interestelar\",\"similaridade\":31},{\"filme\":\"Morbius\",\"similaridade\":28}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":40},{\"filme\":\"Eternos\",\"similaridade\":32},{\"filme\":\"Professor Marston e as Mulheres-Maravilhas\",\"similaridade\":32},{\"filme\":\"Interestelar\",\"similaridade\":31},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":28}]"
 	},
 	{
 		"nome": "Olhos de Gato",
@@ -1257,7 +1335,7 @@
 		"resolucaoArmazenada": "1280x544",
 		"orcamento": "15M",
 		"receita": "19.6M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":40},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":34},{\"filme\":\"Eternos\",\"similaridade\":33},{\"filme\":\"Pânico\",\"similaridade\":32},{\"filme\":\"Interestelar\",\"similaridade\":31}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":40},{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":34},{\"filme\":\"Eternos\",\"similaridade\":33},{\"filme\":\"Contrato Perigoso\",\"similaridade\":32},{\"filme\":\"Interestelar\",\"similaridade\":31}]"
 	},
 	{
 		"nome": "O Veredicto",
@@ -1270,7 +1348,7 @@
 		"resolucaoArmazenada": "1920x1040",
 		"orcamento": "16M",
 		"receita": "54M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":56},{\"filme\":\"Eternos\",\"similaridade\":51},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":47},{\"filme\":\"Premonição 5\",\"similaridade\":44},{\"filme\":\"Music\",\"similaridade\":43}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":56},{\"filme\":\"Eternos\",\"similaridade\":51},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":47},{\"filme\":\"A Princesa\",\"similaridade\":44},{\"filme\":\"Premonição 5\",\"similaridade\":44}]"
 	},
 	{
 		"nome": "O Grande Lutador",
@@ -1283,7 +1361,7 @@
 		"resolucaoArmazenada": "1280x534",
 		"orcamento": 0,
 		"receita": 854,
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":87},{\"filme\":\"Interestelar\",\"similaridade\":86},{\"filme\":\"Meu Filho\",\"similaridade\":82},{\"filme\":\"Premonição 5\",\"similaridade\":70},{\"filme\":\"Pânico\",\"similaridade\":69}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":87},{\"filme\":\"Interestelar\",\"similaridade\":86},{\"filme\":\"Meu Filho\",\"similaridade\":82},{\"filme\":\"Premonição 5\",\"similaridade\":70},{\"filme\":\"Contrato Perigoso\",\"similaridade\":69}]"
 	},
 	{
 		"nome": "Justiça Para Todos",
@@ -1413,7 +1491,7 @@
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": "5M",
 		"receita": "5.4M",
-		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":44},{\"filme\":\"Meu Filho\",\"similaridade\":31},{\"filme\":\"Premonição 5\",\"similaridade\":27},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":25},{\"filme\":\"O Exorcista II: O Herege\",\"similaridade\":25}]"
+		"similares": "[{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":44},{\"filme\":\"Meu Filho\",\"similaridade\":31},{\"filme\":\"Premonição 5\",\"similaridade\":27},{\"filme\":\"A Princesa\",\"similaridade\":25},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":25}]"
 	},
 	{
 		"nome": "Os Doze Condenados",
@@ -1426,7 +1504,7 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "5.4M",
 		"receita": "45.3M",
-		"similares": "[{\"filme\":\"A Embriaguez do Sucesso\",\"similaridade\":18},{\"filme\":\"Meu Filho\",\"similaridade\":13},{\"filme\":\"Interestelar\",\"similaridade\":13},{\"filme\":\"Pânico\",\"similaridade\":11},{\"filme\":\"A Lenda do Cavaleiro Sem Cabeça\",\"similaridade\":11}]"
+		"similares": "[{\"filme\":\"A Embriaguez do Sucesso\",\"similaridade\":18},{\"filme\":\"Meu Filho\",\"similaridade\":13},{\"filme\":\"Interestelar\",\"similaridade\":13},{\"filme\":\"Contrato Perigoso\",\"similaridade\":11},{\"filme\":\"A Lenda do Cavaleiro Sem Cabeça\",\"similaridade\":11}]"
 	},
 	{
 		"nome": "O Vento Será Tua Herança",
@@ -1452,7 +1530,7 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":21},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":17},{\"filme\":\"Os Sete Samurais\",\"similaridade\":15},{\"filme\":\"Morbius\",\"similaridade\":14},{\"filme\":\"Eternos\",\"similaridade\":13}]"
+		"similares": "[{\"filme\":\"Thunderbolt: Ação Sobre Rodas\",\"similaridade\":21},{\"filme\":\"Efeito Borboleta 3: Revelação\",\"similaridade\":17},{\"filme\":\"Os Sete Samurais\",\"similaridade\":15},{\"filme\":\"Red: Crescer é Uma Fera\",\"similaridade\":14},{\"filme\":\"Eternos\",\"similaridade\":13}]"
 	},
 	{
 		"nome": "A Embriaguez do Sucesso",
@@ -1465,7 +1543,7 @@
 		"resolucaoArmazenada": "1200x720",
 		"orcamento": "3.4M",
 		"receita": "2.5M",
-		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":52},{\"filme\":\"Pânico\",\"similaridade\":50},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":49},{\"filme\":\"Eternos\",\"similaridade\":46},{\"filme\":\"Interestelar\",\"similaridade\":46}]"
+		"similares": "[{\"filme\":\"Meu Filho\",\"similaridade\":52},{\"filme\":\"Contrato Perigoso\",\"similaridade\":50},{\"filme\":\"Um Sonho de Liberdade\",\"similaridade\":49},{\"filme\":\"Eternos\",\"similaridade\":46},{\"filme\":\"Interestelar\",\"similaridade\":46}]"
 	},
 	{
 		"nome": "12 Homens e Uma Sentença",
