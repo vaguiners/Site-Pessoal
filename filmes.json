@@ -20,15 +20,15 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "A Garota dos Meus Sonhos",
+				"filme": "Primitivo",
 				"similaridade": 3
 			},
 			{
-				"filme": "Efeito Borboleta",
+				"filme": "Premonição 3",
 				"similaridade": 3
 			},
 			{
-				"filme": "Espião por Acidente",
+				"filme": "Cidade de Deus",
 				"similaridade": 2
 			}
 		]
@@ -54,7 +54,7 @@
 				"similaridade": 23
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 23
 			},
 			{
@@ -62,7 +62,7 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 18
 			}
 		]
@@ -88,7 +88,7 @@
 				"similaridade": 100
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 99
 			},
 			{
@@ -118,11 +118,11 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 9
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 8
 			},
 			{
@@ -130,7 +130,7 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 7
 			}
 		]
@@ -152,19 +152,19 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Primitivo",
+				"similaridade": 13
+			},
+			{
 				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 13
 			},
 			{
-				"filme": "Efeito Borboleta 2",
-				"similaridade": 13
-			},
-			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 12
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 10
 			}
 		]
@@ -182,11 +182,11 @@
 		"receita": "68.4M",
 		"similares": [
 			{
-				"filme": "Abandonada: O Mal Foi Eleito",
+				"filme": "Your Name.",
 				"similaridade": 3
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 3
 			},
 			{
@@ -220,7 +220,7 @@
 				"similaridade": 136
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 94
 			},
 			{
@@ -232,7 +232,7 @@
 				"similaridade": 87
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 85
 			}
 		]
@@ -254,11 +254,11 @@
 				"similaridade": 79
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 77
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 63
 			},
 			{
@@ -266,7 +266,7 @@
 				"similaridade": 58
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 57
 			}
 		]
@@ -288,11 +288,11 @@
 				"similaridade": 19
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 17
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 16
 			},
 			{
@@ -318,7 +318,7 @@
 		"receita": "18.9M",
 		"similares": [
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 136
 			},
 			{
@@ -326,7 +326,7 @@
 				"similaridade": 130
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 128
 			},
 			{
@@ -352,7 +352,7 @@
 		"receita": "770.8M",
 		"similares": [
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 7
 			},
 			{
@@ -360,7 +360,7 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 5
 			},
 			{
@@ -386,7 +386,7 @@
 		"receita": "400.8M",
 		"similares": [
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 8
 			},
 			{
@@ -394,7 +394,7 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Os Agentes do Destino",
+				"filme": "1911: A Revolução",
 				"similaridade": 6
 			},
 			{
@@ -424,15 +424,15 @@
 				"similaridade": 120
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 111
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 102
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 98
 			},
 			{
@@ -454,7 +454,7 @@
 		"receita": "953.2M",
 		"similares": [
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 129
 			},
 			{
@@ -488,7 +488,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 3
 			},
 			{
@@ -522,11 +522,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 29
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
 			},
 			{
@@ -534,7 +534,7 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 25
 			},
 			{
@@ -556,11 +556,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Premonição",
+				"filme": "Bater ou Correr",
 				"similaridade": 43
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 20
 			},
 			{
@@ -594,7 +594,7 @@
 				"similaridade": 144
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 143
 			},
 			{
@@ -606,7 +606,7 @@
 				"similaridade": 125
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 120
 			}
 		]
@@ -628,15 +628,15 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 8
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 7
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 7
 			},
 			{
@@ -658,7 +658,7 @@
 		"receita": "233.5M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 142
 			},
 			{
@@ -666,11 +666,11 @@
 				"similaridade": 125
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 121
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 114
 			},
 			{
@@ -708,7 +708,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "O Castelo de Vidro",
 				"similaridade": 1
 			}
 		]
@@ -726,7 +726,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 209
 			},
 			{
@@ -734,11 +734,11 @@
 				"similaridade": 169
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 158
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 156
 			},
 			{
@@ -760,7 +760,7 @@
 		"receita": "1.9B",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 127
 			},
 			{
@@ -776,7 +776,7 @@
 				"similaridade": 99
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 98
 			}
 		]
@@ -794,11 +794,11 @@
 		"receita": "432.2M",
 		"similares": [
 			{
-				"filme": "Your Name.",
+				"filme": "Mulher-Maravilha",
 				"similaridade": 3
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 3
 			},
 			{
@@ -832,11 +832,11 @@
 				"similaridade": 174
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 163
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 153
 			},
 			{
@@ -870,7 +870,7 @@
 				"similaridade": 62
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 61
 			},
 			{
@@ -900,11 +900,11 @@
 				"similaridade": 99
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 99
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 94
 			},
 			{
@@ -912,7 +912,7 @@
 				"similaridade": 94
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 86
 			}
 		]
@@ -938,7 +938,7 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 25
 			},
 			{
@@ -964,7 +964,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 50
 			},
 			{
@@ -976,11 +976,11 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 37
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 37
 			}
 		]
@@ -1006,7 +1006,7 @@
 				"similaridade": 61
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 56
 			},
 			{
@@ -1014,7 +1014,7 @@
 				"similaridade": 55
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 50
 			}
 		]
@@ -1078,11 +1078,11 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 4
 			},
 			{
-				"filme": "Efeito Borboleta 2",
+				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 4
 			}
 		]
@@ -1140,7 +1140,7 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 6
 			},
 			{
@@ -1162,11 +1162,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 23
 			},
 			{
-				"filme": "Your Name.",
+				"filme": "Mulher-Maravilha",
 				"similaridade": 20
 			},
 			{
@@ -1196,11 +1196,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Abandonada: O Mal Foi Eleito",
+				"filme": "Your Name.",
 				"similaridade": 5
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 3
 			},
 			{
@@ -1302,19 +1302,19 @@
 				"similaridade": 50
 			},
 			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 46
-			},
-			{
 				"filme": "Music",
 				"similaridade": 42
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 41
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 38
+			},
+			{
+				"filme": "Inocência Roubada",
 				"similaridade": 38
 			}
 		]
@@ -1336,7 +1336,7 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 4
 			},
 			{
@@ -1366,7 +1366,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 50
 			},
 			{
@@ -1378,11 +1378,11 @@
 				"similaridade": 45
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 43
 			},
 			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 42
 			}
 		]
@@ -1468,7 +1468,7 @@
 		"receita": "145.4M",
 		"similares": [
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 19
 			},
 			{
@@ -1502,24 +1502,24 @@
 		"receita": "1.6M",
 		"similares": [
 			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 113
+				"filme": "O Castelo de Vidro",
+				"similaridade": 54
 			},
 			{
-				"filme": "Music",
-				"similaridade": 105
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 48
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 41
 			},
 			{
 				"filme": "Premonição 5",
-				"similaridade": 104
+				"similaridade": 41
 			},
 			{
 				"filme": "Meu Filho",
-				"similaridade": 102
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 100
+				"similaridade": 40
 			}
 		]
 	},
@@ -1536,45 +1536,11 @@
 		"receita": "22.1M",
 		"similares": [
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 54
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 48
-			},
-			{
-				"filme": "Interestelar",
-				"similaridade": 41
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 41
-			},
-			{
-				"filme": "Meu Filho",
-				"similaridade": 40
-			}
-		]
-	},
-	{
-		"nome": "Mulher-Maravilha",
-		"duracao": "2:21:16",
-		"ano": 2017,
-		"score": 7.245,
-		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-		"videoid": "5f70735716416f436f5d4c",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "149M",
-		"receita": "821.8M",
-		"similares": [
-			{
-				"filme": "O Castelo de Vidro",
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 50
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 49
 			},
 			{
@@ -1592,6 +1558,40 @@
 		]
 	},
 	{
+		"nome": "Mulher-Maravilha",
+		"duracao": "2:21:16",
+		"ano": 2017,
+		"score": 7.245,
+		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+		"videoid": "5f70735716416f436f5d4c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "149M",
+		"receita": "821.8M",
+		"similares": [
+			{
+				"filme": "Premonição 5",
+				"similaridade": 61
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 55
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 54
+			},
+			{
+				"filme": "Premonição 4",
+				"similaridade": 45
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 44
+			}
+		]
+	},
+	{
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
@@ -1604,24 +1604,24 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Karatê Kid",
-				"similaridade": 61
-			},
-			{
-				"filme": "Interestelar",
-				"similaridade": 55
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 54
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 45
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 53
 			},
 			{
 				"filme": "Premonição 4",
-				"similaridade": 44
+				"similaridade": 51
+			},
+			{
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 43
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 41
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 41
 			}
 		]
 	},
@@ -1636,40 +1636,6 @@
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
 		"receita": 0,
-		"similares": [
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 53
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 51
-			},
-			{
-				"filme": "Arrebentando em Nova York",
-				"similaridade": 43
-			},
-			{
-				"filme": "Premonição 4",
-				"similaridade": 41
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 41
-			}
-		]
-	},
-	{
-		"nome": "O Jogo da Imitação",
-		"duracao": "1:54:14",
-		"ano": 2014,
-		"score": 8,
-		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
-		"videoid": "16700f64536b0f57640d03",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "14M",
-		"receita": "233.6M",
 		"similares": [
 			{
 				"filme": "Arrebentando em Nova York",
@@ -1688,22 +1654,22 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 9
 			}
 		]
 	},
 	{
-		"nome": "Boa Noite, Mamãe!",
-		"duracao": "1:39:55",
+		"nome": "O Jogo da Imitação",
+		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": 6.701,
-		"poster": "https://image.tmdb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
-		"videoid": "554d030873740c6b78784c",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": 0,
-		"receita": "2.2M",
+		"score": 8,
+		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
+		"videoid": "16700f64536b0f57640d03",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "14M",
+		"receita": "233.6M",
 		"similares": [
 			{
 				"filme": "Projeto China",
@@ -1719,6 +1685,40 @@
 		]
 	},
 	{
+		"nome": "Boa Noite, Mamãe!",
+		"duracao": "1:39:55",
+		"ano": 2014,
+		"score": 6.701,
+		"poster": "https://image.tmdb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
+		"videoid": "554d030873740c6b78784c",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": "2.2M",
+		"similares": [
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 236
+			},
+			{
+				"filme": "Meu Filho",
+				"similaridade": 211
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 197
+			},
+			{
+				"filme": "Premonição 5",
+				"similaridade": 187
+			},
+			{
+				"filme": "Premonição 4",
+				"similaridade": 187
+			}
+		]
+	},
+	{
 		"nome": "Interestelar",
 		"duracao": "2:49:04",
 		"ano": 2014,
@@ -1731,41 +1731,7 @@
 		"receita": "701.7M",
 		"similares": [
 			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 236
-			},
-			{
-				"filme": "Meu Filho",
-				"similaridade": 211
-			},
-			{
-				"filme": "Premonição 4",
-				"similaridade": 197
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 187
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 187
-			}
-		]
-	},
-	{
-		"nome": "O Lobo de Wall Street",
-		"duracao": "2:59:53",
-		"ano": 2013,
-		"score": 8.031,
-		"poster": "https://image.tmdb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
-		"videoid": "025e565a7a6b037a527158",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "100M",
-		"receita": "392M",
-		"similares": [
-			{
-				"filme": "Efeito Borboleta",
+				"filme": "Premonição 3",
 				"similaridade": 2
 			},
 			{
@@ -1787,6 +1753,40 @@
 		]
 	},
 	{
+		"nome": "O Lobo de Wall Street",
+		"duracao": "2:59:53",
+		"ano": 2013,
+		"score": 8.031,
+		"poster": "https://image.tmdb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
+		"videoid": "025e565a7a6b037a527158",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "100M",
+		"receita": "392M",
+		"similares": [
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 164
+			},
+			{
+				"filme": "Meu Filho",
+				"similaridade": 154
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 151
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 142
+			},
+			{
+				"filme": "Premonição 5",
+				"similaridade": 140
+			}
+		]
+	},
+	{
 		"nome": "Além da Escuridão - Star Trek",
 		"duracao": "2:12:07",
 		"ano": 2013,
@@ -1799,24 +1799,24 @@
 		"receita": "467.4M",
 		"similares": [
 			{
-				"filme": "Interestelar",
-				"similaridade": 164
+				"filme": "Sedenta de Sangue",
+				"similaridade": 3
 			},
 			{
-				"filme": "Meu Filho",
-				"similaridade": 154
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 151
-			},
-			{
-				"filme": "Premonição 4",
-				"similaridade": 142
+				"filme": "Your Name.",
+				"similaridade": 3
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 140
+				"similaridade": 3
+			},
+			{
+				"filme": "Music",
+				"similaridade": 2
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 2
 			}
 		]
 	},
@@ -1831,40 +1831,6 @@
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "5M",
 		"receita": "44.5M",
-		"similares": [
-			{
-				"filme": "Sedenta de Sangue",
-				"similaridade": 3
-			},
-			{
-				"filme": "Abandonada: O Mal Foi Eleito",
-				"similaridade": 3
-			},
-			{
-				"filme": "Premonição 4",
-				"similaridade": 3
-			},
-			{
-				"filme": "Music",
-				"similaridade": 2
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 2
-			}
-		]
-	},
-	{
-		"nome": "1911: A Revolução",
-		"duracao": "1:39:09",
-		"ano": 2011,
-		"score": 5.7,
-		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
-		"videoid": "5c716b577e73560f764a4c",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": "30M",
-		"receita": "3.8M",
 		"similares": [
 			{
 				"filme": "Contrato Perigoso",
@@ -1883,8 +1849,42 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 3
+			}
+		]
+	},
+	{
+		"nome": "1911: A Revolução",
+		"duracao": "1:39:09",
+		"ano": 2011,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
+		"videoid": "5c716b577e73560f764a4c",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "30M",
+		"receita": "3.8M",
+		"similares": [
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 11
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 10
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 10
+			},
+			{
+				"filme": "Sedenta de Sangue",
+				"similaridade": 9
+			},
+			{
+				"filme": "Premonição 5",
+				"similaridade": 9
 			}
 		]
 	},
@@ -1901,41 +1901,7 @@
 		"receita": "127.9M",
 		"similares": [
 			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 11
-			},
-			{
-				"filme": "Premonição 4",
-				"similaridade": 10
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 10
-			},
-			{
-				"filme": "Sedenta de Sangue",
-				"similaridade": 9
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 9
-			}
-		]
-	},
-	{
-		"nome": "Premonição 5",
-		"duracao": "1:31:50",
-		"ano": 2011,
-		"score": 6.1,
-		"poster": "https://image.tmdb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
-		"videoid": "616f7a7e0d7874165e5a4c",
-		"resolucaoArmazenada": "1920x752",
-		"orcamento": "47M",
-		"receita": "157.9M",
-		"similares": [
-			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 169
 			},
 			{
@@ -1957,6 +1923,40 @@
 		]
 	},
 	{
+		"nome": "Premonição 5",
+		"duracao": "1:31:50",
+		"ano": 2011,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
+		"videoid": "616f7a7e0d7874165e5a4c",
+		"resolucaoArmazenada": "1920x752",
+		"orcamento": "47M",
+		"receita": "157.9M",
+		"similares": [
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 183
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 176
+			},
+			{
+				"filme": "Meu Filho",
+				"similaridade": 161
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 160
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 145
+			}
+		]
+	},
+	{
 		"nome": "Karatê Kid",
 		"duracao": "2:20:02",
 		"ano": 2010,
@@ -1969,24 +1969,24 @@
 		"receita": "359.1M",
 		"similares": [
 			{
-				"filme": "Interestelar",
-				"similaridade": 183
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 191
 			},
 			{
 				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 176
+				"similaridade": 162
 			},
 			{
-				"filme": "Meu Filho",
-				"similaridade": 161
+				"filme": "Premonição 5",
+				"similaridade": 159
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 148
 			},
 			{
 				"filme": "Premonição 4",
-				"similaridade": 160
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 145
+				"similaridade": 148
 			}
 		]
 	},
@@ -2003,24 +2003,24 @@
 		"receita": "186.2M",
 		"similares": [
 			{
-				"filme": "Interestelar",
-				"similaridade": 191
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 188
 			},
 			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 162
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 180
+			},
+			{
+				"filme": "Meu Filho",
+				"similaridade": 148
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 159
+				"similaridade": 146
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 148
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 148
+				"filme": "Premonição 5",
+				"similaridade": 126
 			}
 		]
 	},
@@ -2037,24 +2037,24 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 188
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 28
 			},
 			{
-				"filme": "Interestelar",
-				"similaridade": 180
+				"filme": "Your Name.",
+				"similaridade": 24
 			},
 			{
 				"filme": "Meu Filho",
-				"similaridade": 148
+				"similaridade": 22
 			},
 			{
-				"filme": "Premonição 4",
-				"similaridade": 146
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 21
 			},
 			{
-				"filme": "Karatê Kid",
-				"similaridade": 126
+				"filme": "O Mundo dos Esquecidos",
+				"similaridade": 19
 			}
 		]
 	},
@@ -2069,40 +2069,6 @@
 		"resolucaoArmazenada": "1280x532",
 		"orcamento": "55M",
 		"receita": "127.9M",
-		"similares": [
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 28
-			},
-			{
-				"filme": "Abandonada: O Mal Foi Eleito",
-				"similaridade": 24
-			},
-			{
-				"filme": "Meu Filho",
-				"similaridade": 22
-			},
-			{
-				"filme": "Interestelar",
-				"similaridade": 21
-			},
-			{
-				"filme": "O Mundo dos Esquecidos",
-				"similaridade": 19
-			}
-		]
-	},
-	{
-		"nome": "Primitivo",
-		"duracao": "1:34:13",
-		"ano": 2007,
-		"score": 6.034,
-		"poster": "https://image.tmdb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
-		"videoid": "535479626e087f51526d5c",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": "10.6M",
 		"similares": [
 			{
 				"filme": "Um Sonho de Liberdade",
@@ -2121,22 +2087,22 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			}
 		]
 	},
 	{
-		"nome": "A Garota dos Meus Sonhos",
-		"duracao": "1:30:50",
-		"ano": 2006,
-		"score": 5.7,
-		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
-		"videoid": "7a6e75424d71567f424250",
-		"resolucaoArmazenada": "672x384",
+		"nome": "Primitivo",
+		"duracao": "1:34:13",
+		"ano": 2007,
+		"score": 6.034,
+		"poster": "https://image.tmdb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
+		"videoid": "535479626e087f51526d5c",
+		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": "944.5K",
+		"receita": "10.6M",
 		"similares": [
 			{
 				"filme": "Um Sonho de Liberdade",
@@ -2155,8 +2121,42 @@
 				"similaridade": 65
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 62
+			}
+		]
+	},
+	{
+		"nome": "A Garota dos Meus Sonhos",
+		"duracao": "1:30:50",
+		"ano": 2006,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
+		"videoid": "7a6e75424d71567f424250",
+		"resolucaoArmazenada": "672x384",
+		"orcamento": 0,
+		"receita": "944.5K",
+		"similares": [
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 87
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 64
+			},
+			{
+				"filme": "Meu Filho",
+				"similaridade": 63
+			},
+			{
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 63
+			},
+			{
+				"filme": "Premonição 4",
+				"similaridade": 55
 			}
 		]
 	},
@@ -2171,40 +2171,6 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "6M",
 		"receita": 0,
-		"similares": [
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 87
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 64
-			},
-			{
-				"filme": "Meu Filho",
-				"similaridade": 63
-			},
-			{
-				"filme": "Arrebentando em Nova York",
-				"similaridade": 63
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 55
-			}
-		]
-	},
-	{
-		"nome": "Premonição 3",
-		"duracao": "1:32:50",
-		"ano": 2006,
-		"score": 6.1,
-		"poster": "https://image.tmdb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
-		"videoid": "554c510a596948717a4c58",
-		"resolucaoArmazenada": "1920x1020",
-		"orcamento": "25M",
-		"receita": "118.9M",
 		"similares": [
 			{
 				"filme": "Um Violinista no Telhado",
@@ -2229,19 +2195,19 @@
 		]
 	},
 	{
-		"nome": "Efeito Borboleta",
-		"duracao": "1:59:38",
-		"ano": 2004,
-		"score": 7.545,
-		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
-		"videoid": "4a6352024c7448640d4154",
-		"resolucaoArmazenada": "1920x1072",
-		"orcamento": "13M",
-		"receita": "96.1M",
+		"nome": "Premonição 3",
+		"duracao": "1:32:50",
+		"ano": 2006,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
+		"videoid": "554c510a596948717a4c58",
+		"resolucaoArmazenada": "1920x1020",
+		"orcamento": "25M",
+		"receita": "118.9M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 5
 			},
 			{
@@ -2263,16 +2229,16 @@
 		]
 	},
 	{
-		"nome": "O Medalhão",
-		"duracao": "1:28:28",
-		"ano": 2003,
-		"score": 5.6,
-		"poster": "https://image.tmdb.org/t/p/w200/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/5GDwpS7FFnlkqLFtT06A93zOTRG.jpg",
-		"videoid": "6a414e0c61544f4e545503",
-		"resolucaoArmazenada": "1280x528",
-		"orcamento": "41M",
-		"receita": 0,
+		"nome": "Efeito Borboleta",
+		"duracao": "1:59:38",
+		"ano": 2004,
+		"score": 7.545,
+		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
+		"videoid": "4a6352024c7448640d4154",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "13M",
+		"receita": "96.1M",
 		"similares": [
 			{
 				"filme": "A Princesa",
@@ -2297,6 +2263,18 @@
 		]
 	},
 	{
+		"nome": "O Medalhão",
+		"duracao": "1:28:28",
+		"ano": 2003,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5GDwpS7FFnlkqLFtT06A93zOTRG.jpg",
+		"videoid": "6a414e0c61544f4e545503",
+		"resolucaoArmazenada": "1280x528",
+		"orcamento": "41M",
+		"receita": 0
+	},
+	{
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
 		"ano": 2003,
@@ -2306,7 +2284,29 @@
 		"videoid": "0f790b52584d5e08710258",
 		"resolucaoArmazenada": "1920x824",
 		"orcamento": "50M",
-		"receita": "88.3M"
+		"receita": "88.3M",
+		"similares": [
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 25
+			},
+			{
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 14
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 12
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 10
+			},
+			{
+				"filme": "Primitivo",
+				"similaridade": 10
+			}
+		]
 	},
 	{
 		"nome": "Premonição 2",
@@ -2322,23 +2322,23 @@
 		"similares": [
 			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 25
+				"similaridade": 31
 			},
 			{
-				"filme": "Arrebentando em Nova York",
-				"similaridade": 14
+				"filme": "Meu Filho",
+				"similaridade": 30
 			},
 			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 12
+				"filme": "Eternos",
+				"similaridade": 22
 			},
 			{
 				"filme": "Premonição 4",
-				"similaridade": 10
+				"similaridade": 21
 			},
 			{
 				"filme": "A Garota dos Meus Sonhos",
-				"similaridade": 10
+				"similaridade": 20
 			}
 		]
 	},
@@ -2355,24 +2355,24 @@
 		"receita": "30.6M",
 		"similares": [
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 31
+				"filme": "Perdedores e Vencedores",
+				"similaridade": 40
 			},
 			{
-				"filme": "Meu Filho",
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 36
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 35
+			},
+			{
+				"filme": "O Grande Lutador",
 				"similaridade": 30
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 22
-			},
-			{
-				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 21
-			},
-			{
-				"filme": "Efeito Borboleta 2",
-				"similaridade": 20
+				"similaridade": 29
 			}
 		]
 	},
@@ -2389,45 +2389,11 @@
 		"receita": "790.1K",
 		"similares": [
 			{
-				"filme": "Perdedores e Vencedores",
-				"similaridade": 40
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 36
-			},
-			{
-				"filme": "Interestelar",
-				"similaridade": 35
-			},
-			{
-				"filme": "O Grande Lutador",
-				"similaridade": 30
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 29
-			}
-		]
-	},
-	{
-		"nome": "A Viagem de Chihiro",
-		"duracao": "2:04:34",
-		"ano": 2001,
-		"score": 8.5,
-		"poster": "https://image.tmdb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
-		"videoid": "580c646a686f5c7656430b",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": "19M",
-		"receita": "274.9M",
-		"similares": [
-			{
-				"filme": "Efeito Borboleta 2",
+				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 18
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 13
 			},
 			{
@@ -2445,6 +2411,40 @@
 		]
 	},
 	{
+		"nome": "A Viagem de Chihiro",
+		"duracao": "2:04:34",
+		"ano": 2001,
+		"score": 8.5,
+		"poster": "https://image.tmdb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
+		"videoid": "580c646a686f5c7656430b",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "19M",
+		"receita": "274.9M",
+		"similares": [
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 16
+			},
+			{
+				"filme": "A Garota dos Meus Sonhos",
+				"similaridade": 12
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 10
+			},
+			{
+				"filme": "Premonição 5",
+				"similaridade": 10
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 9
+			}
+		]
+	},
+	{
 		"nome": "Bater ou Correr",
 		"duracao": "1:50:18",
 		"ano": 2000,
@@ -2455,40 +2455,6 @@
 		"resolucaoArmazenada": "1920x824",
 		"orcamento": "55M",
 		"receita": "56.9M",
-		"similares": [
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 16
-			},
-			{
-				"filme": "Efeito Borboleta 2",
-				"similaridade": 12
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 10
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 10
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 9
-			}
-		]
-	},
-	{
-		"nome": "Premonição",
-		"duracao": "1:38:03",
-		"ano": 2000,
-		"score": 6.6,
-		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
-		"videoid": "744c5873645e0f16747e0b",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "23M",
-		"receita": "112.9M",
 		"similares": [
 			{
 				"filme": "A Liga de Monstros",
@@ -2507,25 +2473,25 @@
 				"similaridade": 30
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 28
 			}
 		]
 	},
 	{
-		"nome": "Do Fundo do Mar",
-		"duracao": "1:45:01",
-		"ano": 1999,
-		"score": 5.9,
-		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
-		"videoid": "7677430c0c6c755d694a6e",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "60M",
-		"receita": "164.6M",
+		"nome": "Premonição",
+		"duracao": "1:38:03",
+		"ano": 2000,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
+		"videoid": "744c5873645e0f16747e0b",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "23M",
+		"receita": "112.9M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 30
 			},
 			{
@@ -2547,19 +2513,19 @@
 		]
 	},
 	{
-		"nome": "A Lenda do Cavaleiro Sem Cabeça",
-		"duracao": "1:45:31",
+		"nome": "Do Fundo do Mar",
+		"duracao": "1:45:01",
 		"ano": 1999,
-		"score": 7.1,
-		"poster": "https://image.tmdb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
-		"videoid": "6950615859166b717f7576",
-		"resolucaoArmazenada": "1920x1072",
-		"orcamento": "100M",
-		"receita": "206.1M",
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
+		"videoid": "7677430c0c6c755d694a6e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "60M",
+		"receita": "164.6M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 41
 			},
 			{
@@ -2567,7 +2533,7 @@
 				"similaridade": 35
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 31
 			},
 			{
@@ -2581,19 +2547,19 @@
 		]
 	},
 	{
-		"nome": "Quem Sou Eu?",
-		"duracao": "1:48:02",
-		"ano": 1998,
+		"nome": "A Lenda do Cavaleiro Sem Cabeça",
+		"duracao": "1:45:31",
+		"ano": 1999,
 		"score": 7.1,
-		"poster": "https://image.tmdb.org/t/p/w200/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/dlyeSZD92Arha6XVBteyNNaPi19.jpg",
-		"videoid": "4364415d037e16796b767a",
-		"resolucaoArmazenada": "1278x720",
-		"orcamento": 0,
-		"receita": 0,
+		"poster": "https://image.tmdb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
+		"videoid": "6950615859166b717f7576",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "100M",
+		"receita": "206.1M",
 		"similares": [
 			{
-				"filme": "Efeito Borboleta 2",
+				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 62
 			},
 			{
@@ -2631,19 +2597,19 @@
 				"similaridade": 58
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 52
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 49
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 47
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 46
 			}
 		]
@@ -2677,7 +2643,7 @@
 				"similaridade": 34
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 32
 			}
 		]
@@ -2699,7 +2665,7 @@
 				"similaridade": 49
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 46
 			},
 			{
@@ -2711,7 +2677,7 @@
 				"similaridade": 41
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 41
 			}
 		]
@@ -2733,7 +2699,7 @@
 				"similaridade": 96
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 77
 			},
 			{
@@ -2763,19 +2729,19 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 235
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 195
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 181
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 163
 			},
 			{
@@ -2831,15 +2797,15 @@
 		"receita": "30.1M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 80
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 78
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 67
 			},
 			{
@@ -2869,7 +2835,7 @@
 				"similaridade": 131
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 123
 			},
 			{
@@ -2911,7 +2877,7 @@
 				"similaridade": 28
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 25
 			},
 			{
@@ -2933,7 +2899,7 @@
 		"receita": "215.9M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 102
 			},
 			{
@@ -2945,7 +2911,7 @@
 				"similaridade": 84
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 82
 			},
 			{
@@ -2975,15 +2941,15 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 18
+			},
+			{
+				"filme": "Premonição 5",
 				"similaridade": 18
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 18
-			},
-			{
-				"filme": "Premonição 4",
 				"similaridade": 18
 			}
 		]
@@ -3001,7 +2967,7 @@
 		"receita": "39M",
 		"similares": [
 			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"filme": "Do Fundo do Mar",
 				"similaridade": 11
 			},
 			{
@@ -3017,7 +2983,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 9
 			}
 		]
@@ -3043,15 +3009,15 @@
 				"similaridade": 27
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 23
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 23
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 21
 			}
 		]
@@ -3077,7 +3043,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 37
 			},
 			{
@@ -3111,7 +3077,7 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 23
 			},
 			{
@@ -3153,7 +3119,7 @@
 				"similaridade": 59
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 57
 			}
 		]
@@ -3183,7 +3149,7 @@
 				"similaridade": 16
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 10
 			},
 			{
@@ -3221,7 +3187,7 @@
 				"similaridade": 68
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 65
 			}
 		]
@@ -3247,15 +3213,15 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 32
-			},
-			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 31
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 28
+			},
+			{
+				"filme": "Music",
 				"similaridade": 28
 			}
 		]
@@ -3273,7 +3239,7 @@
 		"receita": "13.1M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 41
 			},
 			{
@@ -3315,7 +3281,7 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 36
 			},
 			{
@@ -3349,7 +3315,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 35
 			},
 			{
@@ -3375,7 +3341,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 65
 			},
 			{
@@ -3391,7 +3357,7 @@
 				"similaridade": 59
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 56
 			}
 		]
@@ -3409,7 +3375,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 23
 			},
 			{
@@ -3459,7 +3425,7 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 31
 			}
 		]
@@ -3493,7 +3459,7 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 44
 			}
 		]
@@ -3515,7 +3481,7 @@
 				"similaridade": 87
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 86
 			},
 			{
@@ -3523,7 +3489,7 @@
 				"similaridade": 82
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 70
 			},
 			{
@@ -3557,11 +3523,11 @@
 				"similaridade": 57
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 56
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 54
 			}
 		]
@@ -3583,7 +3549,7 @@
 				"similaridade": 71
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 64
 			},
 			{
@@ -3595,7 +3561,7 @@
 				"similaridade": 61
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 50
 			}
 		]
@@ -3629,7 +3595,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "A Garota dos Meus Sonhos",
+				"filme": "Primitivo",
 				"similaridade": 35
 			}
 		]
@@ -3693,7 +3659,7 @@
 				"similaridade": 71
 			},
 			{
-				"filme": "A Garota dos Meus Sonhos",
+				"filme": "Primitivo",
 				"similaridade": 55
 			},
 			{
@@ -3719,7 +3685,7 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 28
 			},
 			{
@@ -3753,11 +3719,11 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 1
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 1
 			},
 			{
@@ -3859,7 +3825,7 @@
 				"similaridade": 31
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 27
 			},
 			{
@@ -3867,7 +3833,7 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 25
 			}
 		]
@@ -3893,7 +3859,7 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 13
 			},
 			{
@@ -3901,7 +3867,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"filme": "Do Fundo do Mar",
 				"similaridade": 11
 			}
 		]
@@ -3923,7 +3889,7 @@
 				"similaridade": 22
 			},
 			{
-				"filme": "Espião por Acidente",
+				"filme": "Cidade de Deus",
 				"similaridade": 13
 			},
 			{
@@ -3931,7 +3897,7 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 12
 			},
 			{
@@ -3957,7 +3923,7 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Premonição 4",
 				"similaridade": 17
 			},
 			{
@@ -4003,7 +3969,7 @@
 				"similaridade": 46
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 46
 			}
 		]
@@ -4059,11 +4025,11 @@
 				"similaridade": 46
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Os Agentes do Destino",
 				"similaridade": 42
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 41
 			},
 			{
@@ -4089,7 +4055,7 @@
 		"receita": "9.6M",
 		"similares": [
 			{
-				"filme": "Efeito Borboleta 2",
+				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 25
 			},
 			{
@@ -4105,7 +4071,7 @@
 				"similaridade": 19
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 18
 			}
 		]
@@ -4165,7 +4131,7 @@
 				"similaridade": 51
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 43
 			},
 			{
@@ -4203,7 +4169,7 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Efeito Borboleta 2",
+				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 17
 			},
 			{
@@ -4225,19 +4191,19 @@
 		"receita": "23.2M",
 		"similares": [
 			{
-				"filme": "Interestelar",
+				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 148
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 147
 			},
 			{
-				"filme": "Karatê Kid",
+				"filme": "Premonição 5",
 				"similaridade": 144
 			},
 			{
-				"filme": "Premonição 4",
+				"filme": "Karatê Kid",
 				"similaridade": 137
 			},
 			{
