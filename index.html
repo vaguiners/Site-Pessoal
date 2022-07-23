@@ -11,7 +11,13 @@ video {position:absolute;display:none;}
 #OverlayDIV {pointer-events:none;width:733px;height:300px;position:absolute;overflow:hidden;display:none;}
 input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;position:absolute;display:none;pointer-events:none;border:0;}
 </style>
-<div id="OverlayDIV"><img width="200" height="300" id="posterOverlay"><div id="divDescricao"><img id="OverlayBackdrop"><fieldset><legend>Arquivo</legend>Resolu&ccedil;&atilde;o armazenada: <a id="resolucaoArmazenada">0x0</a>. (Transmite em 360p) </fieldset></div></div>
+<div id="OverlayDIV"><img width="200" height="300" id="posterOverlay"><div id="divDescricao"><img id="OverlayBackdrop">
+<fieldset><legend>Arquivo</legend>Resolu&ccedil;&atilde;o armazenada: <a id="resolucaoArmazenada">0x0</a>. (Transmite em 360p) </fieldset>
+<br>
+<fieldset id="fieldsimilares"><legend>Similares</legend>
+<table id="TabelaDeSimilares"></table>
+</fieldset>
+</div></div>
 <input oninput="FiltrarTabela(this.value)" type="text" id="InputBusca">
 <video width="640" height="360" id="player" controls autoplay preload="auto"></video>
 <table id="TabelaDeFilmes">
@@ -26,11 +32,13 @@ input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;posit
 <script>
 //Aviso de incompatibilidade com smartphones
 if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
-	document.write("<h1 style=text-align:center;width:100%;background-color:orange>Site não optmizado para celulares</h1>");
+	document.write("<h1 style=text-align:center;width:100%;background-color:orange>Site infuncional em celulares</h1>");
 }
 
 //Variáveis permanentes
 Tabela = document.getElementById("TabelaDeFilmes");
+fieldsimilares = document.getElementById("fieldsimilares");
+TabelaDeSimilares = document.getElementById("TabelaDeSimilares");
 Player = document.getElementById("player");
 PosterOverlay = document.getElementById("posterOverlay");
 OverlayDIV = document.getElementById("OverlayDIV");
@@ -57,6 +65,9 @@ function AdicionarFilme(filme) {
 	cell1.dataset.poster=filme.poster;
 	cell1.dataset.background=filme.background;
 	cell1.dataset.resolucaoArmazenada=filme.resolucaoArmazenada;
+	if (filme.similares) {
+		cell1.dataset.similares=filme.similares;
+	}
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
@@ -108,7 +119,20 @@ document.addEventListener('mousemove', function(event) {
 	event.preventDefault();
 	InputBusca.style.display = "none";
 	if (event.target.dataset.poster) {
-		console.log(event)
+		TabelaDeSimilares.innerHTML = "";
+		if (event.target.dataset.similares) {
+			fieldsimilares.style.display = "block";
+			tagssimilares = JSON.parse(event.target.dataset.similares)
+			for (index in tagssimilares) {
+				if (tagssimilares[index]) {
+					if (tagssimilares[index].filme) {
+					TabelaDeSimilares.innerHTML+= "<tr><td>"+tagssimilares[index].filme+"</td><td>"+tagssimilares[index].similaridade+" tags</td></tr>";
+					}
+				}
+			}
+		} else {
+			fieldsimilares.style.display = "none";
+		}
 		posterOverlay.src=event.target.dataset.poster;
 		OverlayDIV.style.left = event.pageX+10 + 'px';
 		OverlayDIV.style.display = "block";
