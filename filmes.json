@@ -48,6 +48,10 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 18
 			},
@@ -65,10 +69,6 @@
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 14
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 14
 			}
 		]
@@ -98,6 +98,10 @@
 				"similaridade": 95
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 94
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 91
 			},
@@ -112,10 +116,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 71
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 68
 			}
 		]
 	},
@@ -144,6 +144,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 6
+			},
+			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 6
 			},
@@ -158,10 +162,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 6
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 5
 			}
 		]
 	},
@@ -186,6 +186,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 5
+			},
+			{
 				"filme": "Karatê Kid",
 				"similaridade": 5
 			},
@@ -194,19 +198,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 4
+			},
+			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 4
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 4
 			}
 		]
@@ -236,6 +236,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			},
@@ -249,10 +253,6 @@
 			},
 			{
 				"filme": "Lindinhas",
-				"similaridade": 4
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 4
 			}
 		]
@@ -272,6 +272,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 124
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 90
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -296,10 +300,6 @@
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 70
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 68
 			}
 		]
 	},
@@ -307,7 +307,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.216,
+		"score": 7.212,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -322,6 +322,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 68
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 60
 			},
 			{
 				"filme": "Eternos",
@@ -340,12 +344,8 @@
 				"similaridade": 45
 			},
 			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 40
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 38
+				"filme": "Mate ou Morra",
+				"similaridade": 43
 			}
 		]
 	},
@@ -353,7 +353,7 @@
 		"nome": "Contrato Perigoso",
 		"duracao": "1:43:39",
 		"ano": 2022,
-		"score": 6.527,
+		"score": 6.525,
 		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
 		"videoid": "640c624c0b52410d5e5876",
@@ -361,6 +361,10 @@
 		"orcamento": 0,
 		"receita": "2.1M",
 		"similares": [
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 16
+			},
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 16
@@ -388,10 +392,6 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 11
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 11
 			}
 		]
 	},
@@ -399,7 +399,7 @@
 		"nome": "Morbius",
 		"duracao": "1:44:10",
 		"ano": 2022,
-		"score": 6.441,
+		"score": 6.442,
 		"poster": "https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
 		"videoid": "085c52026e696b777c744c",
@@ -420,6 +420,14 @@
 				"similaridade": 96
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 90
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 89
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 87
 			},
@@ -430,14 +438,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 83
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 82
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 82
 			}
 		]
 	},
@@ -445,7 +445,7 @@
 		"nome": "As Agentes 355",
 		"duracao": "2:02:43",
 		"ano": 2022,
-		"score": 6.1,
+		"score": 6.096,
 		"poster": "https://image.tmdb.org/t/p/w200/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
 		"videoid": "58520854496a4e6a786976",
@@ -482,8 +482,8 @@
 				"similaridade": 93
 			},
 			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 87
+				"filme": "Mate ou Morra",
+				"similaridade": 88
 			}
 		]
 	},
@@ -491,7 +491,7 @@
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
 		"ano": 2022,
-		"score": 7.5,
+		"score": 7.502,
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
 		"videoid": "574a7e6c7d6a586d6c7203",
@@ -554,6 +554,10 @@
 				"similaridade": 156
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 142
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 142
 			},
@@ -572,10 +576,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 138
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 133
 			}
 		]
 	},
@@ -583,7 +583,7 @@
 		"nome": "Uncharted: Fora do Mapa",
 		"duracao": "1:55:57",
 		"ano": 2022,
-		"score": 7.136,
+		"score": 7.137,
 		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
 		"videoid": "755d78720a7851530c7d72",
@@ -594,6 +594,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 96
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 94
 			},
 			{
 				"filme": "Batman",
@@ -618,10 +622,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 72
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 70
 			}
 		]
 	},
@@ -642,11 +642,17 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Liga da Justiça: A Nova Fronteira",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
+			},
+			{
 				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 1
 			},
-			null,
-			null,
 			null,
 			null,
 			null,
@@ -657,7 +663,7 @@
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.503,
+		"score": 7.505,
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -690,12 +696,58 @@
 				"similaridade": 100
 			},
 			{
-				"filme": "Morbius",
-				"similaridade": 83
+				"filme": "Mate ou Morra",
+				"similaridade": 95
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
+				"filme": "Morbius",
 				"similaridade": 83
+			}
+		]
+	},
+	{
+		"nome": "Mate ou Morra",
+		"duracao": "1:41:00",
+		"ano": 2021,
+		"score": 6.883,
+		"poster": "https://image.tmdb.org/t/p/w200/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
+		"videoid": "027e71754d0f694262787a",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "45M",
+		"receita": "2M",
+		"similares": [
+			{
+				"filme": "Tenet",
+				"similaridade": 148
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 147
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 142
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 129
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 126
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 113
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 110
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 105
 			}
 		]
 	},
@@ -881,7 +933,7 @@
 		"nome": "A Liga de Monstros",
 		"duracao": "1:35:50",
 		"ano": 2021,
-		"score": 6.9,
+		"score": 6.856,
 		"poster": "https://image.tmdb.org/t/p/w200/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/vbcjMsuQs1BbM9vjAY3rjBvhPlg.jpg",
 		"videoid": "4c4a69715653596c4b5c03",
@@ -914,11 +966,11 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Pânico",
+				"filme": "A Morte do Superman",
 				"similaridade": 3
 			},
 			{
-				"filme": "Morbius",
+				"filme": "Pânico",
 				"similaridade": 3
 			}
 		]
@@ -948,6 +1000,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 4
 			},
@@ -962,10 +1018,6 @@
 			{
 				"filme": "Interestelar",
 				"similaridade": 4
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 3
 			}
 		]
 	},
@@ -1002,16 +1054,16 @@
 				"similaridade": 95
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 92
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 91
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 85
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 81
+				"filme": "A Morte do Superman",
+				"similaridade": 86
 			}
 		]
 	},
@@ -1065,7 +1117,7 @@
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
 		"ano": 2021,
-		"score": 8.271,
+		"score": 8.27,
 		"poster": "https://image.tmdb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
 		"videoid": "4c52736c490869486e417a",
@@ -1090,6 +1142,10 @@
 				"similaridade": 169
 			},
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 165
+			},
+			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 164
 			},
@@ -1100,10 +1156,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 151
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 139
 			}
 		]
 	},
@@ -1111,7 +1163,7 @@
 		"nome": "Meu Filho",
 		"duracao": "1:36:22",
 		"ano": 2021,
-		"score": 6.3,
+		"score": 6.29,
 		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
 		"videoid": "480c0b5143097008785f0f",
@@ -1122,6 +1174,10 @@
 			{
 				"filme": "O Problema de Nascer",
 				"similaridade": 2
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
 			},
 			{
 				"filme": "Operação Dragão",
@@ -1146,10 +1202,6 @@
 			{
 				"filme": "Morbius",
 				"similaridade": 1
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1157,7 +1209,7 @@
 		"nome": "Homem-Aranha: Sem Volta Para Casa",
 		"duracao": "2:28:10",
 		"ano": 2021,
-		"score": 8.053,
+		"score": 8.052,
 		"poster": "https://image.tmdb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"videoid": "5c6c7c704c526a6c434b03",
@@ -1194,8 +1246,8 @@
 				"similaridade": 111
 			},
 			{
-				"filme": "Morbius",
-				"similaridade": 96
+				"filme": "A Morte do Superman",
+				"similaridade": 100
 			}
 		]
 	},
@@ -1240,7 +1292,7 @@
 				"similaridade": 111
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
+				"filme": "Mate ou Morra",
 				"similaridade": 110
 			}
 		]
@@ -1492,6 +1544,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 3
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 3
 			},
@@ -1513,10 +1569,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 2
-			},
-			{
-				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 2
 			}
 		]
@@ -1584,6 +1636,10 @@
 				"similaridade": 158
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 148
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 144
 			},
@@ -1606,10 +1662,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 115
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 111
 			}
 		]
 	},
@@ -1650,12 +1702,12 @@
 				"similaridade": 110
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 96
+				"filme": "A Morte do Superman",
+				"similaridade": 99
 			},
 			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 95
+				"filme": "Mate ou Morra",
+				"similaridade": 97
 			}
 		]
 	},
@@ -1718,6 +1770,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 1
 			},
@@ -1733,7 +1789,6 @@
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 1
 			},
-			null,
 			null,
 			null,
 			null
@@ -2060,16 +2115,16 @@
 				"similaridade": 115
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 113
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 110
 			},
 			{
 				"filme": "As Agentes 355",
 				"similaridade": 102
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 101
 			}
 		]
 	},
@@ -2094,6 +2149,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Reino Proibido",
 				"similaridade": 2
 			},
@@ -2106,15 +2165,11 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 1
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 1
 			}
 		]
@@ -2144,6 +2199,10 @@
 				"similaridade": 139
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 129
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 127
 			},
@@ -2158,10 +2217,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 107
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 105
 			}
 		]
 	},
@@ -2298,8 +2353,8 @@
 				"similaridade": 127
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 115
+				"filme": "Mate ou Morra",
+				"similaridade": 126
 			}
 		]
 	},
@@ -2340,11 +2395,11 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Duna",
+				"filme": "Mate ou Morra",
 				"similaridade": 5
 			},
 			{
-				"filme": "O Reino Proibido",
+				"filme": "Gladiador",
 				"similaridade": 5
 			}
 		]
@@ -2353,7 +2408,7 @@
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
-		"score": 8.5,
+		"score": 8.529,
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
@@ -2436,7 +2491,7 @@
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": 8,
+		"score": 8.016,
 		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
@@ -2528,7 +2583,7 @@
 		"nome": "Interestelar",
 		"duracao": "2:49:04",
 		"ano": 2014,
-		"score": 8.372,
+		"score": 8.371,
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
 		"videoid": "4e72735909710955495650",
@@ -2557,15 +2612,15 @@
 				"similaridade": 56
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 54
+			},
+			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 52
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 46
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 46
 			}
 		]
@@ -2574,7 +2629,7 @@
 		"nome": "O Lobo de Wall Street",
 		"duracao": "2:59:53",
 		"ano": 2013,
-		"score": 8.03,
+		"score": 8.031,
 		"poster": "https://image.tmdb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
 		"videoid": "025e565a7a6b037a527158",
@@ -2595,6 +2650,10 @@
 				"similaridade": 95
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 87
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 87
 			},
@@ -2609,10 +2668,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 78
-			},
-			{
-				"filme": "Cruella",
-				"similaridade": 70
 			}
 		]
 	},
@@ -2620,7 +2675,7 @@
 		"nome": "Além da Escuridão - Star Trek",
 		"duracao": "2:12:07",
 		"ano": 2013,
-		"score": 7.3,
+		"score": 7.334,
 		"poster": "https://image.tmdb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
 		"videoid": "085262026c0969420e4e7e",
@@ -2635,6 +2690,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 91
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 81
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
@@ -2655,10 +2714,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 73
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 71
 			}
 		]
 	},
@@ -2733,6 +2788,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 22
 			},
@@ -2746,10 +2805,6 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 20
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 20
 			}
 		]
@@ -2833,16 +2888,16 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 18
 			},
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 17
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 16
 			}
 		]
 	},
@@ -2850,7 +2905,7 @@
 		"nome": "Karatê Kid",
 		"duracao": "2:20:02",
 		"ano": 2010,
-		"score": 6.5,
+		"score": 6.491,
 		"poster": "https://image.tmdb.org/t/p/w200/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wwkpQnhi1TXnB3YTZdHeeBpuHs4.jpg",
 		"videoid": "62587e02725e036161680f",
@@ -2871,6 +2926,10 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 33
+			},
+			{
 				"filme": "Operação Dragão",
 				"similaridade": 32
 			},
@@ -2885,10 +2944,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 30
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 29
 			}
 		]
 	},
@@ -2921,6 +2976,10 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 33
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 31
 			},
@@ -2931,10 +2990,6 @@
 			{
 				"filme": "Premonição 5",
 				"similaridade": 29
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 27
 			}
 		]
 	},
@@ -2967,6 +3022,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 18
 			},
@@ -2977,10 +3036,98 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Liga da Justiça: A Nova Fronteira",
+		"duracao": "1:14:55",
+		"ano": 2008,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4Gbbj2bUNKi2Bfc5EOhbXomaeBo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qkdmZFwy8wTGEHgPAS1HX2lOdK6.jpg",
+		"videoid": "715f6864794d41690f5348",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "3.5M",
+		"receita": "5.2M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 49
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 15
+				"filme": "A Morte do Superman",
+				"similaridade": 26
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 24
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 23
+			},
+			{
+				"filme": "Batman: O Cavaleiro de Gotham",
+				"similaridade": 22
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 19
+			}
+		]
+	},
+	{
+		"nome": "Batman: O Cavaleiro de Gotham",
+		"duracao": "1:16:00",
+		"ano": 2008,
+		"score": 6.7,
+		"poster": "https://image.tmdb.org/t/p/w200/jbsN2F0V0QIts4XFlCRKXOF3bAX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ng7VxyF0xl2d7ApM7Jo3lvH2LkG.jpg",
+		"videoid": "6c0b5e6c095f6869425a72",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "3.5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 55
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 37
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 30
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 27
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 23
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 23
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "Liga da Justiça: A Nova Fronteira",
+				"similaridade": 22
 			}
 		]
 	},
@@ -3031,6 +3178,52 @@
 		]
 	},
 	{
+		"nome": "A Morte do Superman",
+		"duracao": "1:17:42",
+		"ano": 2007,
+		"score": 6.7,
+		"poster": "https://image.tmdb.org/t/p/w200/wcF16pLROx0MVxVqcCMX2SRmdv3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
+		"videoid": "5357564e0d620f577a6c62",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "3.5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 164
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 129
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 114
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 102
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 101
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 100
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 100
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 99
+			}
+		]
+	},
+	{
 		"nome": "Primitivo",
 		"duracao": "1:34:13",
 		"ano": 2007,
@@ -3045,6 +3238,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 31
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 30
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -3069,10 +3266,6 @@
 			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 21
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 20
 			}
 		]
 	},
@@ -3151,6 +3344,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 9
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 8
 			},
@@ -3160,10 +3357,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 8
-			},
-			{
-				"filme": "A Noite dos Arrepios",
 				"similaridade": 8
 			}
 		]
@@ -3243,6 +3436,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 44
 			},
@@ -3252,10 +3449,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 42
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 42
 			}
 		]
@@ -3297,11 +3490,11 @@
 				"similaridade": 40
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Mate ou Morra",
 				"similaridade": 38
 			},
 			{
-				"filme": "Batman",
+				"filme": "A Morte do Superman",
 				"similaridade": 38
 			}
 		]
@@ -3347,7 +3540,7 @@
 				"similaridade": 35
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Mate ou Morra",
 				"similaridade": 34
 			}
 		]
@@ -3385,16 +3578,16 @@
 				"similaridade": 28
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 27
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
 			},
 			{
 				"filme": "Pânico",
 				"similaridade": 25
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 23
 			}
 		]
 	},
@@ -3427,6 +3620,10 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 52
+			},
+			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 51
 			},
@@ -3437,10 +3634,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 48
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 47
 			}
 		]
 	},
@@ -3473,6 +3666,10 @@
 				"similaridade": 38
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 36
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 36
 			},
@@ -3483,10 +3680,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 33
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 33
 			}
 		]
 	},
@@ -3494,7 +3687,7 @@
 		"nome": "A Viagem de Chihiro",
 		"duracao": "2:04:34",
 		"ano": 2001,
-		"score": 8.5,
+		"score": 8.54,
 		"poster": "https://image.tmdb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
 		"videoid": "580c646a686f5c7656430b",
@@ -3533,6 +3726,52 @@
 			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 16
+			}
+		]
+	},
+	{
+		"nome": "Gladiador",
+		"duracao": "2:50:58",
+		"ano": 2000,
+		"score": 8.2,
+		"poster": "https://image.tmdb.org/t/p/w200/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+		"videoid": "680d786f766d4c50027958",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "103M",
+		"receita": "465.4M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 77
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 74
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 68
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 66
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 60
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 59
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 50
 			}
 		]
 	},
@@ -3653,6 +3892,10 @@
 				"similaridade": 38
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 37
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 37
 			},
@@ -3667,10 +3910,6 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 33
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 31
 			}
 		]
 	},
@@ -3678,7 +3917,7 @@
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
-		"score": 6.6,
+		"score": 6.564,
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
@@ -3699,6 +3938,10 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 33
+			},
+			{
 				"filme": "Premonição 3",
 				"similaridade": 33
 			},
@@ -3713,10 +3956,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 31
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 30
 			}
 		]
 	},
@@ -3745,6 +3984,14 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 25
+			},
+			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 25
 			},
@@ -3755,14 +4002,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 23
-			},
-			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 23
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 21
 			}
 		]
 	},
@@ -3783,6 +4022,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 32
+			},
+			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 29
 			},
@@ -3795,20 +4038,16 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 23
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 23
 			},
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 23
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 22
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 21
 			}
 		]
 	},
@@ -3945,7 +4184,7 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Batman",
+				"filme": "Mate ou Morra",
 				"similaridade": 6
 			}
 		]
@@ -4017,6 +4256,10 @@
 				"similaridade": 59
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 56
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 54
 			},
@@ -4035,10 +4278,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 46
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 44
 			}
 		]
 	},
@@ -4083,7 +4322,7 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Espião por Acidente",
+				"filme": "A Morte do Superman",
 				"similaridade": 25
 			}
 		]
@@ -4103,6 +4342,10 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 9
 			},
 			{
 				"filme": "Duna",
@@ -4126,10 +4369,6 @@
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 7
-			},
-			{
-				"filme": "Olhos de Gato",
 				"similaridade": 7
 			}
 		]
@@ -4163,6 +4402,10 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 41
 			},
@@ -4173,10 +4416,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 37
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 35
 			}
 		]
 	},
@@ -4221,7 +4460,7 @@
 				"similaridade": 37
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Mate ou Morra",
 				"similaridade": 35
 			}
 		]
@@ -4359,7 +4598,7 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Inimigo Mortal",
+				"filme": "A Morte do Superman",
 				"similaridade": 5
 			}
 		]
@@ -4405,8 +4644,8 @@
 				"similaridade": 29
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 26
+				"filme": "Gladiador",
+				"similaridade": 27
 			}
 		]
 	},
@@ -4485,6 +4724,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 3
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 3
 			},
@@ -4494,10 +4737,6 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 3
-			},
-			{
-				"filme": "Karatê Kid",
 				"similaridade": 3
 			}
 		]
@@ -4531,6 +4770,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 8
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 8
 			},
@@ -4540,10 +4783,6 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 8
-			},
-			{
-				"filme": "Premonição 4",
 				"similaridade": 8
 			}
 		]
@@ -4594,6 +4833,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 19
 			},
@@ -4611,10 +4854,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 16
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 16
 			}
 		]
@@ -4652,16 +4891,16 @@
 				"similaridade": 48
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 43
 			},
 			{
 				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 40
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 39
 			}
 		]
 	},
@@ -4698,16 +4937,16 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 49
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 49
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 48
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 45
 			}
 		]
 	},
@@ -4732,6 +4971,10 @@
 				"similaridade": 32
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 29
+			},
+			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 28
 			},
@@ -4750,10 +4993,6 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 24
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 23
 			}
 		]
 	},
@@ -4786,6 +5025,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 38
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 38
 			},
@@ -4796,10 +5039,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 34
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 32
 			}
 		]
 	},
@@ -4853,7 +5092,7 @@
 		"nome": "Detonando em Barcelona",
 		"duracao": "1:48:33",
 		"ano": 1984,
-		"score": 6.957,
+		"score": 6.964,
 		"poster": "https://image.tmdb.org/t/p/w200/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iABwTioi1g9EyWfE7xsSIU4Gkqi.jpg",
 		"videoid": "4f6a6b487c0202500b5d50",
@@ -4864,6 +5103,10 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 2
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 1
 			},
 			{
 				"filme": "O Auto da Compadecida",
@@ -4887,10 +5130,6 @@
 			},
 			{
 				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 1
-			},
-			{
-				"filme": "Karatê Kid",
 				"similaridade": 1
 			}
 		]
@@ -4954,6 +5193,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 5
+			},
+			{
 				"filme": "As Agentes 355",
 				"similaridade": 5
 			},
@@ -4974,15 +5217,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Mate ou Morra",
 				"similaridade": 4
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Duna",
+				"filme": "Batman: O Cavaleiro de Gotham",
 				"similaridade": 4
 			}
 		]
@@ -4991,7 +5230,7 @@
 		"nome": "O Enigma de Outro Mundo",
 		"duracao": "1:48:43",
 		"ano": 1982,
-		"score": 8,
+		"score": 8.023,
 		"poster": "https://image.tmdb.org/t/p/w200/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
 		"videoid": "6d48700b7f4a5108744862",
@@ -5006,6 +5245,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 69
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 62
 			},
 			{
 				"filme": "Batman",
@@ -5026,10 +5269,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 52
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 51
 			}
 		]
 	},
@@ -5138,6 +5377,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 3
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 3
 			},
@@ -5163,10 +5406,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 1
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 1
 			}
 		]
@@ -5254,12 +5493,12 @@
 				"similaridade": 49
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 43
+				"filme": "Mate ou Morra",
+				"similaridade": 44
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 38
+				"filme": "O Estrangeiro",
+				"similaridade": 43
 			}
 		]
 	},
@@ -5300,11 +5539,11 @@
 				"similaridade": 61
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Mate ou Morra",
 				"similaridade": 60
 			},
 			{
-				"filme": "Inimigo Mortal",
+				"filme": "Agentes Vanguard",
 				"similaridade": 60
 			}
 		]
@@ -5350,8 +5589,8 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 23
+				"filme": "Mate ou Morra",
+				"similaridade": 24
 			}
 		]
 	},
@@ -5442,8 +5681,8 @@
 				"similaridade": 36
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 34
+				"filme": "Mate ou Morra",
+				"similaridade": 35
 			}
 		]
 	},
@@ -5451,7 +5690,7 @@
 		"nome": "O Poderoso Chefão",
 		"duracao": "2:57:10",
 		"ano": 1972,
-		"score": 8.7,
+		"score": 8.707,
 		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
 		"videoid": "4c6351700b686b76437f72",
@@ -5484,11 +5723,11 @@
 				"similaridade": 48
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 38
+				"filme": "Mate ou Morra",
+				"similaridade": 46
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 38
 			}
 		]
@@ -5508,6 +5747,10 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 20
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 14
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
@@ -5531,10 +5774,6 @@
 			},
 			{
 				"filme": "Os Sete Samurais",
-				"similaridade": 11
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 11
 			}
 		]
@@ -5580,7 +5819,7 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "Duna",
+				"filme": "A Morte do Superman",
 				"similaridade": 8
 			}
 		]
@@ -5606,6 +5845,10 @@
 				"similaridade": 43
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 40
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 37
 			},
@@ -5614,20 +5857,16 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "A Morte do Superman",
+				"similaridade": 33
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 33
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 31
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 31
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 30
 			}
 		]
 	},
@@ -5656,6 +5895,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 34
 			},
@@ -5670,10 +5913,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 31
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 30
 			}
 		]
 	},
@@ -5702,6 +5941,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 10
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 10
 			},
@@ -5716,10 +5959,6 @@
 			{
 				"filme": "Sindicato de Ladrões",
 				"similaridade": 10
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 9
 			}
 		]
 	},
@@ -5819,7 +6058,7 @@
 		"nome": "12 Homens e Uma Sentença",
 		"duracao": "1:36:22",
 		"ano": 1957,
-		"score": 8.5,
+		"score": 8.521,
 		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
 		"videoid": "7d7a4d7a616b7a7c735d48",
@@ -5890,20 +6129,20 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "Gladiador",
+				"similaridade": 40
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 39
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 38
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 36
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 35
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 35
 			}
 		]
 	},
