@@ -65,9 +65,7 @@ function AdicionarFilme(filme) {
 	cell1.dataset.poster=filme.poster;
 	cell1.dataset.background=filme.background;
 	cell1.dataset.resolucaoArmazenada=filme.resolucaoArmazenada;
-	if (filme.similares) {
-		cell1.dataset.similares=filme.similares;
-	}
+	if (filme.similares) {cell1.dataset.similares=JSON.stringify(filme.similares)}
 	cell1.style = "cursor:pointer";
 	//Celula ano
 	cell2.innerHTML = filme.ano;
