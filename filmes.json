@@ -1,9 +1,37 @@
 [
 	{
+		"nome": "O Último Dragão",
+		"duracao": "1:39:00",
+		"ano": 2022,
+		"score": 5.25,
+		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
+		"videoid": "685e0f4e4c7a540a4e486e",
+		"resolucaoArmazenada": "1916x764",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 1
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 1
+			},
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	{
 		"nome": "Agente das Sombras",
 		"duracao": "1:44:54",
 		"ano": 2022,
-		"score": 6.306,
+		"score": 6.305,
 		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
 		"videoid": "636d5e77720c41570f7f72",
@@ -95,7 +123,7 @@
 		"nome": "A Princesa",
 		"duracao": "1:34:03",
 		"ano": 2022,
-		"score": 7.007,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
 		"videoid": "5a6b4c634c6b610e7e4a58",
@@ -132,7 +160,7 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Pânico",
+				"filme": "O Tigre e o Dragão",
 				"similaridade": 5
 			}
 		]
@@ -179,6 +207,52 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Fantasmas do Passado",
+		"duracao": "1:39:11",
+		"ano": 2022,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
+		"videoid": "53080a4f535554526f425c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 6
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 5
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 4
+			},
+			{
+				"filme": "Lindinhas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Eternos",
 				"similaridade": 4
 			}
 		]
@@ -626,6 +700,46 @@
 		]
 	},
 	{
+		"nome": "O Último Trem pro Natal",
+		"duracao": "1:50:40",
+		"ano": 2021,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hqwib4EiffClOxXb5EwhTHYkS8b.jpg",
+		"videoid": "7e48526141547161635954",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 1
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 1
+			},
+			null,
+			null
+		]
+	},
+	{
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
@@ -758,7 +872,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Morbius",
+				"filme": "O Auto da Compadecida",
 				"similaridade": 2
 			}
 		]
@@ -859,7 +973,7 @@
 		"nome": "Duna",
 		"duracao": "2:35:26",
 		"ano": 2021,
-		"score": 7.871,
+		"score": 7.872,
 		"poster": "https://image.tmdb.org/t/p/w200/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
 		"videoid": "70750f0e0b705d49086e54",
@@ -1010,6 +1124,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 1
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 1
 			},
@@ -1027,14 +1149,6 @@
 			},
 			{
 				"filme": "As Agentes 355",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 1
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 1
 			}
 		]
@@ -1224,6 +1338,52 @@
 		]
 	},
 	{
+		"nome": "Do Fundo do Mar 3",
+		"duracao": "1:40:11",
+		"ano": 2020,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/azvgqitNO0kConxAP0TUjMlpBUI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+		"videoid": "514d557d48417748584172",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Do Fundo do Mar 2",
+				"similaridade": 6
+			},
+			{
+				"filme": "Do Fundo do Mar",
+				"similaridade": 6
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 3
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 2
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 2
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 2
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 2
+			}
+		]
+	},
+	{
 		"nome": "Agentes Vanguard",
 		"duracao": "1:47:19",
 		"ano": 2020,
@@ -1302,15 +1462,15 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Fantasmas do Passado",
+				"similaridade": 1
+			},
+			{
 				"filme": "Um Violinista no Telhado",
 				"similaridade": 1
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 1
-			},
-			{
-				"filme": "187: O Código",
 				"similaridade": 1
 			}
 		]
@@ -1596,6 +1756,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 2
+			},
+			{
 				"filme": "Karatê Kid",
 				"similaridade": 2
 			},
@@ -1608,19 +1772,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 1
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 1
 			},
 			{
 				"filme": "As Agentes 355",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 1
-			},
-			{
-				"filme": "1911: A Revolução",
 				"similaridade": 1
 			}
 		]
@@ -1684,6 +1844,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Tigre e o Dragão: A Espada do Destino",
+				"similaridade": 1
+			},
+			{
+				"filme": "Do Fundo do Mar 3",
+				"similaridade": 1
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 1
 			},
@@ -1705,14 +1873,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 1
 			}
 		]
@@ -1946,15 +2106,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem do Norte",
 				"similaridade": 1
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 1
-			},
-			{
-				"filme": "Morbius",
 				"similaridade": 1
 			}
 		]
@@ -2140,6 +2300,52 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 115
+			}
+		]
+	},
+	{
+		"nome": "O Tigre e o Dragão: A Espada do Destino",
+		"duracao": "1:40:28",
+		"ano": 2016,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
+		"videoid": "4f550f0e494a574173506a",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "20M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 9
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 7
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 7
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 6
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 5
 			}
 		]
 	},
@@ -2539,11 +2745,11 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Duna",
+				"filme": "O Tigre e o Dragão",
 				"similaridade": 20
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Duna",
 				"similaridade": 20
 			}
 		]
@@ -2665,6 +2871,10 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 32
+			},
+			{
 				"filme": "O Reino Proibido",
 				"similaridade": 31
 			},
@@ -2677,12 +2887,8 @@
 				"similaridade": 30
 			},
 			{
-				"filme": "O Lobo de Wall Street",
+				"filme": "O Tigre e o Dragão",
 				"similaridade": 29
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 28
 			}
 		]
 	},
@@ -2795,6 +3001,10 @@
 				"similaridade": 56
 			},
 			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 54
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 51
 			},
@@ -2815,12 +3025,8 @@
 				"similaridade": 37
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
+				"filme": "Operação Dragão",
 				"similaridade": 36
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 35
 			}
 		]
 	},
@@ -2899,6 +3105,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Fantasmas do Passado",
+				"similaridade": 2
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 2
 			},
@@ -2908,10 +3118,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 2
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
 				"similaridade": 2
 			}
 		]
@@ -3137,12 +3343,12 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 34
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 35
 			},
 			{
-				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 32
+				"filme": "Tenet",
+				"similaridade": 34
 			}
 		]
 	},
@@ -3331,6 +3537,98 @@
 		]
 	},
 	{
+		"nome": "O Auto da Compadecida",
+		"duracao": "2:40:12",
+		"ano": 2000,
+		"score": 8.4,
+		"poster": "https://image.tmdb.org/t/p/w200/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xs6awEGjnH3e36YSAromfYu3PBQ.jpg",
+		"videoid": "4a535c027c62744b08160b",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": "4.9M",
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 25
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 19
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 17
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 14
+			}
+		]
+	},
+	{
+		"nome": "O Tigre e o Dragão",
+		"duracao": "2:00:15",
+		"ano": 2000,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+		"videoid": "5e5e6b7f50555d6a644c4c",
+		"resolucaoArmazenada": "1916x800",
+		"orcamento": "17M",
+		"receita": "213.5M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 76
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 73
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 68
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 63
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 61
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 60
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 59
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 58
+			}
+		]
+	},
+	{
 		"nome": "Bater ou Correr",
 		"duracao": "1:50:18",
 		"ano": 2000,
@@ -3363,16 +3661,16 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 33
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 33
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 31
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 31
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 30
 			}
 		]
 	},
@@ -3577,10 +3875,6 @@
 				"similaridade": 60
 			},
 			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 13
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 11
 			},
@@ -3603,6 +3897,10 @@
 			{
 				"filme": "O Veredicto",
 				"similaridade": 7
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 6
 			}
 		]
 	},
@@ -4021,6 +4319,52 @@
 		]
 	},
 	{
+		"nome": "O Dragão e o Tigre",
+		"duracao": "1:44:50",
+		"ano": 1990,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/5l3OymXLquKTUe9S7ewWJccRGVv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/reB9Xbx2i6tv5Io7MXBZ4jmSvKe.jpg",
+		"videoid": "0b7f74716142626b580350",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 10
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 9
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 6
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 5
+			}
+		]
+	},
+	{
 		"nome": "O Poderoso Chefão: Parte III",
 		"duracao": "2:50:16",
 		"ano": 1990,
@@ -4129,6 +4473,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 4
+			},
+			{
 				"filme": "Perdedores e Vencedores",
 				"similaridade": 4
 			},
@@ -4150,10 +4498,6 @@
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 3
-			},
-			{
-				"filme": "Espião por Acidente",
 				"similaridade": 3
 			}
 		]
@@ -4217,13 +4561,10 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 1
-			},
-			{
 				"filme": "A Embriaguez do Sucesso",
 				"similaridade": 1
 			},
+			null,
 			null,
 			null,
 			null,
@@ -4491,19 +4832,19 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Operação Dragão",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 15
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 15
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 15
-			},
-			{
-				"filme": "Perdedores e Vencedores",
-				"similaridade": 15
-			},
-			{
-				"filme": "O Medalhão",
 				"similaridade": 15
 			}
 		]
@@ -4523,6 +4864,10 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
 			},
 			{
 				"filme": "Rise",
@@ -4546,10 +4891,6 @@
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 1
-			},
-			{
-				"filme": "Olhos de Gato",
 				"similaridade": 1
 			}
 		]
@@ -4705,10 +5046,6 @@
 		"receita": "54M",
 		"similares": [
 			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 12
-			},
-			{
 				"filme": "O Vento Será Tua Herança",
 				"similaridade": 9
 			},
@@ -4735,6 +5072,10 @@
 			{
 				"filme": "O Exorcista",
 				"similaridade": 7
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 6
 			}
 		]
 	},
@@ -4750,6 +5091,10 @@
 		"orcamento": 0,
 		"receita": 854,
 		"similares": [
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 22
+			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 22
@@ -4775,58 +5120,54 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 16
-			},
-			{
-				"filme": "Espião por Acidente",
-				"similaridade": 16
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
 			}
 		]
 	},
 	{
-		"nome": "Justiça Para Todos",
-		"duracao": "1:58:57",
-		"ano": 1979,
-		"score": 7.1,
-		"poster": "https://image.tmdb.org/t/p/w200/l82JLXaJK9hqv08P4A9pTM8OCtq.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/rSE7G4lmaTFgjj7KHIWlWoPo6q5.jpg",
-		"videoid": "036d640b755f535f6b527e",
-		"resolucaoArmazenada": "720x480",
-		"orcamento": "6M",
-		"receita": "33.3M",
+		"nome": "Operação Dragão Negro",
+		"duracao": "1:34:10",
+		"ano": 1977,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/xOy3igwWmkF2zsecMiXoTFLd4UG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/duH3TEDkdZC3C2q2bY5c9SRg1DZ.jpg",
+		"videoid": "6a550d5e0f0d5d56755f48",
+		"resolucaoArmazenada": "720x496",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 40
+				"similaridade": 3
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 25
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 20
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 20
+				"filme": "O Castelo de Vidro",
+				"similaridade": 2
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 19
+				"similaridade": 1
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 19
+				"filme": "O Estrangeiro",
+				"similaridade": 1
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 18
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 1
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 18
+				"filme": "Quem Sou Eu?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 1
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 1
 			}
 		]
 	},
@@ -4919,6 +5260,52 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 38
+			}
+		]
+	},
+	{
+		"nome": "Operação Dragão",
+		"duracao": "1:42:24",
+		"ano": 1973,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
+		"videoid": "4f525e770843776b5f4b7e",
+		"resolucaoArmazenada": "1280x534",
+		"orcamento": "10M",
+		"receita": "21.5M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 71
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 70
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 69
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 69
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 69
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 61
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 60
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 60
 			}
 		]
 	},
@@ -5307,10 +5694,6 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 19
-			},
-			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 11
 			},
@@ -5333,6 +5716,10 @@
 			{
 				"filme": "Sindicato de Ladrões",
 				"similaridade": 10
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 9
 			}
 		]
 	},
@@ -5457,10 +5844,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 13
-			},
-			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 11
 			},
@@ -5470,6 +5853,10 @@
 			},
 			{
 				"filme": "Batman",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Veredicto",
 				"similaridade": 9
 			}
 		]
@@ -5495,6 +5882,10 @@
 				"similaridade": 46
 			},
 			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 42
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 42
 			},
@@ -5513,10 +5904,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 35
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 34
 			}
 		]
 	},
