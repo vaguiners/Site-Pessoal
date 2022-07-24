@@ -692,6 +692,10 @@
 				"similaridade": 93
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 90
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 90
 			},
@@ -710,10 +714,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 76
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 73
 			}
 		]
 	},
@@ -1113,11 +1113,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Jolt: Fúria Fatal",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Maldição de Chucky",
+				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 1
 			}
 		]
@@ -1527,6 +1527,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 4
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 4
 			},
@@ -1540,10 +1544,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 4
-			},
-			{
-				"filme": "Interestelar",
 				"similaridade": 4
 			}
 		]
@@ -1858,6 +1858,52 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Fúria Incontrolável",
+		"duracao": "1:30:15",
+		"ano": 2020,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+		"videoid": "751603485c7c5f4c7d746e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "33M",
+		"receita": "39.2M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 94
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 90
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 83
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 82
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 76
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 74
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 74
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 69
 			}
 		]
 	},
@@ -2604,7 +2650,7 @@
 				"similaridade": 45
 			},
 			{
-				"filme": "O Espelho",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 43
 			}
 		]
@@ -3746,16 +3792,16 @@
 				"similaridade": 49
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 47
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 42
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 41
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 39
 			}
 		]
 	},
@@ -3842,11 +3888,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "A Maldição de Chucky",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 2
 			},
 			{
-				"filme": "Cemitério Maldito",
+				"filme": "A Maldição de Chucky",
 				"similaridade": 2
 			}
 		]
@@ -4804,16 +4850,16 @@
 				"similaridade": 84
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 83
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 83
 			},
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 81
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 80
 			}
 		]
 	},
@@ -6790,8 +6836,8 @@
 				"similaridade": 30
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 26
+				"filme": "Fúria Incontrolável",
+				"similaridade": 27
 			}
 		]
 	},
