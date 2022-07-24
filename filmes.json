@@ -2,7 +2,7 @@
 	{
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
-		"ano": 2022,
+		"ano": "11 dias atrás",
 		"score": 6.768,
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lSFVguAk1kj3z06na7tK4cumh2o.jpg",
@@ -424,6 +424,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 14
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 14
 			},
@@ -434,10 +438,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 13
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 12
 			}
 		]
 	},
@@ -516,6 +516,10 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 17
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 16
 			},
@@ -526,10 +530,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 15
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 14
 			}
 		]
 	},
@@ -688,6 +688,10 @@
 				"similaridade": 126
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 104
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 93
 			},
@@ -710,10 +714,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 79
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 76
 			}
 		]
 	},
@@ -780,6 +780,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 3
+			},
+			{
 				"filme": "O Auto da Compadecida",
 				"similaridade": 3
 			},
@@ -802,10 +806,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 3
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 3
 			}
 		]
 	},
@@ -821,6 +821,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 1
+			},
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 1
@@ -847,10 +851,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cidadão Kane",
 				"similaridade": 1
 			}
 		]
@@ -1397,15 +1397,15 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 6
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 6
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
-				"similaridade": 6
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 6
 			}
 		]
@@ -1489,16 +1489,16 @@
 				"similaridade": 127
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 114
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 113
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 110
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 105
 			}
 		]
 	},
@@ -1623,6 +1623,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Homem do Norte",
 				"similaridade": 2
 			},
@@ -1632,10 +1636,6 @@
 			},
 			{
 				"filme": "Lindinhas",
-				"similaridade": 2
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 2
 			}
 		]
@@ -1699,6 +1699,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 4
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 4
 			},
@@ -1724,10 +1728,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 3
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 3
 			}
 		]
@@ -1902,8 +1902,8 @@
 				"similaridade": 74
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 69
+				"filme": "Fúria Silenciosa",
+				"similaridade": 72
 			}
 		]
 	},
@@ -1936,6 +1936,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 5
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 5
 			},
@@ -1945,10 +1949,6 @@
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 4
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 4
 			}
 		]
@@ -1970,7 +1970,15 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 3
+			},
+			{
 				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma Festa no Ar",
 				"similaridade": 2
 			},
 			{
@@ -1987,14 +1995,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 2
-			},
-			{
-				"filme": "187: O Código",
-				"similaridade": 2
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 2
 			}
 		]
@@ -2108,6 +2108,10 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			},
@@ -2129,10 +2133,6 @@
 			},
 			{
 				"filme": "Do Fundo do Mar 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 1
 			}
 		]
@@ -2216,15 +2216,15 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 12
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 12
-			},
-			{
-				"filme": "Olhos de Gato",
 				"similaridade": 12
 			}
 		]
@@ -2454,6 +2454,10 @@
 				"similaridade": 120
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 117
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 115
 			},
@@ -2464,10 +2468,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 110
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 102
 			}
 		]
 	},
@@ -3182,6 +3182,14 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 3
+			},
+			{
 				"filme": "A Fúria do Dragão",
 				"similaridade": 3
 			},
@@ -3195,14 +3203,6 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 3
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 3
-			},
-			{
-				"filme": "Karatê Kid",
 				"similaridade": 3
 			}
 		]
@@ -3248,8 +3248,8 @@
 				"similaridade": 46
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 43
+				"filme": "Fúria Silenciosa",
+				"similaridade": 44
 			}
 		]
 	},
@@ -3454,6 +3454,10 @@
 				"similaridade": 44
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 36
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 35
 			},
@@ -3475,10 +3479,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 31
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 31
 			}
 		]
@@ -3558,6 +3558,10 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 21
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 20
 			},
@@ -3566,11 +3570,7 @@
 				"similaridade": 19
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 18
-			},
-			{
-				"filme": "Pânico",
+				"filme": "Uma Questão de Respeito",
 				"similaridade": 18
 			}
 		]
@@ -3662,7 +3662,7 @@
 				"similaridade": 37
 			},
 			{
-				"filme": "Operação Dragão",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 36
 			}
 		]
@@ -3780,6 +3780,10 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 54
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 52
 			},
@@ -3798,10 +3802,6 @@
 			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 42
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 41
 			}
 		]
 	},
@@ -3842,12 +3842,12 @@
 				"similaridade": 23
 			},
 			{
-				"filme": "Pânico",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 22
 			},
 			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 21
+				"filme": "Pânico",
+				"similaridade": 22
 			}
 		]
 	},
@@ -4122,8 +4122,54 @@
 				"similaridade": 36
 			},
 			{
-				"filme": "Brinquedo Assassino 3",
-				"similaridade": 31
+				"filme": "Fúria Silenciosa",
+				"similaridade": 33
+			}
+		]
+	},
+	{
+		"nome": "Uma Festa no Ar",
+		"duracao": "1:32:02",
+		"ano": 2004,
+		"score": 5.297,
+		"poster": "https://image.tmdb.org/t/p/w200/48hcA0oSX7DmMrS8zaLVD3k8Pe7.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uYppahqnT4n0OlGf1BoeP8ADoS1.jpg",
+		"videoid": "6153684848485d6a5f790b",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "16M",
+		"receita": "14.8M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 20
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 10
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 7
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
 			}
 		]
 	},
@@ -4160,16 +4206,16 @@
 				"similaridade": 45
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 44
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 44
 			},
 			{
 				"filme": "Batman",
 				"similaridade": 44
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 43
 			}
 		]
 	},
@@ -4188,6 +4234,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 50
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 48
 			},
 			{
 				"filme": "Inimigo Mortal",
@@ -4212,10 +4262,6 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 40
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 39
 			}
 		]
 	},
@@ -4266,6 +4312,52 @@
 		]
 	},
 	{
+		"nome": "Dicionário de Cama",
+		"duracao": "1:49:20",
+		"ano": 2003,
+		"score": 6.55,
+		"poster": "https://image.tmdb.org/t/p/w200/g60TBvRbw9HhOp5mJRmR8LFGrTF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/351R85FxY6gHefB6tK5CWorjwpC.jpg",
+		"videoid": "515316625474695a4f7d03",
+		"resolucaoArmazenada": "1912x1076",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 35
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 34
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 30
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 27
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 23
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 23
+			}
+		]
+	},
+	{
 		"nome": "Premonição 2",
 		"duracao": "1:30:11",
 		"ano": 2003,
@@ -4302,12 +4394,12 @@
 				"similaridade": 28
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 27
 			},
 			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 26
+				"filme": "Mate ou Morra",
+				"similaridade": 27
 			}
 		]
 	},
@@ -4336,6 +4428,10 @@
 				"similaridade": 71
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 58
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 57
 			},
@@ -4350,10 +4446,6 @@
 			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 53
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 52
 			}
 		]
 	},
@@ -4432,6 +4524,10 @@
 				"similaridade": 39
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 37
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 36
 			},
@@ -4442,10 +4538,6 @@
 			{
 				"filme": "O Medalhão",
 				"similaridade": 36
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 34
 			}
 		]
 	},
@@ -4578,11 +4670,11 @@
 				"similaridade": 36
 			},
 			{
-				"filme": "Operação Dragão",
-				"similaridade": 33
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "Operação Dragão",
 				"similaridade": 33
 			}
 		]
@@ -4750,6 +4842,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 26
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 26
 			},
@@ -4764,10 +4860,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 25
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 24
 			}
 		]
 	},
@@ -4808,11 +4900,11 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 24
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 24
 			}
 		]
@@ -4972,6 +5064,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 11
+			},
+			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 11
 			},
@@ -4993,10 +5089,6 @@
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 8
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 8
 			}
 		]
@@ -5064,6 +5156,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 33
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 32
 			},
@@ -5086,10 +5182,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 27
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 26
 			}
 		]
 	},
@@ -5168,6 +5260,10 @@
 				"similaridade": 56
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 55
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 55
 			},
@@ -5177,10 +5273,6 @@
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 48
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 48
 			}
 		]
@@ -5252,6 +5344,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 43
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 43
 			},
@@ -5270,10 +5366,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 41
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 39
 			}
 		]
 	},
@@ -5289,6 +5381,10 @@
 		"orcamento": "3.5M",
 		"receita": "27.9M",
 		"similares": [
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 105
+			},
 			{
 				"filme": "Batman",
 				"similaridade": 98
@@ -5314,12 +5410,8 @@
 				"similaridade": 72
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 70
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 64
+				"filme": "Fúria Silenciosa",
+				"similaridade": 71
 			}
 		]
 	},
@@ -5406,12 +5498,58 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 12
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 12
+			}
+		]
+	},
+	{
+		"nome": "Uma Questão de Respeito",
+		"duracao": "1:34:41",
+		"ano": 1992,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/eMCDtLlU62c7jXMJRD7TYKois6L.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pzJMoBpHXp5wIKbFUXLYUAoyaE8.jpg",
+		"videoid": "4979166116690f4d4c637a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "5M",
+		"receita": "20.1M",
+		"similares": [
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 105
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 89
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 73
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 70
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 66
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 63
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 61
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 60
 			}
 		]
 	},
@@ -5440,6 +5578,10 @@
 				"similaridade": 48
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 39
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 39
 			},
@@ -5453,10 +5595,6 @@
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 31
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 31
 			}
 		]
@@ -5544,12 +5682,12 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 33
+				"filme": "Fúria Silenciosa",
+				"similaridade": 39
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 32
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 33
 			}
 		]
 	},
@@ -5590,11 +5728,11 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Brinquedo Assassino",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 12
 			},
 			{
-				"filme": "A Noite dos Arrepios",
+				"filme": "Brinquedo Assassino",
 				"similaridade": 12
 			}
 		]
@@ -5624,6 +5762,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 8
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 8
 			},
@@ -5638,10 +5780,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 7
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 6
 			}
 		]
 	},
@@ -5674,6 +5812,10 @@
 				"similaridade": 73
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 72
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 69
 			},
@@ -5684,10 +5826,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 67
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 66
 			}
 		]
 	},
@@ -5754,6 +5892,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
+			},
+			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 12
 			},
@@ -5776,10 +5918,6 @@
 			{
 				"filme": "Premonição 3",
 				"similaridade": 10
-			},
-			{
-				"filme": "Brinquedo Assassino 2",
-				"similaridade": 9
 			}
 		]
 	},
@@ -5812,6 +5950,10 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 41
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 39
 			},
@@ -5822,10 +5964,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 37
 			}
 		]
 	},
@@ -5854,6 +5992,10 @@
 				"similaridade": 48
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 44
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 43
 			},
@@ -5868,10 +6010,6 @@
 			{
 				"filme": "A Maldição de Chucky",
 				"similaridade": 37
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 34
 			}
 		]
 	},
@@ -5890,6 +6028,10 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 5
+			},
+			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 4
 			},
 			{
 				"filme": "Operação Dragão",
@@ -5912,11 +6054,7 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "A Fúria do Dragão",
-				"similaridade": 3
-			},
-			{
-				"filme": "DOA: Vivo ou Morto",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 3
 			}
 		]
@@ -6176,6 +6314,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 18
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 18
 			},
@@ -6188,11 +6330,7 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Operação Dragão",
-				"similaridade": 17
-			},
-			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 17
 			}
 		]
@@ -6318,6 +6456,10 @@
 				"similaridade": 17
 			},
 			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 15
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 15
 			},
@@ -6327,10 +6469,6 @@
 			},
 			{
 				"filme": "O Medalhão",
-				"similaridade": 15
-			},
-			{
-				"filme": "Quem Sou Eu?",
 				"similaridade": 15
 			}
 		]
@@ -6448,6 +6586,10 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 62
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 62
 			},
@@ -6466,10 +6608,52 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 53
+			}
+		]
+	},
+	{
+		"nome": "Fúria Silenciosa",
+		"duracao": "1:40:26",
+		"ano": 1982,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/gxJm7yFKkbp5UojwOi71nNr3cmE.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8PKqcN6IREm2Xy43lzhPZ2ORzQi.jpg",
+		"videoid": "6a5a5c747f49501650706a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "4.5M",
+		"receita": "10.5M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 123
 			},
 			{
-				"filme": "Vingança",
-				"similaridade": 52
+				"filme": "Inimigo Mortal",
+				"similaridade": 117
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 114
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 110
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 104
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 103
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 99
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 91
 			}
 		]
 	},
@@ -6498,6 +6682,14 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 21
+			},
+			{
+				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 20
+			},
+			{
 				"filme": "O Reino Proibido",
 				"similaridade": 20
 			},
@@ -6508,14 +6700,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 19
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 18
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 18
 			}
 		]
 	},
@@ -6582,6 +6766,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
 			},
@@ -6604,10 +6792,6 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 3
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 2
 			}
 		]
 	},
@@ -6654,6 +6838,52 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 10
+			}
+		]
+	},
+	{
+		"nome": "A Nova Fúria do Dragão",
+		"duracao": "2:00:07",
+		"ano": 1976,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ywYHvukuJjcZD7U2J23MS0ICPrP.jpg",
+		"videoid": "6d78497d0e620e0e4a7748",
+		"resolucaoArmazenada": "1920x860",
+		"orcamento": "10M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 26
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 25
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 25
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 24
+			},
+			{
+				"filme": "Espião por Acidente",
+				"similaridade": 23
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 23
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 22
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 21
 			}
 		]
 	},
@@ -6740,11 +6970,11 @@
 				"similaridade": 37
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 36
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 36
 			}
 		]
@@ -6778,6 +7008,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 29
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 26
 			},
@@ -6787,10 +7021,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 25
-			},
-			{
-				"filme": "A Noite dos Arrepios",
 				"similaridade": 25
 			}
 		]
@@ -6810,6 +7040,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 36
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
@@ -6834,10 +7068,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 30
-			},
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 27
 			}
 		]
 	},
@@ -6878,11 +7108,11 @@
 				"similaridade": 61
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 60
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Mate ou Morra",
 				"similaridade": 60
 			}
 		]
@@ -6908,6 +7138,10 @@
 				"similaridade": 39
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 35
+			},
+			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 34
 			},
@@ -6926,10 +7160,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 29
-			},
-			{
-				"filme": "O Reino Proibido",
-				"similaridade": 28
 			}
 		]
 	},
@@ -6974,7 +7204,7 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "Perigo Para a Sociedade",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 44
 			}
 		]
@@ -7100,6 +7330,10 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 35
+			},
+			{
 				"filme": "A Morte do Superman",
 				"similaridade": 34
 			},
@@ -7110,10 +7344,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 33
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 31
 			}
 		]
 	},
@@ -7238,6 +7468,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 14
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 14
 			},
@@ -7247,10 +7481,6 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 14
 			}
 		]
@@ -7514,6 +7744,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 8
+			},
+			{
 				"filme": "Cruella",
 				"similaridade": 8
 			},
@@ -7524,10 +7758,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 7
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 6
 			}
 		]
 	},
