@@ -256,15 +256,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 4
 			},
 			{
 				"filme": "Gladiador",
-				"similaridade": 4
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			}
 		]
@@ -837,6 +837,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 6
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 6
 			},
@@ -850,10 +854,6 @@
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 5
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 5
 			}
 		]
@@ -1033,11 +1033,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Os Ritos Satânicos de Drácula",
+				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 2
 			},
 			{
-				"filme": "Efeito Borboleta 3: Revelação",
+				"filme": "Os Ritos Satânicos de Drácula",
 				"similaridade": 2
 			}
 		]
@@ -1377,6 +1377,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 2
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 2
 			},
@@ -1397,15 +1401,11 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vingança",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Filho de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -1569,6 +1569,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 1
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 1
 			},
@@ -1582,14 +1590,6 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 1
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 1
-			},
-			{
-				"filme": "Chefão Por Acaso",
 				"similaridade": 1
 			}
 		]
@@ -1773,7 +1773,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "A Noiva de Chucky",
+				"filme": "A Maldição de Chucky",
 				"similaridade": 2
 			}
 		]
@@ -2000,6 +2000,52 @@
 		]
 	},
 	{
+		"nome": "Cemitério Maldito",
+		"duracao": "1:40:50",
+		"ano": 2019,
+		"score": 5.741,
+		"poster": "https://image.tmdb.org/t/p/w200/3CBbXrPiUhX4XfFuAxGsiRflgMw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
+		"videoid": "644c63685e0a037808516e",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "21M",
+		"receita": "112.4M",
+		"similares": [
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 37
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 15
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 12
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 12
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 12
+			}
+		]
+	},
+	{
 		"nome": "Contos do Caçador de Sombras",
 		"duracao": "1:48:53",
 		"ano": 2019,
@@ -2104,6 +2150,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			},
@@ -2129,10 +2179,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 1
-			},
-			{
-				"filme": "Do Fundo do Mar 2",
 				"similaridade": 1
 			}
 		]
@@ -2840,6 +2886,52 @@
 		]
 	},
 	{
+		"nome": "A Maldição de Chucky",
+		"duracao": "1:36:42",
+		"ano": 2013,
+		"score": 5.856,
+		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
+		"videoid": "5348624169494a42097d50",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "5M",
+		"receita": "3.8M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 44
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 41
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 39
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 37
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 32
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 30
+			}
+		]
+	},
+	{
 		"nome": "O Lobo de Wall Street",
 		"duracao": "2:59:53",
 		"ano": 2013,
@@ -3158,6 +3250,52 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 31
+			}
+		]
+	},
+	{
+		"nome": "As Fitas de Poughkeepsie",
+		"duracao": "1:21:00",
+		"ano": 2009,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/uAv2ap0S1q0ksDHNM30xNbgPHZG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mq1TQH9hDQrltit7fyj8k2P1RuF.jpg",
+		"videoid": "4d0e036e5d564e5054575c",
+		"resolucaoArmazenada": "1920x1024",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 75
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 65
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 52
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 42
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 41
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 39
 			}
 		]
 	},
@@ -3562,15 +3700,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 2
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 2
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 2
-			},
-			{
-				"filme": "Sedenta de Sangue",
 				"similaridade": 2
 			}
 		]
@@ -3688,8 +3826,16 @@
 				"similaridade": 45
 			},
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 44
+			},
+			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 43
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 42
 			},
 			{
 				"filme": "Pânico",
@@ -3702,14 +3848,6 @@
 			{
 				"filme": "Brinquedo Assassino 3",
 				"similaridade": 31
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 30
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 28
 			}
 		]
 	},
@@ -5080,16 +5218,16 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 39
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 33
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 32
-			},
-			{
-				"filme": "A Noite dos Arrepios",
-				"similaridade": 29
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 28
 			}
 		]
 	},
@@ -5272,7 +5410,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "O Enigma de Outro Mundo",
+				"filme": "Cemitério Maldito",
 				"similaridade": 37
 			}
 		]
@@ -5336,6 +5474,10 @@
 		"receita": "1.7M",
 		"similares": [
 			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 12
+			},
+			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 12
 			},
@@ -5361,10 +5503,6 @@
 			},
 			{
 				"filme": "Brinquedo Assassino 2",
-				"similaridade": 9
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 9
 			}
 		]
@@ -5406,11 +5544,11 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 34
+				"filme": "A Maldição de Chucky",
+				"similaridade": 37
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
+				"filme": "Mate ou Morra",
 				"similaridade": 34
 			}
 		]
@@ -6038,6 +6176,10 @@
 				"similaridade": 20
 			},
 			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 19
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 19
 			},
@@ -6052,10 +6194,6 @@
 			{
 				"filme": "O Vento Será Tua Herança",
 				"similaridade": 19
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 18
 			}
 		]
 	},
@@ -6356,6 +6494,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 39
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 38
 			},
@@ -6373,10 +6515,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 36
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 36
 			}
 		]
