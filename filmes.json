@@ -12,6 +12,52 @@
 		"receita": 0
 	},
 	{
+		"nome": "Agente Oculto",
+		"duracao": "2:09:03",
+		"ano": 2022,
+		"score": 6.75,
+		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+		"videoid": "1675615e757d524909726a",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "200M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Tenet",
+				"similaridade": 24
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 21
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 21
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 20
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 19
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 19
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 18
+			}
+		]
+	},
+	{
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
@@ -273,7 +319,7 @@
 		"nome": "Pânico",
 		"duracao": "1:54:29",
 		"ano": 2022,
-		"score": 6.763,
+		"score": 6.76,
 		"poster": "https://image.tmdb.org/t/p/w200/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
 		"videoid": "72167d6c4c535d5f7e4d6e",
@@ -319,7 +365,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.212,
+		"score": 7.214,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -365,7 +411,7 @@
 		"nome": "Contrato Perigoso",
 		"duracao": "1:43:39",
 		"ano": 2022,
-		"score": 6.525,
+		"score": 6.523,
 		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
 		"videoid": "640c624c0b52410d5e5876",
@@ -411,7 +457,7 @@
 		"nome": "Morbius",
 		"duracao": "1:44:10",
 		"ano": 2022,
-		"score": 6.442,
+		"score": 6.446,
 		"poster": "https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
 		"videoid": "085c52026e696b777c744c",
@@ -503,7 +549,7 @@
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
 		"ano": 2022,
-		"score": 7.502,
+		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
 		"videoid": "574a7e6c7d6a586d6c7203",
@@ -595,7 +641,7 @@
 		"nome": "Uncharted: Fora do Mapa",
 		"duracao": "1:55:57",
 		"ano": 2022,
-		"score": 7.137,
+		"score": 7.139,
 		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
 		"videoid": "755d78720a7851530c7d72",
@@ -641,7 +687,7 @@
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
-		"score": 7,
+		"score": 7.027,
 		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "7e646b0c7e680e68084348",
@@ -675,7 +721,7 @@
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.505,
+		"score": 7.508,
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -771,6 +817,52 @@
 			},
 			{
 				"filme": "Duna",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "O Matemático",
+		"duracao": "1:42:45",
+		"ano": 2021,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/npEUveGYH2H7VTlM8k6xH6Jcvqr.jpg",
+		"videoid": "4909717d5361786a026376",
+		"resolucaoArmazenada": "1916x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Jogo da Imitação",
+				"similaridade": 8
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 5
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 5
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 4
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 4
 			}
 		]
@@ -1325,7 +1417,7 @@
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
 		"duracao": "2:12:21",
 		"ano": 2021,
-		"score": 7.676,
+		"score": 7.675,
 		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
 		"videoid": "530963557a727e76746e48",
@@ -1693,7 +1785,7 @@
 		"nome": "Tenet",
 		"duracao": "2:30:10",
 		"ano": 2020,
-		"score": 7.229,
+		"score": 7.228,
 		"poster": "https://image.tmdb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
 		"videoid": "776b0a7f6a7f4158514203",
@@ -2561,7 +2653,7 @@
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": 8.016,
+		"score": 8.015,
 		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
@@ -2791,7 +2883,7 @@
 		"nome": "O Espelho",
 		"duracao": "1:44:04",
 		"ano": 2013,
-		"score": 6.4,
+		"score": 6.447,
 		"poster": "https://image.tmdb.org/t/p/w200/5xAzE9cgbWWL2ZDD4YyWR1iINPK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
 		"videoid": "6d4b6c5c72727c7972690b",
@@ -2883,7 +2975,7 @@
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
 		"ano": 2011,
-		"score": 6.719,
+		"score": 6.72,
 		"poster": "https://image.tmdb.org/t/p/w200/4yqEixwuJ1dgQ0C28ILHnotpIIY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
 		"videoid": "5e4c7e704b4f790e534e62",
@@ -3711,7 +3803,7 @@
 		"nome": "Espião por Acidente",
 		"duracao": "1:26:14",
 		"ano": 2001,
-		"score": 6,
+		"score": 6.001,
 		"poster": "https://image.tmdb.org/t/p/w200/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sfSXkCTeJ7qBJm44V65u3y7YQf6.jpg",
 		"videoid": "4c594a71734f0b495f5d58",
@@ -5073,7 +5165,7 @@
 		"nome": "Olhos de Gato",
 		"duracao": "1:34:41",
 		"ano": 1985,
-		"score": 6.8,
+		"score": 6.759,
 		"poster": "https://image.tmdb.org/t/p/w200/3UKPrcUdMedexjOKAfcDoJreoZO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hxUM806p8SeOwdsYamUOrTYc07E.jpg",
 		"videoid": "6a740a6f0c780a774a0e72",
@@ -5901,7 +5993,7 @@
 		"nome": "Tora! Tora! Tora!",
 		"duracao": "2:28:54",
 		"ano": 1970,
-		"score": 7.2,
+		"score": 7.162,
 		"poster": "https://image.tmdb.org/t/p/w200/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
 		"videoid": "735f5f79020f09420e5054",
@@ -6407,7 +6499,7 @@
 		"nome": "Casablanca",
 		"duracao": "1:42:37",
 		"ano": 1942,
-		"score": 8.2,
+		"score": 8.168,
 		"poster": "https://image.tmdb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
 		"videoid": "414a6954700a0203576e03",
