@@ -2,7 +2,7 @@
 	{
 		"nome": "Instinto Materno",
 		"duracao": "1:20:40",
-		"ano": 2022,
+		"ano": 1659582000000,
 		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/rAbreodoriF4LeyEjm3DrypFMTB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
@@ -14,7 +14,7 @@
 	{
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
-		"ano": 2022,
+		"ano": 1657681200000,
 		"score": 6.75,
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
@@ -58,175 +58,9 @@
 		]
 	},
 	{
-		"nome": "O Último Dragão",
-		"duracao": "1:39:00",
-		"ano": 2022,
-		"score": 5.25,
-		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
-		"videoid": "685e0f4e4c7a540a4e486e",
-		"resolucaoArmazenada": "1916x764",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 1
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 1
-			},
-			null,
-			null,
-			null,
-			null,
-			null,
-			null
-		]
-	},
-	{
-		"nome": "Agente das Sombras",
-		"duracao": "1:44:54",
-		"ano": 2022,
-		"score": 6.309,
-		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
-		"videoid": "636d5e77720c41570f7f72",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": "43M",
-		"receita": "15.4M",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 25
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 22
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 18
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 18
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 16
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 16
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 15
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 14
-			}
-		]
-	},
-	{
-		"nome": "Ambulância: Um Dia de Crime",
-		"duracao": "2:16:34",
-		"ano": 2022,
-		"score": 6.9,
-		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
-		"videoid": "5d7d6f706450505f797354",
-		"resolucaoArmazenada": "1920x798",
-		"orcamento": "40M",
-		"receita": "50.3M",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 115
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 98
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 95
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 94
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 91
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 84
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 84
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 71
-			}
-		]
-	},
-	{
-		"nome": "A Princesa",
-		"duracao": "1:34:03",
-		"ano": 2022,
-		"score": 7.111,
-		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
-		"videoid": "5a6b4c634c6b610e7e4a58",
-		"resolucaoArmazenada": "1920x960",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 11
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 7
-			},
-			{
-				"filme": "DOA: Vivo ou Morto",
-				"similaridade": 6
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 6
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 6
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 6
-			}
-		]
-	},
-	{
 		"nome": "Rise",
 		"duracao": "1:51:19",
-		"ano": 2022,
+		"ano": 1655953200000,
 		"score": 7.032,
 		"poster": "https://image.tmdb.org/t/p/w200/czXyMcmiulyZjhYAnnMwVhFCvN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
@@ -270,101 +104,147 @@
 		]
 	},
 	{
-		"nome": "Fantasmas do Passado",
-		"duracao": "1:39:11",
-		"ano": 2022,
-		"score": 5.3,
-		"poster": "https://image.tmdb.org/t/p/w200/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
-		"videoid": "53080a4f535554526f425c",
-		"resolucaoArmazenada": "1920x800",
+		"nome": "Beavis e Butt-Head: Detonam o Universo",
+		"duracao": "1:25:53",
+		"ano": 1655953200000,
+		"score": 7.027,
+		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
+		"videoid": "7e646b0c7e680e68084348",
+		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 6
+				"filme": "Beavis e Butt-Head Detonam a América",
+				"similaridade": 4
 			},
 			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 6
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 5
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 5
+				"filme": "Interestelar",
+				"similaridade": 2
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 4
+				"similaridade": 1
 			},
 			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
+				"filme": "Liga da Justiça: A Nova Fronteira",
+				"similaridade": 1
 			},
 			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 4
+				"filme": "A Morte do Superman",
+				"similaridade": 1
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 4
+				"filme": "O Último Trem pro Natal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 1
 			}
 		]
 	},
 	{
-		"nome": "Pânico",
-		"duracao": "1:54:29",
-		"ano": 2022,
-		"score": 6.76,
-		"poster": "https://image.tmdb.org/t/p/w200/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
-		"videoid": "72167d6c4c535d5f7e4d6e",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "24M",
-		"receita": "140M",
+		"nome": "A Princesa",
+		"duracao": "1:34:03",
+		"ano": 1655348400000,
+		"score": 7.111,
+		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
+		"videoid": "5a6b4c634c6b610e7e4a58",
+		"resolucaoArmazenada": "1920x960",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
-				"filme": "Batman",
-				"similaridade": 126
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 93
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 90
+				"filme": "Mulher-Maravilha",
+				"similaridade": 11
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 87
+				"similaridade": 8
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 80
+				"filme": "Eternos",
+				"similaridade": 7
 			},
+			{
+				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 6
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 6
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 6
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			}
+		]
+	},
+	{
+		"nome": "Doutor Estranho no Multiverso da Loucura",
+		"duracao": "2:06:32",
+		"ano": 1651633200000,
+		"score": 7.508,
+		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
+		"videoid": "566a506b02636d037d4a7e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "200M",
+		"receita": "953.2M",
+		"similares": [
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 79
+				"similaridade": 142
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 141
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 135
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 131
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 76
+				"similaridade": 103
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 73
+				"filme": "Batman",
+				"similaridade": 100
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 95
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 83
 			}
 		]
 	},
 	{
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
-		"ano": 2022,
+		"ano": 1649300400000,
 		"score": 7.214,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
@@ -408,55 +288,9 @@
 		]
 	},
 	{
-		"nome": "Contrato Perigoso",
-		"duracao": "1:43:39",
-		"ano": 2022,
-		"score": 6.523,
-		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
-		"videoid": "640c624c0b52410d5e5876",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": 0,
-		"receita": "2.1M",
-		"similares": [
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 17
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 17
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 16
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 16
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 14
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 13
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 13
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 12
-			}
-		]
-	},
-	{
 		"nome": "Morbius",
 		"duracao": "1:44:10",
-		"ano": 2022,
+		"ano": 1648609200000,
 		"score": 6.446,
 		"poster": "https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
@@ -500,55 +334,175 @@
 		]
 	},
 	{
-		"nome": "As Agentes 355",
-		"duracao": "2:02:43",
-		"ano": 2022,
-		"score": 6.096,
-		"poster": "https://image.tmdb.org/t/p/w200/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
-		"videoid": "58520854496a4e6a786976",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": "75M",
-		"receita": "24M",
+		"nome": "O Último Dragão",
+		"duracao": "1:39:00",
+		"ano": 1647831600000,
+		"score": 5.25,
+		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
+		"videoid": "685e0f4e4c7a540a4e486e",
+		"resolucaoArmazenada": "1916x764",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
-				"filme": "Tenet",
-				"similaridade": 123
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 113
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 108
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 105
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 103
+				"similaridade": 1
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 1
+			},
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	},
+	{
+		"nome": "Fantasmas do Passado",
+		"duracao": "1:39:11",
+		"ano": 1647572400000,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
+		"videoid": "53080a4f535554526f425c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 6
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 6
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 102
+				"similaridade": 5
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 93
+				"filme": "Batman",
+				"similaridade": 5
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 88
+				"similaridade": 4
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Ambulância: Um Dia de Crime",
+		"duracao": "2:16:34",
+		"ano": 1647399600000,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
+		"videoid": "5d7d6f706450505f797354",
+		"resolucaoArmazenada": "1920x798",
+		"orcamento": "40M",
+		"receita": "50.3M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 115
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 98
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 95
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 94
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 91
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 84
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 84
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 71
+			}
+		]
+	},
+	{
+		"nome": "Contrato Perigoso",
+		"duracao": "1:43:39",
+		"ano": 1646881200000,
+		"score": 6.523,
+		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
+		"videoid": "640c624c0b52410d5e5876",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": "2.1M",
+		"similares": [
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 17
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 17
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 16
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 14
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 13
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 13
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 12
 			}
 		]
 	},
 	{
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
-		"ano": 2022,
+		"ano": 1646881200000,
 		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
@@ -594,7 +548,7 @@
 	{
 		"nome": "Batman",
 		"duracao": "2:56:01",
-		"ano": 2022,
+		"ano": 1646103600000,
 		"score": 7.76,
 		"poster": "https://image.tmdb.org/t/p/w200/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
@@ -638,9 +592,55 @@
 		]
 	},
 	{
+		"nome": "Agente das Sombras",
+		"duracao": "1:44:54",
+		"ano": 1644462000000,
+		"score": 6.309,
+		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
+		"videoid": "636d5e77720c41570f7f72",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "43M",
+		"receita": "15.4M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 25
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 22
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 18
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 16
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 16
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 15
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 14
+			}
+		]
+	},
+	{
 		"nome": "Uncharted: Fora do Mapa",
 		"duracao": "1:55:57",
-		"ano": 2022,
+		"ano": 1644462000000,
 		"score": 7.139,
 		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
@@ -684,276 +684,147 @@
 		]
 	},
 	{
-		"nome": "Beavis e Butt-Head: Detonam o Universo",
-		"duracao": "1:25:53",
-		"ano": 2022,
-		"score": 7.027,
-		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
-		"videoid": "7e646b0c7e680e68084348",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
+		"nome": "Pânico",
+		"duracao": "1:54:29",
+		"ano": 1641956400000,
+		"score": 6.76,
+		"poster": "https://image.tmdb.org/t/p/w200/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+		"videoid": "72167d6c4c535d5f7e4d6e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "24M",
+		"receita": "140M",
 		"similares": [
 			{
-				"filme": "Beavis e Butt-Head Detonam a América",
-				"similaridade": 4
+				"filme": "Batman",
+				"similaridade": 126
 			},
 			{
-				"filme": "Interestelar",
-				"similaridade": 2
+				"filme": "A Noiva de Chucky",
+				"similaridade": 93
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça: A Nova Fronteira",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Último Trem pro Natal",
-				"similaridade": 1
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "Doutor Estranho no Multiverso da Loucura",
-		"duracao": "2:06:32",
-		"ano": 2022,
-		"score": 7.508,
-		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
-		"videoid": "566a506b02636d037d4a7e",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "200M",
-		"receita": "953.2M",
-		"similares": [
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 142
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 141
+				"similaridade": 90
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 135
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 131
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 103
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 100
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 95
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 83
-			}
-		]
-	},
-	{
-		"nome": "A Matéria Noturna",
-		"duracao": "1:29:36",
-		"ano": 2021,
-		"score": 6,
-		"poster": "https://image.tmdb.org/t/p/w200/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/d2DXhcnn6BNo9S9o7tOkn1lA7vI.jpg",
-		"videoid": "49785e4f6a62494f770f0f",
-		"resolucaoArmazenada": "1280x720",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Descascado",
-				"similaridade": 1
-			},
-			{
-				"filme": "Turma da Mônica: Lições",
-				"similaridade": 1
-			},
-			{
-				"filme": "Turma da Mônica: Laços",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 1
-			},
-			null,
-			null,
-			null
-		]
-	},
-	{
-		"nome": "Não Me Mate",
-		"duracao": "1:30:25",
-		"ano": 2021,
-		"score": 4.163,
-		"poster": "https://image.tmdb.org/t/p/w200/3nLpZivc9wYoX57aXF0ZLYVZDTz.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/cMGuvi3WoppST92uaXJ7a848SbR.jpg",
-		"videoid": "0955536c6c0c496c72410f",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 10
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 8
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 7
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 6
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 6
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 6
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 6
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 5
-			}
-		]
-	},
-	{
-		"nome": "O Matemático",
-		"duracao": "1:42:45",
-		"ano": 2021,
-		"score": 6.2,
-		"poster": "https://image.tmdb.org/t/p/w200/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/npEUveGYH2H7VTlM8k6xH6Jcvqr.jpg",
-		"videoid": "4909717d5361786a026376",
-		"resolucaoArmazenada": "1916x800",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 9
-			},
-			{
-				"filme": "O Jogo da Imitação",
-				"similaridade": 8
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 5
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 5
-			},
-			{
-				"filme": "Casablanca",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 5
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 4
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 4
-			}
-		]
-	},
-	{
-		"nome": "Mate ou Morra",
-		"duracao": "1:41:00",
-		"ano": 2021,
-		"score": 6.883,
-		"poster": "https://image.tmdb.org/t/p/w200/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
-		"videoid": "027e71754d0f694262787a",
-		"resolucaoArmazenada": "1920x808",
-		"orcamento": "45M",
-		"receita": "2M",
-		"similares": [
-			{
-				"filme": "Tenet",
-				"similaridade": 148
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 147
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 142
+				"similaridade": 87
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 129
+				"similaridade": 80
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 79
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 127
+				"similaridade": 76
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 113
-			},
+				"similaridade": 73
+			}
+		]
+	},
+	{
+		"nome": "As Agentes 355",
+		"duracao": "2:02:43",
+		"ano": 1641351600000,
+		"score": 6.096,
+		"poster": "https://image.tmdb.org/t/p/w200/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
+		"videoid": "58520854496a4e6a786976",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "75M",
+		"receita": "24M",
+		"similares": [
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 110
+				"filme": "Tenet",
+				"similaridade": 123
 			},
 			{
 				"filme": "Agentes Vanguard",
+				"similaridade": 113
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 108
+			},
+			{
+				"filme": "O Estrangeiro",
 				"similaridade": 105
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 103
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 102
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 93
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 88
+			}
+		]
+	},
+	{
+		"nome": "Turma da Mônica: Lições",
+		"duracao": "1:30:47",
+		"ano": 1640833200000,
+		"score": 8.2,
+		"poster": "https://image.tmdb.org/t/p/w200/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kolcIeckAekJfJ3IA4Z0Fr1kk38.jpg",
+		"videoid": "0d7f646c704179777c6b7e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 3
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 3
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 3
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 3
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 3
 			}
 		]
 	},
 	{
 		"nome": "O Último Trem pro Natal",
 		"duracao": "1:50:40",
-		"ano": 2021,
+		"ano": 1639796400000,
 		"score": 5.9,
 		"poster": "https://image.tmdb.org/t/p/w200/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hqwib4EiffClOxXb5EwhTHYkS8b.jpg",
@@ -997,9 +868,460 @@
 		]
 	},
 	{
+		"nome": "A Liga de Monstros",
+		"duracao": "1:35:50",
+		"ano": 1639537200000,
+		"score": 6.856,
+		"poster": "https://image.tmdb.org/t/p/w200/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/vbcjMsuQs1BbM9vjAY3rjBvhPlg.jpg",
+		"videoid": "4c4a69715653596c4b5c03",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Duna",
+				"similaridade": 6
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 4
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 4
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 3
+			}
+		]
+	},
+	{
+		"nome": "Homem-Aranha: Sem Volta Para Casa",
+		"duracao": "2:28:10",
+		"ano": 1639537200000,
+		"score": 8.052,
+		"poster": "https://image.tmdb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
+		"videoid": "5c6c7c704c526a6c434b03",
+		"resolucaoArmazenada": "3840x1608",
+		"orcamento": "200M",
+		"receita": "1.9B",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 151
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 142
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 140
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 132
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 132
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 117
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 112
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 102
+			}
+		]
+	},
+	{
+		"nome": "O Mundo dos Esquecidos",
+		"duracao": "1:23:43",
+		"ano": 1637290800000,
+		"score": 5.1,
+		"poster": "https://image.tmdb.org/t/p/w200/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/444gIv4PAWC82O22ey1vdlA3xza.jpg",
+		"videoid": "690a0b564b4c41725d784c",
+		"resolucaoArmazenada": "1916x796",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "12 Homens e uma Sentença",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 1
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 1
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Eternos",
+		"duracao": "2:35:51",
+		"ano": 1635908400000,
+		"score": 7.089,
+		"poster": "https://image.tmdb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+		"videoid": "02530f0859746c6e68587a",
+		"resolucaoArmazenada": "3840x1608",
+		"orcamento": "200M",
+		"receita": "402.1M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 177
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 152
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 146
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 132
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 131
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 129
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 110
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 108
+			}
+		]
+	},
+	{
+		"nome": "A Matéria Noturna",
+		"duracao": "1:29:36",
+		"ano": 1633489200000,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/d2DXhcnn6BNo9S9o7tOkn1lA7vI.jpg",
+		"videoid": "49785e4f6a62494f770f0f",
+		"resolucaoArmazenada": "1280x720",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Descascado",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			null,
+			null,
+			null
+		]
+	},
+	{
+		"nome": "Meu Filho",
+		"duracao": "1:36:22",
+		"ano": 1632366000000,
+		"score": 6.29,
+		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
+		"videoid": "480c0b5143097008785f0f",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 2
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Problema de Nascer",
+				"similaridade": 2
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Duna",
+		"duracao": "2:35:26",
+		"ano": 1631070000000,
+		"score": 7.871,
+		"poster": "https://image.tmdb.org/t/p/w200/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
+		"videoid": "70750f0e0b705d49086e54",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "165M",
+		"receita": "400.7M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 132
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 114
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 110
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 110
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 95
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 92
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 91
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 86
+			}
+		]
+	},
+	{
+		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
+		"duracao": "2:12:21",
+		"ano": 1630465200000,
+		"score": 7.675,
+		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+		"videoid": "530963557a727e76746e48",
+		"resolucaoArmazenada": "1920x1012",
+		"orcamento": "150M",
+		"receita": "432.2M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 168
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 162
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 152
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 141
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 140
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 132
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 111
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 111
+			}
+		]
+	},
+	{
+		"nome": "O Matemático",
+		"duracao": "1:42:45",
+		"ano": 1623380400000,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/npEUveGYH2H7VTlM8k6xH6Jcvqr.jpg",
+		"videoid": "4909717d5361786a026376",
+		"resolucaoArmazenada": "1916x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Jogo da Imitação",
+				"similaridade": 8
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 5
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 5
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 4
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Cruella",
+		"duracao": "2:17:16",
+		"ano": 1621998000000,
+		"score": 8.146,
+		"poster": "https://image.tmdb.org/t/p/w200/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
+		"videoid": "09640b7d5464521677534c",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": "200M",
+		"receita": "233.5M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 71
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 52
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 44
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 42
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 42
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 40
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 39
+			}
+		]
+	},
+	{
 		"nome": "Descascado",
 		"duracao": "1:26:01",
-		"ano": 2021,
+		"ano": 1621393200000,
 		"score": 6,
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
@@ -1045,7 +1367,7 @@
 	{
 		"nome": "Sedenta de Sangue",
 		"duracao": "1:24:31",
-		"ano": 2021,
+		"ano": 1619146800000,
 		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1TWlQusiA0G7xoWMMDIpM70EVDf.jpg",
@@ -1089,239 +1411,55 @@
 		]
 	},
 	{
-		"nome": "Turma da Mônica: Lições",
-		"duracao": "1:30:47",
-		"ano": 2021,
-		"score": 8.2,
-		"poster": "https://image.tmdb.org/t/p/w200/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/kolcIeckAekJfJ3IA4Z0Fr1kk38.jpg",
-		"videoid": "0d7f646c704179777c6b7e",
-		"resolucaoArmazenada": "1920x800",
+		"nome": "Não Me Mate",
+		"duracao": "1:30:25",
+		"ano": 1618974000000,
+		"score": 4.163,
+		"poster": "https://image.tmdb.org/t/p/w200/3nLpZivc9wYoX57aXF0ZLYVZDTz.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cMGuvi3WoppST92uaXJ7a848SbR.jpg",
+		"videoid": "0955536c6c0c496c72410f",
+		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Turma da Mônica: Laços",
+				"filme": "O Homem do Norte",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 8
+			},
+			{
+				"filme": "Vingança",
 				"similaridade": 7
 			},
 			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 3
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 3
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 3
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 3
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 3
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 3
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 6
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 3
-			}
-		]
-	},
-	{
-		"nome": "A Liga de Monstros",
-		"duracao": "1:35:50",
-		"ano": 2021,
-		"score": 6.856,
-		"poster": "https://image.tmdb.org/t/p/w200/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/vbcjMsuQs1BbM9vjAY3rjBvhPlg.jpg",
-		"videoid": "4c4a69715653596c4b5c03",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Duna",
 				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 6
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 4
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
-				"similaridade": 4
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 4
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 3
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 3
-			}
-		]
-	},
-	{
-		"nome": "Music",
-		"duracao": "1:47:23",
-		"ano": 2021,
-		"score": 5.7,
-		"poster": "https://image.tmdb.org/t/p/w200/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/a5PNkyt8zx6sSXCzgKpKAaAXNJw.jpg",
-		"videoid": "4c76740e7e635a6a0c707e",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "16M",
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Eternos",
 				"similaridade": 6
 			},
 			{
-				"filme": "Batman",
+				"filme": "Efeito Borboleta",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Filho de Chucky",
 				"similaridade": 5
-			},
-			{
-				"filme": "Lindinhas",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 4
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 4
-			},
-			{
-				"filme": "Interestelar",
-				"similaridade": 4
-			}
-		]
-	},
-	{
-		"nome": "Duna",
-		"duracao": "2:35:26",
-		"ano": 2021,
-		"score": 7.871,
-		"poster": "https://image.tmdb.org/t/p/w200/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-		"videoid": "70750f0e0b705d49086e54",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "165M",
-		"receita": "400.7M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 132
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 114
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 110
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 110
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 95
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 92
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 91
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 86
-			}
-		]
-	},
-	{
-		"nome": "Cruella",
-		"duracao": "2:17:16",
-		"ano": 2021,
-		"score": 8.146,
-		"poster": "https://image.tmdb.org/t/p/w200/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
-		"videoid": "09640b7d5464521677534c",
-		"resolucaoArmazenada": "1920x1036",
-		"orcamento": "200M",
-		"receita": "233.5M",
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 71
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 52
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 44
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 42
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 42
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 40
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 39
 			}
 		]
 	},
 	{
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
-		"ano": 2021,
+		"ano": 1616036400000,
 		"score": 8.27,
 		"poster": "https://image.tmdb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
@@ -1365,515 +1503,101 @@
 		]
 	},
 	{
-		"nome": "Meu Filho",
-		"duracao": "1:36:22",
-		"ano": 2021,
-		"score": 6.29,
-		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
-		"videoid": "480c0b5143097008785f0f",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 2
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Problema de Nascer",
-				"similaridade": 2
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "Homem-Aranha: Sem Volta Para Casa",
-		"duracao": "2:28:10",
-		"ano": 2021,
-		"score": 8.052,
-		"poster": "https://image.tmdb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
-		"videoid": "5c6c7c704c526a6c434b03",
-		"resolucaoArmazenada": "3840x1608",
-		"orcamento": "200M",
-		"receita": "1.9B",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 151
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 142
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 140
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 132
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 132
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 117
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 112
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 102
-			}
-		]
-	},
-	{
-		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
-		"duracao": "2:12:21",
-		"ano": 2021,
-		"score": 7.675,
-		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
-		"videoid": "530963557a727e76746e48",
-		"resolucaoArmazenada": "1920x1012",
-		"orcamento": "150M",
-		"receita": "432.2M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 168
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 162
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 152
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 141
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 140
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 132
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 111
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 111
-			}
-		]
-	},
-	{
-		"nome": "Eternos",
-		"duracao": "2:35:51",
-		"ano": 2021,
-		"score": 7.089,
-		"poster": "https://image.tmdb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
-		"videoid": "02530f0859746c6e68587a",
-		"resolucaoArmazenada": "3840x1608",
-		"orcamento": "200M",
-		"receita": "402.1M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 177
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 152
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 146
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 132
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 131
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 129
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 110
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 108
-			}
-		]
-	},
-	{
-		"nome": "O Mundo dos Esquecidos",
-		"duracao": "1:23:43",
-		"ano": 2021,
-		"score": 5.1,
-		"poster": "https://image.tmdb.org/t/p/w200/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/444gIv4PAWC82O22ey1vdlA3xza.jpg",
-		"videoid": "690a0b564b4c41725d784c",
-		"resolucaoArmazenada": "1916x796",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Espelho",
-				"similaridade": 2
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 1
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 1
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 1
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 1
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "Do Fundo do Mar 3",
-		"duracao": "1:40:11",
-		"ano": 2020,
-		"score": 5.9,
-		"poster": "https://image.tmdb.org/t/p/w200/azvgqitNO0kConxAP0TUjMlpBUI.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
-		"videoid": "514d557d48417748584172",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "5M",
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Do Fundo do Mar 2",
-				"similaridade": 13
-			},
-			{
-				"filme": "Do Fundo do Mar",
-				"similaridade": 11
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 5
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 4
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 4
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 4
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 4
-			}
-		]
-	},
-	{
-		"nome": "Agentes Vanguard",
-		"duracao": "1:47:19",
-		"ano": 2020,
-		"score": 6.3,
-		"poster": "https://image.tmdb.org/t/p/w200/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
-		"videoid": "5a7a5d6d7f575d4e71416a",
-		"resolucaoArmazenada": "1912x792",
-		"orcamento": 0,
-		"receita": "27.9M",
+		"nome": "Mate ou Morra",
+		"duracao": "1:41:00",
+		"ano": 1613703600000,
+		"score": 6.883,
+		"poster": "https://image.tmdb.org/t/p/w200/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
+		"videoid": "027e71754d0f694262787a",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "45M",
+		"receita": "2M",
 		"similares": [
 			{
 				"filme": "Tenet",
-				"similaridade": 134
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 125
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 123
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 120
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 113
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 112
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 110
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 108
-			}
-		]
-	},
-	{
-		"nome": "The Forty-Year-Old Version",
-		"duracao": "2:04:15",
-		"ano": 2020,
-		"score": 6.9,
-		"poster": "https://image.tmdb.org/t/p/w200/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
-		"videoid": "48786f504f0f50626a6b50",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
-			},
-			{
-				"filme": "A Garota dos Meus Sonhos",
-				"similaridade": 2
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 2
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 2
-			},
-			{
-				"filme": "187: O Código",
-				"similaridade": 2
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 2
-			}
-		]
-	},
-	{
-		"nome": "A Garota dos Seus Sonhos",
-		"duracao": "1:48:13",
-		"ano": 2020,
-		"score": 6.5,
-		"poster": "https://image.tmdb.org/t/p/w200/1iafCMS7cZ1mbZIMznPu3xqXeOI.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xZJNtBFpCfdB2nyffbStIxHFnLq.jpg",
-		"videoid": "420c6450644c5c7d71417e",
-		"resolucaoArmazenada": "1916x800",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Duna",
-				"similaridade": 4
-			},
-			{
-				"filme": "Gladiador",
-				"similaridade": 3
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 3
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 3
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 3
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 3
-			},
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 2
-			}
-		]
-	},
-	{
-		"nome": "Lindinhas",
-		"duracao": "1:36:25",
-		"ano": 2020,
-		"score": 5.284,
-		"poster": "https://image.tmdb.org/t/p/w200/3HvqVuCDcq6DTN2aAvOEOfgyzXi.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
-		"videoid": "4f765253566f4d5461736a",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 11
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 8
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 8
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 8
-			},
-			{
-				"filme": "Inocência Roubada",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 8
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 7
-			}
-		]
-	},
-	{
-		"nome": "Tenet",
-		"duracao": "2:30:10",
-		"ano": 2020,
-		"score": 7.228,
-		"poster": "https://image.tmdb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
-		"videoid": "776b0a7f6a7f4158514203",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "205M",
-		"receita": "363.1M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 158
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 148
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 144
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 147
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 138
+				"similaridade": 142
 			},
 			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 134
+				"filme": "O Estrangeiro",
+				"similaridade": 129
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 132
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 123
+				"similaridade": 127
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 115
+				"similaridade": 113
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 110
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 105
+			}
+		]
+	},
+	{
+		"nome": "Music",
+		"duracao": "1:47:23",
+		"ano": 1610593200000,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/a5PNkyt8zx6sSXCzgKpKAaAXNJw.jpg",
+		"videoid": "4c76740e7e635a6a0c707e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "16M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Eternos",
+				"similaridade": 6
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Lindinhas",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 4
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 4
 			}
 		]
 	},
 	{
 		"nome": "Mulher-Maravilha 1984",
 		"duracao": "2:31:07",
-		"ano": 2020,
+		"ano": 1608087600000,
 		"score": 6.554,
 		"poster": "https://image.tmdb.org/t/p/w200/AweDlIiohqw4sjC7gCsPVd1zo77.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzpCv8CCWondN7O5au1KGiqnC3A.jpg",
@@ -1919,7 +1643,7 @@
 	{
 		"nome": "O Problema de Nascer",
 		"duracao": "1:33:40",
-		"ano": 2020,
+		"ano": 1606964400000,
 		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/od6MlN4vysfb3mfGMCK3Jqr1STq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bEHbZEjDX7qZF1ZJl1Auon0cQlk.jpg",
@@ -1963,9 +1687,101 @@
 		]
 	},
 	{
+		"nome": "A Garota dos Seus Sonhos",
+		"duracao": "1:48:13",
+		"ano": 1606359600000,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/1iafCMS7cZ1mbZIMznPu3xqXeOI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xZJNtBFpCfdB2nyffbStIxHFnLq.jpg",
+		"videoid": "420c6450644c5c7d71417e",
+		"resolucaoArmazenada": "1916x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Duna",
+				"similaridade": 4
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 3
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 3
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 2
+			}
+		]
+	},
+	{
+		"nome": "Agentes Vanguard",
+		"duracao": "1:47:19",
+		"ano": 1601434800000,
+		"score": 6.3,
+		"poster": "https://image.tmdb.org/t/p/w200/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
+		"videoid": "5a7a5d6d7f575d4e71416a",
+		"resolucaoArmazenada": "1912x792",
+		"orcamento": 0,
+		"receita": "27.9M",
+		"similares": [
+			{
+				"filme": "Tenet",
+				"similaridade": 134
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 125
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 123
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 120
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 113
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 112
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 110
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 108
+			}
+		]
+	},
+	{
 		"nome": "Um Brinde ao Sucesso",
 		"duracao": "1:42:13",
-		"ano": 2020,
+		"ano": 1599620400000,
 		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/msh8815FFVl0luVOPxIAJGe1seY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nxlZEThfhjlNEOaCUuuI2b9llKk.jpg",
@@ -2000,9 +1816,285 @@
 		]
 	},
 	{
+		"nome": "Do Fundo do Mar 3",
+		"duracao": "1:40:11",
+		"ano": 1598324400000,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/azvgqitNO0kConxAP0TUjMlpBUI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
+		"videoid": "514d557d48417748584172",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Do Fundo do Mar 2",
+				"similaridade": 13
+			},
+			{
+				"filme": "Do Fundo do Mar",
+				"similaridade": 11
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 5
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 4
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 4
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 4
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Tenet",
+		"duracao": "2:30:10",
+		"ano": 1598065200000,
+		"score": 7.228,
+		"poster": "https://image.tmdb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+		"videoid": "776b0a7f6a7f4158514203",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "205M",
+		"receita": "363.1M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 158
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 148
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 144
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 138
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 134
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 132
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 123
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 115
+			}
+		]
+	},
+	{
+		"nome": "Lindinhas",
+		"duracao": "1:36:25",
+		"ano": 1597806000000,
+		"score": 5.284,
+		"poster": "https://image.tmdb.org/t/p/w200/3HvqVuCDcq6DTN2aAvOEOfgyzXi.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
+		"videoid": "4f765253566f4d5461736a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 11
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 8
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 8
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 8
+			},
+			{
+				"filme": "Inocência Roubada",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 8
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 7
+			}
+		]
+	},
+	{
+		"nome": "The Forty-Year-Old Version",
+		"duracao": "2:04:15",
+		"ano": 1579921200000,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
+		"videoid": "48786f504f0f50626a6b50",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Garota dos Meus Sonhos",
+				"similaridade": 2
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 2
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 2
+			},
+			{
+				"filme": "187: O Código",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 2
+			}
+		]
+	},
+	{
+		"nome": "A Máscara de Ferro",
+		"duracao": "2:00:42",
+		"ano": 1565924400000,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7m8zy0eJ0d0JmEyOkC2fSx1KbYU.jpg",
+		"videoid": "6d7a026c59630c5d6b4f4c",
+		"resolucaoArmazenada": "1920x1014",
+		"orcamento": "49M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Tigre e o Dragão: A Espada do Destino",
+				"similaridade": 1
+			},
+			{
+				"filme": "Do Fundo do Mar 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Turma da Mônica: Laços",
+		"duracao": "1:36:43",
+		"ano": 1561604400000,
+		"score": 7.6,
+		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
+		"videoid": "094c0e4a6153610c025f48",
+		"resolucaoArmazenada": "1912x796",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 7
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 5
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 5
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 5
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 5
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 5
+			}
+		]
+	},
+	{
 		"nome": "Cemitério Maldito",
 		"duracao": "1:40:50",
-		"ano": 2019,
+		"ano": 1554346800000,
 		"score": 5.741,
 		"poster": "https://image.tmdb.org/t/p/w200/3CBbXrPiUhX4XfFuAxGsiRflgMw.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
@@ -2048,7 +2140,7 @@
 	{
 		"nome": "Contos do Caçador de Sombras",
 		"duracao": "1:48:53",
-		"ano": 2019,
+		"ano": 1549332000000,
 		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
@@ -2092,101 +2184,9 @@
 		]
 	},
 	{
-		"nome": "Turma da Mônica: Laços",
-		"duracao": "1:36:43",
-		"ano": 2019,
-		"score": 7.6,
-		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
-		"videoid": "094c0e4a6153610c025f48",
-		"resolucaoArmazenada": "1912x796",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Turma da Mônica: Lições",
-				"similaridade": 7
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 7
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 5
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 5
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 5
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 5
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 5
-			}
-		]
-	},
-	{
-		"nome": "A Máscara de Ferro",
-		"duracao": "2:00:42",
-		"ano": 2019,
-		"score": 6.2,
-		"poster": "https://image.tmdb.org/t/p/w200/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/7m8zy0eJ0d0JmEyOkC2fSx1KbYU.jpg",
-		"videoid": "6d7a026c59630c5d6b4f4c",
-		"resolucaoArmazenada": "1920x1014",
-		"orcamento": "49M",
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "Brinquedo Assassino 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Brinquedo Assassino 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Tigre e o Dragão: A Espada do Destino",
-				"similaridade": 1
-			},
-			{
-				"filme": "Do Fundo do Mar 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 1
-			}
-		]
-	},
-	{
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
-		"ano": 2019,
+		"ano": 1548900000000,
 		"score": 7.197,
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
@@ -2230,67 +2230,9 @@
 		]
 	},
 	{
-		"nome": "Do Fundo do Mar 2",
-		"duracao": "1:34:00",
-		"ano": 2018,
-		"score": 5.2,
-		"poster": "https://image.tmdb.org/t/p/w200/xygBIZm05PruPcmNjekb6aXBk6f.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/5UKLqsKJIhouJPVr8AQSTuh7S4n.jpg",
-		"videoid": "6a554e5d64097e166c5254",
-		"resolucaoArmazenada": "1280x720",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Do Fundo do Mar",
-				"similaridade": 42
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 19
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 16
-			},
-			{
-				"filme": "Do Fundo do Mar 3",
-				"similaridade": 13
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 13
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 13
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 12
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 12
-			}
-		]
-	},
-	{
-		"nome": "Karma: Aqui se Faz, Aqui se Paga",
-		"duracao": "1:25:35",
-		"ano": 2018,
-		"score": 5.9,
-		"poster": "https://image.tmdb.org/t/p/w200/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/skj7fo58v0cTLpmTXtCPbtOIWjs.jpg",
-		"videoid": "5a797316560f0c50097e7a",
-		"resolucaoArmazenada": "1280x716",
-		"orcamento": 0,
-		"receita": 0
-	},
-	{
 		"nome": "Inocência Roubada",
 		"duracao": "1:38:03",
-		"ano": 2018,
+		"ano": 1542160800000,
 		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/3UFiTOkNsGvmDapwWk08bQpjV8T.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4euxhzNRsrDLaqkAVTBid0EbIfw.jpg",
@@ -2334,9 +2276,67 @@
 		]
 	},
 	{
+		"nome": "Karma: Aqui se Faz, Aqui se Paga",
+		"duracao": "1:25:35",
+		"ano": 1539399600000,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/skj7fo58v0cTLpmTXtCPbtOIWjs.jpg",
+		"videoid": "5a797316560f0c50097e7a",
+		"resolucaoArmazenada": "1280x716",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
+		"nome": "Do Fundo do Mar 2",
+		"duracao": "1:34:00",
+		"ano": 1523934000000,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/xygBIZm05PruPcmNjekb6aXBk6f.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5UKLqsKJIhouJPVr8AQSTuh7S4n.jpg",
+		"videoid": "6a554e5d64097e166c5254",
+		"resolucaoArmazenada": "1280x720",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Do Fundo do Mar",
+				"similaridade": 42
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 16
+			},
+			{
+				"filme": "Do Fundo do Mar 3",
+				"similaridade": 13
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 13
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 13
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
+			}
+		]
+	},
+	{
 		"nome": "Inimigo Mortal",
 		"duracao": "1:50:26",
-		"ano": 2017,
+		"ano": 1513562400000,
 		"score": 5.9,
 		"poster": "https://image.tmdb.org/t/p/w200/tzz1t8UvSvISZxDxBmEd531nIPg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h3ir8VfpSEtoEBJjEarEludkjKL.jpg",
@@ -2380,101 +2380,9 @@
 		]
 	},
 	{
-		"nome": "Kung Fu Yoga",
-		"duracao": "1:47:01",
-		"ano": 2017,
-		"score": 5.9,
-		"poster": "https://image.tmdb.org/t/p/w200/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
-		"videoid": "760d70025d5c706b586d0f",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "65M",
-		"receita": "254.2M",
-		"similares": [
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 3
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 3
-			},
-			{
-				"filme": "Gladiador",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Reino Proibido",
-				"similaridade": 2
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 2
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "O Estrangeiro",
-		"duracao": "1:53:53",
-		"ano": 2017,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
-		"videoid": "717c69570d6d7776090a5c",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "35M",
-		"receita": "145.4M",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 155
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 144
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 139
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 129
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 127
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 125
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 123
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 107
-			}
-		]
-	},
-	{
 		"nome": "Professor Marston e as Mulheres-Maravilhas",
 		"duracao": "1:48:27",
-		"ano": 2017,
+		"ano": 1507863600000,
 		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/9Mk4VMhOnRa6lTMNcJ7lpxbRsrr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/f9sTcBX9M0BvwBHVvlOIUfNx98r.jpg",
@@ -2518,9 +2426,55 @@
 		]
 	},
 	{
+		"nome": "O Estrangeiro",
+		"duracao": "1:53:53",
+		"ano": 1506567600000,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+		"videoid": "717c69570d6d7776090a5c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "35M",
+		"receita": "145.4M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 155
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 144
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 139
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 129
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 127
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 125
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 123
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 107
+			}
+		]
+	},
+	{
 		"nome": "O Castelo de Vidro",
 		"duracao": "2:06:57",
-		"ano": 2017,
+		"ano": 1502420400000,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/3loaEocXUyMkNSseh9ej0blZs0d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mIaR9Wno6FhBLCqoICe09PUFnYu.jpg",
@@ -2566,7 +2520,7 @@
 	{
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
-		"ano": 2017,
+		"ano": 1496113200000,
 		"score": 7.245,
 		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
@@ -2610,55 +2564,55 @@
 		]
 	},
 	{
-		"nome": "O Tigre e o Dragão: A Espada do Destino",
-		"duracao": "1:40:28",
-		"ano": 2016,
-		"score": 6.1,
-		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
-		"videoid": "4f550f0e494a574173506a",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": "20M",
-		"receita": 0,
+		"nome": "Kung Fu Yoga",
+		"duracao": "1:47:01",
+		"ano": 1485482400000,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
+		"videoid": "760d70025d5c706b586d0f",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "65M",
+		"receita": "254.2M",
 		"similares": [
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 12
+				"filme": "Mulher-Maravilha",
+				"similaridade": 3
 			},
 			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 11
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 3
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 9
+				"filme": "Gladiador",
+				"similaridade": 2
 			},
 			{
 				"filme": "O Reino Proibido",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 8
+				"similaridade": 2
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 7
+				"similaridade": 2
 			},
 			{
-				"filme": "Duna",
-				"similaridade": 6
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 2
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 6
+				"filme": "A Noiva de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
 			}
 		]
 	},
 	{
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
-		"ano": 2016,
+		"ano": 1472180400000,
 		"score": 8.529,
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
@@ -2702,9 +2656,55 @@
 		]
 	},
 	{
+		"nome": "O Tigre e o Dragão: A Espada do Destino",
+		"duracao": "1:40:28",
+		"ano": 1455760800000,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
+		"videoid": "4f550f0e494a574173506a",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "20M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 8
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 8
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 7
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 6
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
+			}
+		]
+	},
+	{
 		"nome": "Abandonada: O Mal Foi Eleito",
 		"duracao": "1:29:22",
-		"ano": 2016,
+		"ano": 1454378400000,
 		"score": 3.7,
 		"poster": "https://image.tmdb.org/t/p/w200/1YhIAq1LkdCd4V7C4ciBaBXWCln.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k0vXy591VCMF4GNJGRNYJmLbtGP.jpg",
@@ -2750,7 +2750,7 @@
 	{
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
-		"ano": 2014,
+		"ano": 1415930400000,
 		"score": 8.015,
 		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
@@ -2794,55 +2794,9 @@
 		]
 	},
 	{
-		"nome": "Boa Noite, Mamãe!",
-		"duracao": "1:39:55",
-		"ano": 2014,
-		"score": 6.701,
-		"poster": "https://image.tmdb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
-		"videoid": "554d030873740c6b78784c",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": 0,
-		"receita": "2.2M",
-		"similares": [
-			{
-				"filme": "O Espelho",
-				"similaridade": 54
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 53
-			},
-			{
-				"filme": "A Noite dos Arrepios",
-				"similaridade": 40
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 32
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 32
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 31
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 28
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 27
-			}
-		]
-	},
-	{
 		"nome": "Interestelar",
 		"duracao": "2:49:04",
-		"ano": 2014,
+		"ano": 1415152800000,
 		"score": 8.371,
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
@@ -2886,55 +2840,55 @@
 		]
 	},
 	{
-		"nome": "A Maldição de Chucky",
-		"duracao": "1:36:42",
-		"ano": 2013,
-		"score": 5.856,
-		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
-		"videoid": "5348624169494a42097d50",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "5M",
-		"receita": "3.8M",
+		"nome": "Boa Noite, Mamãe!",
+		"duracao": "1:39:55",
+		"ano": 1412650800000,
+		"score": 6.701,
+		"poster": "https://image.tmdb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
+		"videoid": "554d030873740c6b78784c",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": "2.2M",
 		"similares": [
 			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 49
+				"filme": "O Espelho",
+				"similaridade": 54
 			},
 			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 44
+				"filme": "A Casa do Espanto",
+				"similaridade": 53
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 41
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 40
 			},
 			{
-				"filme": "Brinquedo Assassino 2",
-				"similaridade": 39
-			},
-			{
-				"filme": "Brinquedo Assassino",
-				"similaridade": 37
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 34
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
+				"filme": "Cemitério Maldito",
 				"similaridade": 32
 			},
 			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 30
+				"filme": "Olhos de Gato",
+				"similaridade": 32
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 31
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 27
 			}
 		]
 	},
 	{
 		"nome": "O Lobo de Wall Street",
 		"duracao": "2:59:53",
-		"ano": 2013,
+		"ano": 1387936800000,
 		"score": 8.031,
 		"poster": "https://image.tmdb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
@@ -2978,55 +2932,101 @@
 		]
 	},
 	{
-		"nome": "Além da Escuridão - Star Trek",
-		"duracao": "2:12:07",
-		"ano": 2013,
-		"score": 7.334,
-		"poster": "https://image.tmdb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
-		"videoid": "085262026c0969420e4e7e",
+		"nome": "A Maldição de Chucky",
+		"duracao": "1:36:42",
+		"ano": 1380855600000,
+		"score": 5.856,
+		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
+		"videoid": "5348624169494a42097d50",
 		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "190M",
-		"receita": "467.4M",
+		"orcamento": "5M",
+		"receita": "3.8M",
 		"similares": [
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 95
+				"filme": "A Noiva de Chucky",
+				"similaridade": 49
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 91
+				"filme": "O Filho de Chucky",
+				"similaridade": 44
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 82
+				"filme": "Pânico",
+				"similaridade": 41
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 78
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 39
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 77
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 76
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 74
+				"filme": "Brinquedo Assassino",
+				"similaridade": 37
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 73
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 32
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 30
+			}
+		]
+	},
+	{
+		"nome": "A Fúria de Vajra",
+		"duracao": "1:50:38",
+		"ano": 1379991600000,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/ffbwHf6jbbsqhmJybsxAZjHP3qF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wuzI70IYF89mT3lDF7etsPgAXqE.jpg",
+		"videoid": "556d5d495d505d6d5a0a54",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 3
+			},
+			{
+				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 3
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 3
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 3
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 3
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 3
 			}
 		]
 	},
 	{
 		"nome": "O Espelho",
 		"duracao": "1:44:04",
-		"ano": 2013,
+		"ano": 1378609200000,
 		"score": 6.447,
 		"poster": "https://image.tmdb.org/t/p/w200/5xAzE9cgbWWL2ZDD4YyWR1iINPK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
@@ -3070,9 +3070,101 @@
 		]
 	},
 	{
+		"nome": "Além da Escuridão - Star Trek",
+		"duracao": "2:12:07",
+		"ano": 1367722800000,
+		"score": 7.334,
+		"poster": "https://image.tmdb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
+		"videoid": "085262026c0969420e4e7e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "190M",
+		"receita": "467.4M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 95
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 91
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 82
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 78
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 77
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 76
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 74
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 73
+			}
+		]
+	},
+	{
+		"nome": "Premonição 5",
+		"duracao": "1:31:50",
+		"ano": 1313118000000,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
+		"videoid": "616f7a7e0d7874165e5a4c",
+		"resolucaoArmazenada": "1920x752",
+		"orcamento": "47M",
+		"receita": "157.9M",
+		"similares": [
+			{
+				"filme": "Premonição 4",
+				"similaridade": 29
+			},
+			{
+				"filme": "Premonição",
+				"similaridade": 28
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 26
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 23
+			},
+			{
+				"filme": "Premonição 2",
+				"similaridade": 23
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 18
+			}
+		]
+	},
+	{
 		"nome": "1911: A Revolução",
 		"duracao": "1:39:09",
-		"ano": 2011,
+		"ano": 1309662000000,
 		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
@@ -3118,7 +3210,7 @@
 	{
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
-		"ano": 2011,
+		"ano": 1299121200000,
 		"score": 6.72,
 		"poster": "https://image.tmdb.org/t/p/w200/4yqEixwuJ1dgQ0C28ILHnotpIIY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
@@ -3162,55 +3254,9 @@
 		]
 	},
 	{
-		"nome": "Premonição 5",
-		"duracao": "1:31:50",
-		"ano": 2011,
-		"score": 6.1,
-		"poster": "https://image.tmdb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
-		"videoid": "616f7a7e0d7874165e5a4c",
-		"resolucaoArmazenada": "1920x752",
-		"orcamento": "47M",
-		"receita": "157.9M",
-		"similares": [
-			{
-				"filme": "Premonição 4",
-				"similaridade": 29
-			},
-			{
-				"filme": "Premonição",
-				"similaridade": 28
-			},
-			{
-				"filme": "Premonição 3",
-				"similaridade": 26
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 25
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 23
-			},
-			{
-				"filme": "Premonição 2",
-				"similaridade": 23
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 18
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 18
-			}
-		]
-	},
-	{
 		"nome": "Karatê Kid",
 		"duracao": "2:20:02",
-		"ano": 2010,
+		"ano": 1276138800000,
 		"score": 6.491,
 		"poster": "https://image.tmdb.org/t/p/w200/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wwkpQnhi1TXnB3YTZdHeeBpuHs4.jpg",
@@ -3254,55 +3300,9 @@
 		]
 	},
 	{
-		"nome": "As Fitas de Poughkeepsie",
-		"duracao": "1:21:00",
-		"ano": 2009,
-		"score": 6.6,
-		"poster": "https://image.tmdb.org/t/p/w200/uAv2ap0S1q0ksDHNM30xNbgPHZG.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/mq1TQH9hDQrltit7fyj8k2P1RuF.jpg",
-		"videoid": "4d0e036e5d564e5054575c",
-		"resolucaoArmazenada": "1920x1024",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 75
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 65
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 52
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 49
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 49
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 42
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 41
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 39
-			}
-		]
-	},
-	{
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
-		"ano": 2009,
+		"ano": 1251255600000,
 		"score": 5.6,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
@@ -3346,9 +3346,55 @@
 		]
 	},
 	{
+		"nome": "As Fitas de Poughkeepsie",
+		"duracao": "1:21:00",
+		"ano": 1233280800000,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/uAv2ap0S1q0ksDHNM30xNbgPHZG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mq1TQH9hDQrltit7fyj8k2P1RuF.jpg",
+		"videoid": "4d0e036e5d564e5054575c",
+		"resolucaoArmazenada": "1920x1024",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 75
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 65
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 52
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 42
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 41
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 39
+			}
+		]
+	},
+	{
 		"nome": "Efeito Borboleta 3: Revelação",
 		"duracao": "1:30:17",
-		"ano": 2009,
+		"ano": 1231466400000,
 		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/6svx2au08QMyfXCEgNUht6maRIb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/foplAbUZrCeWHntCAb2BqFJCZHw.jpg",
@@ -3392,55 +3438,9 @@
 		]
 	},
 	{
-		"nome": "Liga da Justiça: A Nova Fronteira",
-		"duracao": "1:14:55",
-		"ano": 2008,
-		"score": 6.9,
-		"poster": "https://image.tmdb.org/t/p/w200/4Gbbj2bUNKi2Bfc5EOhbXomaeBo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/qkdmZFwy8wTGEHgPAS1HX2lOdK6.jpg",
-		"videoid": "715f6864794d41690f5348",
-		"resolucaoArmazenada": "1920x1072",
-		"orcamento": "3.5M",
-		"receita": "5.2M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 50
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 29
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 28
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 27
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 26
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 24
-			},
-			{
-				"filme": "Batman: O Cavaleiro de Gotham",
-				"similaridade": 23
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 20
-			}
-		]
-	},
-	{
 		"nome": "Batman: O Cavaleiro de Gotham",
 		"duracao": "1:16:00",
-		"ano": 2008,
+		"ano": 1215486000000,
 		"score": 6.7,
 		"poster": "https://image.tmdb.org/t/p/w200/jbsN2F0V0QIts4XFlCRKXOF3bAX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ng7VxyF0xl2d7ApM7Jo3lvH2LkG.jpg",
@@ -3486,7 +3486,7 @@
 	{
 		"nome": "O Reino Proibido",
 		"duracao": "1:44:27",
-		"ano": 2008,
+		"ano": 1208487600000,
 		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/2rEzOeG6he952m7tyFe7tOyfoko.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
@@ -3530,9 +3530,55 @@
 		]
 	},
 	{
+		"nome": "Liga da Justiça: A Nova Fronteira",
+		"duracao": "1:14:55",
+		"ano": 1203994800000,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4Gbbj2bUNKi2Bfc5EOhbXomaeBo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qkdmZFwy8wTGEHgPAS1HX2lOdK6.jpg",
+		"videoid": "715f6864794d41690f5348",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "3.5M",
+		"receita": "5.2M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 50
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 29
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 26
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Batman: O Cavaleiro de Gotham",
+				"similaridade": 23
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 20
+			}
+		]
+	},
+	{
 		"nome": "A Morte do Superman",
 		"duracao": "1:17:42",
-		"ano": 2007,
+		"ano": 1190084400000,
 		"score": 6.7,
 		"poster": "https://image.tmdb.org/t/p/w200/wcF16pLROx0MVxVqcCMX2SRmdv3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
@@ -3578,7 +3624,7 @@
 	{
 		"nome": "Primitivo",
 		"duracao": "1:34:13",
-		"ano": 2007,
+		"ano": 1168567200000,
 		"score": 6.034,
 		"poster": "https://image.tmdb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
@@ -3622,55 +3668,9 @@
 		]
 	},
 	{
-		"nome": "DOA: Vivo ou Morto",
-		"duracao": "1:26:11",
-		"ano": 2006,
-		"score": 5.2,
-		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
-		"videoid": "0362746f7d5e7e5c736103",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": "21M",
-		"receita": "7.6M",
-		"similares": [
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 26
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 26
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 26
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 25
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 24
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 23
-			},
-			{
-				"filme": "Operação Dragão",
-				"similaridade": 22
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 22
-			}
-		]
-	},
-	{
 		"nome": "A Garota dos Meus Sonhos",
 		"duracao": "1:30:50",
-		"ano": 2006,
+		"ano": 1161399600000,
 		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
@@ -3714,9 +3714,55 @@
 		]
 	},
 	{
+		"nome": "DOA: Vivo ou Morto",
+		"duracao": "1:26:11",
+		"ano": 1157598000000,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
+		"videoid": "0362746f7d5e7e5c736103",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "21M",
+		"receita": "7.6M",
+		"similares": [
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 26
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 26
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 23
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 22
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 22
+			}
+		]
+	},
+	{
 		"nome": "Efeito Borboleta 2",
 		"duracao": "1:32:21",
-		"ano": 2006,
+		"ano": 1155783600000,
 		"score": 4.9,
 		"poster": "https://image.tmdb.org/t/p/w200/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
@@ -3762,7 +3808,7 @@
 	{
 		"nome": "Premonição 3",
 		"duracao": "1:32:50",
-		"ano": 2006,
+		"ano": 1139450400000,
 		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
@@ -3808,7 +3854,7 @@
 	{
 		"nome": "O Filho de Chucky",
 		"duracao": "1:26:15",
-		"ano": 2004,
+		"ano": 1100138400000,
 		"score": 5.411,
 		"poster": "https://image.tmdb.org/t/p/w200/a7vVEDLt4rFYTxZRPeRGEv7QbNQ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/joTtQICm7vrGrVitC1bobgBmxUh.jpg",
@@ -3854,7 +3900,7 @@
 	{
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
-		"ano": 2004,
+		"ano": 1074736800000,
 		"score": 7.545,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
@@ -3900,7 +3946,7 @@
 	{
 		"nome": "O Medalhão",
 		"duracao": "1:28:28",
-		"ano": 2003,
+		"ano": 1060916400000,
 		"score": 5.6,
 		"poster": "https://image.tmdb.org/t/p/w200/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5GDwpS7FFnlkqLFtT06A93zOTRG.jpg",
@@ -3946,7 +3992,7 @@
 	{
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
-		"ano": 2003,
+		"ano": 1044496800000,
 		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/fVPZumNA50cSePKm56lEZ9G86f4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ctSHPoptLOGtg2tKgVWhz1eCNNi.jpg",
@@ -3992,7 +4038,7 @@
 	{
 		"nome": "Premonição 2",
 		"duracao": "1:30:11",
-		"ano": 2003,
+		"ano": 1043978400000,
 		"score": 6.193,
 		"poster": "https://image.tmdb.org/t/p/w200/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tSCozfXKeALzwcCilWcCXM14edJ.jpg",
@@ -4038,7 +4084,7 @@
 	{
 		"nome": "Cidade de Deus",
 		"duracao": "2:09:49",
-		"ano": 2002,
+		"ano": 1012874400000,
 		"score": 8.416,
 		"poster": "https://image.tmdb.org/t/p/w200/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
@@ -4082,55 +4128,9 @@
 		]
 	},
 	{
-		"nome": "Espião por Acidente",
-		"duracao": "1:26:14",
-		"ano": 2001,
-		"score": 6.001,
-		"poster": "https://image.tmdb.org/t/p/w200/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/sfSXkCTeJ7qBJm44V65u3y7YQf6.jpg",
-		"videoid": "4c594a71734f0b495f5d58",
-		"resolucaoArmazenada": "1920x812",
-		"orcamento": "25.7M",
-		"receita": "790.1K",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 47
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 45
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 40
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 39
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 36
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 36
-			},
-			{
-				"filme": "O Medalhão",
-				"similaridade": 36
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 34
-			}
-		]
-	},
-	{
 		"nome": "A Viagem de Chihiro",
 		"duracao": "2:04:34",
-		"ano": 2001,
+		"ano": 995598000000,
 		"score": 8.54,
 		"poster": "https://image.tmdb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
@@ -4174,101 +4174,55 @@
 		]
 	},
 	{
-		"nome": "Mar em Fúria",
-		"duracao": "2:09:50",
-		"ano": 2000,
-		"score": 6.4,
-		"poster": "https://image.tmdb.org/t/p/w200/9R0CYorOmNfp17hnvO5zioT70D6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
-		"videoid": "16737974720d576c4e695c",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "120M",
-		"receita": "325.8M",
+		"nome": "Espião por Acidente",
+		"duracao": "1:26:14",
+		"ano": 979783200000,
+		"score": 6.001,
+		"poster": "https://image.tmdb.org/t/p/w200/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/sfSXkCTeJ7qBJm44V65u3y7YQf6.jpg",
+		"videoid": "4c594a71734f0b495f5d58",
+		"resolucaoArmazenada": "1920x812",
+		"orcamento": "25.7M",
+		"receita": "790.1K",
 		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 21
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 20
-			},
 			{
 				"filme": "Batman",
-				"similaridade": 17
+				"similaridade": 47
 			},
 			{
-				"filme": "Vingança",
-				"similaridade": 16
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 15
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 15
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 15
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 14
-			}
-		]
-	},
-	{
-		"nome": "Gladiador",
-		"duracao": "2:50:58",
-		"ano": 2000,
-		"score": 8.2,
-		"poster": "https://image.tmdb.org/t/p/w200/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
-		"videoid": "680d786f766d4c50027958",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": "103M",
-		"receita": "465.4M",
-		"similares": [
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 77
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 76
+				"filme": "Quem Sou Eu?",
+				"similaridade": 45
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 68
+				"similaridade": 40
 			},
 			{
-				"filme": "Duna",
-				"similaridade": 66
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 60
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 59
+				"filme": "Inimigo Mortal",
+				"similaridade": 39
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 57
+				"similaridade": 36
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 50
+				"filme": "Agentes Vanguard",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Medalhão",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 34
 			}
 		]
 	},
 	{
 		"nome": "O Auto da Compadecida",
 		"duracao": "2:40:12",
-		"ano": 2000,
+		"ano": 968986800000,
 		"score": 8.439,
 		"poster": "https://image.tmdb.org/t/p/w200/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xs6awEGjnH3e36YSAromfYu3PBQ.jpg",
@@ -4314,7 +4268,7 @@
 	{
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
-		"ano": 2000,
+		"ano": 962852400000,
 		"score": 7.4,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
@@ -4358,9 +4312,55 @@
 		]
 	},
 	{
+		"nome": "Mar em Fúria",
+		"duracao": "2:09:50",
+		"ano": 962247600000,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/9R0CYorOmNfp17hnvO5zioT70D6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
+		"videoid": "16737974720d576c4e695c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "120M",
+		"receita": "325.8M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 21
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 20
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 16
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 15
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 15
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 14
+			}
+		]
+	},
+	{
 		"nome": "Bater ou Correr",
 		"duracao": "1:50:18",
-		"ano": 2000,
+		"ano": 959310000000,
 		"score": 6.4,
 		"poster": "https://image.tmdb.org/t/p/w200/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/82ZXnrTOcNOm1NjWAWrSROQMULc.jpg",
@@ -4404,9 +4404,55 @@
 		]
 	},
 	{
+		"nome": "Gladiador",
+		"duracao": "2:50:58",
+		"ano": 957409200000,
+		"score": 8.2,
+		"poster": "https://image.tmdb.org/t/p/w200/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+		"videoid": "680d786f766d4c50027958",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "103M",
+		"receita": "465.4M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 77
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 76
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 68
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 66
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 60
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 59
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 50
+			}
+		]
+	},
+	{
 		"nome": "Premonição",
 		"duracao": "1:38:03",
-		"ano": 2000,
+		"ano": 953262000000,
 		"score": 6.564,
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
@@ -4450,55 +4496,9 @@
 		]
 	},
 	{
-		"nome": "Do Fundo do Mar",
-		"duracao": "1:45:01",
-		"ano": 1999,
-		"score": 5.9,
-		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
-		"videoid": "7677430c0c6c755d694a6e",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "60M",
-		"receita": "164.6M",
-		"similares": [
-			{
-				"filme": "Do Fundo do Mar 2",
-				"similaridade": 42
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 30
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 27
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 27
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 25
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 25
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 24
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 24
-			}
-		]
-	},
-	{
 		"nome": "A Lenda do Cavaleiro Sem Cabeça",
 		"duracao": "1:45:31",
-		"ano": 1999,
+		"ano": 942976800000,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
@@ -4542,9 +4542,55 @@
 		]
 	},
 	{
+		"nome": "Do Fundo do Mar",
+		"duracao": "1:45:01",
+		"ano": 933130800000,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
+		"videoid": "7677430c0c6c755d694a6e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "60M",
+		"receita": "164.6M",
+		"similares": [
+			{
+				"filme": "Do Fundo do Mar 2",
+				"similaridade": 42
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 30
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 25
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 25
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 24
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 24
+			}
+		]
+	},
+	{
 		"nome": "A Noiva de Chucky",
 		"duracao": "1:28:51",
-		"ano": 1998,
+		"ano": 908503200000,
 		"score": 6,
 		"poster": "https://image.tmdb.org/t/p/w200/bhVKlNWNduGgPwI89I35CWtvIsn.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gCWYgNGQgB1zqPe2Jgds27cbOS3.jpg",
@@ -4590,7 +4636,7 @@
 	{
 		"nome": "Quem Sou Eu?",
 		"duracao": "1:48:02",
-		"ano": 1998,
+		"ano": 885002400000,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dlyeSZD92Arha6XVBteyNNaPi19.jpg",
@@ -4636,7 +4682,7 @@
 	{
 		"nome": "12 Homens e uma Sentença",
 		"duracao": "1:57:28",
-		"ano": 1997,
+		"ano": 871786800000,
 		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/fBWeLc6Kj8ok0Qsjj98VG91RO4U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kc1e8Atb1Dntzry6un1z3MAUzGe.jpg",
@@ -4682,7 +4728,7 @@
 	{
 		"nome": "187: O Código",
 		"duracao": "1:59:35",
-		"ano": 1997,
+		"ano": 870145200000,
 		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/oYj3TtkOOGFpV6ARX3KcZAVW2RX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/atxSD5UwoVGtIitOyNfQ6ry8q4u.jpg",
@@ -4728,7 +4774,7 @@
 	{
 		"nome": "Beavis e Butt-Head Detonam a América",
 		"duracao": "1:20:53",
-		"ano": 1996,
+		"ano": 850615200000,
 		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/wEB1GPT7mQcTNuYT73s72ljjbMF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/myc2N1GjIKLTjSbIzmI0KEXdaPB.jpg",
@@ -4772,55 +4818,9 @@
 		]
 	},
 	{
-		"nome": "Arrebentando em Nova York",
-		"duracao": "1:29:37",
-		"ano": 1995,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
-		"videoid": "620f510374560b03717054",
-		"resolucaoArmazenada": "1280x528",
-		"orcamento": "7.5M",
-		"receita": "32.4M",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 70
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 61
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 57
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 56
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 55
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 49
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 48
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 48
-			}
-		]
-	},
-	{
 		"nome": "Thunderbolt: Ação Sobre Rodas",
 		"duracao": "1:45:50",
-		"ano": 1995,
+		"ano": 810529200000,
 		"score": 6.4,
 		"poster": "https://image.tmdb.org/t/p/w200/f87fY5kuGCKiWJduVXtBWxtJttF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mwt58ScrmiPUwgkR8NTEA26joMf.jpg",
@@ -4866,7 +4866,7 @@
 	{
 		"nome": "Lembranças de Outra Vida",
 		"duracao": "1:35:40",
-		"ano": 1995,
+		"ano": 802062000000,
 		"score": 7.167,
 		"poster": "https://image.tmdb.org/t/p/w200/kCBAmH4K5hgL2H8hpQ8wHRwMAwI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lwnM9P0rtXdNdV2uZ9r84ALQTyt.jpg",
@@ -4910,55 +4910,55 @@
 		]
 	},
 	{
-		"nome": "A Fuga",
-		"duracao": "1:55:14",
-		"ano": 1994,
-		"score": 5.6,
-		"poster": "https://image.tmdb.org/t/p/w200/eByIA9G8dinaMJRexKbjmqJF8nF.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/nut4QrJMRM836INrpEaAbfO8DLp.jpg",
-		"videoid": "764e5476704e756c42537a",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": "30.1M",
+		"nome": "Arrebentando em Nova York",
+		"duracao": "1:29:37",
+		"ano": 790653600000,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
+		"videoid": "620f510374560b03717054",
+		"resolucaoArmazenada": "1280x528",
+		"orcamento": "7.5M",
+		"receita": "32.4M",
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 54
+				"similaridade": 70
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 47
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 43
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 42
+				"similaridade": 61
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 41
+				"similaridade": 57
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 56
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 55
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 41
+				"similaridade": 49
 			},
 			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 39
+				"filme": "Quem Sou Eu?",
+				"similaridade": 48
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 48
 			}
 		]
 	},
 	{
 		"nome": "Um Sonho de Liberdade",
 		"duracao": "2:22:33",
-		"ano": 1994,
+		"ano": 780289200000,
 		"score": 8.722,
 		"poster": "https://image.tmdb.org/t/p/w200/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
@@ -5002,55 +5002,55 @@
 		]
 	},
 	{
-		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
-		"duracao": "1:35:12",
-		"ano": 1992,
-		"score": 4.8,
-		"poster": "https://image.tmdb.org/t/p/w200/7PNCxEh7dzuhCiMOrfguVjdUgl0.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/8t0KYCkBaK3aAgNvfrgVHpcuNI6.jpg",
-		"videoid": "4c4e430b0b50760c5a4d62",
-		"resolucaoArmazenada": "1280x688",
+		"nome": "A Fuga",
+		"duracao": "1:55:14",
+		"ano": 760932000000,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/eByIA9G8dinaMJRexKbjmqJF8nF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nut4QrJMRM836INrpEaAbfO8DLp.jpg",
+		"videoid": "764e5476704e756c42537a",
+		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
-		"receita": 0,
+		"receita": "30.1M",
 		"similares": [
 			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 19
+				"filme": "Batman",
+				"similaridade": 54
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 15
+				"filme": "O Estrangeiro",
+				"similaridade": 47
 			},
 			{
-				"filme": "O Espelho",
-				"similaridade": 14
+				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 43
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 42
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 41
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 13
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 13
-			},
-			{
-				"filme": "O Exorcista",
-				"similaridade": 13
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 12
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 12
+				"similaridade": 39
 			}
 		]
 	},
 	{
 		"nome": "Drácula de Bram Stoker",
 		"duracao": "2:07:23",
-		"ano": 1992,
+		"ano": 721620000000,
 		"score": 7.4,
 		"poster": "https://image.tmdb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
@@ -5094,9 +5094,55 @@
 		]
 	},
 	{
+		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
+		"duracao": "1:35:12",
+		"ano": 695959200000,
+		"score": 4.8,
+		"poster": "https://image.tmdb.org/t/p/w200/7PNCxEh7dzuhCiMOrfguVjdUgl0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8t0KYCkBaK3aAgNvfrgVHpcuNI6.jpg",
+		"videoid": "4c4e430b0b50760c5a4d62",
+		"resolucaoArmazenada": "1280x688",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 19
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 13
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 13
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 12
+			}
+		]
+	},
+	{
 		"nome": "Brinquedo Assassino 3",
 		"duracao": "1:29:41",
-		"ano": 1991,
+		"ano": 683521200000,
 		"score": 5.9,
 		"poster": "https://image.tmdb.org/t/p/w200/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k0XTbNtE3fSiId7IcMXXRGDJRYp.jpg",
@@ -5140,147 +5186,9 @@
 		]
 	},
 	{
-		"nome": "Vingança",
-		"duracao": "2:03:50",
-		"ano": 1990,
-		"score": 6.6,
-		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/aCKxFn7oixq8PIdM1pHF2qn7GSB.jpg",
-		"videoid": "7563035f68740d52554962",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": "15.6M",
-		"similares": [
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 90
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 88
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 85
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 73
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 69
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 68
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 67
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 66
-			}
-		]
-	},
-	{
-		"nome": "Brinquedo Assassino 2",
-		"duracao": "1:23:50",
-		"ano": 1990,
-		"score": 6.2,
-		"poster": "https://image.tmdb.org/t/p/w200/ztcbACnysI1sUVi7u3333jQwFU1.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/5Fk490c1nNCyGT6HLVJO0rPD281.jpg",
-		"videoid": "036c7d0e6f6e6a79486e62",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": "13M",
-		"receita": "35.8M",
-		"similares": [
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 72
-			},
-			{
-				"filme": "Brinquedo Assassino",
-				"similaridade": 60
-			},
-			{
-				"filme": "Brinquedo Assassino 3",
-				"similaridade": 53
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 45
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 42
-			},
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 39
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 33
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 32
-			}
-		]
-	},
-	{
-		"nome": "O Dragão e o Tigre",
-		"duracao": "1:44:50",
-		"ano": 1990,
-		"score": 7.2,
-		"poster": "https://image.tmdb.org/t/p/w200/5l3OymXLquKTUe9S7ewWJccRGVv.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/reB9Xbx2i6tv5Io7MXBZ4jmSvKe.jpg",
-		"videoid": "0b7f74716142626b580350",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 10
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 9
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 8
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 6
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 6
-			}
-		]
-	},
-	{
 		"nome": "O Poderoso Chefão: Parte III",
 		"duracao": "2:50:16",
-		"ano": 1990,
+		"ano": 662090400000,
 		"score": 7.421,
 		"poster": "https://image.tmdb.org/t/p/w200/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9jzcBj3K3sOJe1yF73JEFPISIHE.jpg",
@@ -5324,9 +5232,55 @@
 		]
 	},
 	{
+		"nome": "Brinquedo Assassino 2",
+		"duracao": "1:23:50",
+		"ano": 658116000000,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/ztcbACnysI1sUVi7u3333jQwFU1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5Fk490c1nNCyGT6HLVJO0rPD281.jpg",
+		"videoid": "036c7d0e6f6e6a79486e62",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "13M",
+		"receita": "35.8M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 72
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 60
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 45
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 42
+			},
+			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 39
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 33
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 32
+			}
+		]
+	},
+	{
 		"nome": "O Exorcista III",
 		"duracao": "1:49:57",
-		"ano": 1990,
+		"ano": 650862000000,
 		"score": 6.2,
 		"poster": "https://image.tmdb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lcLoZoIbTLdYiXjLE2l0ciS9Vdx.jpg",
@@ -5370,55 +5324,101 @@
 		]
 	},
 	{
-		"nome": "Cemitério Maldito",
-		"duracao": "1:42:46",
-		"ano": 1989,
-		"score": 6.6,
-		"poster": "https://image.tmdb.org/t/p/w200/gklxyWeboH8ZerVwLSW79AEIInf.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
-		"videoid": "485679684f58574d416f7e",
-		"resolucaoArmazenada": "1920x1072",
-		"orcamento": "11.5M",
-		"receita": "57.5M",
+		"nome": "O Dragão e o Tigre",
+		"duracao": "1:44:50",
+		"ano": 646542000000,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/5l3OymXLquKTUe9S7ewWJccRGVv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/reB9Xbx2i6tv5Io7MXBZ4jmSvKe.jpg",
+		"videoid": "0b7f74716142626b580350",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
-				"filme": "O Exorcista",
-				"similaridade": 46
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 43
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 10
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 42
+				"similaridade": 9
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 42
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 39
+				"filme": "A Noiva de Chucky",
+				"similaridade": 8
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 38
+				"similaridade": 8
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 6
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 6
+			}
+		]
+	},
+	{
+		"nome": "Vingança",
+		"duracao": "2:03:50",
+		"ano": 635137200000,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aCKxFn7oixq8PIdM1pHF2qn7GSB.jpg",
+		"videoid": "7563035f68740d52554962",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": "15.6M",
+		"similares": [
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 90
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 88
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 85
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 73
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 38
+				"similaridade": 69
 			},
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 37
+				"filme": "Tenet",
+				"similaridade": 68
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 67
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 66
 			}
 		]
 	},
 	{
 		"nome": "Chefão Por Acaso",
 		"duracao": "2:06:58",
-		"ano": 1989,
+		"ano": 613882800000,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/aJgLhPwmzKtX0AONtWXWpIQpIHx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/baKUm23wuT8AqDu2ucx5bgfqETN.jpg",
@@ -5464,7 +5464,7 @@
 	{
 		"nome": "A Casa do Espanto 3",
 		"duracao": "1:34:23",
-		"ano": 1989,
+		"ano": 609735600000,
 		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/azkxRbusgAZiXGcZMfjWdYdqdGb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tZcOail3NuHDWUxh77FihNpsnH.jpg",
@@ -5508,9 +5508,55 @@
 		]
 	},
 	{
+		"nome": "Cemitério Maldito",
+		"duracao": "1:42:46",
+		"ano": 609130800000,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/gklxyWeboH8ZerVwLSW79AEIInf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+		"videoid": "485679684f58574d416f7e",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "11.5M",
+		"receita": "57.5M",
+		"similares": [
+			{
+				"filme": "O Exorcista",
+				"similaridade": 46
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 43
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 42
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 42
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 39
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 38
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 38
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 37
+			}
+		]
+	},
+	{
 		"nome": "Brinquedo Assassino",
 		"duracao": "1:27:31",
-		"ano": 1988,
+		"ano": 594957600000,
 		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
@@ -5556,7 +5602,7 @@
 	{
 		"nome": "Dragões para Sempre",
 		"duracao": "1:29:57",
-		"ano": 1988,
+		"ano": 571546800000,
 		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
@@ -5602,7 +5648,7 @@
 	{
 		"nome": "A Casa do Espanto 2",
 		"duracao": "1:28:11",
-		"ano": 1987,
+		"ano": 547959600000,
 		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/A4tfyHwA0aZjDIBMRpONkNfhzUD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/r3uHyikGNv5oiRbZvbryhnHk9ql.jpg",
@@ -5648,7 +5694,7 @@
 	{
 		"nome": "A Noite dos Arrepios",
 		"duracao": "1:29:53",
-		"ano": 1986,
+		"ano": 524977200000,
 		"score": 6.8,
 		"poster": "https://image.tmdb.org/t/p/w200/ApOIn9hfTkI95eDAFcKOYrc4Qu7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/i1fGLYO2nzkFazh58sgOT7ohosU.jpg",
@@ -5694,7 +5740,7 @@
 	{
 		"nome": "A Casa do Espanto",
 		"duracao": "1:31:58",
-		"ano": 1986,
+		"ano": 509853600000,
 		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/kiIZdDYP2vUV3PZrgY5vJBHhhdf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dQ1NwW8LE4PR8UfLEf8eAQpgTpG.jpg",
@@ -5740,7 +5786,7 @@
 	{
 		"nome": "FX - Assassinato sem Morte",
 		"duracao": "1:43:58",
-		"ano": 1986,
+		"ano": 508125600000,
 		"score": 6.4,
 		"poster": "https://image.tmdb.org/t/p/w200/kViIizFhXM6kJFTLbrVrxUxYta9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iQpM9uZDW4R1d96xuTOO0DQUMVy.jpg",
@@ -5786,7 +5832,7 @@
 	{
 		"nome": "Olhos de Gato",
 		"duracao": "1:34:41",
-		"ano": 1985,
+		"ano": 482122800000,
 		"score": 6.759,
 		"poster": "https://image.tmdb.org/t/p/w200/3UKPrcUdMedexjOKAfcDoJreoZO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hxUM806p8SeOwdsYamUOrTYc07E.jpg",
@@ -5832,7 +5878,7 @@
 	{
 		"nome": "Estrelas do Kung Fu",
 		"duracao": "1:36:18",
-		"ano": 1985,
+		"ano": 476852400000,
 		"score": 6.4,
 		"poster": "https://image.tmdb.org/t/p/w200/9RsG0eY9sJHd6Ar0OnZZ3k8WFCY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
@@ -5878,7 +5924,7 @@
 	{
 		"nome": "Detonando em Barcelona",
 		"duracao": "1:48:33",
-		"ano": 1984,
+		"ano": 461559600000,
 		"score": 6.964,
 		"poster": "https://image.tmdb.org/t/p/w200/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iABwTioi1g9EyWfE7xsSIU4Gkqi.jpg",
@@ -5922,55 +5968,9 @@
 		]
 	},
 	{
-		"nome": "Perdedores e Vencedores",
-		"duracao": "1:48:14",
-		"ano": 1983,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/3GtnjzDrdIhnnyZZhFzATh61wD1.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/106zrDyHpD0T1ZtNBrBh1K5M9up.jpg",
-		"videoid": "4355744d7f720d725f7462",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Espião por Acidente",
-				"similaridade": 19
-			},
-			{
-				"filme": "A Fúria do Dragão",
-				"similaridade": 18
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 17
-			},
-			{
-				"filme": "Estrelas do Kung Fu",
-				"similaridade": 17
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 15
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 15
-			},
-			{
-				"filme": "O Medalhão",
-				"similaridade": 15
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 15
-			}
-		]
-	},
-	{
 		"nome": "Projeto China",
 		"duracao": "1:46:01",
-		"ano": 1983,
+		"ano": 440910000000,
 		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/uvQadnCrtustVtz49hv3mRpNVZg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ax6u1hXy9ZWvdl7uYTadx7RFReg.jpg",
@@ -6014,55 +6014,55 @@
 		]
 	},
 	{
-		"nome": "O Enigma de Outro Mundo",
-		"duracao": "1:48:43",
-		"ano": 1982,
-		"score": 8.023,
-		"poster": "https://image.tmdb.org/t/p/w200/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
-		"videoid": "6d48700b7f4a5108744862",
-		"resolucaoArmazenada": "1280x544",
-		"orcamento": "15M",
-		"receita": "19.6M",
+		"nome": "Perdedores e Vencedores",
+		"duracao": "1:48:14",
+		"ano": 426394800000,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/3GtnjzDrdIhnnyZZhFzATh61wD1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/106zrDyHpD0T1ZtNBrBh1K5M9up.jpg",
+		"videoid": "4355744d7f720d725f7462",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 70
+				"filme": "Espião por Acidente",
+				"similaridade": 19
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 69
+				"filme": "A Fúria do Dragão",
+				"similaridade": 18
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 62
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 17
+			},
+			{
+				"filme": "Estrelas do Kung Fu",
+				"similaridade": 17
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 15
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 60
+				"similaridade": 15
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 55
+				"filme": "O Medalhão",
+				"similaridade": 15
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 53
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 53
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 52
+				"filme": "Quem Sou Eu?",
+				"similaridade": 15
 			}
 		]
 	},
 	{
 		"nome": "O Veredicto",
 		"duracao": "2:08:51",
-		"ano": 1982,
+		"ano": 408164400000,
 		"score": 7.4,
 		"poster": "https://image.tmdb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
@@ -6106,9 +6106,55 @@
 		]
 	},
 	{
+		"nome": "O Enigma de Outro Mundo",
+		"duracao": "1:48:43",
+		"ano": 393822000000,
+		"score": 8.023,
+		"poster": "https://image.tmdb.org/t/p/w200/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
+		"videoid": "6d48700b7f4a5108744862",
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": "15M",
+		"receita": "19.6M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 70
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 69
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 62
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 60
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 55
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 53
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 53
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 52
+			}
+		]
+	},
+	{
 		"nome": "O Grande Lutador",
 		"duracao": "1:36:11",
-		"ano": 1980,
+		"ano": 337402800000,
 		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/xmlWFjvhmKjTiSqcvYrRDbRsTjQ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzrkvKADAP2DHXjG3dutmW85tRC.jpg",
@@ -6154,7 +6200,7 @@
 	{
 		"nome": "Justiça Para Todos",
 		"duracao": "1:59:05",
-		"ano": 1979,
+		"ano": 309150000000,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/l82JLXaJK9hqv08P4A9pTM8OCtq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSE7G4lmaTFgjj7KHIWlWoPo6q5.jpg",
@@ -6200,7 +6246,7 @@
 	{
 		"nome": "Operação Dragão Negro",
 		"duracao": "1:34:10",
-		"ano": 1977,
+		"ano": 241844400000,
 		"score": 5,
 		"poster": "https://image.tmdb.org/t/p/w200/xOy3igwWmkF2zsecMiXoTFLd4UG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/duH3TEDkdZC3C2q2bY5c9SRg1DZ.jpg",
@@ -6246,7 +6292,7 @@
 	{
 		"nome": "O Exorcista II: O Herege",
 		"duracao": "1:57:42",
-		"ano": 1977,
+		"ano": 235364400000,
 		"score": 4.5,
 		"poster": "https://image.tmdb.org/t/p/w200/2XASU2NnhnOTitNwSN9GmWVhlov.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rJKoO5DhzDc40b5v4w5yj3gfU2x.jpg",
@@ -6292,7 +6338,7 @@
 	{
 		"nome": "O Poderoso Chefão: Parte II",
 		"duracao": "3:22:07",
-		"ano": 1974,
+		"ano": 156740400000,
 		"score": 8.591,
 		"poster": "https://image.tmdb.org/t/p/w200/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
@@ -6336,55 +6382,55 @@
 		]
 	},
 	{
-		"nome": "Operação Dragão",
-		"duracao": "1:42:24",
-		"ano": 1973,
-		"score": 7.424,
-		"poster": "https://image.tmdb.org/t/p/w200/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
-		"videoid": "4f525e770843776b5f4b7e",
-		"resolucaoArmazenada": "1280x534",
-		"orcamento": "10M",
-		"receita": "21.5M",
+		"nome": "O Exorcista",
+		"duracao": "2:12:22",
+		"ano": 125722800000,
+		"score": 7.714,
+		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+		"videoid": "42766f594d7479535e4c03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "11M",
+		"receita": "441.3M",
 		"similares": [
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 72
+				"filme": "Cemitério Maldito",
+				"similaridade": 46
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 70
+				"similaridade": 40
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 39
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 37
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 69
+				"similaridade": 36
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 69
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 69
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 61
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 60
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 60
+				"filme": "Mulher-Maravilha",
+				"similaridade": 36
 			}
 		]
 	},
 	{
 		"nome": "Os Ritos Satânicos de Drácula",
 		"duracao": "1:27:47",
-		"ano": 1973,
+		"ano": 121143600000,
 		"score": 5.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ssPuMch8b9tHSzlKAqJK7yp5lNo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7iHNbmOpNuRN8SFITE7nKlk00qY.jpg",
@@ -6430,7 +6476,7 @@
 	{
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
-		"ano": 1973,
+		"ano": 119502000000,
 		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
@@ -6474,55 +6520,55 @@
 		]
 	},
 	{
-		"nome": "O Exorcista",
-		"duracao": "2:12:22",
-		"ano": 1973,
-		"score": 7.714,
-		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-		"videoid": "42766f594d7479535e4c03",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "11M",
-		"receita": "441.3M",
+		"nome": "Operação Dragão",
+		"duracao": "1:42:24",
+		"ano": 114404400000,
+		"score": 7.424,
+		"poster": "https://image.tmdb.org/t/p/w200/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
+		"videoid": "4f525e770843776b5f4b7e",
+		"resolucaoArmazenada": "1280x534",
+		"orcamento": "10M",
+		"receita": "21.5M",
 		"similares": [
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 46
+				"filme": "Mulher-Maravilha",
+				"similaridade": 72
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 40
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 39
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 37
+				"similaridade": 70
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 36
+				"similaridade": 69
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 36
+				"filme": "Tenet",
+				"similaridade": 69
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 69
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 61
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 60
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 60
 			}
 		]
 	},
 	{
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
-		"ano": 1972,
+		"ano": 70081200000,
 		"score": 7.294,
 		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
@@ -6568,7 +6614,7 @@
 	{
 		"nome": "O Poderoso Chefão",
 		"duracao": "2:57:10",
-		"ano": 1972,
+		"ano": 69390000000,
 		"score": 8.707,
 		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
@@ -6614,7 +6660,7 @@
 	{
 		"nome": "Um Violinista no Telhado",
 		"duracao": "3:01:08",
-		"ano": 1971,
+		"ano": 57985200000,
 		"score": 7.8,
 		"poster": "https://image.tmdb.org/t/p/w200/bFSDFdFrLWmaLavenuHFIUxgUVW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4nQOHKYRwPhAXqYACxVY6bMKbu8.jpg",
@@ -6660,7 +6706,7 @@
 	{
 		"nome": "Tora! Tora! Tora!",
 		"duracao": "2:28:54",
-		"ano": 1970,
+		"ano": 2170800000,
 		"score": 7.162,
 		"poster": "https://image.tmdb.org/t/p/w200/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
@@ -6706,7 +6752,7 @@
 	{
 		"nome": "Era uma Vez no Oeste",
 		"duracao": "2:46:02",
-		"ano": 1968,
+		"ano": -32475600000,
 		"score": 8.315,
 		"poster": "https://image.tmdb.org/t/p/w200/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
@@ -6752,7 +6798,7 @@
 	{
 		"nome": "Os Doze Condenados",
 		"duracao": "2:29:38",
-		"ano": 1967,
+		"ano": -80427600000,
 		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/djGA2A1DuP8YYIkLmeiMzIgC9B9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hDzCnoDiYMZ4rPQO4U0GB7exCzG.jpg",
@@ -6798,7 +6844,7 @@
 	{
 		"nome": "O Vento Será Tua Herança",
 		"duracao": "2:07:56",
-		"ano": 1960,
+		"ano": -299365200000,
 		"score": 7.8,
 		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
@@ -6842,55 +6888,9 @@
 		]
 	},
 	{
-		"nome": "Cinderela em Paris",
-		"duracao": "1:43:20",
-		"ano": 1957,
-		"score": 7,
-		"poster": "https://image.tmdb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
-		"videoid": "4a506a030b485c6b765a03",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 9
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 9
-			},
-			{
-				"filme": "Cruella",
-				"similaridade": 7
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 7
-			},
-			{
-				"filme": "Casablanca",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 7
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 7
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 6
-			}
-		]
-	},
-	{
 		"nome": "A Embriaguez do Sucesso",
 		"duracao": "1:36:41",
-		"ano": 1957,
+		"ano": -394318800000,
 		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/a0rWG90gNd85ttLjXAYNUAUG8GK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nC8u2U0YpmFOzJjbQaCt5NwbkGQ.jpg",
@@ -6936,7 +6936,7 @@
 	{
 		"nome": "12 Homens e Uma Sentença",
 		"duracao": "1:36:22",
-		"ano": 1957,
+		"ano": -401662800000,
 		"score": 8.521,
 		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
@@ -6980,55 +6980,55 @@
 		]
 	},
 	{
-		"nome": "Os Sete Samurais",
-		"duracao": "3:27:05",
-		"ano": 1954,
-		"score": 8.467,
-		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
-		"videoid": "7756740a4e620e77556e6a",
-		"resolucaoArmazenada": "936x704",
-		"orcamento": "2M",
-		"receita": "346.3K",
+		"nome": "Cinderela em Paris",
+		"duracao": "1:43:20",
+		"ano": -406501200000,
+		"score": 7,
+		"poster": "https://image.tmdb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
+		"videoid": "4a506a030b485c6b765a03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
 		"similares": [
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 54
+				"filme": "O Castelo de Vidro",
+				"similaridade": 9
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 46
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 9
 			},
 			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 42
+				"filme": "Cruella",
+				"similaridade": 7
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 42
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 7
 			},
 			{
-				"filme": "Gladiador",
-				"similaridade": 40
+				"filme": "Casablanca",
+				"similaridade": 7
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 39
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 38
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 7
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 36
+				"filme": "As Agentes 355",
+				"similaridade": 6
 			}
 		]
 	},
 	{
 		"nome": "Sindicato de Ladrões",
 		"duracao": "1:47:42",
-		"ano": 1954,
+		"ano": -490050000000,
 		"score": 8,
 		"poster": "https://image.tmdb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
@@ -7072,9 +7072,55 @@
 		]
 	},
 	{
+		"nome": "Os Sete Samurais",
+		"duracao": "3:27:05",
+		"ano": -494974800000,
+		"score": 8.467,
+		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+		"videoid": "7756740a4e620e77556e6a",
+		"resolucaoArmazenada": "936x704",
+		"orcamento": "2M",
+		"receita": "346.3K",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 54
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 46
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 42
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 42
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 40
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 39
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 38
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 36
+			}
+		]
+	},
+	{
 		"nome": "Crepúsculo dos Deuses",
 		"duracao": "1:50:19",
-		"ano": 1950,
+		"ano": -612046800000,
 		"score": 8.4,
 		"poster": "https://image.tmdb.org/t/p/w200/nOgsN1JibIKsb0tr8w2dCpYnU1R.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
@@ -7120,7 +7166,7 @@
 	{
 		"nome": "Desfile de Páscoa",
 		"duracao": "1:43:22",
-		"ano": 1948,
+		"ano": -677970000000,
 		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/aLgvafQvb6D6at4khC0b7kn0h8f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yf8Ct7WikW3TlgGlrMoCsCn7YBY.jpg",
@@ -7166,7 +7212,7 @@
 	{
 		"nome": "Casablanca",
 		"duracao": "1:42:37",
-		"ano": 1942,
+		"ano": -855176400000,
 		"score": 8.168,
 		"poster": "https://image.tmdb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
@@ -7212,7 +7258,7 @@
 	{
 		"nome": "Cidadão Kane",
 		"duracao": "1:59:24",
-		"ano": 1941,
+		"ano": -905979600000,
 		"score": 8,
 		"poster": "https://image.tmdb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
