@@ -202,6 +202,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 6
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 6
 			},
@@ -215,10 +219,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 6
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 6
 			}
 		]
@@ -282,6 +282,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 6
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 6
 			},
@@ -307,10 +311,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 4
-			},
-			{
-				"filme": "Lindinhas",
 				"similaridade": 4
 			}
 		]
@@ -2688,15 +2688,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Auto da Compadecida",
 				"similaridade": 1
 			},
 			{
 				"filme": "Espião por Acidente",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			}
 		]
@@ -2772,6 +2772,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 32
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 32
 			},
@@ -2786,10 +2790,6 @@
 			{
 				"filme": "O Homem do Norte",
 				"similaridade": 27
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 26
 			}
 		]
 	},
@@ -3248,7 +3248,7 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Cemitério Maldito",
 				"similaridade": 17
 			}
 		]
@@ -3484,6 +3484,52 @@
 		]
 	},
 	{
+		"nome": "DOA: Vivo ou Morto",
+		"duracao": "1:26:11",
+		"ano": 2006,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
+		"videoid": "0362746f7d5e7e5c736103",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "21M",
+		"receita": "7.6M",
+		"similares": [
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 26
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 26
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 23
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 22
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 22
+			}
+		]
+	},
+	{
 		"nome": "A Garota dos Meus Sonhos",
 		"duracao": "1:30:50",
 		"ano": 2006,
@@ -3516,15 +3562,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 2
+			},
+			{
 				"filme": "A Morte do Superman",
 				"similaridade": 2
 			},
 			{
 				"filme": "Sedenta de Sangue",
-				"similaridade": 2
-			},
-			{
-				"filme": "Fantasmas do Passado",
 				"similaridade": 2
 			}
 		]
@@ -3930,16 +3976,62 @@
 				"similaridade": 20
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 17
+			},
+			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 17
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Mar em Fúria",
+		"duracao": "2:09:50",
+		"ano": 2000,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/9R0CYorOmNfp17hnvO5zioT70D6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
+		"videoid": "16737974720d576c4e695c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "120M",
+		"receita": "325.8M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 21
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 20
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 15
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 17
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 15
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 14
+			},
+			{
+				"filme": "Do Fundo do Mar",
+				"similaridade": 14
 			}
 		]
 	},
@@ -4256,11 +4348,11 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 23
+				"filme": "Cemitério Maldito",
+				"similaridade": 24
 			},
 			{
-				"filme": "Inimigo Mortal",
+				"filme": "Mate ou Morra",
 				"similaridade": 23
 			}
 		]
@@ -4398,7 +4490,7 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Cemitério Maldito",
 				"similaridade": 6
 			}
 		]
@@ -4554,6 +4646,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 12
+			},
+			{
 				"filme": "Gladiador",
 				"similaridade": 10
 			},
@@ -4579,10 +4675,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Cidadão Kane",
 				"similaridade": 8
 			}
 		]
@@ -4910,6 +5002,52 @@
 		]
 	},
 	{
+		"nome": "Cemitério Maldito",
+		"duracao": "1:42:46",
+		"ano": 1989,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/gklxyWeboH8ZerVwLSW79AEIInf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+		"videoid": "485679684f58574d416f7e",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "11.5M",
+		"receita": "57.5M",
+		"similares": [
+			{
+				"filme": "O Exorcista",
+				"similaridade": 46
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 43
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 42
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 42
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 39
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 38
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 37
+			}
+		]
+	},
+	{
 		"nome": "Chefão Por Acaso",
 		"duracao": "2:06:58",
 		"ano": 1989,
@@ -4988,15 +5126,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 8
+			},
+			{
 				"filme": "Gladiador",
 				"similaridade": 8
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 8
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 8
 			}
 		]
@@ -5038,11 +5176,11 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Batman: O Cavaleiro de Gotham",
+				"filme": "DOA: Vivo ou Morto",
 				"similaridade": 3
 			},
 			{
-				"filme": "Justiça Para Todos",
+				"filme": "Batman: O Cavaleiro de Gotham",
 				"similaridade": 3
 			}
 		]
@@ -5682,11 +5820,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Batman",
+				"filme": "Mar em Fúria",
 				"similaridade": 2
 			},
 			{
-				"filme": "Arrebentando em Nova York",
+				"filme": "Batman",
 				"similaridade": 2
 			}
 		]
@@ -5934,6 +6072,10 @@
 		"receita": "441.3M",
 		"similares": [
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 46
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 40
 			},
@@ -5960,10 +6102,6 @@
 			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 36
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 35
 			}
 		]
 	},
@@ -6034,6 +6172,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 13
+			},
+			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 13
 			},
@@ -6052,10 +6194,6 @@
 			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 11
 			}
 		]
 	},
