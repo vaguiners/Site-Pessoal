@@ -33,7 +33,7 @@
 			},
 			{
 				"filme": "As Agentes 355",
-				"similaridade": 22
+				"similaridade": 21
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -145,35 +145,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 116
+				"similaridade": 115
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 100
+				"similaridade": 98
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 97
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 95
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 94
+			},
+			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 92
+				"similaridade": 91
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 85
+				"similaridade": 84
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 85
+				"similaridade": 84
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 72
+				"similaridade": 71
 			}
 		]
 	},
@@ -191,7 +191,7 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 12
+				"similaridade": 11
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -199,10 +199,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 7
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 7
 			},
 			{
@@ -219,6 +215,10 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 6
 			}
 		]
@@ -240,10 +240,6 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Karatê Kid",
-				"similaridade": 6
-			},
-			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			},
@@ -253,6 +249,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 5
+			},
+			{
+				"filme": "Karatê Kid",
 				"similaridade": 5
 			},
 			{
@@ -329,35 +329,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 134
+				"similaridade": 126
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 92
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 90
 			},
 			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 87
+			},
+			{
 				"filme": "O Estrangeiro",
-				"similaridade": 82
+				"similaridade": 80
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 81
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 79
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 75
+				"filme": "Mulher-Maravilha",
+				"similaridade": 76
 			},
 			{
-				"filme": "Morbius",
-				"similaridade": 74
+				"filme": "Inimigo Mortal",
+				"similaridade": 73
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 70
 			}
 		]
 	},
@@ -374,36 +374,36 @@
 		"receita": "68.4M",
 		"similares": [
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 75
+				"filme": "Mulher-Maravilha",
+				"similaridade": 69
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 73
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 68
 			},
 			{
 				"filme": "Gladiador",
-				"similaridade": 63
+				"similaridade": 60
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 56
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 52
+				"similaridade": 53
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 52
+				"similaridade": 49
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 46
+				"filme": "Duna",
+				"similaridade": 48
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 46
+				"similaridade": 45
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 43
 			}
 		]
 	},
@@ -467,22 +467,22 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 114
+				"similaridade": 113
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 102
+				"similaridade": 101
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 98
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 91
+				"similaridade": 97
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 90
+			},
+			{
+				"filme": "A Morte do Superman",
 				"similaridade": 90
 			},
 			{
@@ -491,11 +491,11 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 87
+				"similaridade": 86
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 85
+				"similaridade": 84
 			}
 		]
 	},
@@ -513,11 +513,11 @@
 		"similares": [
 			{
 				"filme": "Tenet",
-				"similaridade": 124
+				"similaridade": 123
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 114
+				"similaridade": 113
 			},
 			{
 				"filme": "Batman",
@@ -528,16 +528,16 @@
 				"similaridade": 105
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 103
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 103
 			},
 			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 102
+			},
+			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 94
+				"similaridade": 93
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -559,35 +559,35 @@
 		"similares": [
 			{
 				"filme": "Eternos",
-				"similaridade": 27
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 24
 			},
 			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 20
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 23
+				"similaridade": 20
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 22
+				"similaridade": 19
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 21
+				"similaridade": 18
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 17
 			},
 			{
 				"filme": "A Viagem de Chihiro",
-				"similaridade": 21
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 19
+				"similaridade": 17
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 19
+				"similaridade": 16
 			}
 		]
 	},
@@ -605,35 +605,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 197
+				"similaridade": 189
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 160
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 149
+				"similaridade": 155
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 149
+				"similaridade": 143
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 144
+				"similaridade": 142
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 140
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 144
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 140
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 139
+				"similaridade": 138
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 138
 			}
 		]
 	},
@@ -655,7 +655,7 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 95
+				"similaridade": 94
 			},
 			{
 				"filme": "Batman",
@@ -697,15 +697,7 @@
 		"similares": [
 			{
 				"filme": "Beavis e Butt-Head Detonam a América",
-				"similaridade": 5
-			},
-			{
-				"filme": "Liga da Justiça: A Nova Fronteira",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 2
+				"similaridade": 4
 			},
 			{
 				"filme": "Interestelar",
@@ -713,6 +705,14 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Liga da Justiça: A Nova Fronteira",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Morte do Superman",
 				"similaridade": 1
 			},
 			{
@@ -743,27 +743,27 @@
 		"similares": [
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 148
+				"similaridade": 142
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 145
+				"similaridade": 141
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 139
+				"similaridade": 135
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 134
+				"similaridade": 131
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 106
+				"similaridade": 103
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 103
+				"similaridade": 100
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -771,7 +771,7 @@
 			},
 			{
 				"filme": "Morbius",
-				"similaridade": 87
+				"similaridade": 83
 			}
 		]
 	},
@@ -893,7 +893,7 @@
 		"similares": [
 			{
 				"filme": "Tenet",
-				"similaridade": 149
+				"similaridade": 148
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -938,35 +938,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 2
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 2
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 2
-			},
-			{
 				"filme": "Mate ou Morra",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Reino Proibido",
+				"similaridade": 1
+			},
+			{
+				"filme": "Beavis e Butt-Head: Detonam o Universo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 1
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 1
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidadão Kane",
 				"similaridade": 1
 			}
 		]
@@ -1030,15 +1030,15 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 4
-			},
-			{
 				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 3
 			},
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 3
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
 				"similaridade": 3
 			},
 			{
@@ -1081,31 +1081,31 @@
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 5
+				"similaridade": 3
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 4
+				"similaridade": 3
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 4
+				"similaridade": 3
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 4
+				"similaridade": 3
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 4
+				"similaridade": 3
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
+				"filme": "O Castelo de Vidro",
 				"similaridade": 3
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
 			}
 		]
 	},
@@ -1123,35 +1123,35 @@
 		"similares": [
 			{
 				"filme": "Duna",
-				"similaridade": 8
+				"similaridade": 6
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 5
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 5
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 5
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 4
+				"similaridade": 6
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			},
 			{
-				"filme": "Do Fundo do Mar",
+				"filme": "Eternos",
 				"similaridade": 4
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 4
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 3
 			}
 		]
 	},
@@ -1168,12 +1168,12 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Batman",
+				"filme": "Eternos",
 				"similaridade": 6
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 6
+				"filme": "Batman",
+				"similaridade": 5
 			},
 			{
 				"filme": "Lindinhas",
@@ -1188,15 +1188,15 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Duna",
-				"similaridade": 4
-			},
-			{
 				"filme": "Tenet",
 				"similaridade": 4
 			},
 			{
-				"filme": "Cidade de Deus",
+				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			},
+			{
+				"filme": "Interestelar",
 				"similaridade": 4
 			}
 		]
@@ -1215,35 +1215,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 139
+				"similaridade": 132
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 120
+				"similaridade": 114
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 117
+				"similaridade": 110
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 116
+				"similaridade": 110
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 99
+				"similaridade": 95
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 96
+				"similaridade": 92
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 96
+				"similaridade": 91
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 91
+				"filme": "A Morte do Superman",
+				"similaridade": 86
 			}
 		]
 	},
@@ -1289,7 +1289,7 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 40
+				"similaridade": 39
 			}
 		]
 	},
@@ -1307,27 +1307,27 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 223
+				"similaridade": 219
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 193
+				"similaridade": 189
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 180
+				"similaridade": 177
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 171
+				"similaridade": 168
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 169
+				"similaridade": 166
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 168
+				"similaridade": 164
 			},
 			{
 				"filme": "Tenet",
@@ -1335,7 +1335,7 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 154
+				"similaridade": 151
 			}
 		]
 	},
@@ -1352,14 +1352,6 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "O Problema de Nascer",
-				"similaridade": 3
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 3
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 2
 			},
@@ -1368,7 +1360,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Problema de Nascer",
+				"similaridade": 2
+			},
+			{
 				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Casa do Espanto",
 				"similaridade": 2
 			},
 			{
@@ -1399,35 +1399,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 163
+				"similaridade": 151
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 154
+				"similaridade": 142
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 147
+				"similaridade": 140
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 140
+				"similaridade": 132
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 140
+				"similaridade": 132
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 123
+				"similaridade": 117
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 121
+				"similaridade": 112
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 108
+				"similaridade": 102
 			}
 		]
 	},
@@ -1445,35 +1445,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 172
+				"similaridade": 168
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 166
+				"similaridade": 162
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 156
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 144
+				"similaridade": 152
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 143
+				"similaridade": 141
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 140
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 136
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 115
+				"similaridade": 132
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 113
+				"similaridade": 111
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 111
 			}
 		]
 	},
@@ -1491,35 +1491,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 180
+				"similaridade": 177
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 154
+				"similaridade": 152
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 148
+				"similaridade": 146
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 134
+				"similaridade": 132
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 133
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 131
 			},
 			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 129
+			},
+			{
 				"filme": "Duna",
-				"similaridade": 111
+				"similaridade": 110
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 110
+				"similaridade": 108
 			}
 		]
 	},
@@ -1583,35 +1583,35 @@
 		"similares": [
 			{
 				"filme": "Do Fundo do Mar 2",
-				"similaridade": 15
+				"similaridade": 13
 			},
 			{
 				"filme": "Do Fundo do Mar",
-				"similaridade": 12
+				"similaridade": 11
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 6
+				"similaridade": 5
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 4
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 4
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 5
+				"similaridade": 4
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 5
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 5
-			},
-			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 5
+				"similaridade": 4
 			}
 		]
 	},
@@ -1767,23 +1767,11 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 12
+				"similaridade": 11
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 9
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 9
-			},
-			{
-				"filme": "Inocência Roubada",
-				"similaridade": 9
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 9
+				"similaridade": 8
 			},
 			{
 				"filme": "Inimigo Mortal",
@@ -1794,8 +1782,20 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Cidade de Deus",
+				"filme": "Eternos",
 				"similaridade": 8
+			},
+			{
+				"filme": "Inocência Roubada",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 8
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 7
 			}
 		]
 	},
@@ -1813,35 +1813,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 162
+				"similaridade": 158
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 150
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 148
 			},
 			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 140
+				"filme": "O Estrangeiro",
+				"similaridade": 144
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 140
+				"similaridade": 138
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 134
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 133
+				"similaridade": 132
 			},
 			{
 				"filme": "As Agentes 355",
-				"similaridade": 129
+				"similaridade": 123
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 117
+				"similaridade": 115
 			}
 		]
 	},
@@ -1859,31 +1859,31 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 174
+				"similaridade": 171
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 167
+				"similaridade": 164
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 135
+				"similaridade": 133
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 131
+				"similaridade": 129
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 114
+				"similaridade": 112
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 113
+				"similaridade": 111
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 104
+				"similaridade": 102
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -1905,15 +1905,7 @@
 		"similares": [
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 8
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 7
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 6
 			},
 			{
 				"filme": "Cidade de Deus",
@@ -1924,16 +1916,24 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Interestelar",
+				"filme": "Efeito Borboleta",
 				"similaridade": 6
 			},
 			{
-				"filme": "Inocência Roubada",
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 5
 			},
 			{
-				"filme": "O Lobo de Wall Street",
+				"filme": "Interestelar",
 				"similaridade": 5
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 4
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 4
 			}
 		]
 	},
@@ -2080,35 +2080,35 @@
 		"similares": [
 			{
 				"filme": "O Tigre e o Dragão: A Espada do Destino",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Do Fundo do Mar 3",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Do Fundo do Mar 2",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Bater ou Correr em Londres",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 2
+				"similaridade": 1
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 2
+				"similaridade": 1
 			}
 		]
 	},
@@ -2126,35 +2126,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 119
+				"similaridade": 117
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 114
+				"similaridade": 112
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 94
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 92
 			},
 			{
-				"filme": "Inimigo Mortal",
+				"filme": "Batman",
 				"similaridade": 90
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 89
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 90
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 88
 			},
 			{
+				"filme": "Duna",
+				"similaridade": 86
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 87
+				"similaridade": 85
 			}
 		]
 	},
@@ -2172,35 +2172,35 @@
 		"similares": [
 			{
 				"filme": "Do Fundo do Mar",
-				"similaridade": 46
+				"similaridade": 42
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 21
+				"similaridade": 19
 			},
 			{
 				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 17
-			},
-			{
-				"filme": "Do Fundo do Mar 3",
 				"similaridade": 16
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 15
+				"filme": "Do Fundo do Mar 3",
+				"similaridade": 13
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 14
+				"similaridade": 13
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 14
+				"filme": "Mulher-Maravilha",
+				"similaridade": 13
 			},
 			{
 				"filme": "Morbius",
-				"similaridade": 13
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
 			}
 		]
 	},
@@ -2276,11 +2276,11 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 139
+				"similaridade": 138
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 137
+				"similaridade": 136
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -2288,11 +2288,11 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 121
+				"similaridade": 120
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 116
+				"similaridade": 115
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -2303,8 +2303,8 @@
 				"similaridade": 110
 			},
 			{
-				"filme": "As Agentes 355",
-				"similaridade": 104
+				"filme": "A Morte do Superman",
+				"similaridade": 102
 			}
 		]
 	},
@@ -2368,35 +2368,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 160
+				"similaridade": 155
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 149
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 144
 			},
 			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 139
+			},
+			{
 				"filme": "Mate ou Morra",
-				"similaridade": 132
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 131
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 129
 			},
 			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 127
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 125
+			},
+			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 128
+				"similaridade": 123
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 111
+				"similaridade": 107
 			}
 		]
 	},
@@ -2460,7 +2460,7 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 85
+				"similaridade": 84
 			},
 			{
 				"filme": "Cidade de Deus",
@@ -2472,7 +2472,7 @@
 			},
 			{
 				"filme": "Efeito Borboleta",
-				"similaridade": 51
+				"similaridade": 50
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
@@ -2480,15 +2480,15 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 48
+				"similaridade": 47
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 46
+				"similaridade": 45
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 45
+				"similaridade": 43
 			}
 		]
 	},
@@ -2506,23 +2506,23 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 221
+				"similaridade": 219
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 177
+				"similaridade": 171
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 163
+				"similaridade": 162
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 150
+				"similaridade": 146
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 144
+				"similaridade": 143
 			},
 			{
 				"filme": "Tenet",
@@ -2552,35 +2552,35 @@
 		"similares": [
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 16
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 14
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 12
 			},
 			{
-				"filme": "O Reino Proibido",
+				"filme": "O Tigre e o Dragão",
 				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 8
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 11
+				"similaridade": 8
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 10
+				"similaridade": 7
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 9
+				"filme": "Duna",
+				"similaridade": 6
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 9
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
 			}
 		]
 	},
@@ -2598,35 +2598,35 @@
 		"similares": [
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 41
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 32
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 31
+				"similaridade": 39
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 30
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 30
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 29
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 29
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 29
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 29
+			},
+			{
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 28
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 28
+				"filme": "O Estrangeiro",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 27
 			}
 		]
 	},
@@ -2690,22 +2690,18 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 22
-			},
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 20
 			},
 			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 19
+			},
+			{
 				"filme": "Cruella",
-				"similaridade": 18
+				"similaridade": 16
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 15
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 15
 			},
 			{
@@ -2713,11 +2709,15 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Eternos",
+				"similaridade": 14
+			},
+			{
 				"filme": "Cidadão Kane",
 				"similaridade": 14
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Tenet",
 				"similaridade": 13
 			}
 		]
@@ -2735,36 +2735,36 @@
 		"receita": "2.2M",
 		"similares": [
 			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 57
+				"filme": "O Espelho",
+				"similaridade": 54
 			},
 			{
-				"filme": "O Espelho",
-				"similaridade": 55
+				"filme": "A Casa do Espanto",
+				"similaridade": 53
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 42
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 38
+				"similaridade": 40
 			},
 			{
 				"filme": "Olhos de Gato",
-				"similaridade": 35
+				"similaridade": 32
 			},
 			{
-				"filme": "O Homem do Norte",
+				"filme": "Batman",
 				"similaridade": 31
 			},
 			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 30
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 30
+				"filme": "O Homem do Norte",
+				"similaridade": 27
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 26
 			}
 		]
 	},
@@ -2782,35 +2782,35 @@
 		"similares": [
 			{
 				"filme": "Tenet",
-				"similaridade": 76
+				"similaridade": 72
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 75
+				"similaridade": 68
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 69
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 63
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 60
+				"filme": "Eternos",
+				"similaridade": 59
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 60
+				"similaridade": 56
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 58
+				"similaridade": 54
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 52
 			},
 			{
 				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 54
+				"similaridade": 47
 			}
 		]
 	},
@@ -2828,35 +2828,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 108
+				"similaridade": 106
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 100
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 97
 			},
 			{
-				"filme": "Cidade de Deus",
-				"similaridade": 92
+				"filme": "O Estrangeiro",
+				"similaridade": 96
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Cidade de Deus",
 				"similaridade": 88
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 87
+			},
+			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 85
+				"similaridade": 84
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 81
+				"similaridade": 79
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 79
+				"similaridade": 78
 			}
 		]
 	},
@@ -2874,31 +2874,31 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 98
+				"similaridade": 95
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 92
+				"similaridade": 91
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 84
+				"similaridade": 82
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 81
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 80
+				"similaridade": 78
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 80
+				"similaridade": 77
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 76
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 75
+				"similaridade": 74
 			},
 			{
 				"filme": "Batman",
@@ -2920,35 +2920,35 @@
 		"similares": [
 			{
 				"filme": "A Casa do Espanto",
-				"similaridade": 80
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 57
+				"similaridade": 77
 			},
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 57
 			},
 			{
+				"filme": "Olhos de Gato",
+				"similaridade": 54
+			},
+			{
 				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 55
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 48
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 46
+				"similaridade": 54
 			},
 			{
 				"filme": "Batman",
 				"similaridade": 46
 			},
 			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 46
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 43
+			},
+			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 45
+				"similaridade": 43
 			}
 		]
 	},
@@ -2966,35 +2966,35 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 33
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 28
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 28
+				"similaridade": 24
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 23
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 27
+				"similaridade": 22
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 26
+				"similaridade": 22
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 26
+				"similaridade": 21
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 21
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 24
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 24
+				"similaridade": 20
 			}
 		]
 	},
@@ -3012,35 +3012,35 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 30
+				"similaridade": 27
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 29
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 21
+				"similaridade": 25
 			},
 			{
 				"filme": "Cidadão Kane",
-				"similaridade": 20
+				"similaridade": 18
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 17
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 19
+				"similaridade": 17
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 18
+				"filme": "Morbius",
+				"similaridade": 16
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 18
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 16
 			},
 			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 18
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 16
 			}
 		]
 	},
@@ -3058,23 +3058,23 @@
 		"similares": [
 			{
 				"filme": "Premonição 4",
-				"similaridade": 30
+				"similaridade": 29
 			},
 			{
 				"filme": "Premonição",
-				"similaridade": 30
+				"similaridade": 28
 			},
 			{
 				"filme": "Premonição 3",
-				"similaridade": 27
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 26
 			},
 			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
 				"filme": "Premonição 2",
-				"similaridade": 24
+				"similaridade": 23
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -3104,35 +3104,35 @@
 		"similares": [
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 45
+				"similaridade": 44
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 36
+				"similaridade": 35
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 36
+				"similaridade": 35
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 34
-			},
-			{
-				"filme": "Operação Dragão",
 				"similaridade": 33
 			},
 			{
-				"filme": "O Reino Proibido",
+				"filme": "Operação Dragão",
 				"similaridade": 32
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 31
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 32
+				"similaridade": 31
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 32
+				"similaridade": 31
 			}
 		]
 	},
@@ -3150,35 +3150,35 @@
 		"similares": [
 			{
 				"filme": "Premonição 3",
-				"similaridade": 44
+				"similaridade": 41
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 40
+				"similaridade": 37
 			},
 			{
 				"filme": "Premonição 2",
-				"similaridade": 39
-			},
-			{
-				"filme": "Premonição",
 				"similaridade": 36
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Premonição",
 				"similaridade": 34
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 32
+				"filme": "Mate ou Morra",
+				"similaridade": 33
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "Pânico",
 				"similaridade": 31
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 30
+				"similaridade": 29
+			},
+			{
+				"filme": "Premonição 5",
+				"similaridade": 29
 			}
 		]
 	},
@@ -3195,36 +3195,36 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 25
+			},
+			{
 				"filme": "Efeito Borboleta",
-				"similaridade": 28
+				"similaridade": 25
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 26
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 26
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 21
+				"similaridade": 23
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 21
+				"similaridade": 19
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 20
+				"similaridade": 18
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 19
+				"similaridade": 18
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 19
+				"similaridade": 17
 			}
 		]
 	},
@@ -3242,35 +3242,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 51
+				"similaridade": 50
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 30
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 29
 			},
 			{
-				"filme": "Eternos",
+				"filme": "Mulher-Maravilha",
 				"similaridade": 28
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
+				"filme": "Eternos",
 				"similaridade": 27
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 25
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 26
 			},
 			{
-				"filme": "Batman: O Cavaleiro de Gotham",
+				"filme": "Batman",
 				"similaridade": 24
 			},
 			{
+				"filme": "Batman: O Cavaleiro de Gotham",
+				"similaridade": 23
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 21
+				"similaridade": 20
 			}
 		]
 	},
@@ -3334,35 +3334,35 @@
 		"similares": [
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 62
+				"similaridade": 56
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 61
+				"similaridade": 55
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 57
+				"similaridade": 51
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 54
+				"similaridade": 49
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 47
-			},
-			{
-				"filme": "Operação Dragão",
-				"similaridade": 42
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 42
+				"similaridade": 41
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 41
+				"similaridade": 37
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 37
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 36
 			}
 		]
 	},
@@ -3380,35 +3380,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 168
+				"similaridade": 166
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 132
+				"similaridade": 130
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 121
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 104
+				"similaridade": 119
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 103
+				"similaridade": 102
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 103
+				"similaridade": 102
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 103
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 102
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 103
+				"similaridade": 102
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 101
 			}
 		]
 	},
@@ -3518,35 +3518,35 @@
 		"similares": [
 			{
 				"filme": "Efeito Borboleta",
-				"similaridade": 20
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 18
 			},
 			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 17
+			},
+			{
 				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 15
+				"similaridade": 14
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 12
+				"similaridade": 10
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 11
+				"similaridade": 10
 			},
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 9
 			},
 			{
-				"filme": "Premonição",
-				"similaridade": 9
+				"filme": "Pânico",
+				"similaridade": 8
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 9
+				"filme": "Olhos de Gato",
+				"similaridade": 8
 			}
 		]
 	},
@@ -3564,35 +3564,35 @@
 		"similares": [
 			{
 				"filme": "Premonição 4",
-				"similaridade": 44
+				"similaridade": 41
 			},
 			{
 				"filme": "Premonição 2",
-				"similaridade": 40
+				"similaridade": 38
 			},
 			{
 				"filme": "Premonição",
-				"similaridade": 37
+				"similaridade": 34
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 32
+				"similaridade": 30
 			},
 			{
 				"filme": "Premonição 5",
-				"similaridade": 29
+				"similaridade": 26
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 23
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 23
+				"similaridade": 22
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 23
+				"similaridade": 22
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 21
 			}
 		]
 	},
@@ -3610,35 +3610,35 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 58
+				"similaridade": 55
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 53
+				"similaridade": 50
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 49
+				"similaridade": 47
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 49
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 47
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 46
+				"similaridade": 44
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 44
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 46
+				"similaridade": 43
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 45
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 43
 			}
 		]
 	},
@@ -3656,35 +3656,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 57
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 53
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 50
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Inimigo Mortal",
 				"similaridade": 47
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 44
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 43
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 47
+				"similaridade": 42
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 47
+				"similaridade": 41
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 46
+				"similaridade": 40
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 42
+				"similaridade": 39
 			}
 		]
 	},
@@ -3702,35 +3702,35 @@
 		"similares": [
 			{
 				"filme": "Bater ou Correr",
-				"similaridade": 54
+				"similaridade": 50
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 50
+				"similaridade": 45
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 50
+				"similaridade": 44
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 47
+				"similaridade": 40
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 44
+				"similaridade": 39
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 44
+				"similaridade": 39
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 40
+				"similaridade": 36
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 40
+				"filme": "Mate ou Morra",
+				"similaridade": 34
 			}
 		]
 	},
@@ -3748,35 +3748,35 @@
 		"similares": [
 			{
 				"filme": "Premonição 3",
-				"similaridade": 40
-			},
-			{
-				"filme": "Premonição 4",
 				"similaridade": 38
 			},
 			{
+				"filme": "Premonição 4",
+				"similaridade": 36
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 35
+				"similaridade": 33
 			},
 			{
 				"filme": "Premonição",
-				"similaridade": 31
+				"similaridade": 30
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 29
+				"similaridade": 28
 			},
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 27
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 27
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 25
 			}
 		]
 	},
@@ -3798,19 +3798,19 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 72
+				"similaridade": 71
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 58
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 55
+				"similaridade": 56
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 54
+				"similaridade": 53
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 53
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -3818,11 +3818,11 @@
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 51
+				"similaridade": 49
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 49
+				"similaridade": 48
 			}
 		]
 	},
@@ -3840,35 +3840,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 51
+				"similaridade": 47
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 49
+				"similaridade": 45
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 44
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 42
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 40
 			},
 			{
-				"filme": "O Medalhão",
+				"filme": "Inimigo Mortal",
 				"similaridade": 39
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 38
+				"similaridade": 36
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 37
+				"filme": "Agentes Vanguard",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Medalhão",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 34
 			}
 		]
 	},
@@ -3885,35 +3885,35 @@
 		"receita": "274.9M",
 		"similares": [
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 27
-			},
-			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 26
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 23
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 22
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 24
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
 			},
 			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 19
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 21
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 18
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 20
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 17
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
+				"similaridade": 17
+			},
+			{
+				"filme": "Eternos",
 				"similaridade": 17
 			}
 		]
@@ -3932,35 +3932,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 81
+				"similaridade": 77
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 80
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 71
+				"similaridade": 76
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 71
+				"similaridade": 68
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 65
+				"filme": "Duna",
+				"similaridade": 66
 			},
 			{
 				"filme": "O Homem do Norte",
-				"similaridade": 63
+				"similaridade": 60
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Eternos",
 				"similaridade": 59
 			},
 			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
 				"filme": "Batman",
-				"similaridade": 53
+				"similaridade": 50
 			}
 		]
 	},
@@ -4023,36 +4023,36 @@
 		"receita": "213.5M",
 		"similares": [
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 85
+				"filme": "Mulher-Maravilha",
+				"similaridade": 77
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 85
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 73
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 76
+				"similaridade": 68
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 71
+				"similaridade": 64
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 67
+				"similaridade": 62
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 67
-			},
-			{
-				"filme": "O Reino Proibido",
-				"similaridade": 66
+				"similaridade": 60
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 65
+				"similaridade": 59
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 59
 			}
 		]
 	},
@@ -4070,35 +4070,35 @@
 		"similares": [
 			{
 				"filme": "Bater ou Correr em Londres",
-				"similaridade": 56
+				"similaridade": 50
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 52
+				"similaridade": 47
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 43
+				"similaridade": 38
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 43
+				"similaridade": 38
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 41
+				"similaridade": 37
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 40
+				"similaridade": 36
 			},
 			{
 				"filme": "Operação Dragão",
-				"similaridade": 37
+				"similaridade": 33
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 37
+				"similaridade": 33
 			}
 		]
 	},
@@ -4116,35 +4116,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 42
-			},
-			{
-				"filme": "Premonição 3",
 				"similaridade": 38
 			},
 			{
-				"filme": "Premonição 4",
-				"similaridade": 37
-			},
-			{
 				"filme": "Batman",
-				"similaridade": 36
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 35
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 34
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Premonição 4",
+				"similaridade": 34
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 34
+			},
+			{
+				"filme": "Mate ou Morra",
 				"similaridade": 33
 			},
 			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 31
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 31
+			},
+			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 33
+				"similaridade": 31
 			}
 		]
 	},
@@ -4162,35 +4162,35 @@
 		"similares": [
 			{
 				"filme": "Do Fundo do Mar 2",
-				"similaridade": 46
+				"similaridade": 42
 			},
 			{
 				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 31
+				"similaridade": 30
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 29
+				"similaridade": 27
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 28
+				"similaridade": 27
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 26
+				"similaridade": 25
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 26
-			},
-			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 26
+				"similaridade": 25
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 25
+				"similaridade": 24
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 24
 			}
 		]
 	},
@@ -4212,15 +4212,11 @@
 			},
 			{
 				"filme": "Gladiador",
-				"similaridade": 33
+				"similaridade": 32
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 30
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 26
 			},
 			{
 				"filme": "Duna",
@@ -4228,6 +4224,10 @@
 			},
 			{
 				"filme": "Batman",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha",
 				"similaridade": 25
 			},
 			{
@@ -4254,35 +4254,35 @@
 		"similares": [
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 111
+				"similaridade": 108
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 107
+				"similaridade": 102
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 104
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 99
+				"similaridade": 101
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 98
+				"similaridade": 96
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 96
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 95
-			},
-			{
-				"filme": "As Agentes 355",
 				"similaridade": 92
 			},
 			{
+				"filme": "As Agentes 355",
+				"similaridade": 87
+			},
+			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 88
+				"similaridade": 84
 			}
 		]
 	},
@@ -4300,35 +4300,35 @@
 		"similares": [
 			{
 				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 71
+				"similaridade": 64
 			},
 			{
 				"filme": "Justiça Para Todos",
-				"similaridade": 19
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 15
 			},
 			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 13
+			},
+			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 14
+				"similaridade": 12
 			},
 			{
 				"filme": "O Vento Será Tua Herança",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Veredicto",
 				"similaridade": 10
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 9
+				"similaridade": 8
+			},
+			{
+				"filme": "O Veredicto",
+				"similaridade": 8
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 8
+				"similaridade": 7
 			}
 		]
 	},
@@ -4346,35 +4346,35 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 15
+				"similaridade": 13
 			},
 			{
 				"filme": "Efeito Borboleta",
-				"similaridade": 12
+				"similaridade": 10
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 11
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 11
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 10
+				"similaridade": 9
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 8
 			},
 			{
-				"filme": "O Poderoso Chefão",
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 8
 			},
 			{
+				"filme": "Pânico",
+				"similaridade": 7
+			},
+			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 8
+				"similaridade": 7
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 6
 			}
 		]
 	},
@@ -4399,10 +4399,6 @@
 				"similaridade": 15
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 13
-			},
-			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 12
 			},
@@ -4411,7 +4407,7 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "Terra de Ninguém",
+				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 12
 			},
 			{
@@ -4420,6 +4416,10 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 11
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			}
 		]
@@ -4438,35 +4438,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 75
+				"similaridade": 70
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 64
+				"similaridade": 61
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 60
+				"similaridade": 57
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 58
+				"similaridade": 56
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 58
+				"similaridade": 55
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 51
+				"similaridade": 49
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 48
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 51
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 49
+				"similaridade": 48
 			}
 		]
 	},
@@ -4484,35 +4484,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 37
+				"similaridade": 35
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 34
+				"similaridade": 32
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 31
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 31
-			},
-			{
-				"filme": "Quem Sou Eu?",
 				"similaridade": 30
 			},
 			{
-				"filme": "Espião por Acidente",
+				"filme": "O Estrangeiro",
 				"similaridade": 29
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 28
+			},
+			{
+				"filme": "Espião por Acidente",
+				"similaridade": 27
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 29
+				"similaridade": 27
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 28
+				"similaridade": 26
 			}
 		]
 	},
@@ -4529,36 +4529,36 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 13
-			},
-			{
 				"filme": "Gladiador",
-				"similaridade": 12
+				"similaridade": 10
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 12
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 11
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 10
+				"similaridade": 9
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 9
 			},
 			{
 				"filme": "Cruella",
-				"similaridade": 10
+				"similaridade": 8
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 10
+				"filme": "Olhos de Gato",
+				"similaridade": 8
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 8
 			}
 		]
 	},
@@ -4576,35 +4576,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 58
+				"similaridade": 54
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 49
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 44
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 44
+				"similaridade": 47
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 44
+				"similaridade": 43
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Inimigo Mortal",
 				"similaridade": 42
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 39
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 41
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 38
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 37
 			}
 		]
 	},
@@ -4622,19 +4622,19 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 59
+				"similaridade": 57
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 51
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 50
 			},
 			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 48
+			},
+			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 46
+				"similaridade": 45
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
@@ -4646,7 +4646,7 @@
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 39
+				"similaridade": 37
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -4714,35 +4714,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 52
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 48
+				"similaridade": 51
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 47
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 46
 			},
 			{
-				"filme": "Eternos",
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 46
+			},
+			{
+				"filme": "Batman",
 				"similaridade": 45
 			},
 			{
+				"filme": "Eternos",
+				"similaridade": 44
+			},
+			{
 				"filme": "Morbius",
-				"similaridade": 41
+				"similaridade": 40
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 38
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 38
+				"filme": "O Homem do Norte",
+				"similaridade": 37
 			}
 		]
 	},
@@ -4759,36 +4759,36 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Batman",
-				"similaridade": 10
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"filme": "Batman",
 				"similaridade": 9
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 7
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 8
+				"similaridade": 7
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 7
+				"similaridade": 6
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 7
+				"similaridade": 6
 			},
 			{
 				"filme": "Arrebentando em Nova York",
-				"similaridade": 7
+				"similaridade": 6
 			}
 		]
 	},
@@ -4806,35 +4806,35 @@
 		"similares": [
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 95
+				"similaridade": 85
 			},
 			{
 				"filme": "O Poderoso Chefão",
-				"similaridade": 93
+				"similaridade": 83
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 38
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 36
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 31
+				"filme": "Cidade de Deus",
+				"similaridade": 32
 			},
 			{
-				"filme": "Gladiador",
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 32
+			},
+			{
+				"filme": "Mulher-Maravilha",
 				"similaridade": 30
 			},
 			{
 				"filme": "Cidadão Kane",
-				"similaridade": 30
+				"similaridade": 29
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 27
 			}
 		]
 	},
@@ -4852,35 +4852,35 @@
 		"similares": [
 			{
 				"filme": "O Exorcista",
-				"similaridade": 24
-			},
-			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 17
+				"similaridade": 19
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 16
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 14
 			},
 			{
-				"filme": "A Noite dos Arrepios",
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
 			},
 			{
-				"filme": "Pânico",
+				"filme": "O Exorcista II: O Herege",
+				"similaridade": 13
+			},
+			{
+				"filme": "A Noite dos Arrepios",
 				"similaridade": 12
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 11
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 11
 			},
 			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 12
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 12
+				"similaridade": 10
 			}
 		]
 	},
@@ -4898,35 +4898,35 @@
 		"similares": [
 			{
 				"filme": "O Grande Lutador",
-				"similaridade": 8
+				"similaridade": 7
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 7
+				"similaridade": 6
 			},
 			{
 				"filme": "Perdedores e Vencedores",
-				"similaridade": 7
+				"similaridade": 6
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
 			},
 			{
 				"filme": "Batman: O Cavaleiro de Gotham",
-				"similaridade": 5
+				"similaridade": 4
 			},
 			{
 				"filme": "Operação Dragão",
-				"similaridade": 5
+				"similaridade": 4
 			},
 			{
 				"filme": "Espião por Acidente",
-				"similaridade": 5
-			},
-			{
-				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 5
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 5
+				"similaridade": 4
 			}
 		]
 	},
@@ -5036,7 +5036,7 @@
 		"similares": [
 			{
 				"filme": "A Casa do Espanto",
-				"similaridade": 25
+				"similaridade": 24
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -5082,35 +5082,35 @@
 		"similares": [
 			{
 				"filme": "A Casa do Espanto",
-				"similaridade": 93
+				"similaridade": 88
 			},
 			{
 				"filme": "Olhos de Gato",
-				"similaridade": 68
+				"similaridade": 67
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 58
+				"similaridade": 57
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 53
+				"similaridade": 51
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 53
+				"similaridade": 50
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 47
+				"similaridade": 45
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 46
+				"similaridade": 45
 			},
 			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 45
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 40
 			}
 		]
 	},
@@ -5132,7 +5132,7 @@
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 78
+				"similaridade": 77
 			},
 			{
 				"filme": "Olhos de Gato",
@@ -5174,35 +5174,35 @@
 		"similares": [
 			{
 				"filme": "Batman",
-				"similaridade": 41
+				"similaridade": 34
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 38
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 35
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 33
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 32
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 31
 			},
 			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 29
+				"filme": "Mate ou Morra",
+				"similaridade": 28
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 29
+				"filme": "Quem Sou Eu?",
+				"similaridade": 27
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 27
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 25
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 24
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 24
 			}
 		]
 	},
@@ -5220,19 +5220,19 @@
 		"similares": [
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 69
+				"similaridade": 67
 			},
 			{
 				"filme": "A Casa do Espanto",
-				"similaridade": 66
+				"similaridade": 65
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 55
+				"similaridade": 54
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 48
+				"similaridade": 47
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -5240,11 +5240,11 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 39
+				"similaridade": 38
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 36
+				"similaridade": 35
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -5269,15 +5269,11 @@
 				"similaridade": 20
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 19
-			},
-			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 19
 			},
 			{
-				"filme": "Perdedores e Vencedores",
+				"filme": "Batman",
 				"similaridade": 18
 			},
 			{
@@ -5294,6 +5290,10 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "Agentes Vanguard",
 				"similaridade": 17
 			}
 		]
@@ -5358,35 +5358,35 @@
 		"similares": [
 			{
 				"filme": "Espião por Acidente",
-				"similaridade": 20
+				"similaridade": 19
 			},
 			{
 				"filme": "Thunderbolt: Ação Sobre Rodas",
-				"similaridade": 18
+				"similaridade": 17
 			},
 			{
 				"filme": "Estrelas do Kung Fu",
-				"similaridade": 18
+				"similaridade": 17
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 17
+				"similaridade": 15
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 17
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 17
+				"similaridade": 15
 			},
 			{
 				"filme": "O Medalhão",
-				"similaridade": 16
+				"similaridade": 15
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 16
+				"similaridade": 15
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 15
 			}
 		]
 	},
@@ -5404,35 +5404,35 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 8
+				"similaridade": 6
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 8
+				"similaridade": 6
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 7
+				"similaridade": 5
 			},
 			{
 				"filme": "As Agentes 355",
-				"similaridade": 7
+				"similaridade": 5
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 7
+				"similaridade": 5
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 7
+				"similaridade": 5
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 7
+				"similaridade": 5
 			},
 			{
 				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 7
+				"similaridade": 5
 			}
 		]
 	},
@@ -5449,36 +5449,36 @@
 		"receita": "19.6M",
 		"similares": [
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 74
+				"filme": "Mulher-Maravilha",
+				"similaridade": 70
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 72
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 69
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 63
+				"similaridade": 62
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 61
+				"similaridade": 60
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 59
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 55
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 54
+				"filme": "O Estrangeiro",
+				"similaridade": 53
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 54
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 53
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 52
 			}
 		]
 	},
@@ -5496,34 +5496,34 @@
 		"similares": [
 			{
 				"filme": "Justiça Para Todos",
-				"similaridade": 15
-			},
-			{
-				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 13
 			},
 			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Lobo de Wall Street",
+				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 11
 			},
 			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 9
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Vento Será Tua Herança",
+				"similaridade": 10
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 9
 			},
 			{
-				"filme": "Sindicato de Ladrões",
+				"filme": "12 Homens e uma Sentença",
 				"similaridade": 8
 			},
 			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
 				"similaridade": 7
 			}
 		]
@@ -5542,35 +5542,35 @@
 		"similares": [
 			{
 				"filme": "Operação Dragão",
-				"similaridade": 23
+				"similaridade": 22
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 23
+				"similaridade": 22
 			},
 			{
 				"filme": "O Reino Proibido",
-				"similaridade": 21
+				"similaridade": 20
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 20
+				"similaridade": 19
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 20
+				"similaridade": 19
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 19
+				"similaridade": 18
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 19
+				"similaridade": 18
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 18
+				"similaridade": 17
 			}
 		]
 	},
@@ -5588,23 +5588,15 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 43
+				"similaridade": 41
 			},
 			{
 				"filme": "Batman",
 				"similaridade": 25
 			},
 			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 23
-			},
-			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 21
-			},
-			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 21
+				"similaridade": 20
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
@@ -5617,6 +5609,14 @@
 			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 19
+			},
+			{
+				"filme": "O Vento Será Tua Herança",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 18
 			}
 		]
 	},
@@ -5680,26 +5680,14 @@
 		"similares": [
 			{
 				"filme": "O Exorcista",
-				"similaridade": 30
+				"similaridade": 24
 			},
 			{
 				"filme": "O Exorcista III",
-				"similaridade": 18
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 13
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 13
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte III",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 12
 			},
 			{
@@ -5709,6 +5697,18 @@
 			{
 				"filme": "Os Ritos Satânicos de Drácula",
 				"similaridade": 11
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 11
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 10
 			}
 		]
 	},
@@ -5726,35 +5726,35 @@
 		"similares": [
 			{
 				"filme": "O Poderoso Chefão",
-				"similaridade": 142
+				"similaridade": 134
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte III",
-				"similaridade": 92
+				"similaridade": 85
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 67
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 58
+				"similaridade": 61
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 56
+				"similaridade": 55
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 55
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 52
+				"similaridade": 49
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 45
+				"similaridade": 44
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 45
+				"similaridade": 43
 			}
 		]
 	},
@@ -5772,35 +5772,35 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 75
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 73
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 72
 			},
 			{
+				"filme": "Batman",
+				"similaridade": 70
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 71
+				"similaridade": 69
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 71
+				"similaridade": 69
 			},
 			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 63
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 63
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 69
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 63
+				"similaridade": 61
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 60
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 60
 			}
 		]
 	},
@@ -5818,7 +5818,7 @@
 		"similares": [
 			{
 				"filme": "Drácula de Bram Stoker",
-				"similaridade": 37
+				"similaridade": 35
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -5830,7 +5830,7 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 27
+				"similaridade": 26
 			},
 			{
 				"filme": "O Enigma de Outro Mundo",
@@ -5871,10 +5871,6 @@
 				"similaridade": 31
 			},
 			{
-				"filme": "Cidade de Deus",
-				"similaridade": 31
-			},
-			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 31
 			},
@@ -5883,8 +5879,12 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "Cidade de Deus",
+				"similaridade": 30
+			},
+			{
 				"filme": "Tenet",
-				"similaridade": 27
+				"similaridade": 26
 			},
 			{
 				"filme": "O Lobo de Wall Street",
@@ -5922,10 +5922,6 @@
 			},
 			{
 				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 37
 			},
 			{
@@ -5934,6 +5930,10 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 36
 			},
 			{
@@ -5956,26 +5956,26 @@
 		"similares": [
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 144
+				"similaridade": 134
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte III",
-				"similaridade": 92
+				"similaridade": 83
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 71
+				"similaridade": 69
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 54
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 52
+				"similaridade": 53
 			},
 			{
 				"filme": "O Estrangeiro",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 49
 			},
 			{
@@ -6002,19 +6002,11 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 21
+				"similaridade": 20
 			},
 			{
 				"filme": "Gladiador",
 				"similaridade": 15
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 13
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 13
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
@@ -6029,8 +6021,16 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"filme": "O Castelo de Vidro",
 				"similaridade": 12
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 11
 			}
 		]
 	},
@@ -6048,23 +6048,23 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 21
+				"similaridade": 20
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 17
-			},
-			{
-				"filme": "Os Doze Condenados",
 				"similaridade": 16
 			},
 			{
+				"filme": "Os Doze Condenados",
+				"similaridade": 15
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 14
+				"similaridade": 13
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 13
+				"similaridade": 12
 			},
 			{
 				"filme": "O Jogo da Imitação",
@@ -6076,7 +6076,7 @@
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 9
+				"similaridade": 8
 			}
 		]
 	},
@@ -6093,11 +6093,11 @@
 		"receita": "5.4M",
 		"similares": [
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 44
+				"filme": "Batman",
+				"similaridade": 43
 			},
 			{
-				"filme": "Batman",
+				"filme": "Mulher-Maravilha",
 				"similaridade": 43
 			},
 			{
@@ -6106,7 +6106,7 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 38
+				"similaridade": 37
 			},
 			{
 				"filme": "A Morte do Superman",
@@ -6140,35 +6140,35 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 55
+				"similaridade": 45
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 47
+				"similaridade": 41
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 46
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 39
+				"similaridade": 40
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 38
+				"similaridade": 35
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 37
+				"similaridade": 32
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 37
+				"similaridade": 32
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 36
+				"similaridade": 31
 			}
 		]
 	},
@@ -6186,35 +6186,35 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 25
+				"similaridade": 21
 			},
 			{
 				"filme": "Justiça Para Todos",
-				"similaridade": 24
-			},
-			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 17
-			},
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 14
+				"similaridade": 19
 			},
 			{
 				"filme": "O Poderoso Chefão",
-				"similaridade": 14
+				"similaridade": 12
 			},
 			{
-				"filme": "O Veredicto",
-				"similaridade": 14
+				"filme": "12 Homens e Uma Sentença",
+				"similaridade": 12
 			},
 			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 13
+				"similaridade": 11
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 12
+				"filme": "Gladiador",
+				"similaridade": 10
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 10
+			},
+			{
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 10
 			}
 		]
 	},
@@ -6232,14 +6232,6 @@
 		"similares": [
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 10
-			},
-			{
-				"filme": "Casablanca",
-				"similaridade": 9
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 9
 			},
 			{
@@ -6247,20 +6239,28 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "As Agentes 355",
-				"similaridade": 8
-			},
-			{
 				"filme": "Cruella",
-				"similaridade": 8
+				"similaridade": 7
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 8
+				"similaridade": 7
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
 			},
 			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 8
+				"similaridade": 7
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 6
 			}
 		]
 	},
@@ -6278,35 +6278,35 @@
 		"similares": [
 			{
 				"filme": "Cidadão Kane",
-				"similaridade": 27
+				"similaridade": 25
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 20
+				"similaridade": 18
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 17
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 16
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 15
 			},
 			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 15
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 15
+				"filme": "Batman",
+				"similaridade": 14
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 15
+				"filme": "Cidade de Deus",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 14
 			}
 		]
 	},
@@ -6324,35 +6324,35 @@
 		"similares": [
 			{
 				"filme": "12 Homens e uma Sentença",
-				"similaridade": 65
+				"similaridade": 64
 			},
 			{
 				"filme": "Um Sonho de Liberdade",
-				"similaridade": 21
+				"similaridade": 20
 			},
 			{
 				"filme": "Justiça Para Todos",
-				"similaridade": 18
+				"similaridade": 17
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 18
+				"similaridade": 17
 			},
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 14
 			},
 			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 13
-			},
-			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 12
 			},
 			{
-				"filme": "O Veredicto",
+				"filme": "O Vento Será Tua Herança",
 				"similaridade": 12
+			},
+			{
+				"filme": "O Veredicto",
+				"similaridade": 11
 			}
 		]
 	},
@@ -6370,35 +6370,35 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 60
+				"similaridade": 54
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 51
+				"similaridade": 46
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 47
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 47
-			},
-			{
-				"filme": "Gladiador",
-				"similaridade": 45
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 42
 			},
 			{
+				"filme": "Eternos",
+				"similaridade": 42
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 40
+			},
+			{
 				"filme": "Mate ou Morra",
-				"similaridade": 41
+				"similaridade": 39
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 38
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 39
+				"similaridade": 36
 			}
 		]
 	},
@@ -6420,7 +6420,7 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 36
+				"similaridade": 34
 			},
 			{
 				"filme": "O Castelo de Vidro",
@@ -6428,23 +6428,23 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 31
+				"similaridade": 30
 			},
 			{
 				"filme": "O Poderoso Chefão",
-				"similaridade": 31
+				"similaridade": 29
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 29
+				"similaridade": 27
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 29
+				"similaridade": 27
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 27
+				"similaridade": 26
 			}
 		]
 	},
@@ -6462,19 +6462,19 @@
 		"similares": [
 			{
 				"filme": "Cidadão Kane",
-				"similaridade": 50
+				"similaridade": 49
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 47
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 44
+				"similaridade": 45
 			},
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 44
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 41
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -6482,7 +6482,7 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 34
+				"similaridade": 33
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -6569,20 +6569,20 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 29
-			},
-			{
 				"filme": "Eternos",
-				"similaridade": 29
-			},
-			{
-				"filme": "Cidadão Kane",
 				"similaridade": 28
 			},
 			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 28
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 27
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 27
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 27
 			}
 		]
 	},
@@ -6600,11 +6600,11 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 69
+				"similaridade": 66
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 51
+				"similaridade": 49
 			},
 			{
 				"filme": "Batman",
@@ -6612,15 +6612,11 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 43
+				"similaridade": 41
 			},
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 36
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
@@ -6628,7 +6624,11 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 35
+				"similaridade": 34
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 34
 			}
 		]
 	}
