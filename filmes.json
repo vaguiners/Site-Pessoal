@@ -390,8 +390,8 @@
 				"similaridade": 84
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 71
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 74
 			}
 		]
 	},
@@ -654,6 +654,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 4
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 4
 			},
@@ -663,10 +667,6 @@
 			},
 			{
 				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 4
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 4
 			}
 		]
@@ -1113,11 +1113,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "A Maldição de Chucky",
+				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 1
 			},
 			{
-				"filme": "Vingança",
+				"filme": "A Maldição de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -1223,6 +1223,52 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 111
+			}
+		]
+	},
+	{
+		"nome": "Jolt: Fúria Fatal",
+		"duracao": "1:31:06",
+		"ano": 2021,
+		"score": 6.724,
+		"poster": "https://image.tmdb.org/t/p/w200/gYZAHan5CHPFXORpQMvOjCTug4E.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
+		"videoid": "7751096b6a41624f0c617a",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": "238.5K",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 94
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 79
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 78
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 77
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 77
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 75
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 74
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 73
 			}
 		]
 	},
@@ -1657,6 +1703,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 3
+			},
+			{
 				"filme": "Gladiador",
 				"similaridade": 3
 			},
@@ -1679,10 +1729,6 @@
 			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 3
-			},
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 2
 			}
 		]
 	},
@@ -1878,6 +1924,14 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 2
+			},
+			{
 				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 2
 			},
@@ -1895,14 +1949,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 2
 			}
 		]
@@ -1990,11 +2036,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Perigo Para a Sociedade",
 				"similaridade": 4
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
+				"filme": "Quem Sou Eu?",
 				"similaridade": 4
 			}
 		]
@@ -3462,6 +3508,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 22
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 20
 			},
@@ -3475,10 +3525,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 18
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 18
 			}
 		]
@@ -3776,6 +3822,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 4
+			},
+			{
 				"filme": "Lindinhas",
 				"similaridade": 3
 			},
@@ -3797,10 +3847,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Morte do Superman",
 				"similaridade": 2
 			}
 		]
@@ -4236,6 +4282,10 @@
 				"similaridade": 88
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 72
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 71
 			},
@@ -4258,10 +4308,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 52
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 50
 			}
 		]
 	},
@@ -4858,7 +4904,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
+				"filme": "Perigo Para a Sociedade",
 				"similaridade": 7
 			}
 		]
@@ -4878,6 +4924,10 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 13
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 11
 			},
 			{
 				"filme": "Efeito Borboleta",
@@ -4902,10 +4952,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 8
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 7
 			}
 		]
 	},
@@ -5126,16 +5172,16 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 40
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 40
 			},
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 38
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 37
 			}
 		]
 	},
@@ -5182,6 +5228,52 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 39
+			}
+		]
+	},
+	{
+		"nome": "Perigo Para a Sociedade",
+		"duracao": "1:37:34",
+		"ano": 1993,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/7KkHiZMvEdEZq2qrQX3kzYA7Off.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7MCj7x7nVWDj28qi2O8VqvcLXDc.jpg",
+		"videoid": "0e0c630c43645f7a707654",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "3.5M",
+		"receita": "27.9M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 98
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 77
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 74
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 73
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 72
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 72
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 70
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 64
 			}
 		]
 	},
@@ -5478,6 +5570,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 9
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 9
 			},
@@ -5499,10 +5595,6 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 6
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 6
 			}
 		]
@@ -6440,6 +6532,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 5
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
 			},
@@ -6465,10 +6561,6 @@
 			},
 			{
 				"filme": "Vingança",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Noiva de Chucky",
 				"similaridade": 2
 			}
 		]
@@ -6674,6 +6766,10 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 34
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 31
 			},
@@ -6695,10 +6791,6 @@
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 26
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
 			}
 		]
@@ -6836,8 +6928,8 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "Vingança",
-				"similaridade": 40
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 44
 			}
 		]
 	},
