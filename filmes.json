@@ -785,7 +785,32 @@
 		"videoid": "49785e4f6a62494f770f0f",
 		"resolucaoArmazenada": "1280x720",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Descascado",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			null,
+			null,
+			null
+		]
 	},
 	{
 		"nome": "Não Me Mate",
@@ -988,15 +1013,15 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
 			},
 			{
 				"filme": "Não Me Mate",
-				"similaridade": 3
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 3
 			},
 			{
@@ -1077,7 +1102,11 @@
 		"similares": [
 			{
 				"filme": "Turma da Mônica: Laços",
-				"similaridade": 6
+				"similaridade": 7
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 3
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
@@ -1100,12 +1129,8 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "O Castelo de Vidro",
+				"filme": "Cidade de Deus",
 				"similaridade": 3
-			},
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 2
 			}
 		]
 	},
@@ -2033,15 +2058,19 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 7
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 7
 			},
 			{
-				"filme": "Turma da Mônica: Lições",
-				"similaridade": 6
+				"filme": "A Morte do Superman",
+				"similaridade": 5
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "O Auto da Compadecida",
 				"similaridade": 5
 			},
 			{
@@ -2058,10 +2087,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
 			}
 		]
@@ -3978,7 +4003,7 @@
 		"similares": [
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 25
+				"similaridade": 26
 			},
 			{
 				"filme": "O Lobo de Wall Street",
