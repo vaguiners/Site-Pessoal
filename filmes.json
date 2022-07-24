@@ -112,6 +112,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 1
 			},
@@ -129,10 +133,6 @@
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 1
 			}
 		]
@@ -612,16 +612,16 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 17
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 17
 			},
 			{
 				"filme": "A Viagem de Chihiro",
 				"similaridade": 17
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 16
 			}
 		]
 	},
@@ -968,6 +968,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Dirty Dancing : O Musical",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 1
 			},
@@ -985,10 +989,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 1
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
 				"similaridade": 1
 			}
 		]
@@ -1255,6 +1255,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 3
+			},
+			{
 				"filme": "Não Me Mate",
 				"similaridade": 3
 			},
@@ -1264,10 +1268,6 @@
 			},
 			{
 				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 2
-			},
-			{
-				"filme": "Os Ritos Satânicos de Drácula",
 				"similaridade": 2
 			}
 		]
@@ -1343,6 +1343,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 7
+			},
+			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 6
 			},
@@ -1357,10 +1361,6 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 6
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 5
 			}
 		]
 	},
@@ -1573,6 +1573,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Homem do Norte",
 				"similaridade": 2
 			},
@@ -1586,10 +1590,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 2
-			},
-			{
-				"filme": "Inocência Roubada",
 				"similaridade": 2
 			}
 		]
@@ -2380,6 +2380,52 @@
 		]
 	},
 	{
+		"nome": "A Babá",
+		"duracao": "1:25:14",
+		"ano": 2017,
+		"score": 6.102,
+		"poster": "https://image.tmdb.org/t/p/w200/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tBhkqRxbANdYRhv7mLHfKEMcOZF.jpg",
+		"videoid": "776e5a7e5968786a036e48",
+		"resolucaoArmazenada": "1920x802",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 90
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 79
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 65
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 64
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 59
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 58
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 56
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 54
+			}
+		]
+	},
+	{
 		"nome": "O Estrangeiro",
 		"duracao": "1:53:53",
 		"ano": 2017,
@@ -2518,6 +2564,52 @@
 		]
 	},
 	{
+		"nome": "Dirty Dancing : O Musical",
+		"duracao": "2:10:21",
+		"ano": 2017,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/itjxxb8I1TfK1H3TGvrs5aJDM9a.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
+		"videoid": "755f437803617c780d1603",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "6M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
+				"filme": "Liga da Justiça: A Nova Fronteira",
+				"similaridade": 1
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 1
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 1
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 1
+			},
+			{
+				"filme": "Chefão Por Acaso",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
 		"ano": 2017,
@@ -2604,7 +2696,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Gandhi",
 				"similaridade": 1
 			}
 		]
@@ -2742,7 +2834,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "O Auto da Compadecida",
+				"filme": "Perfume - A História de um Assassino",
 				"similaridade": 1
 			}
 		]
@@ -2814,6 +2906,10 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 50
+			},
+			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 40
 			},
@@ -2832,10 +2928,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 28
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 27
 			}
 		]
 	},
@@ -2860,6 +2952,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Gandhi",
+				"similaridade": 16
+			},
+			{
 				"filme": "Cruella",
 				"similaridade": 16
 			},
@@ -2878,10 +2974,6 @@
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 14
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 13
 			}
 		]
 	},
@@ -3044,6 +3136,10 @@
 				"similaridade": 57
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 56
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 54
 			},
@@ -3061,10 +3157,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 43
 			}
 		]
@@ -3714,6 +3806,52 @@
 		]
 	},
 	{
+		"nome": "Perfume - A História de um Assassino",
+		"duracao": "2:27:25",
+		"ano": 2006,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/cXan3sEfEfyinnUYkhyRCD5NCC2.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kgHYRHQ5BZM1mxsy1MSZepNjMiR.jpg",
+		"videoid": "5c507554430b494e7d430f",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "60M",
+		"receita": "135M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 37
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 35
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 35
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 35
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 34
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 33
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 31
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 30
+			}
+		]
+	},
+	{
 		"nome": "DOA: Vivo ou Morto",
 		"duracao": "1:26:11",
 		"ano": 2006,
@@ -4240,6 +4378,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 17
+			},
+			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 17
 			},
@@ -4252,16 +4394,12 @@
 				"similaridade": 17
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 16
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 15
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 14
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 14
 			}
 		]
 	},
@@ -4754,6 +4892,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 8
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 8
 			},
@@ -4763,10 +4905,6 @@
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 7
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 7
 			}
 		]
@@ -5704,6 +5842,10 @@
 		"receita": "591.4K",
 		"similares": [
 			{
+				"filme": "A Babá",
+				"similaridade": 90
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 88
 			},
@@ -5730,10 +5872,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 45
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 45
 			}
 		]
 	},
@@ -5752,6 +5890,10 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 88
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 79
 			},
 			{
 				"filme": "O Espelho",
@@ -5776,10 +5918,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 49
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 48
 			}
 		]
 	},
@@ -5850,6 +5988,10 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "A Babá",
+				"similaridade": 64
+			},
+			{
 				"filme": "O Espelho",
 				"similaridade": 54
 			},
@@ -5868,10 +6010,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 35
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 34
 			}
 		]
 	},
@@ -6102,6 +6240,52 @@
 			{
 				"filme": "O Exorcista",
 				"similaridade": 7
+			}
+		]
+	},
+	{
+		"nome": "Gandhi",
+		"duracao": "3:11:15",
+		"ano": 1982,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+		"videoid": "7955630356724e0c4d436e",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "22M",
+		"receita": "77.7M",
+		"similares": [
+			{
+				"filme": "Gladiador",
+				"similaridade": 29
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 29
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 25
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 24
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 22
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 21
 			}
 		]
 	},
@@ -6744,7 +6928,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Gandhi",
 				"similaridade": 8
 			}
 		]
@@ -6862,6 +7046,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Gandhi",
+				"similaridade": 18
+			},
+			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 12
 			},
@@ -6879,10 +7067,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 10
-			},
-			{
-				"filme": "Um Violinista no Telhado",
 				"similaridade": 10
 			}
 		]
@@ -7000,6 +7184,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 7
+			},
+			{
 				"filme": "Cruella",
 				"similaridade": 7
 			},
@@ -7018,10 +7206,6 @@
 			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 7
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 6
 			}
 		]
 	},
@@ -7154,11 +7338,11 @@
 				"similaridade": 33
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "A Babá",
 				"similaridade": 32
 			},
 			{
-				"filme": "Cidade de Deus",
+				"filme": "O Estrangeiro",
 				"similaridade": 32
 			}
 		]
