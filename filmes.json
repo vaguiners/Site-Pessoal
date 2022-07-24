@@ -89,7 +89,7 @@
 		"nome": "Agente das Sombras",
 		"duracao": "1:44:54",
 		"ano": 2022,
-		"score": 6.303,
+		"score": 6.309,
 		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
 		"videoid": "636d5e77720c41570f7f72",
@@ -135,7 +135,7 @@
 		"nome": "Ambulância: Um Dia de Crime",
 		"duracao": "2:16:34",
 		"ano": 2022,
-		"score": 6.935,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
 		"videoid": "5d7d6f706450505f797354",
@@ -256,15 +256,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 4
+			},
+			{
 				"filme": "Gladiador",
 				"similaridade": 4
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 4
 			}
 		]
@@ -332,6 +332,10 @@
 				"similaridade": 126
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 93
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 90
 			},
@@ -354,10 +358,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 73
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 70
 			}
 		]
 	},
@@ -833,6 +833,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 7
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 6
 			},
@@ -845,15 +849,11 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 5
+			},
+			{
 				"filme": "Duna",
-				"similaridade": 5
-			},
-			{
-				"filme": "Os Ritos Satânicos de Drácula",
-				"similaridade": 5
-			},
-			{
-				"filme": "A Fuga",
 				"similaridade": 5
 			}
 		]
@@ -1021,6 +1021,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 3
+			},
+			{
 				"filme": "Não Me Mate",
 				"similaridade": 3
 			},
@@ -1034,10 +1038,6 @@
 			},
 			{
 				"filme": "Efeito Borboleta 3: Revelação",
-				"similaridade": 2
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 2
 			}
 		]
@@ -1397,15 +1397,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Vingança",
 				"similaridade": 1
 			},
 			{
-				"filme": "Operação Dragão",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "O Filho de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -1773,7 +1773,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Justiça Para Todos",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 2
 			}
 		]
@@ -2032,15 +2032,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 2
+			},
+			{
 				"filme": "Operação Dragão",
-				"similaridade": 2
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 2
-			},
-			{
-				"filme": "As Agentes 355",
 				"similaridade": 2
 			}
 		]
@@ -2104,6 +2104,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Tigre e o Dragão: A Espada do Destino",
 				"similaridade": 1
 			},
@@ -2117,22 +2133,6 @@
 			},
 			{
 				"filme": "Do Fundo do Mar 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Bater ou Correr em Londres",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 1
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 1
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 1
 			}
 		]
@@ -2370,11 +2370,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "A Morte do Superman",
 				"similaridade": 1
 			}
 		]
@@ -2688,15 +2688,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Espião por Acidente",
 				"similaridade": 1
 			}
 		]
@@ -2742,7 +2742,7 @@
 				"similaridade": 14
 			},
 			{
-				"filme": "Tenet",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 13
 			}
 		]
@@ -2864,6 +2864,10 @@
 				"similaridade": 96
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 88
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 88
 			},
@@ -2876,12 +2880,8 @@
 				"similaridade": 84
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 79
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 78
+				"filme": "A Noiva de Chucky",
+				"similaridade": 81
 			}
 		]
 	},
@@ -3098,6 +3098,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 23
+			},
+			{
 				"filme": "Premonição 2",
 				"similaridade": 23
 			},
@@ -3108,10 +3112,6 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 18
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 17
 			}
 		]
 	},
@@ -3186,6 +3186,10 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 34
+			},
+			{
 				"filme": "Premonição",
 				"similaridade": 34
 			},
@@ -3199,10 +3203,6 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 29
-			},
-			{
-				"filme": "Premonição 5",
 				"similaridade": 29
 			}
 		]
@@ -3232,6 +3232,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 20
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 19
 			},
@@ -3246,10 +3250,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 18
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 17
 			}
 		]
 	},
@@ -3466,6 +3466,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 23
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 23
 			},
@@ -3475,10 +3479,6 @@
 			},
 			{
 				"filme": "A Casa do Espanto",
-				"similaridade": 21
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 21
 			}
 		]
@@ -3650,6 +3650,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 26
+			},
+			{
 				"filme": "Premonição 5",
 				"similaridade": 26
 			},
@@ -3660,10 +3664,52 @@
 			{
 				"filme": "Batman",
 				"similaridade": 22
+			}
+		]
+	},
+	{
+		"nome": "O Filho de Chucky",
+		"duracao": "1:26:15",
+		"ano": 2004,
+		"score": 5.411,
+		"poster": "https://image.tmdb.org/t/p/w200/a7vVEDLt4rFYTxZRPeRGEv7QbNQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/joTtQICm7vrGrVitC1bobgBmxUh.jpg",
+		"videoid": "596c6961750c6d4c0f6e54",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "12M",
+		"receita": "24.8M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 51
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 21
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 45
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 43
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 38
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 36
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 31
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 30
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 28
 			}
 		]
 	},
@@ -3696,6 +3742,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 45
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 44
 			},
@@ -3705,10 +3755,6 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 43
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 43
 			}
 		]
@@ -3826,6 +3872,10 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 34
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 33
 			},
@@ -3844,10 +3894,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 25
 			}
 		]
 	},
@@ -3872,6 +3918,10 @@
 				"similaridade": 71
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 57
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 56
 			},
@@ -3888,12 +3938,8 @@
 				"similaridade": 52
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 49
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 48
+				"filme": "A Noiva de Chucky",
+				"similaridade": 50
 			}
 		]
 	},
@@ -4014,6 +4060,10 @@
 				"similaridade": 17
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 16
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 15
 			},
@@ -4027,10 +4077,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 14
-			},
-			{
-				"filme": "Do Fundo do Mar",
 				"similaridade": 14
 			}
 		]
@@ -4236,6 +4282,10 @@
 				"similaridade": 38
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 35
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 34
 			},
@@ -4257,10 +4307,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 31
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 31
 			}
 		]
@@ -4336,6 +4382,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 26
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 25
 			},
@@ -4350,10 +4400,52 @@
 			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 24
+			}
+		]
+	},
+	{
+		"nome": "A Noiva de Chucky",
+		"duracao": "1:28:51",
+		"ano": 1998,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/bhVKlNWNduGgPwI89I35CWtvIsn.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gCWYgNGQgB1zqPe2Jgds27cbOS3.jpg",
+		"videoid": "436f5f024a550b744c4950",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "25M",
+		"receita": "50.7M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 111
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 93
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 88
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 85
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 84
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 23
+				"similaridade": 83
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 81
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 80
 			}
 		]
 	},
@@ -4470,6 +4562,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 9
 			},
@@ -4482,16 +4578,12 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 7
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 7
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 7
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 6
 			}
 		]
 	},
@@ -4508,12 +4600,20 @@
 		"receita": "63.1M",
 		"similares": [
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 16
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 15
 			},
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 15
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 14
 			},
 			{
 				"filme": "Inimigo Mortal",
@@ -4529,14 +4629,6 @@
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 11
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 11
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			}
 		]
@@ -4700,6 +4792,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 43
 			},
@@ -4716,12 +4812,8 @@
 				"similaridade": 41
 			},
 			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 38
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 37
+				"filme": "A Noiva de Chucky",
+				"similaridade": 39
 			}
 		]
 	},
@@ -4762,12 +4854,12 @@
 				"similaridade": 40
 			},
 			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 37
+				"filme": "A Noiva de Chucky",
+				"similaridade": 38
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 35
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 37
 			}
 		]
 	},
@@ -4796,6 +4888,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 13
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 13
 			},
@@ -4809,10 +4905,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 12
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
 			}
 		]
@@ -4842,6 +4934,10 @@
 				"similaridade": 46
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 45
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 45
 			},
@@ -4850,16 +4946,150 @@
 				"similaridade": 44
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
 				"filme": "Morbius",
 				"similaridade": 40
+			}
+		]
+	},
+	{
+		"nome": "Brinquedo Assassino 3",
+		"duracao": "1:29:41",
+		"ano": 1991,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/k0XTbNtE3fSiId7IcMXXRGDJRYp.jpg",
+		"videoid": "697551024271755a746d72",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "13M",
+		"receita": "20.6M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 60
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 38
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 53
 			},
 			{
-				"filme": "O Homem do Norte",
-				"similaridade": 37
+				"filme": "Brinquedo Assassino",
+				"similaridade": 48
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 31
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 31
+			}
+		]
+	},
+	{
+		"nome": "Vingança",
+		"duracao": "2:03:50",
+		"ano": 1990,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aCKxFn7oixq8PIdM1pHF2qn7GSB.jpg",
+		"videoid": "7563035f68740d52554962",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": "15.6M",
+		"similares": [
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 90
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 88
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 85
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 73
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 69
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 68
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 67
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 66
+			}
+		]
+	},
+	{
+		"nome": "Brinquedo Assassino 2",
+		"duracao": "1:23:50",
+		"ano": 1990,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/ztcbACnysI1sUVi7u3333jQwFU1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5Fk490c1nNCyGT6HLVJO0rPD281.jpg",
+		"videoid": "036c7d0e6f6e6a79486e62",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "13M",
+		"receita": "35.8M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 72
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 60
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 45
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 42
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 32
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 29
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 28
 			}
 		]
 	},
@@ -4884,6 +5114,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 8
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
 			},
@@ -4901,10 +5135,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 6
-			},
-			{
-				"filme": "Arrebentando em Nova York",
 				"similaridade": 6
 			}
 		]
@@ -4972,6 +5202,14 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 14
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 14
 			},
@@ -4984,20 +5222,12 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "A Noite dos Arrepios",
+				"filme": "Brinquedo Assassino",
 				"similaridade": 12
 			},
 			{
-				"filme": "Pânico",
-				"similaridade": 11
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 11
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 10
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 12
 			}
 		]
 	},
@@ -5080,15 +5310,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 4
+			},
+			{
 				"filme": "Batman: O Cavaleiro de Gotham",
 				"similaridade": 4
 			},
 			{
 				"filme": "Operação Dragão",
-				"similaridade": 4
-			},
-			{
-				"filme": "Espião por Acidente",
 				"similaridade": 4
 			}
 		]
@@ -5106,8 +5336,20 @@
 		"receita": "1.7M",
 		"similares": [
 			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 11
+			},
+			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 11
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 10
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -5118,24 +5360,58 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 9
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 9
+			}
+		]
+	},
+	{
+		"nome": "Brinquedo Assassino",
+		"duracao": "1:27:31",
+		"ano": 1988,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
+		"videoid": "5c79527e6b794b0e43524c",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "9M",
+		"receita": "44.2M",
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 60
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 9
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 60
 			},
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 8
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 48
 			},
 			{
-				"filme": "Gladiador",
-				"similaridade": 8
+				"filme": "O Filho de Chucky",
+				"similaridade": 43
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 8
+				"similaridade": 39
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 39
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 34
 			}
 		]
 	},
@@ -5176,11 +5452,11 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "DOA: Vivo ou Morto",
+				"filme": "A Fúria do Dragão",
 				"similaridade": 3
 			},
 			{
-				"filme": "Batman: O Cavaleiro de Gotham",
+				"filme": "DOA: Vivo ou Morto",
 				"similaridade": 3
 			}
 		]
@@ -5218,16 +5494,16 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 17
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 17
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 17
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 16
 			}
 		]
 	},
@@ -5264,16 +5540,16 @@
 				"similaridade": 50
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 47
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 45
 			},
 			{
 				"filme": "Pânico",
 				"similaridade": 45
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 40
 			}
 		]
 	},
@@ -5428,6 +5704,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 20
+			},
+			{
 				"filme": "Espião por Acidente",
 				"similaridade": 20
 			},
@@ -5454,10 +5734,6 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 17
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 17
 			}
 		]
 	},
@@ -5476,6 +5752,10 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 5
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 4
 			},
 			{
 				"filme": "Agentes Vanguard",
@@ -5500,10 +5780,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 4
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 3
 			}
 		]
 	},
@@ -5522,6 +5798,10 @@
 			{
 				"filme": "Espião por Acidente",
 				"similaridade": 19
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 18
 			},
 			{
 				"filme": "Thunderbolt: Ação Sobre Rodas",
@@ -5545,10 +5825,6 @@
 			},
 			{
 				"filme": "Quem Sou Eu?",
-				"similaridade": 15
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 15
 			}
 		]
@@ -5640,7 +5916,7 @@
 				"similaridade": 53
 			},
 			{
-				"filme": "Pânico",
+				"filme": "Vingança",
 				"similaridade": 52
 			}
 		]
@@ -5704,6 +5980,10 @@
 		"receita": 854,
 		"similares": [
 			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 22
+			},
+			{
 				"filme": "Operação Dragão",
 				"similaridade": 22
 			},
@@ -5730,10 +6010,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 18
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 17
 			}
 		]
 	},
@@ -5820,11 +6096,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Mar em Fúria",
+				"filme": "Vingança",
 				"similaridade": 2
 			},
 			{
-				"filme": "Batman",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 2
 			}
 		]
@@ -5870,7 +6146,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Pânico",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 10
 			}
 		]
@@ -5916,7 +6192,7 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Vingança",
 				"similaridade": 43
 			}
 		]
@@ -5984,6 +6260,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 32
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 31
 			},
@@ -6006,10 +6286,6 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 25
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 24
 			}
 		]
 	},
@@ -6028,6 +6304,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 36
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 31
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -6052,10 +6332,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 26
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 25
 			}
 		]
 	},
@@ -6106,6 +6382,52 @@
 		]
 	},
 	{
+		"nome": "A Fúria do Dragão",
+		"duracao": "1:46:11",
+		"ano": 1972,
+		"score": 7.294,
+		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
+		"videoid": "557f0d4c43745c764c5662",
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": "100K",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 40
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 34
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 32
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 30
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 29
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 28
+			}
+		]
+	},
+	{
 		"nome": "O Poderoso Chefão",
 		"duracao": "2:57:10",
 		"ano": 1972,
@@ -6146,8 +6468,8 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 39
+				"filme": "Vingança",
+				"similaridade": 40
 			}
 		]
 	},
