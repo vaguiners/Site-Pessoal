@@ -40,7 +40,7 @@
 				"similaridade": 20
 			},
 			{
-				"filme": "Duna",
+				"filme": "Mente Criminosa",
 				"similaridade": 19
 			}
 		]
@@ -78,15 +78,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Maldição de Chucky",
 				"similaridade": 4
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 4
-			},
-			{
-				"filme": "Gladiador",
 				"similaridade": 4
 			}
 		]
@@ -412,6 +412,10 @@
 				"similaridade": 115
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 100
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 98
 			},
@@ -434,10 +438,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 84
-			},
-			{
-				"filme": "Infiltrado",
-				"similaridade": 81
 			}
 		]
 	},
@@ -470,6 +470,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 14
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 14
 			},
@@ -479,10 +483,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 13
-			},
-			{
-				"filme": "Quem Sou Eu?",
 				"similaridade": 13
 			}
 		]
@@ -574,7 +574,7 @@
 				"similaridade": 16
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Mente Criminosa",
 				"similaridade": 15
 			}
 		]
@@ -780,6 +780,10 @@
 				"similaridade": 123
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 115
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 113
 			},
@@ -802,10 +806,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 93
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 88
 			}
 		]
 	},
@@ -938,11 +938,11 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Fúria",
 				"similaridade": 3
 			},
 			{
-				"filme": "Pânico",
+				"filme": "A Morte do Superman",
 				"similaridade": 3
 			}
 		]
@@ -1014,6 +1014,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Fúria",
+				"similaridade": 1
+			},
+			{
 				"filme": "Infiltrado",
 				"similaridade": 1
 			},
@@ -1032,16 +1036,12 @@
 			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 1
-			},
-			{
-				"filme": "Dirty Dancing : O Musical",
-				"similaridade": 1
 			}
 		]
 	},
 	{
 		"nome": "Alerta Vermelho",
-		"duracao": "0",
+		"duracao": "1:58:00",
 		"ano": 2021,
 		"score": 6.776,
 		"poster": "https://image.tmdb.org/t/p/w200/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
@@ -1064,6 +1064,10 @@
 				"similaridade": 106
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 93
+			},
+			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 93
 			},
@@ -1078,10 +1082,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 88
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 85
 			}
 		]
 	},
@@ -1215,7 +1215,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Infiltrado",
+				"filme": "Mente Criminosa",
 				"similaridade": 1
 			}
 		]
@@ -1495,16 +1495,16 @@
 				"similaridade": 79
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 78
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 77
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 77
-			},
-			{
-				"filme": "Alerta Vermelho",
-				"similaridade": 64
 			}
 		]
 	},
@@ -1641,8 +1641,8 @@
 				"similaridade": 113
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 110
+				"filme": "Mente Criminosa",
+				"similaridade": 111
 			}
 		]
 	},
@@ -1813,6 +1813,10 @@
 				"similaridade": 120
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 114
+			},
+			{
 				"filme": "As Agentes 355",
 				"similaridade": 113
 			},
@@ -1823,10 +1827,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 110
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 108
 			}
 		]
 	},
@@ -1992,16 +1992,16 @@
 				"similaridade": 134
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 132
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 132
 			},
 			{
 				"filme": "As Agentes 355",
 				"similaridade": 123
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 115
 			}
 		]
 	},
@@ -2084,16 +2084,16 @@
 				"similaridade": 76
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 74
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 74
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 74
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 72
 			}
 		]
 	},
@@ -2344,6 +2344,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 11
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 11
 			},
@@ -2366,10 +2370,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 9
+			}
+		]
+	},
+	{
+		"nome": "Fúria",
+		"duracao": "1:47:36",
+		"ano": 2019,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/1iKMpfASZEYvraBbVSlCkrg6qco.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/yi6lKRgQT7FDHE706PE7MxN5CDA.jpg",
+		"videoid": "537e43437f166457414b0f",
+		"resolucaoArmazenada": "1904x1072",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Morbius",
+				"similaridade": 8
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 9
+				"filme": "A Casa do Espanto",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 7
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 7
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 6
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 6
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
 			}
 		]
 	},
@@ -2640,6 +2686,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 9
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 9
 			},
@@ -2653,10 +2703,6 @@
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Homem do Norte",
 				"similaridade": 8
 			}
 		]
@@ -2740,16 +2786,16 @@
 				"similaridade": 117
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 115
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 115
 			},
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 113
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 110
 			}
 		]
 	},
@@ -2874,6 +2920,10 @@
 				"similaridade": 129
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 128
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 127
 			},
@@ -2884,10 +2934,6 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 123
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 107
 			}
 		]
 	},
@@ -3046,6 +3092,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Fúria",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Predestinado",
 				"similaridade": 1
 			},
@@ -3067,10 +3117,6 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 1
-			},
-			{
-				"filme": "Karatê Kid",
 				"similaridade": 1
 			}
 		]
@@ -3302,6 +3348,52 @@
 			{
 				"filme": "O Espelho",
 				"similaridade": 55
+			}
+		]
+	},
+	{
+		"nome": "Mente Criminosa",
+		"duracao": "1:53:35",
+		"ano": 2016,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/60QTTSHQubpl4C78N6UWmb4TgQP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
+		"videoid": "726c6e540a6f50620c684c",
+		"resolucaoArmazenada": "1904x800",
+		"orcamento": "31.5M",
+		"receita": "14.7M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 135
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 132
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 128
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 127
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 115
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 115
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 114
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 111
 			}
 		]
 	},
@@ -3652,6 +3744,10 @@
 				"similaridade": 45
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 41
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 40
 			},
@@ -3665,10 +3761,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 36
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 36
 			}
 		]
@@ -4266,7 +4358,7 @@
 				"similaridade": 19
 			},
 			{
-				"filme": "Uma Questão de Respeito",
+				"filme": "Mente Criminosa",
 				"similaridade": 18
 			}
 		]
@@ -4622,6 +4714,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 24
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 23
 			},
@@ -4631,10 +4727,6 @@
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 22
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 22
 			}
 		]
@@ -5768,6 +5860,10 @@
 				"similaridade": 101
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 99
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 96
 			},
@@ -5782,10 +5878,6 @@
 			{
 				"filme": "As Agentes 355",
 				"similaridade": 87
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 84
 			}
 		]
 	},
@@ -5910,6 +6002,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 12
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 12
 			},
@@ -5920,10 +6016,6 @@
 			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 12
-			},
-			{
-				"filme": "Alerta Vermelho",
-				"similaridade": 11
 			}
 		]
 	},
@@ -6056,12 +6148,12 @@
 				"similaridade": 55
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 49
+				"filme": "Mente Criminosa",
+				"similaridade": 54
 			},
 			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 48
+				"filme": "Tenet",
+				"similaridade": 49
 			}
 		]
 	},
@@ -6128,6 +6220,10 @@
 				"similaridade": 54
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 52
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 47
 			},
@@ -6149,10 +6245,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 41
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 41
 			}
 		]
@@ -6604,16 +6696,16 @@
 				"similaridade": 72
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 70
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 69
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 68
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 67
 			}
 		]
 	},
@@ -7018,15 +7110,15 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 25
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 25
 			},
 			{
 				"filme": "Alerta Vermelho",
-				"similaridade": 24
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 24
 			}
 		]
@@ -7436,12 +7528,12 @@
 				"similaridade": 103
 			},
 			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 99
+				"filme": "Mente Criminosa",
+				"similaridade": 101
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 91
+				"filme": "Mulher-Maravilha",
+				"similaridade": 99
 			}
 		]
 	},
@@ -7800,16 +7892,16 @@
 				"similaridade": 29
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 26
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 26
 			},
 			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 26
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 25
 			}
 		]
 	},
@@ -7838,6 +7930,10 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 31
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 31
 			},
@@ -7851,10 +7947,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 30
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 30
 			}
 		]
@@ -8130,8 +8222,8 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Gandhi",
-				"similaridade": 8
+				"filme": "Mente Criminosa",
+				"similaridade": 9
 			}
 		]
 	},
@@ -8206,6 +8298,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Mente Criminosa",
+				"similaridade": 36
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 35
 			},
@@ -8220,10 +8316,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 32
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 31
 			}
 		]
 	},
