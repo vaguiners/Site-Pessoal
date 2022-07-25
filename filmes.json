@@ -112,6 +112,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Predestinado",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Babá",
 				"similaridade": 1
 			},
@@ -129,10 +133,6 @@
 			},
 			{
 				"filme": "O Último Trem pro Natal",
-				"similaridade": 1
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 1
 			}
 		]
@@ -654,6 +654,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "O Predestinado",
+				"similaridade": 4
+			},
+			{
 				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 4
 			},
@@ -663,10 +667,6 @@
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
-			},
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 4
 			}
 		]
@@ -822,6 +822,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Predestinado",
+				"similaridade": 1
+			},
+			{
 				"filme": "Dicionário de Cama",
 				"similaridade": 1
 			},
@@ -847,10 +851,6 @@
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 1
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 1
 			}
 		]
@@ -968,6 +968,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 1
+			},
+			{
 				"filme": "12",
 				"similaridade": 1
 			},
@@ -985,10 +989,6 @@
 			},
 			{
 				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 1
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 1
 			}
 		]
@@ -1123,7 +1123,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Fúria Incontrolável",
+				"filme": "O Predestinado",
 				"similaridade": 1
 			}
 		]
@@ -1291,6 +1291,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 4
+			},
+			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 4
 			},
@@ -1316,10 +1320,6 @@
 			},
 			{
 				"filme": "Não Me Mate",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Problema de Nascer",
 				"similaridade": 3
 			}
 		]
@@ -1391,6 +1391,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 7
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 7
 			},
@@ -1408,10 +1412,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 6
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 6
 			}
 		]
@@ -1625,6 +1625,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 2
+			},
+			{
 				"filme": "A Babá",
 				"similaridade": 2
 			},
@@ -1638,10 +1642,6 @@
 			},
 			{
 				"filme": "A Garota dos Meus Sonhos",
-				"similaridade": 2
-			},
-			{
-				"filme": "Lindinhas",
 				"similaridade": 2
 			}
 		]
@@ -1713,6 +1713,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 3
+			},
+			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 3
 			},
@@ -1730,10 +1734,6 @@
 			},
 			{
 				"filme": "Olhos de Gato",
-				"similaridade": 3
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 3
 			}
 		]
@@ -2000,7 +2000,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "O Quarto Secreto",
 				"similaridade": 4
 			}
 		]
@@ -2134,11 +2134,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Perigo Para a Sociedade",
+				"filme": "O Predestinado",
 				"similaridade": 4
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Perigo Para a Sociedade",
 				"similaridade": 4
 			}
 		]
@@ -2816,6 +2816,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Predestinado",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 1
 			},
@@ -2837,10 +2841,6 @@
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 1
-			},
-			{
-				"filme": "Chefão Por Acaso",
 				"similaridade": 1
 			}
 		]
@@ -3058,6 +3058,10 @@
 				"similaridade": 62
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 57
+			},
+			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 56
 			},
@@ -3068,10 +3072,6 @@
 			{
 				"filme": "O Espelho",
 				"similaridade": 55
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 49
 			}
 		]
 	},
@@ -3296,11 +3296,11 @@
 				"similaridade": 40
 			},
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 32
+				"filme": "O Quarto Secreto",
+				"similaridade": 33
 			},
 			{
-				"filme": "Olhos de Gato",
+				"filme": "Cemitério Maldito",
 				"similaridade": 32
 			}
 		]
@@ -3348,6 +3348,52 @@
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 14
+			}
+		]
+	},
+	{
+		"nome": "O Predestinado",
+		"duracao": "1:37:49",
+		"ano": 2014,
+		"score": 7.438,
+		"poster": "https://image.tmdb.org/t/p/w200/uvukjvh9w0dtFHacYaRL1YWzFGc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/u5JKxjMuKk0dVXqmS4e4gHo8pfg.jpg",
+		"videoid": "70630954755d6c4a6c5954",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "5.5M",
+		"receita": "4.9M",
+		"similares": [
+			{
+				"filme": "Tenet",
+				"similaridade": 48
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 46
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 45
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 40
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 39
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 38
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 36
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 36
 			}
 		]
 	},
@@ -3530,7 +3576,7 @@
 				"similaridade": 54
 			},
 			{
-				"filme": "Batman",
+				"filme": "O Quarto Secreto",
 				"similaridade": 46
 			}
 		]
@@ -3624,6 +3670,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 7
+			}
+		]
+	},
+	{
+		"nome": "O Quarto Secreto",
+		"duracao": "1:36:31",
+		"ano": 2011,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/96JVSZDXTPy4qw4kgzhLfSCQcwd.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wlKQp7rRQ2FYYWetqjwfVm9pAYu.jpg",
+		"videoid": "0d5d54537a5148795f6176",
+		"resolucaoArmazenada": "1280x544",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 67
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 57
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 50
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 46
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 42
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 38
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 35
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 33
 			}
 		]
 	},
@@ -4042,6 +4134,52 @@
 		]
 	},
 	{
+		"nome": "O Assassinato de Jesse James Pelo Covarde Robert Ford",
+		"duracao": "2:39:41",
+		"ano": 2007,
+		"score": 7.056,
+		"poster": "https://image.tmdb.org/t/p/w200/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+		"videoid": "4b5e5a787277625f50734c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "30M",
+		"receita": "14.7M",
+		"similares": [
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 17
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 15
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 14
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 14
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 14
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 14
+			}
+		]
+	},
+	{
 		"nome": "A Morte do Superman",
 		"duracao": "1:17:42",
 		"ano": 2007,
@@ -4262,11 +4400,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Fúria Incontrolável",
+				"filme": "O Predestinado",
 				"similaridade": 2
 			},
 			{
-				"filme": "A Maldição de Chucky",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 2
 			}
 		]
@@ -6508,6 +6646,10 @@
 				"similaridade": 71
 			},
 			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 67
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 67
 			},
@@ -6518,10 +6660,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 51
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 50
 			}
 		]
 	},
