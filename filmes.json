@@ -32,15 +32,15 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 20
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 20
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 19
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 19
 			}
 		]
@@ -112,6 +112,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Predestinado",
 				"similaridade": 1
 			},
@@ -129,10 +133,6 @@
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Último Trem pro Natal",
 				"similaridade": 1
 			}
 		]
@@ -566,16 +566,16 @@
 				"similaridade": 86
 			},
 			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 84
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 81
 			},
 			{
 				"filme": "Eternos",
 				"similaridade": 75
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 72
 			}
 		]
 	},
@@ -994,6 +994,52 @@
 		]
 	},
 	{
+		"nome": "Alerta Vermelho",
+		"duracao": "0",
+		"ano": 2021,
+		"score": 6.776,
+		"poster": "https://image.tmdb.org/t/p/w200/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
+		"videoid": "6c77776c7c4e0f4c6d540f",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "160M",
+		"receita": "178.1K",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 112
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 106
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 106
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 93
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 90
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 90
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 88
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 85
+			}
+		]
+	},
+	{
 		"nome": "Eternos",
 		"duracao": "2:35:51",
 		"ano": 2021,
@@ -1123,7 +1169,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Predestinado",
+				"filme": "Alerta Vermelho",
 				"similaridade": 1
 			}
 		]
@@ -3210,6 +3256,52 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 8
+			}
+		]
+	},
+	{
+		"nome": "Ascensão e Queda de um Império",
+		"duracao": "1:53:23",
+		"ano": 2015,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/rtNhTmR2sfl9PUqCHxAyzFNinG0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/r7E1wjETuYChaZ8vK7rAim6bVlD.jpg",
+		"videoid": "610f6a5461680c580b4303",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Vingança",
+				"similaridade": 5
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 5
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 4
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 4
 			}
 		]
 	},
@@ -5646,7 +5738,7 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Alerta Vermelho",
 				"similaridade": 11
 			}
 		]
@@ -6566,7 +6658,7 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Alerta Vermelho",
 				"similaridade": 3
 			}
 		]
@@ -6746,11 +6838,11 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Ambulância: Um Dia de Crime",
+				"filme": "Alerta Vermelho",
 				"similaridade": 24
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 24
 			}
 		]
@@ -6864,6 +6956,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 4
 			},
@@ -6885,10 +6981,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 4
 			}
 		]
@@ -6914,6 +7006,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 5
+			},
+			{
 				"filme": "A Morte do Superman",
 				"similaridade": 5
 			},
@@ -6931,10 +7027,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 5
-			},
-			{
-				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 5
 			}
 		]
