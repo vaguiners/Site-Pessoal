@@ -184,6 +184,52 @@
 		]
 	},
 	{
+		"nome": "A Fera do Mar",
+		"duracao": "1:59:26",
+		"ano": 2022,
+		"score": 7.635,
+		"poster": "https://image.tmdb.org/t/p/w200/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
+		"videoid": "6d5e4f16570e770879034c",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Megatubarão",
+				"similaridade": 7
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Liga de Monstros",
+				"similaridade": 5
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 5
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
+			}
+		]
+	},
+	{
 		"nome": "A Extraordinária Garota Chamada Estrela em Hollywood",
 		"duracao": "1:42:54",
 		"ano": 2022,
@@ -746,6 +792,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "A Última Noite",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Predestinado",
 				"similaridade": 4
 			},
@@ -755,10 +805,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 4
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			}
 		]
@@ -914,6 +960,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Última Noite",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Predestinado",
 				"similaridade": 1
 			},
@@ -939,10 +989,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 1
 			}
 		]
@@ -972,6 +1018,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "A Fera do Mar",
+				"similaridade": 5
+			},
+			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			},
@@ -986,10 +1036,6 @@
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 4
-			},
-			{
-				"filme": "Fúria",
-				"similaridade": 3
 			}
 		]
 	},
@@ -1178,6 +1224,52 @@
 		]
 	},
 	{
+		"nome": "Amarração do Amor",
+		"duracao": "1:21:20",
+		"ano": 2021,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/5yTpx1nE5PM8DhVxWVIq4ikKZc2.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mzPScgMHTUOpxzqce8S6XY4MUE1.jpg",
+		"videoid": "0e5d08027158646f646e58",
+		"resolucaoArmazenada": "1918x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Matéria Noturna",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Descascado",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "A Matéria Noturna",
 		"duracao": "1:29:36",
 		"ano": 2021,
@@ -1189,6 +1281,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
 			{
 				"filme": "Alemão",
 				"similaridade": 1
@@ -1208,18 +1312,52 @@
 			{
 				"filme": "Descascado",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "A Última Noite",
+		"duracao": "1:26:25",
+		"ano": 2021,
+		"score": 6.207,
+		"poster": "https://image.tmdb.org/t/p/w200/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nJYAAOk74VjPlwz34jWFh8MPw2r.jpg",
+		"videoid": "7152626158437c7d7d4258",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Eternos",
+				"similaridade": 13
 			},
 			{
-				"filme": "Turma da Mônica: Lições",
-				"similaridade": 1
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 13
 			},
 			{
-				"filme": "Turma da Mônica: Laços",
-				"similaridade": 1
+				"filme": "O Exorcista",
+				"similaridade": 12
 			},
 			{
-				"filme": "Cidade de Deus",
-				"similaridade": 1
+				"filme": "Batman",
+				"similaridade": 10
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 10
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 9
 			}
 		]
 	},
@@ -1800,6 +1938,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Última Noite",
+				"similaridade": 3
+			},
+			{
 				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 3
 			},
@@ -1825,10 +1967,6 @@
 			},
 			{
 				"filme": "O Homem do Norte",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Garota dos Meus Sonhos",
 				"similaridade": 2
 			}
 		]
@@ -2561,6 +2699,52 @@
 		]
 	},
 	{
+		"nome": "Caçada Selvagem",
+		"duracao": "1:28:06",
+		"ano": 2019,
+		"score": 5.503,
+		"poster": "https://image.tmdb.org/t/p/w200/paclnjtBlAcEh1ddUbCbT1azPIc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
+		"videoid": "77587a7850097a4b7d4f6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "7M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 5
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 5
+			},
+			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 4
+			}
+		]
+	},
+	{
 		"nome": "Cemitério Maldito",
 		"duracao": "1:40:50",
 		"ano": 2019,
@@ -2695,6 +2879,98 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 85
+			}
+		]
+	},
+	{
+		"nome": "D.P.A. 2: O Filme - O Mistério Italiano",
+		"duracao": "1:29:37",
+		"ano": 2018,
+		"score": 7.8,
+		"poster": "https://image.tmdb.org/t/p/w200/2LH9E43vriqJNO8YMGENmfE0uhK.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4aVhGCcBxtGIw7GPoAKnGqYAsre.jpg",
+		"videoid": "5f7a03530978436c7d517a",
+		"resolucaoArmazenada": "1910x1034",
+		"orcamento": 0,
+		"receita": "4.4M",
+		"similares": [
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 2
+			},
+			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Matéria Noturna",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "A Presepada",
+		"duracao": "40:30",
+		"ano": 2018,
+		"score": 8,
+		"poster": "https://image.tmdb.org/t/p/w200/5mfz3ThkyLvGeUemvjnuLFRTFn3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pXjVi3jw4roKo7cGYHcNV4vctbO.jpg",
+		"videoid": "5a71025c0e5a4d42585e6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Matéria Noturna",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Descascado",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3571,15 +3847,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Última Noite",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 1
-			},
-			{
-				"filme": "Perfume - A História de um Assassino",
 				"similaridade": 1
 			}
 		]
@@ -3881,6 +4157,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tati, a Garota",
 				"similaridade": 1
 			},
@@ -3890,18 +4178,6 @@
 			},
 			{
 				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Descascado",
-				"similaridade": 1
-			},
-			{
-				"filme": "Turma da Mônica: Lições",
-				"similaridade": 1
-			},
-			{
-				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
 			}
 		]
