@@ -3,7 +3,7 @@
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
-		"score": 6.851,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pLOFQLeKQYsCzkYgsw9tg1cPuDG.jpg",
 		"videoid": "1675615e757d524909726a",
@@ -95,7 +95,7 @@
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
-		"score": 7.065,
+		"score": 7.09,
 		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "7e646b0c7e680e68084348",
@@ -138,10 +138,56 @@
 		]
 	},
 	{
+		"nome": "Bruna Louise: Demolição",
+		"duracao": "1:05:51",
+		"ano": 2022,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nfYcG8XBT5Pzk3thtS2MbIxM5mC.jpg",
+		"videoid": "090d58506d4d0251687954",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "A Princesa",
 		"duracao": "1:34:03",
 		"ano": 2022,
-		"score": 7.162,
+		"score": 7.172,
 		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
 		"videoid": "5a6b4c634c6b610e7e4a58",
@@ -279,7 +325,7 @@
 		"nome": "Bob's Burger: O Filme",
 		"duracao": "1:41:54",
 		"ano": 2022,
-		"score": 7.129,
+		"score": 7.126,
 		"poster": "https://image.tmdb.org/t/p/w200/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hcOMkf6dwZTMxSjgBdIisrBHYhw.jpg",
 		"videoid": "57585278715d084c6b7c6a",
@@ -325,7 +371,7 @@
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.511,
+		"score": 7.512,
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -371,7 +417,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.218,
+		"score": 7.221,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -491,7 +537,7 @@
 		"nome": "Ambulância: Um Dia de Crime",
 		"duracao": "2:16:34",
 		"ano": 2022,
-		"score": 6.938,
+		"score": 6.942,
 		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
 		"videoid": "5d7d6f706450505f797354",
@@ -534,10 +580,56 @@
 		]
 	},
 	{
+		"nome": "Cidade Perdida",
+		"duracao": "1:53:01",
+		"ano": 2022,
+		"score": 6.771,
+		"poster": "https://image.tmdb.org/t/p/w200/vsX9gj7t56ZlMYKNYccskeW5adT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
+		"videoid": "096f085a59494c0d765972",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "74M",
+		"receita": "164.3M",
+		"similares": [
+			{
+				"filme": "Tenet",
+				"similaridade": 7
+			},
+			{
+				"filme": "Infiltrado",
+				"similaridade": 6
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 5
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 5
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 5
+			}
+		]
+	},
+	{
 		"nome": "Contrato Perigoso",
 		"duracao": "1:43:39",
 		"ano": 2022,
-		"score": 6.523,
+		"score": 6.522,
 		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
 		"videoid": "640c624c0b52410d5e5876",
@@ -583,7 +675,7 @@
 		"nome": "Batman",
 		"duracao": "2:56:01",
 		"ano": 2022,
-		"score": 7.757,
+		"score": 7.758,
 		"poster": "https://image.tmdb.org/t/p/w200/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
 		"videoid": "645c0f776c0a4273166158",
@@ -721,7 +813,7 @@
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
 		"ano": 2022,
-		"score": 7.506,
+		"score": 7.509,
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
 		"videoid": "574a7e6c7d6a586d6c7203",
@@ -767,7 +859,7 @@
 		"nome": "Fantasmas do Passado",
 		"duracao": "1:39:11",
 		"ano": 2022,
-		"score": 5.3,
+		"score": 5.303,
 		"poster": "https://image.tmdb.org/t/p/w200/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
 		"videoid": "53080a4f535554526f425c",
@@ -905,7 +997,7 @@
 		"nome": "Turma da Mônica: Lições",
 		"duracao": "1:30:47",
 		"ano": 2021,
-		"score": 8.23,
+		"score": 8.298,
 		"poster": "https://image.tmdb.org/t/p/w200/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kolcIeckAekJfJ3IA4Z0Fr1kk38.jpg",
 		"videoid": "0d7f646c704179777c6b7e",
@@ -1098,6 +1190,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 2
+			},
+			{
+				"filme": "Entre Irmãos",
+				"similaridade": 2
+			},
+			{
 				"filme": "12 Homens e uma Sentença",
 				"similaridade": 2
 			},
@@ -1119,14 +1219,6 @@
 			},
 			{
 				"filme": "O Quarto Secreto",
-				"similaridade": 1
-			},
-			{
-				"filme": "12",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 1
 			}
 		]
@@ -1191,15 +1283,15 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 177
+				"similaridade": 176
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 152
+				"similaridade": 151
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 146
+				"similaridade": 145
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
@@ -1211,7 +1303,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 129
+				"similaridade": 128
 			},
 			{
 				"filme": "Duna",
@@ -1236,6 +1328,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Presepada",
 				"similaridade": 1
 			},
@@ -1254,18 +1358,6 @@
 			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 1
-			},
-			{
-				"filme": "A Matéria Noturna",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Descascado",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1273,7 +1365,7 @@
 		"nome": "A Matéria Noturna",
 		"duracao": "1:29:36",
 		"ano": 2021,
-		"score": 6,
+		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/d2DXhcnn6BNo9S9o7tOkn1lA7vI.jpg",
 		"videoid": "49785e4f6a62494f770f0f",
@@ -1281,6 +1373,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
 			{
 				"filme": "Amarração do Amor",
 				"similaridade": 1
@@ -1299,18 +1403,6 @@
 			},
 			{
 				"filme": "Tati, a Garota",
-				"similaridade": 1
-			},
-			{
-				"filme": "Uma História de Amor e Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Descascado",
 				"similaridade": 1
 			}
 		]
@@ -1365,7 +1457,7 @@
 		"nome": "Meu Filho",
 		"duracao": "1:36:22",
 		"ano": 2021,
-		"score": 6.288,
+		"score": 6.295,
 		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
 		"videoid": "480c0b5143097008785f0f",
@@ -1402,8 +1494,54 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Mente Criminosa",
+				"filme": "Entre Irmãos",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "7 Prisioneiros",
+		"duracao": "1:34:31",
+		"ano": 2021,
+		"score": 7.115,
+		"poster": "https://image.tmdb.org/t/p/w200/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ut6OYNA8zG7kNeRTLIZzpN8u11y.jpg",
+		"videoid": "0a62637d507d0f63567676",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 7
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 5
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 4
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 4
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 4
 			}
 		]
 	},
@@ -1479,15 +1617,15 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 168
+				"similaridade": 167
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 162
+				"similaridade": 161
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 152
+				"similaridade": 151
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
@@ -1506,8 +1644,8 @@
 				"similaridade": 111
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 111
+				"filme": "Mate ou Morra",
+				"similaridade": 110
 			}
 		]
 	},
@@ -1755,7 +1893,7 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 219
+				"similaridade": 218
 			},
 			{
 				"filme": "Batman",
@@ -1763,11 +1901,11 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 177
+				"similaridade": 176
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 168
+				"similaridade": 167
 			},
 			{
 				"filme": "A Morte do Superman",
@@ -1775,7 +1913,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 164
+				"similaridade": 163
 			},
 			{
 				"filme": "Tenet",
@@ -1893,11 +2031,11 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 171
+				"similaridade": 170
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 164
+				"similaridade": 163
 			},
 			{
 				"filme": "Batman",
@@ -1905,7 +2043,7 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 129
+				"similaridade": 128
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
@@ -1913,7 +2051,7 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 111
+				"similaridade": 110
 			},
 			{
 				"filme": "A Morte do Superman",
@@ -2351,6 +2489,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 2
+			},
+			{
 				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 2
 			},
@@ -2369,10 +2511,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 2
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 2
 			}
 		]
 	},
@@ -2380,7 +2518,7 @@
 		"nome": "A Casa Sombria",
 		"duracao": "1:47:02",
 		"ano": 2020,
-		"score": 6.692,
+		"score": 6.694,
 		"poster": "https://image.tmdb.org/t/p/w200/sDbo3qnxxMnC1f4RMfmUlcKNNST.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6IwRWvEManAFXRWEZr5g9LxtVPR.jpg",
 		"videoid": "736976594979424e70534c",
@@ -2899,6 +3037,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
+			{
 				"filme": "Amarração do Amor",
 				"similaridade": 1
 			},
@@ -2912,18 +3062,6 @@
 			},
 			{
 				"filme": "Tati, a Garota",
-				"similaridade": 1
-			},
-			{
-				"filme": "Uma História de Amor e Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Matéria Noturna",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Auto da Compadecida",
 				"similaridade": 1
 			}
 		]
@@ -2940,6 +3078,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
 			{
 				"filme": "Amarração do Amor",
 				"similaridade": 1
@@ -2958,18 +3108,6 @@
 			},
 			{
 				"filme": "Uma História de Amor e Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Matéria Noturna",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Auto da Compadecida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Descascado",
 				"similaridade": 1
 			}
 		]
@@ -3266,7 +3404,7 @@
 		"nome": "O Estrangeiro",
 		"duracao": "1:53:53",
 		"ano": 2017,
-		"score": 6.848,
+		"score": 6.847,
 		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
 		"videoid": "717c69570d6d7776090a5c",
@@ -3463,6 +3601,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 1
+			},
+			{
+				"filme": "Entre Irmãos",
+				"similaridade": 1
+			},
+			{
 				"filme": "Fúria",
 				"similaridade": 1
 			},
@@ -3481,14 +3627,6 @@
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 1
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 1
 			}
 		]
 	},
@@ -3496,7 +3634,7 @@
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
 		"ano": 2017,
-		"score": 7.245,
+		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
 		"videoid": "5f70735716416f436f5d4c",
@@ -3506,19 +3644,19 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 219
+				"similaridade": 218
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 171
+				"similaridade": 170
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 162
+				"similaridade": 161
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 146
+				"similaridade": 145
 			},
 			{
 				"filme": "Batman",
@@ -3677,6 +3815,52 @@
 		]
 	},
 	{
+		"nome": "Cinema Novo",
+		"duracao": "1:32:39",
+		"ano": 2016,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3fFn9Uc3H0wnhg4nt99pevH94vE.jpg",
+		"videoid": "570a526302645475684b72",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amarração do Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Presepada",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "No Fim do Túnel",
 		"duracao": "2:00:24",
 		"ano": 2016,
@@ -3726,7 +3910,7 @@
 		"nome": "Mente Criminosa",
 		"duracao": "1:53:35",
 		"ano": 2016,
-		"score": 6.126,
+		"score": 6.125,
 		"poster": "https://image.tmdb.org/t/p/w200/60QTTSHQubpl4C78N6UWmb4TgQP.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
 		"videoid": "726c6e540a6f50620c684c",
@@ -4153,8 +4337,20 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
+			},
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bruna Louise: Demolição",
+				"similaridade": 1
 			},
 			{
 				"filme": "Amarração do Amor",
@@ -4166,18 +4362,6 @@
 			},
 			{
 				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tati, a Garota",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Matéria Noturna",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Auto da Compadecida",
 				"similaridade": 1
 			}
 		]
@@ -4692,7 +4876,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.603,
+		"score": 5.604,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -4731,6 +4915,52 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 29
+			}
+		]
+	},
+	{
+		"nome": "Entre Irmãos",
+		"duracao": "1:44:38",
+		"ano": 2009,
+		"score": 7.17,
+		"poster": "https://image.tmdb.org/t/p/w200/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4olNFXmcXOvccVfhk0S2PubqkiK.jpg",
+		"videoid": "594b5f4c0d02525a61785c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "26M",
+		"receita": "43.3M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 20
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 20
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 17
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 17
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 17
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 17
 			}
 		]
 	},
@@ -4784,7 +5014,7 @@
 		"nome": "Batman: O Cavaleiro de Gotham",
 		"duracao": "1:16:00",
 		"ano": 2008,
-		"score": 6.7,
+		"score": 6.708,
 		"poster": "https://image.tmdb.org/t/p/w200/jbsN2F0V0QIts4XFlCRKXOF3bAX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ng7VxyF0xl2d7ApM7Jo3lvH2LkG.jpg",
 		"videoid": "6c0b5e6c095f6869425a72",
@@ -4968,7 +5198,7 @@
 		"nome": "A Morte do Superman",
 		"duracao": "1:17:42",
 		"ano": 2007,
-		"score": 6.714,
+		"score": 6.715,
 		"poster": "https://image.tmdb.org/t/p/w200/wcF16pLROx0MVxVqcCMX2SRmdv3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
 		"videoid": "5357564e0d620f577a6c62",
@@ -5980,7 +6210,7 @@
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
 		"ano": 2000,
-		"score": 7.393,
+		"score": 7.394,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
 		"videoid": "5e5e6b7f50555d6a644c4c",
@@ -6670,7 +6900,7 @@
 		"nome": "Perigo Para a Sociedade",
 		"duracao": "1:37:34",
 		"ano": 1993,
-		"score": 7.545,
+		"score": 7.543,
 		"poster": "https://image.tmdb.org/t/p/w200/7KkHiZMvEdEZq2qrQX3kzYA7Off.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7MCj7x7nVWDj28qi2O8VqvcLXDc.jpg",
 		"videoid": "0e0c630c43645f7a707654",
@@ -6709,6 +6939,52 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 71
+			}
+		]
+	},
+	{
+		"nome": "Perfume de Mulher",
+		"duracao": "2:36:26",
+		"ano": 1992,
+		"score": 7.738,
+		"poster": "https://image.tmdb.org/t/p/w200/7vYWmKziZCfuXuIesRdVHUtXaLY.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+		"videoid": "6a49420f0d6c4363645e4c",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "31M",
+		"receita": "134.1M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 9
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 7
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 7
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 7
 			}
 		]
 	},
@@ -7268,7 +7544,7 @@
 		"nome": "Brinquedo Assassino",
 		"duracao": "1:27:31",
 		"ano": 1988,
-		"score": 6.632,
+		"score": 6.633,
 		"poster": "https://image.tmdb.org/t/p/w200/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
 		"videoid": "5c79527e6b794b0e43524c",
@@ -7307,6 +7583,52 @@
 			{
 				"filme": "A Maldição de Chucky",
 				"similaridade": 37
+			}
+		]
+	},
+	{
+		"nome": "Bat 21: Missão no Inferno",
+		"duracao": "1:44:55",
+		"ano": 1988,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/yIeFT2RqJdXMRIhGLs05xtzBkt9.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gKpOQOazSJHBZUQh1BkNNaocq8S.jpg",
+		"videoid": "7a4d5f507f517169515f0f",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": "4M",
+		"similares": [
+			{
+				"filme": "Megatubarão",
+				"similaridade": 11
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 11
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 10
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 10
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 10
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 10
+			},
+			{
+				"filme": "Tora! Tora! Tora!",
+				"similaridade": 10
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 9
 			}
 		]
 	},
@@ -8326,7 +8648,7 @@
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
 		"ano": 1973,
-		"score": 7.6,
+		"score": 7.587,
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "0c4f6d686f4375766b7c54",
@@ -8372,7 +8694,7 @@
 		"nome": "Operação Dragão",
 		"duracao": "1:42:24",
 		"ano": 1973,
-		"score": 7.425,
+		"score": 7.424,
 		"poster": "https://image.tmdb.org/t/p/w200/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
 		"videoid": "4f525e770843776b5f4b7e",
@@ -8639,7 +8961,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Bat 21: Missão no Inferno",
 				"similaridade": 10
 			}
 		]
