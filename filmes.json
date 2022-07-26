@@ -3,7 +3,7 @@
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
-		"score": 6.801,
+		"score": 6.851,
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pLOFQLeKQYsCzkYgsw9tg1cPuDG.jpg",
 		"videoid": "1675615e757d524909726a",
@@ -49,7 +49,7 @@
 		"nome": "Rise",
 		"duracao": "1:51:19",
 		"ano": 2022,
-		"score": 6.994,
+		"score": 6.957,
 		"poster": "https://image.tmdb.org/t/p/w200/czXyMcmiulyZjhYAnnMwVhFCvN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
 		"videoid": "0a54794a5e736158767662",
@@ -95,7 +95,7 @@
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
-		"score": 7.067,
+		"score": 7.065,
 		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "7e646b0c7e680e68084348",
@@ -106,6 +106,10 @@
 			{
 				"filme": "Beavis e Butt-Head Detonam a América",
 				"similaridade": 4
+			},
+			{
+				"filme": "Bob's Burger: O Filme",
+				"similaridade": 2
 			},
 			{
 				"filme": "Interestelar",
@@ -130,10 +134,6 @@
 			{
 				"filme": "Liga da Justiça: A Nova Fronteira",
 				"similaridade": 1
-			},
-			{
-				"filme": "A Morte do Superman",
-				"similaridade": 1
 			}
 		]
 	},
@@ -141,7 +141,7 @@
 		"nome": "A Princesa",
 		"duracao": "1:34:03",
 		"ano": 2022,
-		"score": 7.139,
+		"score": 7.162,
 		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
 		"videoid": "5a6b4c634c6b610e7e4a58",
@@ -230,10 +230,56 @@
 		]
 	},
 	{
+		"nome": "Bob's Burger: O Filme",
+		"duracao": "1:41:54",
+		"ano": 2022,
+		"score": 7.129,
+		"poster": "https://image.tmdb.org/t/p/w200/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hcOMkf6dwZTMxSjgBdIisrBHYhw.jpg",
+		"videoid": "57585278715d084c6b7c6a",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "38M",
+		"receita": "34M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
+			},
+			{
+				"filme": "Beavis e Butt-Head Detonam a América",
+				"similaridade": 7
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 6
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 6
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 5
+			}
+		]
+	},
+	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.508,
+		"score": 7.511,
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -279,7 +325,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.216,
+		"score": 7.218,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -491,7 +537,7 @@
 		"nome": "Batman",
 		"duracao": "2:56:01",
 		"ano": 2022,
-		"score": 7.76,
+		"score": 7.757,
 		"poster": "https://image.tmdb.org/t/p/w200/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
 		"videoid": "645c0f776c0a4273166158",
@@ -629,7 +675,7 @@
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
 		"ano": 2022,
-		"score": 7.505,
+		"score": 7.506,
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
 		"videoid": "574a7e6c7d6a586d6c7203",
@@ -914,6 +960,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Megatubarão",
+				"similaridade": 6
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 6
 			},
@@ -939,10 +989,6 @@
 			},
 			{
 				"filme": "Fúria",
-				"similaridade": 3
-			},
-			{
-				"filme": "A Morte do Superman",
 				"similaridade": 3
 			}
 		]
@@ -1144,6 +1190,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tati, a Garota",
 				"similaridade": 1
 			},
@@ -1170,8 +1220,7 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 1
-			},
-			null
+			}
 		]
 	},
 	{
@@ -1328,7 +1377,7 @@
 		"nome": "Jolt: Fúria Fatal",
 		"duracao": "1:31:06",
 		"ano": 2021,
-		"score": 6.724,
+		"score": 6.725,
 		"poster": "https://image.tmdb.org/t/p/w200/gYZAHan5CHPFXORpQMvOjCTug4E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
 		"videoid": "7751096b6a41624f0c617a",
@@ -1604,7 +1653,7 @@
 		"nome": "Mate ou Morra",
 		"duracao": "1:41:00",
 		"ano": 2021,
-		"score": 6.881,
+		"score": 6.88,
 		"poster": "https://image.tmdb.org/t/p/w200/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
 		"videoid": "027e71754d0f694262787a",
@@ -1671,6 +1720,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 4
+			},
+			{
 				"filme": "Fúria Incontrolável",
 				"similaridade": 4
 			},
@@ -1685,10 +1738,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 4
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 4
 			}
 		]
 	},
@@ -1696,7 +1745,7 @@
 		"nome": "Mulher-Maravilha 1984",
 		"duracao": "2:31:07",
 		"ano": 2020,
-		"score": 6.554,
+		"score": 6.553,
 		"poster": "https://image.tmdb.org/t/p/w200/AweDlIiohqw4sjC7gCsPVd1zo77.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzpCv8CCWondN7O5au1KGiqnC3A.jpg",
 		"videoid": "7e68576c0a6175164d0d50",
@@ -1880,7 +1929,7 @@
 		"nome": "A Babá: Rainha da Morte",
 		"duracao": "1:42:27",
 		"ano": 2020,
-		"score": 6.439,
+		"score": 6.437,
 		"poster": "https://image.tmdb.org/t/p/w200/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/naUJGskMlDg2HZ0FhsaMG5xPF2K.jpg",
 		"videoid": "7f75166f566d6a0e09636e",
@@ -1963,7 +2012,7 @@
 		"nome": "Tenet",
 		"duracao": "2:30:10",
 		"ano": 2020,
-		"score": 7.228,
+		"score": 7.227,
 		"poster": "https://image.tmdb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
 		"videoid": "776b0a7f6a7f4158514203",
@@ -2018,6 +2067,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Megatubarão",
+				"similaridade": 13
+			},
+			{
 				"filme": "Do Fundo do Mar 2",
 				"similaridade": 13
 			},
@@ -2043,10 +2096,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 4
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 4
 			}
 		]
@@ -2226,11 +2275,11 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"filme": "Megatubarão",
 				"similaridade": 31
 			},
 			{
-				"filme": "A Casa do Espanto",
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 31
 			}
 		]
@@ -2250,6 +2299,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 11
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 8
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
@@ -2274,10 +2327,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 8
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 7
 			}
 		]
 	},
@@ -2331,7 +2380,7 @@
 		"nome": "Alerta Vermelho",
 		"duracao": "2:08:12",
 		"ano": 2019,
-		"score": 6.713,
+		"score": 6.724,
 		"poster": "https://image.tmdb.org/t/p/w200/lT6BaTnPc9Q7oPyLfiBtC6fNyep.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
 		"videoid": "680b555216497058486d62",
@@ -2352,6 +2401,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 10
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 10
 			},
@@ -2366,10 +2419,6 @@
 			{
 				"filme": "Além da Escuridão - Star Trek",
 				"similaridade": 10
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 9
 			}
 		]
 	},
@@ -2662,6 +2711,52 @@
 		"receita": 0
 	},
 	{
+		"nome": "Megatubarão",
+		"duracao": "1:53:14",
+		"ano": 2018,
+		"score": 6.203,
+		"poster": "https://image.tmdb.org/t/p/w200/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rH79sB6Nkx4cMW3JzsUy7wK0rhX.jpg",
+		"videoid": "566f575c707c5d0368686a",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "150M",
+		"receita": "530.2M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 92
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 84
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 82
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 81
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 78
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 78
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 74
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 73
+			}
+		]
+	},
+	{
 		"nome": "Inocência Roubada",
 		"duracao": "1:38:03",
 		"ano": 2018,
@@ -2724,6 +2819,10 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 33
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 19
 			},
@@ -2745,10 +2844,6 @@
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 12
-			},
-			{
-				"filme": "Morbius",
 				"similaridade": 12
 			}
 		]
@@ -3033,7 +3128,7 @@
 		"nome": "O Castelo de Vidro",
 		"duracao": "2:06:57",
 		"ano": 2017,
-		"score": 7.1,
+		"score": 7.142,
 		"poster": "https://image.tmdb.org/t/p/w200/3loaEocXUyMkNSseh9ej0blZs0d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mIaR9Wno6FhBLCqoICe09PUFnYu.jpg",
 		"videoid": "636969504c50095c410a72",
@@ -3171,7 +3266,7 @@
 		"nome": "Baahubali 2: A Conclusão",
 		"duracao": "2:46:50",
 		"ano": 2017,
-		"score": 7.3,
+		"score": 7.326,
 		"poster": "https://image.tmdb.org/t/p/w200/icjp3nbL0X0rruQD8xVgiBkWNPN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
 		"videoid": "4c7e414902030d0f025203",
@@ -3401,7 +3496,7 @@
 		"nome": "O Tigre e o Dragão: A Espada do Destino",
 		"duracao": "1:40:28",
 		"ano": 2016,
-		"score": 6.1,
+		"score": 6.067,
 		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
 		"videoid": "4f550f0e494a574173506a",
@@ -3493,7 +3588,7 @@
 		"nome": "Baahubali: O Início",
 		"duracao": "2:18:04",
 		"ano": 2015,
-		"score": 7.6,
+		"score": 7.558,
 		"poster": "https://image.tmdb.org/t/p/w200/e0n2BL5jgDvOdHols6yWLfyCajq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xpu8enBAtOHo8KS5eGNONsC6GaS.jpg",
 		"videoid": "4378640d094c7f7349597e",
@@ -3622,7 +3717,7 @@
 				"similaridade": 52
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
+				"filme": "Megatubarão",
 				"similaridade": 47
 			}
 		]
@@ -3762,6 +3857,52 @@
 			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 36
+			}
+		]
+	},
+	{
+		"nome": "Alemão",
+		"duracao": "1:49:37",
+		"ano": 2014,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/5q9wVeY0uGvpwEc3Z7lnhnZdROt.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/asN5O4FagB6zhDj6YDamjEBjnP6.jpg",
+		"videoid": "636370500d5f0b530b7872",
+		"resolucaoArmazenada": "1920x776",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 3
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Matéria Noturna",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Descascado",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
 			}
 		]
 	},
@@ -4137,7 +4278,7 @@
 		"nome": "1911: A Revolução",
 		"duracao": "1:39:09",
 		"ano": 2011,
-		"score": 5.7,
+		"score": 5.72,
 		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
 		"videoid": "5c716b577e73560f764a4c",
@@ -4229,7 +4370,7 @@
 		"nome": "Karatê Kid",
 		"duracao": "2:20:02",
 		"ano": 2010,
-		"score": 6.492,
+		"score": 6.491,
 		"poster": "https://image.tmdb.org/t/p/w200/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wwkpQnhi1TXnB3YTZdHeeBpuHs4.jpg",
 		"videoid": "62587e02725e036161680f",
@@ -4413,7 +4554,7 @@
 		"nome": "O Reino Proibido",
 		"duracao": "1:44:27",
 		"ano": 2008,
-		"score": 6.6,
+		"score": 6.599,
 		"poster": "https://image.tmdb.org/t/p/w200/2rEzOeG6he952m7tyFe7tOyfoko.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
 		"videoid": "4273554b5f4f424c6b530b",
@@ -4551,7 +4692,7 @@
 		"nome": "A Morte do Superman",
 		"duracao": "1:17:42",
 		"ano": 2007,
-		"score": 6.7,
+		"score": 6.714,
 		"poster": "https://image.tmdb.org/t/p/w200/wcF16pLROx0MVxVqcCMX2SRmdv3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
 		"videoid": "5357564e0d620f577a6c62",
@@ -4710,6 +4851,10 @@
 				"similaridade": 29
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 27
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 25
 			},
@@ -4724,10 +4869,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 23
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 22
 			}
 		]
 	},
@@ -5149,7 +5290,7 @@
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
 		"ano": 2003,
-		"score": 6.1,
+		"score": 6.134,
 		"poster": "https://image.tmdb.org/t/p/w200/fVPZumNA50cSePKm56lEZ9G86f4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ctSHPoptLOGtg2tKgVWhz1eCNNi.jpg",
 		"videoid": "0f790b52584d5e08710258",
@@ -5228,11 +5369,11 @@
 				"similaridade": 24
 			},
 			{
-				"filme": "Duna",
+				"filme": "Megatubarão",
 				"similaridade": 23
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Duna",
 				"similaridade": 23
 			}
 		]
@@ -5471,7 +5612,7 @@
 		"nome": "Mar em Fúria",
 		"duracao": "2:09:50",
 		"ano": 2000,
-		"score": 6.403,
+		"score": 6.404,
 		"poster": "https://image.tmdb.org/t/p/w200/9R0CYorOmNfp17hnvO5zioT70D6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
 		"videoid": "16737974720d576c4e695c",
@@ -5479,6 +5620,10 @@
 		"orcamento": "120M",
 		"receita": "325.8M",
 		"similares": [
+			{
+				"filme": "Megatubarão",
+				"similaridade": 23
+			},
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 21
@@ -5506,10 +5651,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 15
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 14
 			}
 		]
 	},
@@ -5563,7 +5704,7 @@
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
 		"ano": 2000,
-		"score": 7.392,
+		"score": 7.393,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
 		"videoid": "5e5e6b7f50555d6a644c4c",
@@ -5756,6 +5897,10 @@
 		"receita": "164.6M",
 		"similares": [
 			{
+				"filme": "Megatubarão",
+				"similaridade": 48
+			},
+			{
 				"filme": "Do Fundo do Mar 2",
 				"similaridade": 42
 			},
@@ -5781,10 +5926,6 @@
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 24
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 24
 			}
 		]
@@ -6253,7 +6394,7 @@
 		"nome": "Perigo Para a Sociedade",
 		"duracao": "1:37:34",
 		"ano": 1993,
-		"score": 7.542,
+		"score": 7.545,
 		"poster": "https://image.tmdb.org/t/p/w200/7KkHiZMvEdEZq2qrQX3kzYA7Off.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7MCj7x7nVWDj28qi2O8VqvcLXDc.jpg",
 		"videoid": "0e0c630c43645f7a707654",
@@ -6299,7 +6440,7 @@
 		"nome": "Drácula de Bram Stoker",
 		"duracao": "2:07:23",
 		"ano": 1992,
-		"score": 7.432,
+		"score": 7.433,
 		"poster": "https://image.tmdb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
 		"videoid": "560f48080c554143095d54",
@@ -6577,7 +6718,7 @@
 		"ano": 1990,
 		"score": 6.2,
 		"poster": "https://image.tmdb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/lcLoZoIbTLdYiXjLE2l0ciS9Vdx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mpMC8HEUjnU0mMVlFsWTlFJeiq5.jpg",
 		"videoid": "5c77610f7e096264566c7a",
 		"resolucaoArmazenada": "1280x720",
 		"orcamento": "9.3M",
@@ -7403,7 +7544,7 @@
 		"nome": "Gandhi",
 		"duracao": "3:11:15",
 		"ano": 1982,
-		"score": 7.5,
+		"score": 7.536,
 		"poster": "https://image.tmdb.org/t/p/w200/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
 		"videoid": "7955630356724e0c4d436e",
@@ -7474,6 +7615,10 @@
 				"similaridade": 62
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 61
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 60
 			},
@@ -7483,10 +7628,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 53
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 53
 			}
 		]
@@ -7679,9 +7820,9 @@
 		"nome": "O Exorcista II: O Herege",
 		"duracao": "1:57:42",
 		"ano": 1977,
-		"score": 4.535,
+		"score": 4.5,
 		"poster": "https://image.tmdb.org/t/p/w200/2XASU2NnhnOTitNwSN9GmWVhlov.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/rJKoO5DhzDc40b5v4w5yj3gfU2x.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
 		"videoid": "5f645d56495f4174797862",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "14M",
@@ -7817,7 +7958,7 @@
 		"nome": "O Exorcista",
 		"duracao": "2:12:22",
 		"ano": 1973,
-		"score": 7.713,
+		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
 		"videoid": "42766f594d7479535e4c03",
@@ -8022,6 +8163,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 2
+			},
+			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 2
 			},
@@ -8035,10 +8180,6 @@
 			},
 			{
 				"filme": "Gladiador",
-				"similaridade": 2
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 2
 			}
 		]
@@ -8206,6 +8347,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 14
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
 			},
@@ -8220,10 +8365,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 10
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 9
 			}
 		]
 	},
@@ -8478,6 +8619,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Megatubarão",
+				"similaridade": 7
+			},
+			{
 				"filme": "Perfume - A História de um Assassino",
 				"similaridade": 7
 			},
@@ -8495,10 +8640,6 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 7
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
 				"similaridade": 7
 			}
 		]
@@ -8691,7 +8832,7 @@
 		"nome": "Casablanca",
 		"duracao": "1:42:37",
 		"ano": 1942,
-		"score": 8.168,
+		"score": 8.169,
 		"poster": "https://image.tmdb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
 		"videoid": "414a6954700a0203576e03",
