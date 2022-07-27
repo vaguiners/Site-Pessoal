@@ -1,5 +1,51 @@
 [
 	{
+		"nome": "Tudo é Possível",
+		"duracao": "1:38:15",
+		"ano": 2022,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uc427uPu7q12bT27IkhZ4aPPyjB.jpg",
+		"videoid": "6d64740c6d0b4f557f5a4c",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "10M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Live Is Life",
+				"similaridade": 2
+			},
+			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 2
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 2
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 2
+			}
+		]
+	},
+	{
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
@@ -196,6 +242,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -213,18 +271,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -426,6 +472,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -443,18 +501,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -530,23 +576,23 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -563,6 +609,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
 			{
 				"filme": "Sombra",
 				"similaridade": 1
@@ -581,18 +639,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -702,6 +748,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -719,18 +777,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1105,6 +1151,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1118,18 +1176,6 @@
 			},
 			{
 				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1146,6 +1192,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
 			{
 				"filme": "Sombra",
 				"similaridade": 1
@@ -1164,18 +1222,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1331,6 +1377,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1348,18 +1406,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1377,6 +1423,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1394,18 +1452,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1653,6 +1699,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1670,18 +1728,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1837,6 +1883,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1854,18 +1912,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1929,6 +1975,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1946,18 +2004,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -1975,6 +2021,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -1992,18 +2050,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -2697,16 +2743,62 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Tormento",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Poço",
+				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Tormento",
+		"duracao": "1:33:04",
+		"ano": 2021,
+		"score": 6.3,
+		"poster": "https://image.tmdb.org/t/p/w200/qdTIufUTn3846QxSRXWFrFZaWZ1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/13rIJeUSd6SU84U6WwaUmVL7UcU.jpg",
+		"videoid": "756b637e0b4e5a75025554",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 3
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 3
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
 			}
 		]
 	},
@@ -2895,6 +2987,98 @@
 		]
 	},
 	{
+		"nome": "Quando Chega a Calmaria",
+		"duracao": "1:35:47",
+		"ano": 2020,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rhvzXbS2YIlZ51HUIwpFitAfwPb.jpg",
+		"videoid": "56637d0e72735c09697348",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 3
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 3
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 2
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 2
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 2
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 2
+			}
+		]
+	},
+	{
+		"nome": "O Silêncio da Chuva",
+		"duracao": "1:36:22",
+		"ano": 2020,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jS4RiiYzOak0WbkLwF5UJg18NRt.jpg",
+		"videoid": "620c745d787508577f7376",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Sombra",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Homem de Toronto",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Medida Provisória",
 		"duracao": "1:41:41",
 		"ano": 2020,
@@ -3029,6 +3213,52 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 110
+			}
+		]
+	},
+	{
+		"nome": "Por Que Você Não Chora?",
+		"duracao": "1:45:39",
+		"ano": 2020,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/zNSHszBLb0fI1RcNPZw9YulKpzP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zdVxZaLBQskVtMUiHuvPTuAjsXf.jpg",
+		"videoid": "796b7969424f0d5c435748",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3316,6 +3546,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -3329,18 +3571,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -3404,6 +3634,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -3421,18 +3663,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -4022,15 +4252,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Tormento",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
 			}
 		]
@@ -4152,23 +4382,23 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -4185,6 +4415,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
 			{
 				"filme": "Sombra",
 				"similaridade": 1
@@ -4203,18 +4445,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -4290,6 +4520,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -4307,18 +4549,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -4942,6 +5172,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -4951,18 +5193,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -5030,6 +5260,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 1
 			},
@@ -5043,18 +5285,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -5648,11 +5878,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Tormento",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
