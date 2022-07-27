@@ -13,7 +13,7 @@ video {position:absolute;display:none;}
 input {color:#a19d9d;background:transparent;bottom:10;right:10;width:185px;position:absolute;display:none;pointer-events:none;border:0;}
 </style>
 <div id="OverlayDIV"><img width="200" height="300" id="posterOverlay"><div id="divDescricao"><img id="OverlayBackdrop">
-<fieldset><legend>Arquivo</legend>Resolu&ccedil;&atilde;o armazenada: <a id="resolucaoArmazenada">0x0</a>. (Transmite em 720p, 360 caso falhe) </fieldset>
+<fieldset><legend>Arquivo</legend>Resolu&ccedil;&atilde;o armazenada: <a id="resolucaoArmazenada">0x0</a>. (Transmite em 720p, 360p caso falhe) </fieldset>
 <br>
 <fieldset id="fieldsimilares"><legend>Similares</legend>
 <table id="TabelaDeSimilares"></table>
@@ -36,7 +36,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
 	document.write("<h1 style=text-align:center;width:100%;background-color:orange>Site infuncional em celulares</h1>");
 }
 
-//Vari·veis permanentes
+//Vari√°veis permanentes
 Tabela = document.getElementById("TabelaDeFilmes");
 fieldsimilares = document.getElementById("fieldsimilares");
 TabelaDeSimilares = document.getElementById("TabelaDeSimilares");
@@ -46,14 +46,14 @@ OverlayDIV = document.getElementById("OverlayDIV");
 divDescricao = document.getElementById("divDescricao");
 InputBusca = document.getElementById("InputBusca");
 resolucaoArmazenada = document.getElementById("resolucaoArmazenada");
-//Vari·veis mut·veis
+//Vari√°veis mut√°veis
 var SegurandoMouse = false;
 let oldValue = 0;
 
-//Obter json com o filmes e loopar em funÁ„o para adicionar filmes a tabela
+//Obter json com o filmes e loopar em fun√ß√£o para adicionar filmes a tabela
 fetch('filmes.json').then(response => response.json()).then(json => json.forEach(AdicionarFilme))
 
-//AdiÁ„o de filmes a tabela
+//Adi√ß√£o de filmes a tabela
 function AdicionarFilme(filme) {
 	var row = Tabela.insertRow();
 	var cell1 = row.insertCell();
@@ -77,11 +77,11 @@ function AdicionarFilme(filme) {
 		cell3.innerHTML = filme.score.toFixed(1);
 		cell3.style = "color:hsl("+filme.score.toFixed(1).replace(".", "")+", 70%, 30%);"
 	}
-	//Celula duraÁ„o
+	//Celula dura√ß√£o
 	cell4.innerHTML = filme.duracao;
 }
 
-//FunÁ„o de filtro de tabela por input
+//Fun√ß√£o de filtro de tabela por input
 function FiltrarTabela(filtro) {
 	var tr, td, i, txtValue;
 	tr = Tabela.getElementsByTagName("tr");
@@ -98,7 +98,7 @@ function FiltrarTabela(filtro) {
 	}
 }
 //Registrar eventos do mouse sobre o player, para poder mover o player
-//Atalhos: Scroll no player para dar zoom, click no bot„o do meio do mouse no player para fechar o player e descarregar o vÌdeo
+//Atalhos: Scroll no player para dar zoom, click no bot√£o do meio do mouse no player para fechar o player e descarregar o v√≠deo
 document.body.addEventListener('keypress', function(e) {
 	InputBusca.style.display = "block";
 	InputBusca.focus()
@@ -156,7 +156,7 @@ document.addEventListener('mousemove', function(event) {
 	}
 }, true);
 
-//Registro do evento para dar zoom no vÌdeo com scroll
+//Registro do evento para dar zoom no v√≠deo com scroll
 Player.addEventListener('wheel', function(evt) {
 	event.preventDefault();
 	if (evt.deltaY < 0) {
@@ -180,5 +180,5 @@ Tabela.addEventListener("click", function(event) {
 });
 </script>
 
-<! -- O site termina aqui. Abaixo disso È lixo adicionado pelo Cloudflare -->
+<! -- O site termina aqui. Abaixo disso √© lixo adicionado pelo Cloudflare -->
 
