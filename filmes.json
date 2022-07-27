@@ -78,15 +78,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 4
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 4
 			},
 			{
 				"filme": "A Maldição de Chucky",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Filho de Chucky",
 				"similaridade": 4
 			}
 		]
@@ -150,35 +150,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Presepada",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tati, a Garota",
+				"filme": "Intervenção",
 				"similaridade": 1
 			},
 			{
-				"filme": "Uma História de Amor e Fúria",
+				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -233,7 +233,7 @@
 		"nome": "A Fera do Mar",
 		"duracao": "1:59:26",
 		"ano": 2022,
-		"score": 7.635,
+		"score": 7.651,
 		"poster": "https://image.tmdb.org/t/p/w200/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
 		"videoid": "6d5e4f16570e770879034c",
@@ -243,35 +243,35 @@
 		"similares": [
 			{
 				"filme": "Megatubarão",
-				"similaridade": 7
+				"similaridade": 8
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 8
+			},
+			{
+				"filme": "Duna",
 				"similaridade": 7
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 6
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
 			},
 			{
 				"filme": "A Liga de Monstros",
 				"similaridade": 5
 			},
 			{
-				"filme": "Duna",
+				"filme": "Tenet",
 				"similaridade": 5
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mar em Fúria",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 4
 			}
 		]
 	},
@@ -300,6 +300,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 5
+			},
+			{
 				"filme": "A Babá",
 				"similaridade": 5
 			},
@@ -313,10 +317,6 @@
 			},
 			{
 				"filme": "Your Name.",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 5
 			}
 		]
@@ -410,6 +410,52 @@
 			{
 				"filme": "Morbius",
 				"similaridade": 83
+			}
+		]
+	},
+	{
+		"nome": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+		"duracao": "1:44:46",
+		"ano": 2022,
+		"score": 10,
+		"poster": "https://image.tmdb.org/t/p/w200/orXhDQCtC086ccqUdkwOwZqN0kQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/86v5da8IWk3w3cSfE71RhhQLnma.jpg",
+		"videoid": "64584a4e4f4a0f5a720c0b",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"similaridade": 3
+			},
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 2
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
 			}
 		]
 	},
@@ -994,6 +1040,52 @@
 		]
 	},
 	{
+		"nome": "Juntos e Enrolados",
+		"duracao": "1:34:51",
+		"ano": 2021,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eAbnORHyYIlAfqrZJywo0X5mzmP.jpg",
+		"videoid": "72640a6a6151627f4e7676",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Turma da Mônica: Lições",
 		"duracao": "1:30:47",
 		"ano": 2021,
@@ -1036,6 +1128,52 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 3
+			}
+		]
+	},
+	{
+		"nome": "Intervenção",
+		"duracao": "1:27:04",
+		"ano": 2021,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/h7BAdxykcXu702wpmKTYSnnr670.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gR2OfaUYgLF8s9lU15dYx9n1swf.jpg",
+		"videoid": "6a7e4f5878624169704303",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 5
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 3
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 3
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
 			}
 		]
 	},
@@ -1178,6 +1316,52 @@
 		]
 	},
 	{
+		"nome": "Hermanoteu na Terra de Godah: O Filme",
+		"duracao": "1:24:17",
+		"ano": 2021,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/nW62xAJYHcTMs1U7bgDNlZjDZMd.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cdMy5uTALhtByo5KQIPPrksBp6o.jpg",
+		"videoid": "73627f7049614e610d7654",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "O Mundo dos Esquecidos",
 		"duracao": "1:23:43",
 		"ano": 2021,
@@ -1219,6 +1403,52 @@
 			},
 			{
 				"filme": "O Quarto Secreto",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Galeria Futuro",
+		"duracao": "1:32:39",
+		"ano": 2021,
+		"score": 8.5,
+		"poster": "https://image.tmdb.org/t/p/w200/3dJsqGb8pQydRTvz8clV49BbErI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zyLj402ECiZMxxaH0cJiK29E1hp.jpg",
+		"videoid": "7c43565f0e4a436371035c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
+			},
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 2
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -1266,6 +1496,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 88
+			}
+		]
+	},
+	{
+		"nome": "Curupira - O Demônio da Floresta",
+		"duracao": "1:22:14",
+		"ano": 2021,
+		"score": 0,
+		"poster": "https://image.tmdb.org/t/p/w200/8mAyRqP88S4TRXBnVdePJrnckwg.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/umssQCa58NBDAnE8coVcCRaH8Ha.jpg",
+		"videoid": "716d4c745a037d55544f03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
 			}
 		]
 	},
@@ -1328,35 +1604,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Presepada",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tati, a Garota",
+				"filme": "Intervenção",
 				"similaridade": 1
 			},
 			{
-				"filme": "Uma História de Amor e Fúria",
+				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -1374,35 +1650,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Presepada",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
+				"filme": "Intervenção",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tati, a Garota",
+				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -1411,7 +1687,7 @@
 		"nome": "A Última Noite",
 		"duracao": "1:26:25",
 		"ano": 2021,
-		"score": 6.207,
+		"score": 6.211,
 		"poster": "https://image.tmdb.org/t/p/w200/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nJYAAOk74VjPlwz34jWFh8MPw2r.jpg",
 		"videoid": "7152626158437c7d7d4258",
@@ -1520,6 +1796,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Medida Provisória",
+				"similaridade": 4
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 4
 			},
@@ -1538,10 +1818,52 @@
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Concorrência Oficial",
+		"duracao": "1:54:36",
+		"ano": 2021,
+		"score": 6.904,
+		"poster": "https://image.tmdb.org/t/p/w200/fey5dXqHTc4SUJs96Hv1Li9ezpD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dprG5VW5JAbcGQlsXL74Dj7DRjy.jpg",
+		"videoid": "79627a62757e4a425f5748",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 4
 			},
 			{
-				"filme": "Morbius",
-				"similaridade": 4
+				"filme": "A Babá",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 3
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Viagem de Chihiro",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidade Perdida",
+				"similaridade": 2
 			}
 		]
 	},
@@ -1880,6 +2202,52 @@
 		]
 	},
 	{
+		"nome": "Curral",
+		"duracao": "1:25:59",
+		"ano": 2021,
+		"score": 7.9,
+		"poster": "https://image.tmdb.org/t/p/w200/8xMDCOwl6qE4Ypcy0HsMwalnEXU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/o8FbDroKseqCpO6XCW5h12LpTHQ.jpg",
+		"videoid": "0e4203544a095f5c7f7f62",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 3
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 2
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 2
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
 		"ano": 2021,
@@ -2060,6 +2428,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 98
+			}
+		]
+	},
+	{
+		"nome": "Medida Provisória",
+		"duracao": "1:41:41",
+		"ano": 2020,
+		"score": 7.29,
+		"poster": "https://image.tmdb.org/t/p/w200/oLfjccUqxsAG7pbCgs5rC6SEUWr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eojJnASqC2iuOPIH1S3PgsgEv0a.jpg",
+		"videoid": "597c41524c626e557e0b6e",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Intervenção",
+				"similaridade": 5
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 4
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 3
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 3
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 2
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2419,6 +2833,52 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 74
+			}
+		]
+	},
+	{
+		"nome": "Eduardo e Mônica",
+		"duracao": "2:00:03",
+		"ano": 2020,
+		"score": 7.9,
+		"poster": "https://image.tmdb.org/t/p/w200/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xGwH1MyfHGHPNrBbeEetM30rtpO.jpg",
+		"videoid": "55165f024376574d7c6c62",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "2M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Turma da Mônica: Lições",
+				"similaridade": 2
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2840,7 +3300,7 @@
 		"nome": "Caçada Selvagem",
 		"duracao": "1:28:06",
 		"ano": 2019,
-		"score": 5.503,
+		"score": 5.527,
 		"poster": "https://image.tmdb.org/t/p/w200/paclnjtBlAcEh1ddUbCbT1azPIc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
 		"videoid": "77587a7850097a4b7d4f6a",
@@ -2961,15 +3421,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Guerreiros da Virtude",
+				"similaridade": 2
+			},
+			{
 				"filme": "A Fúria do Dragão",
 				"similaridade": 2
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 2
-			},
-			{
-				"filme": "Operação Dragão",
 				"similaridade": 2
 			}
 		]
@@ -3033,35 +3493,35 @@
 		"receita": "4.4M",
 		"similares": [
 			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 3
+			},
+			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
 			},
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Presepada",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tati, a Garota",
+				"filme": "Intervenção",
 				"similaridade": 1
 			}
 		]
@@ -3079,35 +3539,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tati, a Garota",
+				"filme": "Intervenção",
 				"similaridade": 1
 			},
 			{
-				"filme": "Uma História de Amor e Fúria",
+				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -3167,6 +3627,52 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 73
+			}
+		]
+	},
+	{
+		"nome": "Talvez uma História de Amor",
+		"duracao": "1:41:22",
+		"ano": 2018,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/57iuK4nqiFX3vpZM5E8bJMPPKrT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tukMtTngL8RgmmjbZmibDGwT5Ra.jpg",
+		"videoid": "7361027d7455165a524c62",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 1
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3831,31 +4337,31 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "7 Prisioneiros",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			},
 			{
-				"filme": "A Presepada",
+				"filme": "Curral",
 				"similaridade": 1
 			},
 			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			},
 			{
-				"filme": "Alemão",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tati, a Garota",
+				"filme": "Intervenção",
 				"similaridade": 1
 			}
 		]
@@ -4275,6 +4781,52 @@
 		]
 	},
 	{
+		"nome": "Juntos e Misturados",
+		"duracao": "1:57:14",
+		"ano": 2014,
+		"score": 6.841,
+		"poster": "https://image.tmdb.org/t/p/w200/tD0UJtt237FAST3rD1htrGLBKAH.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hafgbeor4V3MIinoQNcvsRWQF6x.jpg",
+		"videoid": "786e6a7e4954415d0a0a58",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "40M",
+		"receita": "128M",
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 13
+			},
+			{
+				"filme": "Your Name.",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 13
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 12
+			}
+		]
+	},
+	{
 		"nome": "O Predestinado",
 		"duracao": "1:37:49",
 		"ano": 2014,
@@ -4333,6 +4885,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Intervenção",
+				"similaridade": 3
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 3
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 3
 			},
@@ -4345,23 +4905,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Cinema Novo",
+				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
 			{
-				"filme": "Bruna Louise: Demolição",
+				"filme": "Curupira - O Demônio da Floresta",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amarração do Amor",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Presepada",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			}
 		]
@@ -6617,6 +7169,52 @@
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 8
+			}
+		]
+	},
+	{
+		"nome": "Guerreiros da Virtude",
+		"duracao": "1:42:57",
+		"ano": 1997,
+		"score": 4.7,
+		"poster": "https://image.tmdb.org/t/p/w200/imOcpaBQsDmvB5NL72aFIH2OUHg.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oL31tu5qgxHY7KlAEJQ8xad5STo.jpg",
+		"videoid": "765a167e4a6d5670506c03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 6
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 5
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 5
 			}
 		]
 	},
