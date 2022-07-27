@@ -555,7 +555,7 @@
 		"nome": "Vai Dar Nada",
 		"duracao": "1:42:17",
 		"ano": 2022,
-		"score": 2,
+		"score": 1.5,
 		"poster": "https://image.tmdb.org/t/p/w200/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mVy5Brewa2XkiVuhWJd6QucpJFi.jpg",
 		"videoid": "7e747f6c61547d5f790e72",
@@ -640,52 +640,6 @@
 			{
 				"filme": "Tormento",
 				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "Doutor Estranho no Multiverso da Loucura",
-		"duracao": "2:06:32",
-		"ano": 2022,
-		"score": 7.5,
-		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
-		"videoid": "566a506b02636d037d4a7e",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "200M",
-		"receita": "953.2M",
-		"similares": [
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 142
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 141
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 135
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 131
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 103
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 100
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 95
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 85
 			}
 		]
 	},
@@ -1887,10 +1841,6 @@
 				"similaridade": 151
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 142
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -1913,6 +1863,10 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 97
 			}
 		]
 	},
@@ -2221,10 +2175,6 @@
 				"similaridade": 132
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 131
-			},
-			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 128
 			},
@@ -2235,6 +2185,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 104
 			}
 		]
 	},
@@ -2597,10 +2551,6 @@
 				"similaridade": 151
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 141
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -2614,6 +2564,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 110
+			},
+			{
+				"filme": "Duna",
 				"similaridade": 110
 			}
 		]
@@ -4424,10 +4378,6 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 6
-			},
-			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 5
 			},
@@ -4446,6 +4396,10 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4637,7 +4591,7 @@
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
-		"score": 7.2,
+		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
 		"videoid": "7075710b7d580e79164c72",
@@ -5552,15 +5506,15 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 19
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 15
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 13
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 13
 			}
 		]
@@ -5579,10 +5533,6 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 3
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 3
 			},
 			{
@@ -5607,6 +5557,10 @@
 			},
 			{
 				"filme": "Jogador N° 1",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -5661,7 +5615,7 @@
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
-		"score": 8.5,
+		"score": 8.4,
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
@@ -5755,7 +5709,7 @@
 		"ano": 2016,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/L4W5K5eDuXHizVPNWpqK7TONlz.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/7mNJ8ALmMBrA1yLaKzPbA3HLnvy.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wsD8nxCRrVyGLsBLQhVgtTdl6Kr.jpg",
 		"videoid": "630c5179705109576f4303",
 		"resolucaoArmazenada": "1920x808",
 		"orcamento": 0,
@@ -6949,7 +6903,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.4,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -7672,12 +7626,12 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 32
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 30
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 29
 			}
 		]
 	},
@@ -8158,10 +8112,6 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 24
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
 			},
@@ -8183,6 +8133,10 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
+				"similaridade": 17
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 17
 			}
 		]
@@ -8467,7 +8421,7 @@
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
-		"score": 6.6,
+		"score": 6.7,
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
@@ -10738,10 +10692,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 12
-			},
-			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			},
@@ -10759,6 +10709,10 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
+				"similaridade": 10
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
 				"similaridade": 10
 			}
 		]
@@ -11595,7 +11549,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.5,
+		"score": 8.6,
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "7756740a4e620e77556e6a",
