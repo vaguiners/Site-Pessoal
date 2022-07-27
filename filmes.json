@@ -288,6 +288,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -313,10 +317,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -518,6 +518,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -543,10 +547,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -622,6 +622,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -635,10 +639,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -655,6 +655,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
 			{
 				"filme": "Tormento",
 				"similaridade": 1
@@ -681,10 +685,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -794,6 +794,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -819,10 +823,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -1197,6 +1197,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -1219,10 +1223,6 @@
 			{
 				"filme": "Veneza",
 				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1238,6 +1238,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
 			{
 				"filme": "Tormento",
 				"similaridade": 1
@@ -1264,10 +1268,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -1423,6 +1423,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -1448,10 +1452,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -1469,6 +1469,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -1494,10 +1498,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -1745,6 +1745,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -1770,10 +1774,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -1929,6 +1929,52 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Transversais",
+		"duracao": "1:24:53",
+		"ano": 2021,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4SOT9FbmPna3z7ve8u9LgbF264p.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/vWw6fyU19CzlfSPAbq9gNHT0aZi.jpg",
+		"videoid": "7203635a587c68644a6154",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -2021,6 +2067,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -2046,10 +2096,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -2067,6 +2113,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -2092,10 +2142,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -2576,7 +2622,7 @@
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
-		"score": 6,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
 		"videoid": "4e7016035503625c79757a",
@@ -2789,15 +2835,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
 			}
 		]
@@ -3107,6 +3153,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -3116,10 +3166,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem de Toronto",
 				"similaridade": 1
 			}
 		]
@@ -3275,6 +3321,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -3300,10 +3350,6 @@
 			},
 			{
 				"filme": "Tô Ryca!",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -3592,6 +3638,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -3613,10 +3663,6 @@
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -3680,6 +3726,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -3705,10 +3755,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -4298,15 +4344,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Sol de Amalfi",
 				"similaridade": 1
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -4428,6 +4474,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -4441,10 +4491,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -4461,6 +4507,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
 			{
 				"filme": "Tormento",
 				"similaridade": 1
@@ -4487,10 +4537,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -4566,6 +4612,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -4591,10 +4641,6 @@
 			},
 			{
 				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -5218,6 +5264,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -5235,10 +5285,6 @@
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -5306,6 +5352,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
@@ -5327,10 +5377,6 @@
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -5924,11 +5970,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Tormento",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Silêncio da Chuva",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
