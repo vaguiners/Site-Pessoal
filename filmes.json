@@ -288,6 +288,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -305,18 +317,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -346,6 +346,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 6
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 6
 			},
@@ -359,10 +363,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 6
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 6
 			}
 		]
@@ -518,6 +518,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -536,33 +548,29 @@
 			{
 				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
 			}
 		]
 	},
 	{
-		"nome": "Meteoros",
-		"duracao": "1:28:20",
+		"nome": "Vai Dar Nada",
+		"duracao": "1:42:17",
 		"ano": 2022,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
-		"videoid": "755a535e0a16027f0f7254",
+		"score": 2,
+		"poster": "https://image.tmdb.org/t/p/w200/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mVy5Brewa2XkiVuhWJd6QucpJFi.jpg",
+		"videoid": "7e747f6c61547d5f790e72",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
 			{
 				"filme": "Vale Night",
 				"similaridade": 1
@@ -586,13 +594,51 @@
 			{
 				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
-			},
+			}
+		]
+	},
+	{
+		"nome": "Meteoros",
+		"duracao": "1:28:20",
+		"ano": 2022,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
+		"videoid": "755a535e0a16027f0f7254",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -668,23 +714,23 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Pai da Rita",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -702,6 +748,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -719,18 +777,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -840,6 +886,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -857,18 +915,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -917,6 +963,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
@@ -934,18 +992,6 @@
 			},
 			{
 				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Poço",
 				"similaridade": 1
 			}
 		]
@@ -1289,6 +1335,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -1302,18 +1360,6 @@
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
 				"similaridade": 1
 			}
 		]
@@ -1331,6 +1377,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -1348,18 +1406,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -1515,6 +1561,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -1532,18 +1590,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -1561,6 +1607,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -1578,18 +1636,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -1733,6 +1779,52 @@
 		]
 	},
 	{
+		"nome": "Porta dos Fundos: Te Prego Lá Fora",
+		"duracao": "31:24",
+		"ano": 2021,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/k06TIjqtbwplF2Q0EIHT229qUvC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cbwyxMrZhbUwdzPmc5hxa7TPvLP.jpg",
+		"videoid": "75647275646a636b020b6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "A Liga de Monstros",
 		"duracao": "1:35:50",
 		"ano": 2021,
@@ -1837,6 +1929,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -1854,18 +1958,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -2021,6 +2113,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -2039,18 +2143,6 @@
 			{
 				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2066,6 +2158,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
 			{
 				"filme": "Vale Night",
 				"similaridade": 1
@@ -2084,18 +2188,6 @@
 			},
 			{
 				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -2159,6 +2251,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -2176,18 +2280,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -2205,6 +2297,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -2222,18 +2326,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -2927,15 +3019,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Vale Night",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Pai da Rita",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Transversais",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -3245,19 +3337,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Pai da Rita",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -3413,6 +3505,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -3430,18 +3534,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -3730,6 +3822,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -3743,18 +3847,6 @@
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
 				"similaridade": 1
 			}
 		]
@@ -3818,6 +3910,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -3835,18 +3939,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -4358,6 +4450,52 @@
 		]
 	},
 	{
+		"nome": "Sonho de Rui",
+		"duracao": "1:18:31",
+		"ano": 2019,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/1ryOQV8LNbiXC3itIeIsotW57lU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9nhcZc8eWGjVfoJWECvTapWDvpv.jpg",
+		"videoid": "5d53615f7a555e7f7c4b6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "20K",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Cemitério Maldito",
 		"duracao": "1:40:50",
 		"ano": 2019,
@@ -4436,15 +4574,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Vale Night",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Pai da Rita",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Transversais",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -4566,23 +4704,23 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Pai da Rita",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -4600,6 +4738,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -4617,18 +4767,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -4704,6 +4842,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -4721,18 +4871,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -5356,6 +5494,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -5365,18 +5515,6 @@
 			},
 			{
 				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
 			}
 		]
@@ -5444,6 +5582,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
 				"filme": "Vale Night",
 				"similaridade": 1
 			},
@@ -5457,18 +5607,6 @@
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
 				"similaridade": 1
 			}
 		]
@@ -6062,11 +6200,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Vale Night",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Pai da Rita",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -6196,15 +6334,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 3
+			},
+			{
 				"filme": "Operação Dragão",
 				"similaridade": 3
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 3
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 3
 			}
 		]
@@ -7172,6 +7310,52 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 30
+			}
+		]
+	},
+	{
+		"nome": "DOA: Vivo ou Morto",
+		"duracao": "1:26:11",
+		"ano": 2006,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
+		"videoid": "0362746f7d5e7e5c736103",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "21M",
+		"receita": "7.6M",
+		"similares": [
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 26
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 26
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 23
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 22
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 22
 			}
 		]
 	},
