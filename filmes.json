@@ -116,6 +116,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 1
+			},
+			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 1
 			},
@@ -129,10 +133,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça: A Nova Fronteira",
 				"similaridade": 1
 			}
 		]
@@ -150,35 +150,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -368,6 +368,52 @@
 		]
 	},
 	{
+		"nome": "Meteoros",
+		"duracao": "1:28:20",
+		"ano": 2022,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
+		"videoid": "755a535e0a16027f0f7254",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
@@ -434,6 +480,64 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Luccas Neto em: O Plano dos Vilões",
+		"duracao": "1:40:42",
+		"ano": 2022,
+		"score": 5.1,
+		"poster": "https://image.tmdb.org/t/p/w200/p4ck2CY4r01FXkOXz4TwJcaSiPf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qMlyVqS1cWQtMviZNFwmvfSYEtT.jpg",
+		"videoid": "5d4b5362084e566b0e5a76",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
@@ -443,18 +547,6 @@
 			},
 			{
 				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
 				"similaridade": 1
 			}
 		]
@@ -472,35 +564,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -610,35 +702,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Inverno",
 				"similaridade": 1
 			},
 			{
 				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -994,6 +1086,52 @@
 		]
 	},
 	{
+		"nome": "Júpiter",
+		"duracao": "1:37:40",
+		"ano": 2022,
+		"score": 7.7,
+		"poster": "https://image.tmdb.org/t/p/w200/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/a57BWjLTFJu8k2bHcHjdvOGHgl6.jpg",
+		"videoid": "0b5609574e5d0f6d54165c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Fantasmas do Passado",
 		"duracao": "1:39:11",
 		"ano": 2022,
@@ -1144,35 +1282,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -1190,35 +1328,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -1298,6 +1436,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 2
+			},
+			{
 				"filme": "Curral",
 				"similaridade": 2
 			},
@@ -1306,11 +1448,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
+				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -1466,35 +1604,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -1546,6 +1684,52 @@
 		]
 	},
 	{
+		"nome": "Amor Sem Medida",
+		"duracao": "1:34:41",
+		"ano": 2021,
+		"score": 6.216,
+		"poster": "https://image.tmdb.org/t/p/w200/glFwaNYHhzUa1pao25O2o2aFkxj.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4umFE9i6Iflfd5ngHBKCwORVJC6.jpg",
+		"videoid": "6964750a5c02784d0c797a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 4
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 3
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 3
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 3
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 3
+			}
+		]
+	},
+	{
 		"nome": "Galeria Futuro",
 		"duracao": "1:32:39",
 		"ano": 2021,
@@ -1574,19 +1758,19 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
+				"filme": "Meteoros",
 				"similaridade": 1
 			},
 			{
-				"filme": "Inverno",
+				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			},
 			{
-				"filme": "Eu Acredito em Conto de Fadas",
+				"filme": "Júpiter",
 				"similaridade": 1
 			},
 			{
-				"filme": "Curupira - O Demônio da Floresta",
+				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1638,6 +1822,52 @@
 		]
 	},
 	{
+		"nome": "Lacuna",
+		"duracao": "1:31:22",
+		"ano": 2021,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/qe1sB6fYCieSbWaSEa7ijf4oAp1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6DjFG6nml5Hvz36inBYZkTDeRyx.jpg",
+		"videoid": "42596f597a414f6274746a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Casa do Espanto 4 - Decisão para a Loucura",
+				"similaridade": 4
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 3
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 3
+			},
+			{
+				"filme": "Guerreiros da Virtude",
+				"similaridade": 2
+			}
+		]
+	},
+	{
 		"nome": "Curupira - O Demônio da Floresta",
 		"duracao": "1:22:14",
 		"ano": 2021,
@@ -1650,35 +1880,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -1742,35 +1972,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -1788,35 +2018,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -1908,7 +2138,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Entre Irmãos",
+				"filme": "O Quinto Elemento",
 				"similaridade": 1
 			}
 		]
@@ -2156,6 +2386,144 @@
 		]
 	},
 	{
+		"nome": "O Marinheiro das Montanhas",
+		"duracao": "1:38:06",
+		"ano": 2021,
+		"score": 7.313,
+		"poster": "https://image.tmdb.org/t/p/w200/yiugwRIPkUEbxKKknrkp35LlcCu.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/442zG0AO6FIfrsFVM6BJNPI9NCv.jpg",
+		"videoid": "796a6e6253097c686e4c7a",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			{
+				"filme": "Primitivo",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Exorcista II: O Herege",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Mark, Mary + Some Other People",
+		"duracao": "1:29:20",
+		"ano": 2021,
+		"score": 5.611,
+		"poster": "https://image.tmdb.org/t/p/w200/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zzA2aO9U9JAWc5gUtdsR0VmW8Bn.jpg",
+		"videoid": "71430c77716a7450480858",
+		"resolucaoArmazenada": "1904x784",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "Infiltrado",
+				"similaridade": 1
+			},
+			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 1
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Live Is Life",
+		"duracao": "1:50:09",
+		"ano": 2021,
+		"score": 6.825,
+		"poster": "https://image.tmdb.org/t/p/w200/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9FFz0ZYuNmBmKQBaZ5ibSqGvnI3.jpg",
+		"videoid": "4269484d5d74545d5d7c0b",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 8
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 8
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 7
+			}
+		]
+	},
+	{
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
@@ -2368,19 +2736,19 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
+				"filme": "Meteoros",
 				"similaridade": 1
 			},
 			{
-				"filme": "Inverno",
+				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			},
 			{
-				"filme": "Eu Acredito em Conto de Fadas",
+				"filme": "Júpiter",
 				"similaridade": 1
 			},
 			{
-				"filme": "Galeria Futuro",
+				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -2602,15 +2970,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 2
+			},
+			{
 				"filme": "Curral",
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
+				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -2991,31 +3359,31 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
 				"similaridade": 1
 			}
 		]
@@ -3067,6 +3435,52 @@
 		]
 	},
 	{
+		"nome": "Meu Nome é Bagdá",
+		"duracao": "1:39:14",
+		"ano": 2020,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/fRAPoeG3di2WKBlwNipPruNrSZS.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/yVe9aaQAnZDxRRe3tNQHDQjVGbX.jpg",
+		"videoid": "4e7e7d5973555959714e6e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "The Forty-Year-Old Version",
 		"duracao": "2:04:15",
 		"ano": 2020,
@@ -3087,6 +3501,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 2
+			},
+			{
 				"filme": "Perfume de Mulher",
 				"similaridade": 2
 			},
@@ -3104,10 +3522,6 @@
 			},
 			{
 				"filme": "A Garota dos Meus Sonhos",
-				"similaridade": 2
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 2
 			}
 		]
@@ -3459,6 +3873,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 5
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 5
 			},
@@ -3473,10 +3891,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
-			},
-			{
-				"filme": "Jolt: Fúria Fatal",
-				"similaridade": 4
 			}
 		]
 	},
@@ -3639,27 +4053,27 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
+				"filme": "Meteoros",
 				"similaridade": 1
 			},
 			{
-				"filme": "Inverno",
+				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			},
 			{
-				"filme": "Eu Acredito em Conto de Fadas",
+				"filme": "Júpiter",
 				"similaridade": 1
 			},
 			{
-				"filme": "Galeria Futuro",
+				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			},
 			{
-				"filme": "Curupira - O Demônio da Floresta",
+				"filme": "Lacuna",
 				"similaridade": 1
 			},
 			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -3677,35 +4091,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -3781,35 +4195,35 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
 				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -3965,10 +4379,6 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Totem",
-				"similaridade": 36
-			},
-			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 12
 			},
@@ -3995,52 +4405,10 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
-			}
-		]
-	},
-	{
-		"nome": "Totem",
-		"duracao": "1:30:19",
-		"ano": 2017,
-		"score": 5.2,
-		"poster": "https://image.tmdb.org/t/p/w200/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/88AMo7QXZxQ2Zt4BsTeUiGiQ8jh.jpg",
-		"videoid": "086c736116684c52746262",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Totem",
-				"similaridade": 36
 			},
 			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 12
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 9
-			},
-			{
-				"filme": "O Espelho",
-				"similaridade": 9
-			},
-			{
-				"filme": "No Fim do Túnel",
-				"similaridade": 8
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 8
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 8
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 7
 			}
 		]
 	},
@@ -4521,31 +4889,31 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
 				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
 				"similaridade": 1
 			}
 		]
@@ -4721,15 +5089,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Última Noite",
 				"similaridade": 1
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cemitério Maldito",
 				"similaridade": 1
 			}
 		]
@@ -5081,6 +5449,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 2
+			},
+			{
 				"filme": "7 Prisioneiros",
 				"similaridade": 2
 			},
@@ -5089,15 +5461,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Farofa da GKay: O Documentário",
+				"filme": "Meteoros",
 				"similaridade": 1
 			},
 			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
+				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -6423,15 +6791,15 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 7
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 7
 			},
 			{
 				"filme": "Efeito Borboleta",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Poderoso Chefão",
 				"similaridade": 7
 			}
 		]
@@ -7357,6 +7725,52 @@
 		]
 	},
 	{
+		"nome": "O Quinto Elemento",
+		"duracao": "2:06:04",
+		"ano": 1997,
+		"score": 7.512,
+		"poster": "https://image.tmdb.org/t/p/w200/kjWYd2qziS18BPQs85xE6Lb3H09.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+		"videoid": "4c7d4d795a530e416f5c50",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "90M",
+		"receita": "263.9M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 65
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 56
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 55
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 51
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 50
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 50
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 49
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 46
+			}
+		]
+	},
+	{
 		"nome": "Guerreiros da Virtude",
 		"duracao": "1:42:57",
 		"ano": 1997,
@@ -7431,6 +7845,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 12
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 12
 			},
@@ -7440,10 +7858,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 12
 			}
 		]
@@ -8409,7 +8823,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Mar em Fúria",
+				"filme": "O Quinto Elemento",
 				"similaridade": 9
 			}
 		]
@@ -9543,6 +9957,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Lacuna",
+				"similaridade": 2
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 2
 			},
@@ -9556,10 +9974,6 @@
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 2
-			},
-			{
-				"filme": "Gladiador",
 				"similaridade": 2
 			}
 		]
@@ -9743,7 +10157,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Bat 21: Missão no Inferno",
+				"filme": "O Quinto Elemento",
 				"similaridade": 10
 			}
 		]
