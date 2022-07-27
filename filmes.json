@@ -46,6 +46,52 @@
 		]
 	},
 	{
+		"nome": "O Homem de Toronto",
+		"duracao": "1:52:04",
+		"ano": 2022,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iOFBH9KtjKMntbP2kheeOpMQTcC.jpg",
+		"videoid": "5f686c55687071614e7558",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 9
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 9
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 8
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 7
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 7
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 7
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 7
+			}
+		]
+	},
+	{
 		"nome": "Rise",
 		"duracao": "1:51:19",
 		"ano": 2022,
@@ -70,6 +116,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Sombra",
+				"similaridade": 5
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 5
 			},
@@ -83,10 +133,6 @@
 			},
 			{
 				"filme": "Juntos e Misturados",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mente Criminosa",
 				"similaridade": 4
 			}
 		]
@@ -116,6 +162,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Homem de Toronto",
+				"similaridade": 1
+			},
+			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
 			},
@@ -129,10 +179,6 @@
 			},
 			{
 				"filme": "O Predestinado",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 1
 			}
 		]
@@ -150,6 +196,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -158,27 +220,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -380,6 +426,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -388,27 +450,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
 				"similaridade": 1
 			}
 		]
@@ -476,8 +522,24 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Sombra",
+				"similaridade": 2
+			},
+			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
+			},
+			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
 			},
 			{
 				"filme": "Veneza",
@@ -485,22 +547,6 @@
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -518,6 +564,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -526,27 +588,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
 				"similaridade": 1
 			}
 		]
@@ -564,6 +610,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -572,27 +634,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -702,6 +748,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -710,27 +772,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1089,17 +1135,33 @@
 		]
 	},
 	{
-		"nome": "Júpiter",
-		"duracao": "1:37:40",
+		"nome": "Tô Ryca 2",
+		"duracao": "1:41:37",
 		"ano": 2022,
-		"score": 7.1,
-		"poster": "https://image.tmdb.org/t/p/w200/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/a57BWjLTFJu8k2bHcHjdvOGHgl6.jpg",
-		"videoid": "0b5609574e5d0f6d54165c",
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/84GIm1NIcIxCrPuoLlsaQzZFVH3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/SqXE7ZZk4m9jeYVGtJ5CDjSkSu.jpg",
+		"videoid": "5102516b7d6b6b0f5a4a7e",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 2
+			},
+			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
 			{
 				"filme": "Veneza",
 				"similaridade": 1
@@ -1115,21 +1177,51 @@
 			{
 				"filme": "Cabra Marcado Para Morrer",
 				"similaridade": 1
-			},
+			}
+		]
+	},
+	{
+		"nome": "Júpiter",
+		"duracao": "1:37:40",
+		"ano": 2022,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/a57BWjLTFJu8k2bHcHjdvOGHgl6.jpg",
+		"videoid": "0b5609574e5d0f6d54165c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
 			{
-				"filme": "Meteoros",
+				"filme": "Os Under-Undergrounds, O Começo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Sombra",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amor Sem Medida",
+				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			},
 			{
-				"filme": "Lacuna",
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			}
 		]
@@ -1285,6 +1377,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -1293,27 +1401,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1331,6 +1423,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -1339,27 +1447,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1439,6 +1531,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 2
+			},
+			{
 				"filme": "Amor Sem Medida",
 				"similaridade": 2
 			},
@@ -1449,10 +1545,6 @@
 			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1607,6 +1699,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -1615,27 +1723,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1761,19 +1853,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Poço",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			}
 		]
@@ -1883,6 +1975,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -1891,27 +1999,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1975,6 +2067,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -1983,27 +2091,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -2021,6 +2113,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -2029,28 +2137,58 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Sombra",
+		"duracao": "1:55:47",
+		"ano": 2021,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/mD3dU2f0InjpfIgmlXvtNRPtYrV.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/e2bJODujTdQSP315rWWAenI68pY.jpg",
+		"videoid": "765e7d4e737f525553695c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 8
 			},
 			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 8
 			},
 			{
-				"filme": "Meteoros",
-				"similaridade": 1
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 7
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
+				"filme": "A Casa do Espanto",
+				"similaridade": 7
 			},
 			{
-				"filme": "Júpiter",
-				"similaridade": 1
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
 			},
 			{
-				"filme": "Amor Sem Medida",
-				"similaridade": 1
+				"filme": "O Filho de Chucky",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 6
 			}
 		]
 	},
@@ -2141,7 +2279,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sem Dor, Sem Ganho",
+				"filme": "Sombra",
 				"similaridade": 1
 			}
 		]
@@ -2677,6 +2815,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Auto da Compadecida",
 				"similaridade": 3
 			},
@@ -2693,19 +2835,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Poço",
+				"filme": "Os Under-Undergrounds, O Começo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sombra",
 				"similaridade": 1
 			},
 			{
-				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -2927,16 +3065,16 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 2
+			},
+			{
 				"filme": "Amor Sem Medida",
 				"similaridade": 2
 			},
 			{
 				"filme": "Curral",
 				"similaridade": 2
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
 			}
 		]
 	},
@@ -3208,6 +3346,52 @@
 		]
 	},
 	{
+		"nome": "Os Under-Undergrounds, O Começo",
+		"duracao": "1:48:01",
+		"ano": 2020,
+		"score": 8.1,
+		"poster": "https://image.tmdb.org/t/p/w200/69OXF3xeC6jVbnlLpOl31vofJxY.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hdHMfzDAvidtZrqTkX94yNPQ7x.jpg",
+		"videoid": "16596102610c6b7e6a6850",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Do Fundo do Mar 3",
 		"duracao": "1:40:11",
 		"ano": 2020,
@@ -3316,6 +3500,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -3324,23 +3524,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
+				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -3404,6 +3588,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -3412,27 +3612,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -3990,6 +4174,52 @@
 		]
 	},
 	{
+		"nome": "Estou Me Guardando para Quando o Carnaval Chegar",
+		"duracao": "1:25:50",
+		"ano": 2019,
+		"score": 7.9,
+		"poster": "https://image.tmdb.org/t/p/w200/dP61HG05313kVMKQmHZ2yz5GZjw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eJA0ys20cUIDqAJTImJO1ZS087.jpg",
+		"videoid": "71754d7d7c754f5f636c72",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Curral",
+				"similaridade": 4
+			},
+			{
+				"filme": "Intervenção",
+				"similaridade": 2
+			},
+			{
+				"filme": "Medida Provisória",
+				"similaridade": 2
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
+			},
+			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Contos do Caçador de Sombras",
 		"duracao": "1:48:53",
 		"ano": 2019,
@@ -4098,8 +4328,24 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Sombra",
+				"similaridade": 2
+			},
+			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
+			},
+			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
 			},
 			{
 				"filme": "Veneza",
@@ -4107,22 +4353,6 @@
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
 			}
 		]
@@ -4140,6 +4370,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -4148,27 +4394,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -4244,6 +4474,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -4252,27 +4498,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -4444,19 +4674,19 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Os Under-Undergrounds, O Começo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Sombra",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -4922,6 +5152,52 @@
 		]
 	},
 	{
+		"nome": "Tô Ryca!",
+		"duracao": "1:47:50",
+		"ano": 2016,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/5Ax5jZ5UV8nmHflSv6XGAxDi4xn.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/q4WJsRBqgfnYzEv3HLLYJrL5Lyd.jpg",
+		"videoid": "6841507068717968640f72",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
@@ -4984,6 +5260,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -4992,23 +5284,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
+				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -5602,11 +5878,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Os Under-Undergrounds, O Começo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Piripkura",
+				"filme": "Sombra",
 				"similaridade": 1
 			}
 		]
@@ -6130,6 +6406,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Os Under-Undergrounds, O Começo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Veneza",
 				"similaridade": 1
 			},
@@ -6138,27 +6430,11 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
 				"similaridade": 1
 			}
 		]
@@ -9416,15 +9692,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Os Under-Undergrounds, O Começo",
 				"similaridade": 1
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Sombra",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -10236,6 +10512,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Sombra",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Poço",
 				"similaridade": 2
 			},
@@ -10249,10 +10529,6 @@
 			},
 			{
 				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 2
-			},
-			{
-				"filme": "Cemitério Maldito",
 				"similaridade": 2
 			}
 		]
