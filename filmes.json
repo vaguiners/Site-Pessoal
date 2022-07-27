@@ -150,6 +150,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -167,18 +179,6 @@
 			},
 			{
 				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -371,7 +371,7 @@
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.512,
+		"score": 7.513,
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -434,6 +434,52 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Inverno",
+		"duracao": "1:09:57",
+		"ano": 2022,
+		"score": 4,
+		"poster": "https://image.tmdb.org/t/p/w200/sXtEMHqIJ1CQ1EagoPofA2KUpek.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2t8ASZMNh6Nbnk3ajS0VeNaRwJZ.jpg",
+		"videoid": "570d4c4a614e4e5e16494c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -454,7 +500,7 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Intervenção",
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -463,7 +509,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.221,
+		"score": 7.22,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -509,7 +555,7 @@
 		"nome": "Morbius",
 		"duracao": "1:44:10",
 		"ano": 2022,
-		"score": 6.449,
+		"score": 6.448,
 		"poster": "https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
 		"videoid": "085c52026e696b777c744c",
@@ -548,6 +594,52 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 84
+			}
+		]
+	},
+	{
+		"nome": "Farofa da GKay: O Documentário",
+		"duracao": "58:48",
+		"ano": 2022,
+		"score": 0,
+		"poster": "https://image.tmdb.org/t/p/w200/vXJIFS0aUE07M9lHRJr31Ngty1A.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iQpkvHCLupvsmB4StheP5nAEgb6.jpg",
+		"videoid": "7279725f6e5179495c5c0f",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
 			}
 		]
 	},
@@ -767,7 +859,7 @@
 		"nome": "Agente das Sombras",
 		"duracao": "1:44:54",
 		"ano": 2022,
-		"score": 6.306,
+		"score": 6.305,
 		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
 		"videoid": "636d5e77720c41570f7f72",
@@ -813,7 +905,7 @@
 		"nome": "Uncharted: Fora do Mapa",
 		"duracao": "1:55:57",
 		"ano": 2022,
-		"score": 7.141,
+		"score": 7.142,
 		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
 		"videoid": "755d78720a7851530c7d72",
@@ -1040,6 +1132,52 @@
 		]
 	},
 	{
+		"nome": "Eu Acredito em Conto de Fadas",
+		"duracao": "1:00:25",
+		"ano": 2022,
+		"score": 0,
+		"poster": "https://image.tmdb.org/t/p/w200/3lI4fjY5AuOIvkjem5rNXAN6zc3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jeK0quJOnw91GsSuvpDChouyxMc.jpg",
+		"videoid": "4d56525d42737264034a6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Galeria Futuro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curupira - O Demônio da Floresta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"similaridade": 1
+			},
+			{
+				"filme": "Curral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Enrolados",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Juntos e Enrolados",
 		"duracao": "1:34:51",
 		"ano": 2021,
@@ -1051,6 +1189,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
 			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
@@ -1069,18 +1219,6 @@
 			},
 			{
 				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
-				"similaridade": 1
-			},
-			{
-				"filme": "Talvez uma História de Amor",
 				"similaridade": 1
 			}
 		]
@@ -1168,11 +1306,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Galeria Futuro",
+				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
-				"filme": "Curupira - O Demônio da Floresta",
+				"filme": "Inverno",
 				"similaridade": 1
 			}
 		]
@@ -1328,6 +1466,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -1345,18 +1495,6 @@
 			},
 			{
 				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
-				"similaridade": 1
-			},
-			{
-				"filme": "Talvez uma História de Amor",
 				"similaridade": 1
 			}
 		]
@@ -1436,19 +1574,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -1512,6 +1650,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -1530,18 +1680,6 @@
 			{
 				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
-				"similaridade": 1
-			},
-			{
-				"filme": "Talvez uma História de Amor",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1549,7 +1687,7 @@
 		"nome": "Eternos",
 		"duracao": "2:35:51",
 		"ano": 2021,
-		"score": 7.087,
+		"score": 7.086,
 		"poster": "https://image.tmdb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
 		"videoid": "02530f0859746c6e68587a",
@@ -1604,6 +1742,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -1621,18 +1771,6 @@
 			},
 			{
 				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -1650,6 +1788,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -1667,18 +1817,6 @@
 			},
 			{
 				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -1929,7 +2067,7 @@
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
 		"duracao": "2:12:21",
 		"ano": 2021,
-		"score": 7.675,
+		"score": 7.676,
 		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
 		"videoid": "530963557a727e76746e48",
@@ -2230,19 +2368,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curupira - O Demônio da Floresta",
-				"similaridade": 1
-			},
-			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
 				"similaridade": 1
 			}
 		]
@@ -2468,11 +2606,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Galeria Futuro",
+				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
-				"filme": "Curupira - O Demônio da Floresta",
+				"filme": "Inverno",
 				"similaridade": 1
 			}
 		]
@@ -2794,7 +2932,7 @@
 		"nome": "Fúria Incontrolável",
 		"duracao": "1:30:15",
 		"ano": 2020,
-		"score": 6.4,
+		"score": 6.437,
 		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
 		"videoid": "751603485c7c5f4c7d746e",
@@ -2853,6 +2991,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -2866,18 +3016,6 @@
 			},
 			{
 				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
 				"similaridade": 1
 			}
 		]
@@ -3163,7 +3301,7 @@
 		"duracao": "1:47:36",
 		"ano": 2019,
 		"score": 5.4,
-		"poster": "https://image.tmdb.org/t/p/w200/1iKMpfASZEYvraBbVSlCkrg6qco.jpg",
+		"poster": "https://image.tmdb.org/t/p/w200/peOmxRTPfGTRJx8NgAaAnLkiaLM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yi6lKRgQT7FDHE706PE7MxN5CDA.jpg",
 		"videoid": "537e43437f166457414b0f",
 		"resolucaoArmazenada": "1904x1072",
@@ -3254,7 +3392,7 @@
 		"nome": "Turma da Mônica: Laços",
 		"duracao": "1:36:43",
 		"ano": 2019,
-		"score": 7.6,
+		"score": 7.611,
 		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
 		"videoid": "094c0e4a6153610c025f48",
@@ -3501,6 +3639,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -3510,18 +3660,6 @@
 			},
 			{
 				"filme": "Hermanoteu na Terra de Godah: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
 				"similaridade": 1
 			}
 		]
@@ -3539,6 +3677,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -3556,18 +3706,6 @@
 			},
 			{
 				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -3643,6 +3781,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -3660,18 +3810,6 @@
 			},
 			{
 				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
-				"similaridade": 1
-			},
-			{
-				"filme": "Medida Provisória",
 				"similaridade": 1
 			}
 		]
@@ -3827,6 +3965,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Totem",
+				"similaridade": 36
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 12
 			},
@@ -3853,10 +3995,52 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
+			}
+		]
+	},
+	{
+		"nome": "Totem",
+		"duracao": "1:30:19",
+		"ano": 2017,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/88AMo7QXZxQ2Zt4BsTeUiGiQ8jh.jpg",
+		"videoid": "086c736116684c52746262",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Totem",
+				"similaridade": 36
 			},
 			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 7
+				"filme": "Cemitério Maldito",
+				"similaridade": 12
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 9
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 8
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 8
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
 			}
 		]
 	},
@@ -4140,7 +4324,7 @@
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
 		"ano": 2017,
-		"score": 7.2,
+		"score": 7.245,
 		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
 		"videoid": "5f70735716416f436f5d4c",
@@ -4337,6 +4521,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
+			},
+			{
+				"filme": "Inverno",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eu Acredito em Conto de Fadas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Galeria Futuro",
 				"similaridade": 1
 			},
@@ -4350,18 +4546,6 @@
 			},
 			{
 				"filme": "Curral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Juntos e Enrolados",
-				"similaridade": 1
-			},
-			{
-				"filme": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Intervenção",
 				"similaridade": 1
 			}
 		]
@@ -4462,7 +4646,7 @@
 		"nome": "O Tigre e o Dragão: A Espada do Destino",
 		"duracao": "1:40:28",
 		"ano": 2016,
-		"score": 6.067,
+		"score": 6.065,
 		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
 		"videoid": "4f550f0e494a574173506a",
@@ -4905,15 +5089,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Galeria Futuro",
+				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			},
 			{
-				"filme": "Curupira - O Demônio da Floresta",
+				"filme": "Inverno",
 				"similaridade": 1
 			},
 			{
-				"filme": "Hermanoteu na Terra de Godah: O Filme",
+				"filme": "Eu Acredito em Conto de Fadas",
 				"similaridade": 1
 			}
 		]
@@ -6256,7 +6440,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.5,
+		"score": 7.545,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -6946,7 +7130,7 @@
 		"nome": "Do Fundo do Mar",
 		"duracao": "1:45:01",
 		"ano": 1999,
-		"score": 5.94,
+		"score": 5.939,
 		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
 		"videoid": "7677430c0c6c755d694a6e",
@@ -7573,15 +7757,15 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Cidade de Deus",
+				"similaridade": 8
+			},
+			{
 				"filme": "A Babá",
 				"similaridade": 7
 			},
 			{
 				"filme": "Olhos de Gato",
-				"similaridade": 7
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 7
 			}
 		]
@@ -9154,7 +9338,7 @@
 		"nome": "O Exorcista",
 		"duracao": "2:12:22",
 		"ano": 1973,
-		"score": 7.7,
+		"score": 7.713,
 		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
 		"videoid": "42766f594d7479535e4c03",
@@ -9752,7 +9936,7 @@
 		"nome": "12 Homens e Uma Sentença",
 		"duracao": "1:36:22",
 		"ano": 1957,
-		"score": 8.522,
+		"score": 8.521,
 		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
 		"videoid": "7d7a4d7a616b7a7c735d48",
