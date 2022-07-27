@@ -3478,7 +3478,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "A Garota dos Meus Sonhos",
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 2
 			}
 		]
@@ -6620,52 +6620,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 23
-			}
-		]
-	},
-	{
-		"nome": "A Garota dos Meus Sonhos",
-		"duracao": "1:30:50",
-		"ano": 2006,
-		"score": 5.7,
-		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
-		"videoid": "7a6e75424d71567f424250",
-		"resolucaoArmazenada": "672x384",
-		"orcamento": 0,
-		"receita": "944.5K",
-		"similares": [
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 5
-			},
-			{
-				"filme": "Jolt: Fúria Fatal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Lindinhas",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 3
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Predestinado",
-				"similaridade": 2
-			},
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 2
 			}
 		]
 	},
