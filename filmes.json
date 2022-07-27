@@ -3,7 +3,7 @@
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
-		"score": 6.9,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pLOFQLeKQYsCzkYgsw9tg1cPuDG.jpg",
 		"videoid": "1675615e757d524909726a",
@@ -49,7 +49,7 @@
 		"nome": "Rise",
 		"duracao": "1:51:19",
 		"ano": 2022,
-		"score": 6.957,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/czXyMcmiulyZjhYAnnMwVhFCvN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
 		"videoid": "0a54794a5e736158767662",
@@ -78,15 +78,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 4
+			},
+			{
 				"filme": "Juntos e Misturados",
 				"similaridade": 4
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 4
-			},
-			{
-				"filme": "A Maldição de Chucky",
 				"similaridade": 4
 			}
 		]
@@ -95,7 +95,7 @@
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
-		"score": 7.09,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "7e646b0c7e680e68084348",
@@ -116,6 +116,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Um Garoto na Corte do Rei Arthur",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 1
 			},
@@ -130,10 +134,6 @@
 			{
 				"filme": "A Babá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 1
 			}
 		]
 	},
@@ -141,7 +141,7 @@
 		"nome": "Bruna Louise: Demolição",
 		"duracao": "1:05:51",
 		"ano": 2022,
-		"score": 5.5,
+		"score": "5.2",
 		"poster": "https://image.tmdb.org/t/p/w200/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nfYcG8XBT5Pzk3thtS2MbIxM5mC.jpg",
 		"videoid": "090d58506d4d0251687954",
@@ -149,6 +149,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -172,14 +180,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -187,7 +187,7 @@
 		"nome": "A Princesa",
 		"duracao": "1:34:03",
 		"ano": 2022,
-		"score": 7.172,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5PnypKiSj2efSPqThNjTXz8jwOg.jpg",
 		"videoid": "5a6b4c634c6b610e7e4a58",
@@ -233,7 +233,7 @@
 		"nome": "A Fera do Mar",
 		"duracao": "1:59:26",
 		"ano": 2022,
-		"score": 7.651,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wUwizGzbTk5CTiKBnE4Pq1MONwD.jpg",
 		"videoid": "6d5e4f16570e770879034c",
@@ -279,7 +279,7 @@
 		"nome": "A Extraordinária Garota Chamada Estrela em Hollywood",
 		"duracao": "1:42:54",
 		"ano": 2022,
-		"score": 7.19,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hGykHXIRZ5HI602BDpQDUNUsVqH.jpg",
 		"videoid": "5852034c5d756b684a4a58",
@@ -325,7 +325,7 @@
 		"nome": "Bob's Burger: O Filme",
 		"duracao": "1:41:54",
 		"ano": 2022,
-		"score": 7.126,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hcOMkf6dwZTMxSjgBdIisrBHYhw.jpg",
 		"videoid": "57585278715d084c6b7c6a",
@@ -371,7 +371,7 @@
 		"nome": "Meteoros",
 		"duracao": "1:28:20",
 		"ano": 2022,
-		"score": 6,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
 		"videoid": "755a535e0a16027f0f7254",
@@ -379,6 +379,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Luccas Neto em: O Plano dos Vilões",
 				"similaridade": 1
@@ -402,14 +410,6 @@
 			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -417,7 +417,7 @@
 		"nome": "Doutor Estranho no Multiverso da Loucura",
 		"duracao": "2:06:32",
 		"ano": 2022,
-		"score": 7.513,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"videoid": "566a506b02636d037d4a7e",
@@ -463,7 +463,7 @@
 		"nome": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 		"duracao": "1:44:46",
 		"ano": 2022,
-		"score": 10,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/orXhDQCtC086ccqUdkwOwZqN0kQ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/86v5da8IWk3w3cSfE71RhhQLnma.jpg",
 		"videoid": "64584a4e4f4a0f5a720c0b",
@@ -480,6 +480,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
 				"similaridade": 1
 			},
@@ -493,14 +501,6 @@
 			},
 			{
 				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -509,7 +509,7 @@
 		"nome": "Luccas Neto em: O Plano dos Vilões",
 		"duracao": "1:40:42",
 		"ano": 2022,
-		"score": 5.1,
+		"score": "5.8",
 		"poster": "https://image.tmdb.org/t/p/w200/p4ck2CY4r01FXkOXz4TwJcaSiPf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qMlyVqS1cWQtMviZNFwmvfSYEtT.jpg",
 		"videoid": "5d4b5362084e566b0e5a76",
@@ -517,6 +517,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -540,14 +548,6 @@
 			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -555,7 +555,7 @@
 		"nome": "Inverno",
 		"duracao": "1:09:57",
 		"ano": 2022,
-		"score": 4,
+		"score": "4.5",
 		"poster": "https://image.tmdb.org/t/p/w200/sXtEMHqIJ1CQ1EagoPofA2KUpek.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2t8ASZMNh6Nbnk3ajS0VeNaRwJZ.jpg",
 		"videoid": "570d4c4a614e4e5e16494c",
@@ -563,6 +563,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -586,14 +594,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -601,7 +601,7 @@
 		"nome": "O Homem do Norte",
 		"duracao": "2:16:58",
 		"ano": 2022,
-		"score": 7.22,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
@@ -647,7 +647,7 @@
 		"nome": "Morbius",
 		"duracao": "1:44:10",
 		"ano": 2022,
-		"score": 6.448,
+		"score": "5.8",
 		"poster": "https://image.tmdb.org/t/p/w200/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
 		"videoid": "085c52026e696b777c744c",
@@ -693,7 +693,7 @@
 		"nome": "Farofa da GKay: O Documentário",
 		"duracao": "58:48",
 		"ano": 2022,
-		"score": 0,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/vXJIFS0aUE07M9lHRJr31Ngty1A.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iQpkvHCLupvsmB4StheP5nAEgb6.jpg",
 		"videoid": "7279725f6e5179495c5c0f",
@@ -701,6 +701,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -724,14 +732,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -739,7 +739,7 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 5.25,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
 		"videoid": "685e0f4e4c7a540a4e486e",
@@ -747,6 +747,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Um Garoto na Corte do Rei Arthur",
+				"similaridade": 1
+			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
@@ -759,7 +763,6 @@
 			null,
 			null,
 			null,
-			null,
 			null
 		]
 	},
@@ -767,7 +770,7 @@
 		"nome": "Ambulância: Um Dia de Crime",
 		"duracao": "2:16:34",
 		"ano": 2022,
-		"score": 6.942,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dW3fQJrshh2wYDoW4HUA7ZabsN1.jpg",
 		"videoid": "5d7d6f706450505f797354",
@@ -813,7 +816,7 @@
 		"nome": "Cidade Perdida",
 		"duracao": "1:53:01",
 		"ano": 2022,
-		"score": 6.771,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/vsX9gj7t56ZlMYKNYccskeW5adT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
 		"videoid": "096f085a59494c0d765972",
@@ -838,6 +841,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 5
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 5
 			},
@@ -848,10 +855,6 @@
 			{
 				"filme": "Dicionário de Cama",
 				"similaridade": 5
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 5
 			}
 		]
 	},
@@ -859,7 +862,7 @@
 		"nome": "Contrato Perigoso",
 		"duracao": "1:43:39",
 		"ano": 2022,
-		"score": 6.522,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/figlwUsXXFehX3IebdjqNLV6vWk.jpg",
 		"videoid": "640c624c0b52410d5e5876",
@@ -905,7 +908,7 @@
 		"nome": "Batman",
 		"duracao": "2:56:01",
 		"ano": 2022,
-		"score": 7.758,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
 		"videoid": "645c0f776c0a4273166158",
@@ -951,7 +954,7 @@
 		"nome": "Agente das Sombras",
 		"duracao": "1:44:54",
 		"ano": 2022,
-		"score": 6.305,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/3w12S7LKkabx7pddQzsR3PY30m.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg",
 		"videoid": "636d5e77720c41570f7f72",
@@ -997,7 +1000,7 @@
 		"nome": "Uncharted: Fora do Mapa",
 		"duracao": "1:55:57",
 		"ano": 2022,
-		"score": 7.142,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
 		"videoid": "755d78720a7851530c7d72",
@@ -1043,7 +1046,7 @@
 		"nome": "Red: Crescer é Uma Fera",
 		"duracao": "1:39:42",
 		"ano": 2022,
-		"score": 7.509,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
 		"videoid": "574a7e6c7d6a586d6c7203",
@@ -1089,7 +1092,7 @@
 		"nome": "Júpiter",
 		"duracao": "1:37:40",
 		"ano": 2022,
-		"score": 7.7,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/xHmwrpNIKoeYNTn8ZPDSRrrGxW4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/a57BWjLTFJu8k2bHcHjdvOGHgl6.jpg",
 		"videoid": "0b5609574e5d0f6d54165c",
@@ -1097,6 +1100,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -1120,14 +1131,6 @@
 			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1135,7 +1138,7 @@
 		"nome": "Fantasmas do Passado",
 		"duracao": "1:39:11",
 		"ano": 2022,
-		"score": 5.303,
+		"score": "5.3",
 		"poster": "https://image.tmdb.org/t/p/w200/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bcvfG4p48Bh42ju7vxamkP7PZa3.jpg",
 		"videoid": "53080a4f535554526f425c",
@@ -1181,7 +1184,7 @@
 		"nome": "Pânico",
 		"duracao": "1:54:29",
 		"ano": 2022,
-		"score": 6.759,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
 		"videoid": "72167d6c4c535d5f7e4d6e",
@@ -1227,7 +1230,7 @@
 		"nome": "As Agentes 355",
 		"duracao": "2:02:43",
 		"ano": 2022,
-		"score": 6.107,
+		"score": "5.8",
 		"poster": "https://image.tmdb.org/t/p/w200/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8pgKccb5PfE1kWB9qqiXJem83VC.jpg",
 		"videoid": "58520854496a4e6a786976",
@@ -1273,7 +1276,7 @@
 		"nome": "Eu Acredito em Conto de Fadas",
 		"duracao": "1:00:25",
 		"ano": 2022,
-		"score": 0,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/3lI4fjY5AuOIvkjem5rNXAN6zc3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jeK0quJOnw91GsSuvpDChouyxMc.jpg",
 		"videoid": "4d56525d42737264034a6a",
@@ -1282,6 +1285,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
 				"similaridade": 1
 			},
@@ -1303,14 +1314,6 @@
 			},
 			{
 				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
 				"similaridade": 1
 			}
 		]
@@ -1319,7 +1322,7 @@
 		"nome": "Juntos e Enrolados",
 		"duracao": "1:34:51",
 		"ano": 2021,
-		"score": 6.8,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eAbnORHyYIlAfqrZJywo0X5mzmP.jpg",
 		"videoid": "72640a6a6151627f4e7676",
@@ -1327,6 +1330,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -1350,14 +1361,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1365,7 +1368,7 @@
 		"nome": "Turma da Mônica: Lições",
 		"duracao": "1:30:47",
 		"ano": 2021,
-		"score": 8.298,
+		"score": "8.0",
 		"poster": "https://image.tmdb.org/t/p/w200/gzaLnQ2CctXaHqatSlRbSVp8Bh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kolcIeckAekJfJ3IA4Z0Fr1kk38.jpg",
 		"videoid": "0d7f646c704179777c6b7e",
@@ -1411,7 +1414,7 @@
 		"nome": "Intervenção",
 		"duracao": "1:27:04",
 		"ano": 2021,
-		"score": 6.6,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/h7BAdxykcXu702wpmKTYSnnr670.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gR2OfaUYgLF8s9lU15dYx9n1swf.jpg",
 		"videoid": "6a7e4f5878624169704303",
@@ -1448,7 +1451,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			}
 		]
@@ -1457,7 +1460,7 @@
 		"nome": "O Último Trem pro Natal",
 		"duracao": "1:50:40",
 		"ano": 2021,
-		"score": 5.9,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hqwib4EiffClOxXb5EwhTHYkS8b.jpg",
 		"videoid": "7e48526141547161635954",
@@ -1465,6 +1468,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Um Garoto na Corte do Rei Arthur",
+				"similaridade": 1
+			},
 			{
 				"filme": "A Última Noite",
 				"similaridade": 1
@@ -1492,10 +1499,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1503,7 +1506,7 @@
 		"nome": "A Liga de Monstros",
 		"duracao": "1:35:50",
 		"ano": 2021,
-		"score": 6.9,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/vbcjMsuQs1BbM9vjAY3rjBvhPlg.jpg",
 		"videoid": "4c4a69715653596c4b5c03",
@@ -1549,7 +1552,7 @@
 		"nome": "Homem-Aranha: Sem Volta Para Casa",
 		"duracao": "2:28:10",
 		"ano": 2021,
-		"score": 8.051,
+		"score": "8.2",
 		"poster": "https://image.tmdb.org/t/p/w200/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"videoid": "5c6c7c704c526a6c434b03",
@@ -1595,7 +1598,7 @@
 		"nome": "Hermanoteu na Terra de Godah: O Filme",
 		"duracao": "1:24:17",
 		"ano": 2021,
-		"score": 7.3,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/nW62xAJYHcTMs1U7bgDNlZjDZMd.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/cdMy5uTALhtByo5KQIPPrksBp6o.jpg",
 		"videoid": "73627f7049614e610d7654",
@@ -1603,6 +1606,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -1626,14 +1637,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1641,7 +1644,7 @@
 		"nome": "O Mundo dos Esquecidos",
 		"duracao": "1:23:43",
 		"ano": 2021,
-		"score": 5.1,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/444gIv4PAWC82O22ey1vdlA3xza.jpg",
 		"videoid": "690a0b564b4c41725d784c",
@@ -1687,7 +1690,7 @@
 		"nome": "Amor Sem Medida",
 		"duracao": "1:34:41",
 		"ano": 2021,
-		"score": 6.216,
+		"score": "5.8",
 		"poster": "https://image.tmdb.org/t/p/w200/glFwaNYHhzUa1pao25O2o2aFkxj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4umFE9i6Iflfd5ngHBKCwORVJC6.jpg",
 		"videoid": "6964750a5c02784d0c797a",
@@ -1733,7 +1736,7 @@
 		"nome": "Galeria Futuro",
 		"duracao": "1:32:39",
 		"ano": 2021,
-		"score": 8.5,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/3dJsqGb8pQydRTvz8clV49BbErI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zyLj402ECiZMxxaH0cJiK29E1hp.jpg",
 		"videoid": "7c43565f0e4a436371035c",
@@ -1758,19 +1761,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -1779,7 +1782,7 @@
 		"nome": "Alerta Vermelho",
 		"duracao": "1:58:00",
 		"ano": 2021,
-		"score": 6.774,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
 		"videoid": "6c77776c7c4e0f4c6d540f",
@@ -1825,7 +1828,7 @@
 		"nome": "Lacuna",
 		"duracao": "1:31:22",
 		"ano": 2021,
-		"score": 7.3,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/qe1sB6fYCieSbWaSEa7ijf4oAp1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6DjFG6nml5Hvz36inBYZkTDeRyx.jpg",
 		"videoid": "42596f597a414f6274746a",
@@ -1871,7 +1874,7 @@
 		"nome": "Curupira - O Demônio da Floresta",
 		"duracao": "1:22:14",
 		"ano": 2021,
-		"score": 0,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/8mAyRqP88S4TRXBnVdePJrnckwg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/umssQCa58NBDAnE8coVcCRaH8Ha.jpg",
 		"videoid": "716d4c745a037d55544f03",
@@ -1879,6 +1882,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -1902,14 +1913,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1917,7 +1920,7 @@
 		"nome": "Eternos",
 		"duracao": "2:35:51",
 		"ano": 2021,
-		"score": 7.086,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
 		"videoid": "02530f0859746c6e68587a",
@@ -1963,7 +1966,7 @@
 		"nome": "Amarração do Amor",
 		"duracao": "1:21:20",
 		"ano": 2021,
-		"score": 6.8,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/5yTpx1nE5PM8DhVxWVIq4ikKZc2.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mzPScgMHTUOpxzqce8S6XY4MUE1.jpg",
 		"videoid": "0e5d08027158646f646e58",
@@ -1972,6 +1975,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
 				"similaridade": 1
 			},
@@ -1993,14 +2004,6 @@
 			},
 			{
 				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
 				"similaridade": 1
 			}
 		]
@@ -2009,7 +2012,7 @@
 		"nome": "A Matéria Noturna",
 		"duracao": "1:29:36",
 		"ano": 2021,
-		"score": 5.5,
+		"score": "6.0",
 		"poster": "https://image.tmdb.org/t/p/w200/uZiPbcLAQ15b8SeZC9KlliSamx6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/d2DXhcnn6BNo9S9o7tOkn1lA7vI.jpg",
 		"videoid": "49785e4f6a62494f770f0f",
@@ -2017,6 +2020,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -2040,14 +2051,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2055,7 +2058,7 @@
 		"nome": "A Última Noite",
 		"duracao": "1:26:25",
 		"ano": 2021,
-		"score": 6.211,
+		"score": "6.0",
 		"poster": "https://image.tmdb.org/t/p/w200/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nJYAAOk74VjPlwz34jWFh8MPw2r.jpg",
 		"videoid": "7152626158437c7d7d4258",
@@ -2101,7 +2104,7 @@
 		"nome": "Meu Filho",
 		"duracao": "1:36:22",
 		"ano": 2021,
-		"score": 6.295,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
 		"videoid": "480c0b5143097008785f0f",
@@ -2138,7 +2141,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Quinto Elemento",
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 1
 			}
 		]
@@ -2147,7 +2150,7 @@
 		"nome": "7 Prisioneiros",
 		"duracao": "1:34:31",
 		"ano": 2021,
-		"score": 7.115,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ut6OYNA8zG7kNeRTLIZzpN8u11y.jpg",
 		"videoid": "0a62637d507d0f63567676",
@@ -2190,56 +2193,10 @@
 		]
 	},
 	{
-		"nome": "Concorrência Oficial",
-		"duracao": "1:54:36",
-		"ano": 2021,
-		"score": 6.904,
-		"poster": "https://image.tmdb.org/t/p/w200/fey5dXqHTc4SUJs96Hv1Li9ezpD.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/dprG5VW5JAbcGQlsXL74Dj7DRjy.jpg",
-		"videoid": "79627a62757e4a425f5748",
-		"resolucaoArmazenada": "1920x804",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 4
-			},
-			{
-				"filme": "A Babá",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 3
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 3
-			},
-			{
-				"filme": "A Viagem de Chihiro",
-				"similaridade": 3
-			},
-			{
-				"filme": "Cidade Perdida",
-				"similaridade": 2
-			}
-		]
-	},
-	{
 		"nome": "Duna",
 		"duracao": "2:35:26",
 		"ano": 2021,
-		"score": 7.872,
+		"score": "7.9",
 		"poster": "https://image.tmdb.org/t/p/w200/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
 		"videoid": "70750f0e0b705d49086e54",
@@ -2285,7 +2242,7 @@
 		"nome": "Instinto Materno",
 		"duracao": "1:20:40",
 		"ano": 2021,
-		"score": 0,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/rAbreodoriF4LeyEjm3DrypFMTB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
 		"videoid": "4a0b717541587c78555303",
@@ -2297,7 +2254,7 @@
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
 		"duracao": "2:12:21",
 		"ano": 2021,
-		"score": 7.676,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
 		"videoid": "530963557a727e76746e48",
@@ -2343,7 +2300,7 @@
 		"nome": "Jolt: Fúria Fatal",
 		"duracao": "1:31:06",
 		"ano": 2021,
-		"score": 6.725,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/gYZAHan5CHPFXORpQMvOjCTug4E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wPjtacig0kIkVcTQmXoNt6jbMwo.jpg",
 		"videoid": "7751096b6a41624f0c617a",
@@ -2389,7 +2346,7 @@
 		"nome": "O Marinheiro das Montanhas",
 		"duracao": "1:38:06",
 		"ano": 2021,
-		"score": 7.313,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/yiugwRIPkUEbxKKknrkp35LlcCu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/442zG0AO6FIfrsFVM6BJNPI9NCv.jpg",
 		"videoid": "796a6e6253097c686e4c7a",
@@ -2397,6 +2354,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Juntos e Misturados",
 				"similaridade": 1
@@ -2424,10 +2385,6 @@
 			{
 				"filme": "Primitivo",
 				"similaridade": 1
-			},
-			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2435,7 +2392,7 @@
 		"nome": "Mark, Mary + Some Other People",
 		"duracao": "1:29:20",
 		"ano": 2021,
-		"score": 5.611,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zzA2aO9U9JAWc5gUtdsR0VmW8Bn.jpg",
 		"videoid": "71430c77716a7450480858",
@@ -2443,6 +2400,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Um Garoto na Corte do Rei Arthur",
+				"similaridade": 1
+			},
 			{
 				"filme": "Fúria",
 				"similaridade": 1
@@ -2470,10 +2431,6 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 1
-			},
-			{
-				"filme": "Operação Dragão",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2481,7 +2438,7 @@
 		"nome": "Live Is Life",
 		"duracao": "1:50:09",
 		"ano": 2021,
-		"score": 6.825,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9FFz0ZYuNmBmKQBaZ5ibSqGvnI3.jpg",
 		"videoid": "4269484d5d74545d5d7c0b",
@@ -2527,7 +2484,7 @@
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
-		"score": 6,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
 		"videoid": "4e7016035503625c79757a",
@@ -2556,15 +2513,15 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 3
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 3
 			},
 			{
 				"filme": "Perfume - A História de um Assassino",
-				"similaridade": 3
-			},
-			{
-				"filme": "Não Me Mate",
 				"similaridade": 3
 			}
 		]
@@ -2573,7 +2530,7 @@
 		"nome": "Cruella",
 		"duracao": "2:17:16",
 		"ano": 2021,
-		"score": 8.146,
+		"score": "7.7",
 		"poster": "https://image.tmdb.org/t/p/w200/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
 		"videoid": "09640b7d5464521677534c",
@@ -2619,7 +2576,7 @@
 		"nome": "Infiltrado",
 		"duracao": "1:58:57",
 		"ano": 2021,
-		"score": 7.717,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/rNz8wy63GAabztAUkO4xMGk3upx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
 		"videoid": "735f494c7d775262776c7a",
@@ -2665,7 +2622,7 @@
 		"nome": "Não Me Mate",
 		"duracao": "1:30:25",
 		"ano": 2021,
-		"score": 4.163,
+		"score": "4.2",
 		"poster": "https://image.tmdb.org/t/p/w200/3nLpZivc9wYoX57aXF0ZLYVZDTz.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/cMGuvi3WoppST92uaXJ7a848SbR.jpg",
 		"videoid": "0955536c6c0c496c72410f",
@@ -2694,15 +2651,15 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
+			},
+			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 6
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 6
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 6
 			}
 		]
@@ -2711,7 +2668,7 @@
 		"nome": "Curral",
 		"duracao": "1:25:59",
 		"ano": 2021,
-		"score": 7.9,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/8xMDCOwl6qE4Ypcy0HsMwalnEXU.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/o8FbDroKseqCpO6XCW5h12LpTHQ.jpg",
 		"videoid": "0e4203544a095f5c7f7f62",
@@ -2736,19 +2693,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
 				"similaridade": 1
 			},
 			{
 				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -2757,7 +2714,7 @@
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
 		"ano": 2021,
-		"score": 8.27,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
 		"videoid": "4c52736c490869486e417a",
@@ -2803,7 +2760,7 @@
 		"nome": "Mate ou Morra",
 		"duracao": "1:41:00",
 		"ano": 2021,
-		"score": 6.88,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg",
 		"videoid": "027e71754d0f694262787a",
@@ -2849,7 +2806,7 @@
 		"nome": "Music",
 		"duracao": "1:47:23",
 		"ano": 2021,
-		"score": 5.7,
+		"score": "4.5",
 		"poster": "https://image.tmdb.org/t/p/w200/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/a5PNkyt8zx6sSXCzgKpKAaAXNJw.jpg",
 		"videoid": "4c76740e7e635a6a0c707e",
@@ -2895,7 +2852,7 @@
 		"nome": "Mulher-Maravilha 1984",
 		"duracao": "2:31:07",
 		"ano": 2020,
-		"score": 6.553,
+		"score": "6.0",
 		"poster": "https://image.tmdb.org/t/p/w200/AweDlIiohqw4sjC7gCsPVd1zo77.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzpCv8CCWondN7O5au1KGiqnC3A.jpg",
 		"videoid": "7e68576c0a6175164d0d50",
@@ -2941,7 +2898,7 @@
 		"nome": "Medida Provisória",
 		"duracao": "1:41:41",
 		"ano": 2020,
-		"score": 7.29,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/oLfjccUqxsAG7pbCgs5rC6SEUWr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eojJnASqC2iuOPIH1S3PgsgEv0a.jpg",
 		"videoid": "597c41524c626e557e0b6e",
@@ -2978,7 +2935,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			}
 		]
@@ -2987,7 +2944,7 @@
 		"nome": "Sedenta de Sangue",
 		"duracao": "1:24:31",
 		"ano": 2020,
-		"score": 5.5,
+		"score": "5.2",
 		"poster": "https://image.tmdb.org/t/p/w200/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1TWlQusiA0G7xoWMMDIpM70EVDf.jpg",
 		"videoid": "69085d090c595358095076",
@@ -3033,7 +2990,7 @@
 		"nome": "Agentes Vanguard",
 		"duracao": "1:47:19",
 		"ano": 2020,
-		"score": 6.3,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
 		"videoid": "5a7a5d6d7f575d4e71416a",
@@ -3079,7 +3036,7 @@
 		"nome": "A Garota dos Seus Sonhos",
 		"duracao": "1:48:13",
 		"ano": 2020,
-		"score": 6.5,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/1iafCMS7cZ1mbZIMznPu3xqXeOI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xZJNtBFpCfdB2nyffbStIxHFnLq.jpg",
 		"videoid": "420c6450644c5c7d71417e",
@@ -3125,7 +3082,7 @@
 		"nome": "A Babá: Rainha da Morte",
 		"duracao": "1:42:27",
 		"ano": 2020,
-		"score": 6.437,
+		"score": "6.1",
 		"poster": "https://image.tmdb.org/t/p/w200/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/naUJGskMlDg2HZ0FhsaMG5xPF2K.jpg",
 		"videoid": "7f75166f566d6a0e09636e",
@@ -3171,7 +3128,7 @@
 		"nome": "Um Brinde ao Sucesso",
 		"duracao": "1:42:13",
 		"ano": 2020,
-		"score": 5.7,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/msh8815FFVl0luVOPxIAJGe1seY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nxlZEThfhjlNEOaCUuuI2b9llKk.jpg",
 		"videoid": "630b795e71730f73547050",
@@ -3208,7 +3165,7 @@
 		"nome": "Tenet",
 		"duracao": "2:30:10",
 		"ano": 2020,
-		"score": 7.227,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/oh8XmxWlySHgGLlx8QOBmq9k72j.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
 		"videoid": "776b0a7f6a7f4158514203",
@@ -3254,7 +3211,7 @@
 		"nome": "Do Fundo do Mar 3",
 		"duracao": "1:40:11",
 		"ano": 2020,
-		"score": 5.916,
+		"score": "5.3",
 		"poster": "https://image.tmdb.org/t/p/w200/azvgqitNO0kConxAP0TUjMlpBUI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hIHtyIYgBqHybOgUdoAmveipuiO.jpg",
 		"videoid": "514d557d48417748584172",
@@ -3300,7 +3257,7 @@
 		"nome": "Fúria Incontrolável",
 		"duracao": "1:30:15",
 		"ano": 2020,
-		"score": 6.437,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
 		"videoid": "751603485c7c5f4c7d746e",
@@ -3346,7 +3303,7 @@
 		"nome": "Eduardo e Mônica",
 		"duracao": "2:00:03",
 		"ano": 2020,
-		"score": 7.9,
+		"score": "7.7",
 		"poster": "https://image.tmdb.org/t/p/w200/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xGwH1MyfHGHPNrBbeEetM30rtpO.jpg",
 		"videoid": "55165f024376574d7c6c62",
@@ -3357,6 +3314,14 @@
 			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
 			},
 			{
 				"filme": "Meteoros",
@@ -3377,14 +3342,6 @@
 			{
 				"filme": "Lacuna",
 				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
 			}
 		]
 	},
@@ -3392,7 +3349,7 @@
 		"nome": "O Problema de Nascer",
 		"duracao": "1:33:40",
 		"ano": 2020,
-		"score": 5.5,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/od6MlN4vysfb3mfGMCK3Jqr1STq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bEHbZEjDX7qZF1ZJl1Auon0cQlk.jpg",
 		"videoid": "68545d0d4d680c6c0a0f0f",
@@ -3438,7 +3395,7 @@
 		"nome": "Meu Nome é Bagdá",
 		"duracao": "1:39:14",
 		"ano": 2020,
-		"score": 7.5,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/fRAPoeG3di2WKBlwNipPruNrSZS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yVe9aaQAnZDxRRe3tNQHDQjVGbX.jpg",
 		"videoid": "4e7e7d5973555959714e6e",
@@ -3446,6 +3403,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -3469,14 +3434,6 @@
 			{
 				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eu Acredito em Conto de Fadas",
-				"similaridade": 1
 			}
 		]
 	},
@@ -3484,7 +3441,7 @@
 		"nome": "The Forty-Year-Old Version",
 		"duracao": "2:04:15",
 		"ano": 2020,
-		"score": 6.9,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
 		"videoid": "48786f504f0f50626a6b50",
@@ -3530,7 +3487,7 @@
 		"nome": "A Casa Sombria",
 		"duracao": "1:47:02",
 		"ano": 2020,
-		"score": 6.694,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/sDbo3qnxxMnC1f4RMfmUlcKNNST.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6IwRWvEManAFXRWEZr5g9LxtVPR.jpg",
 		"videoid": "736976594979424e70534c",
@@ -3576,7 +3533,7 @@
 		"nome": "Lindinhas",
 		"duracao": "1:36:25",
 		"ano": 2020,
-		"score": 5.284,
+		"score": "4.3",
 		"poster": "https://image.tmdb.org/t/p/w200/3HvqVuCDcq6DTN2aAvOEOfgyzXi.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6j2g4fEAmjJqAclzprIpvz9Gaw4.jpg",
 		"videoid": "4f765253566f4d5461736a",
@@ -3622,7 +3579,7 @@
 		"nome": "O Matemático",
 		"duracao": "1:42:45",
 		"ano": 2020,
-		"score": 6.2,
+		"score": "5.8",
 		"poster": "https://image.tmdb.org/t/p/w200/rrDBynsjlDjQ2KkXO69jn1SIAWw.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/npEUveGYH2H7VTlM8k6xH6Jcvqr.jpg",
 		"videoid": "4909717d5361786a026376",
@@ -3655,11 +3612,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "O Predestinado",
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 4
 			},
 			{
-				"filme": "Perigo Para a Sociedade",
+				"filme": "O Predestinado",
 				"similaridade": 4
 			}
 		]
@@ -3668,7 +3625,7 @@
 		"nome": "Alerta Vermelho",
 		"duracao": "2:08:12",
 		"ano": 2019,
-		"score": 6.724,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/lT6BaTnPc9Q7oPyLfiBtC6fNyep.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
 		"videoid": "680b555216497058486d62",
@@ -3714,7 +3671,7 @@
 		"nome": "Fúria",
 		"duracao": "1:47:36",
 		"ano": 2019,
-		"score": 5.4,
+		"score": "5.3",
 		"poster": "https://image.tmdb.org/t/p/w200/peOmxRTPfGTRJx8NgAaAnLkiaLM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yi6lKRgQT7FDHE706PE7MxN5CDA.jpg",
 		"videoid": "537e43437f166457414b0f",
@@ -3760,7 +3717,7 @@
 		"nome": "A Máscara de Ferro",
 		"duracao": "2:00:42",
 		"ano": 2019,
-		"score": 6.2,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7m8zy0eJ0d0JmEyOkC2fSx1KbYU.jpg",
 		"videoid": "6d7a026c59630c5d6b4f4c",
@@ -3806,7 +3763,7 @@
 		"nome": "Turma da Mônica: Laços",
 		"duracao": "1:36:43",
 		"ano": 2019,
-		"score": 7.611,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
 		"videoid": "094c0e4a6153610c025f48",
@@ -3852,7 +3809,7 @@
 		"nome": "Caçada Selvagem",
 		"duracao": "1:28:06",
 		"ano": 2019,
-		"score": 5.527,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/paclnjtBlAcEh1ddUbCbT1azPIc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
 		"videoid": "77587a7850097a4b7d4f6a",
@@ -3898,7 +3855,7 @@
 		"nome": "Cemitério Maldito",
 		"duracao": "1:40:50",
 		"ano": 2019,
-		"score": 5.741,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/3CBbXrPiUhX4XfFuAxGsiRflgMw.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dMWVeuVce8ZLKLI0xpVevihEwm8.jpg",
 		"videoid": "644c63685e0a037808516e",
@@ -3944,7 +3901,7 @@
 		"nome": "Contos do Caçador de Sombras",
 		"duracao": "1:48:53",
 		"ano": 2019,
-		"score": 5.5,
+		"score": "5.2",
 		"poster": "https://image.tmdb.org/t/p/w200/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
 		"videoid": "6c64730b5958685d495d54",
@@ -3990,7 +3947,7 @@
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
-		"score": 7.198,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
 		"videoid": "7075710b7d580e79164c72",
@@ -4036,7 +3993,7 @@
 		"nome": "D.P.A. 2: O Filme - O Mistério Italiano",
 		"duracao": "1:29:37",
 		"ano": 2018,
-		"score": 7.8,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/2LH9E43vriqJNO8YMGENmfE0uhK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4aVhGCcBxtGIw7GPoAKnGqYAsre.jpg",
 		"videoid": "5f7a03530978436c7d517a",
@@ -4053,6 +4010,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
+			{
 				"filme": "Meteoros",
 				"similaridade": 1
 			},
@@ -4066,14 +4031,6 @@
 			},
 			{
 				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -4082,7 +4039,7 @@
 		"nome": "A Presepada",
 		"duracao": "40:30",
 		"ano": 2018,
-		"score": 8,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/5mfz3ThkyLvGeUemvjnuLFRTFn3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pXjVi3jw4roKo7cGYHcNV4vctbO.jpg",
 		"videoid": "5a71025c0e5a4d42585e6a",
@@ -4090,6 +4047,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -4113,14 +4078,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4128,7 +4085,7 @@
 		"nome": "Karma: Aqui se Faz, Aqui se Paga",
 		"duracao": "1:25:35",
 		"ano": 2018,
-		"score": 5.9,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/czhIpy9QnnxdaSGrLOVJT67R5gO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/skj7fo58v0cTLpmTXtCPbtOIWjs.jpg",
 		"videoid": "5a797316560f0c50097e7a",
@@ -4140,7 +4097,7 @@
 		"nome": "Megatubarão",
 		"duracao": "1:53:14",
 		"ano": 2018,
-		"score": 6.203,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rH79sB6Nkx4cMW3JzsUy7wK0rhX.jpg",
 		"videoid": "566f575c707c5d0368686a",
@@ -4186,7 +4143,7 @@
 		"nome": "Talvez uma História de Amor",
 		"duracao": "1:41:22",
 		"ano": 2018,
-		"score": 6.6,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/57iuK4nqiFX3vpZM5E8bJMPPKrT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tukMtTngL8RgmmjbZmibDGwT5Ra.jpg",
 		"videoid": "7361027d7455165a524c62",
@@ -4194,6 +4151,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
+			},
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
@@ -4217,14 +4182,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
-			},
-			{
-				"filme": "Inverno",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4232,7 +4189,7 @@
 		"nome": "Inocência Roubada",
 		"duracao": "1:38:03",
 		"ano": 2018,
-		"score": 7.5,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/3UFiTOkNsGvmDapwWk08bQpjV8T.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4euxhzNRsrDLaqkAVTBid0EbIfw.jpg",
 		"videoid": "58434b7e0c574f766f5572",
@@ -4247,6 +4204,10 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 14
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 12
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -4267,10 +4228,6 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 9
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 8
 			}
 		]
 	},
@@ -4278,7 +4235,7 @@
 		"nome": "Do Fundo do Mar 2",
 		"duracao": "1:34:00",
 		"ano": 2018,
-		"score": 5.2,
+		"score": "4.3",
 		"poster": "https://image.tmdb.org/t/p/w200/xygBIZm05PruPcmNjekb6aXBk6f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5UKLqsKJIhouJPVr8AQSTuh7S4n.jpg",
 		"videoid": "6a554e5d64097e166c5254",
@@ -4324,7 +4281,7 @@
 		"nome": "Inimigo Mortal",
 		"duracao": "1:50:26",
 		"ano": 2017,
-		"score": 5.876,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/tzz1t8UvSvISZxDxBmEd531nIPg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h3ir8VfpSEtoEBJjEarEludkjKL.jpg",
 		"videoid": "73760e16544e6355625972",
@@ -4370,7 +4327,7 @@
 		"nome": "Totem",
 		"duracao": "1:30:19",
 		"ano": 2017,
-		"score": 5.2,
+		"score": "4.8",
 		"poster": "https://image.tmdb.org/t/p/w200/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/88AMo7QXZxQ2Zt4BsTeUiGiQ8jh.jpg",
 		"videoid": "086c736116684c52746262",
@@ -4416,7 +4373,7 @@
 		"nome": "A Babá",
 		"duracao": "1:25:14",
 		"ano": 2017,
-		"score": 6.101,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tBhkqRxbANdYRhv7mLHfKEMcOZF.jpg",
 		"videoid": "776e5a7e5968786a036e48",
@@ -4462,7 +4419,7 @@
 		"nome": "O Estrangeiro",
 		"duracao": "1:53:53",
 		"ano": 2017,
-		"score": 6.847,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
 		"videoid": "717c69570d6d7776090a5c",
@@ -4508,7 +4465,7 @@
 		"nome": "O Culto de Chucky",
 		"duracao": "1:30:57",
 		"ano": 2017,
-		"score": 5.799,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/9utpfwOEXsNU2K3g5Ts7DRNm2ho.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2sHD7FUlgyy1TBAxPtzLF4yDb2D.jpg",
 		"videoid": "625c545f636d420e754b76",
@@ -4554,7 +4511,7 @@
 		"nome": "Professor Marston e as Mulheres-Maravilhas",
 		"duracao": "1:48:27",
 		"ano": 2017,
-		"score": 7.276,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/9Mk4VMhOnRa6lTMNcJ7lpxbRsrr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/f9sTcBX9M0BvwBHVvlOIUfNx98r.jpg",
 		"videoid": "54166b597f57617e624d0f",
@@ -4600,7 +4557,7 @@
 		"nome": "O Castelo de Vidro",
 		"duracao": "2:06:57",
 		"ano": 2017,
-		"score": 7.142,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/3loaEocXUyMkNSseh9ej0blZs0d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mIaR9Wno6FhBLCqoICe09PUFnYu.jpg",
 		"videoid": "636969504c50095c410a72",
@@ -4646,7 +4603,7 @@
 		"nome": "Dirty Dancing : O Musical",
 		"duracao": "2:10:21",
 		"ano": 2017,
-		"score": 5.5,
+		"score": "4.3",
 		"poster": "https://image.tmdb.org/t/p/w200/itjxxb8I1TfK1H3TGvrs5aJDM9a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jyf7bNJs4CpZMwoeyo3RbbVtA9r.jpg",
 		"videoid": "755f437803617c780d1603",
@@ -4692,7 +4649,7 @@
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
 		"ano": 2017,
-		"score": 7.245,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
 		"videoid": "5f70735716416f436f5d4c",
@@ -4738,7 +4695,7 @@
 		"nome": "Baahubali 2: A Conclusão",
 		"duracao": "2:46:50",
 		"ano": 2017,
-		"score": 7.326,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/icjp3nbL0X0rruQD8xVgiBkWNPN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
 		"videoid": "4c7e414902030d0f025203",
@@ -4784,7 +4741,7 @@
 		"nome": "Kung Fu Yoga",
 		"duracao": "1:47:01",
 		"ano": 2017,
-		"score": 5.871,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/meS8C4fE5RbhZBf754WdQ8MiT9f.jpg",
 		"videoid": "760d70025d5c706b586d0f",
@@ -4830,7 +4787,7 @@
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
-		"score": 8.529,
+		"score": "8.5",
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
@@ -4876,7 +4833,7 @@
 		"nome": "Cinema Novo",
 		"duracao": "1:32:39",
 		"ano": 2016,
-		"score": 6.8,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/tKPqAg486tpjt0FlPoDRDzo85Tn.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/3fFn9Uc3H0wnhg4nt99pevH94vE.jpg",
 		"videoid": "570a526302645475684b72",
@@ -4887,6 +4844,14 @@
 			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
 			},
 			{
 				"filme": "Meteoros",
@@ -4907,14 +4872,6 @@
 			{
 				"filme": "Lacuna",
 				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4922,7 +4879,7 @@
 		"nome": "No Fim do Túnel",
 		"duracao": "2:00:24",
 		"ano": 2016,
-		"score": 7.1,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/L4W5K5eDuXHizVPNWpqK7TONlz.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7mNJ8ALmMBrA1yLaKzPbA3HLnvy.jpg",
 		"videoid": "630c5179705109576f4303",
@@ -4968,7 +4925,7 @@
 		"nome": "Mente Criminosa",
 		"duracao": "1:53:35",
 		"ano": 2016,
-		"score": 6.125,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/60QTTSHQubpl4C78N6UWmb4TgQP.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
 		"videoid": "726c6e540a6f50620c684c",
@@ -5014,7 +4971,7 @@
 		"nome": "O Tigre e o Dragão: A Espada do Destino",
 		"duracao": "1:40:28",
 		"ano": 2016,
-		"score": 6.065,
+		"score": "6.1",
 		"poster": "https://image.tmdb.org/t/p/w200/zqM3ZxFcUoreBfaFpztL197SLCI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k6fkif9weBS3uINEaPiq78cbmPO.jpg",
 		"videoid": "4f550f0e494a574173506a",
@@ -5060,7 +5017,7 @@
 		"nome": "Abandonada: O Mal Foi Eleito",
 		"duracao": "1:29:22",
 		"ano": 2016,
-		"score": 3.7,
+		"score": "3.7",
 		"poster": "https://image.tmdb.org/t/p/w200/1YhIAq1LkdCd4V7C4ciBaBXWCln.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k0vXy591VCMF4GNJGRNYJmLbtGP.jpg",
 		"videoid": "5c795453707056754a596a",
@@ -5089,15 +5046,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Os Últimos na Terra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Quinto Elemento",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Última Noite",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Noiva de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -5106,7 +5063,7 @@
 		"nome": "Baahubali: O Início",
 		"duracao": "2:18:04",
 		"ano": 2015,
-		"score": 7.558,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/e0n2BL5jgDvOdHols6yWLfyCajq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xpu8enBAtOHo8KS5eGNONsC6GaS.jpg",
 		"videoid": "4378640d094c7f7349597e",
@@ -5152,7 +5109,7 @@
 		"nome": "Ascensão e Queda de um Império",
 		"duracao": "1:53:23",
 		"ano": 2015,
-		"score": 7.1,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/rtNhTmR2sfl9PUqCHxAyzFNinG0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/r7E1wjETuYChaZ8vK7rAim6bVlD.jpg",
 		"videoid": "610f6a5461680c580b4303",
@@ -5195,10 +5152,56 @@
 		]
 	},
 	{
+		"nome": "Os Últimos na Terra",
+		"duracao": "1:37:55",
+		"ano": 2015,
+		"score": "5.6",
+		"poster": "https://image.tmdb.org/t/p/w200/esoNM2wnJRkYyTUmcf3CP53Y47n.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/muAlT7ip6t7DhsVjOJiFuPQHNU1.jpg",
+		"videoid": "0f0b0a6f036454774e7248",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": 0,
+		"receita": "121.5K",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 9
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 8
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 8
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 7
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 7
+			}
+		]
+	},
+	{
 		"nome": "Interestelar",
 		"duracao": "2:49:04",
 		"ano": 2014,
-		"score": 8.372,
+		"score": "8.5",
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
 		"videoid": "4e72735909710955495650",
@@ -5244,7 +5247,7 @@
 		"nome": "Boa Noite, Mamãe!",
 		"duracao": "1:39:55",
 		"ano": 2014,
-		"score": 6.7,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oIGbatCzX8wU5HGFzGPCa6nLRVy.jpg",
 		"videoid": "554d030873740c6b78784c",
@@ -5290,7 +5293,7 @@
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": 8.015,
+		"score": "6.0",
 		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
@@ -5336,7 +5339,7 @@
 		"nome": "Juntos e Misturados",
 		"duracao": "1:57:14",
 		"ano": 2014,
-		"score": 6.841,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/tD0UJtt237FAST3rD1htrGLBKAH.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hafgbeor4V3MIinoQNcvsRWQF6x.jpg",
 		"videoid": "786e6a7e4954415d0a0a58",
@@ -5382,7 +5385,7 @@
 		"nome": "O Predestinado",
 		"duracao": "1:37:49",
 		"ano": 2014,
-		"score": 7.438,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/uvukjvh9w0dtFHacYaRL1YWzFGc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/u5JKxjMuKk0dVXqmS4e4gHo8pfg.jpg",
 		"videoid": "70630954755d6c4a6c5954",
@@ -5428,7 +5431,7 @@
 		"nome": "Alemão",
 		"duracao": "1:49:37",
 		"ano": 2014,
-		"score": 6.2,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/5q9wVeY0uGvpwEc3Z7lnhnZdROt.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/asN5O4FagB6zhDj6YDamjEBjnP6.jpg",
 		"videoid": "636370500d5f0b530b7872",
@@ -5461,11 +5464,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Cabra Marcado Para Morrer",
 				"similaridade": 1
 			}
 		]
@@ -5474,7 +5477,7 @@
 		"nome": "O Lobo de Wall Street",
 		"duracao": "2:59:53",
 		"ano": 2013,
-		"score": 8.031,
+		"score": "8.1",
 		"poster": "https://image.tmdb.org/t/p/w200/xfbnEVFKS26YHLuuckP0i58GPlo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/blbA7NEHARQOWy5i9VF5K2kHrPc.jpg",
 		"videoid": "025e565a7a6b037a527158",
@@ -5482,6 +5485,10 @@
 		"orcamento": "100M",
 		"receita": "392M",
 		"similares": [
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 107
+			},
 			{
 				"filme": "Batman",
 				"similaridade": 106
@@ -5509,10 +5516,6 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 84
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 81
 			}
 		]
 	},
@@ -5520,7 +5523,7 @@
 		"nome": "A Maldição de Chucky",
 		"duracao": "1:36:42",
 		"ano": 2013,
-		"score": 5.857,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
 		"videoid": "5348624169494a42097d50",
@@ -5566,7 +5569,7 @@
 		"nome": "A Fúria de Vajra",
 		"duracao": "1:50:38",
 		"ano": 2013,
-		"score": 5.6,
+		"score": "5.6",
 		"poster": "https://image.tmdb.org/t/p/w200/ffbwHf6jbbsqhmJybsxAZjHP3qF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wuzI70IYF89mT3lDF7etsPgAXqE.jpg",
 		"videoid": "556d5d495d505d6d5a0a54",
@@ -5612,7 +5615,7 @@
 		"nome": "O Espelho",
 		"duracao": "1:44:04",
 		"ano": 2013,
-		"score": 6.447,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/5xAzE9cgbWWL2ZDD4YyWR1iINPK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
 		"videoid": "6d4b6c5c72727c7972690b",
@@ -5658,7 +5661,7 @@
 		"nome": "Além da Escuridão - Star Trek",
 		"duracao": "2:12:07",
 		"ano": 2013,
-		"score": 7.334,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6A0P0iJUtxnIpfxbWt5gUF5DC1V.jpg",
 		"videoid": "085262026c0969420e4e7e",
@@ -5701,10 +5704,56 @@
 		]
 	},
 	{
+		"nome": "Sem Dor, Sem Ganho",
+		"duracao": "2:09:37",
+		"ano": 2013,
+		"score": "6.3",
+		"poster": "https://image.tmdb.org/t/p/w200/2xD9MZQbIhqkcRxlB4StEkdOtLS.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/86rDAqR5oDu29qZTGyk88VdB2lI.jpg",
+		"videoid": "597756510262754a626276",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "25M",
+		"receita": "87.3M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 107
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 79
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 75
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 70
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 67
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 63
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 63
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 61
+			}
+		]
+	},
+	{
 		"nome": "Uma História de Amor e Fúria",
 		"duracao": "1:14:29",
 		"ano": 2013,
-		"score": 7.3,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/aqvJxBR3Tpj9semsPYgCZ2tE3UZ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/vv5QbvqKRpsqVcVTK6aZzTtdaq8.jpg",
 		"videoid": "08086d726c0e5e425c4d4c",
@@ -5719,6 +5768,10 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 11
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 9
 			},
 			{
 				"filme": "Perfume - A História de um Assassino",
@@ -5739,10 +5792,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 8
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 7
 			}
 		]
 	},
@@ -5750,7 +5799,7 @@
 		"nome": "O Quarto Secreto",
 		"duracao": "1:36:31",
 		"ano": 2011,
-		"score": 7.3,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/96JVSZDXTPy4qw4kgzhLfSCQcwd.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wlKQp7rRQ2FYYWetqjwfVm9pAYu.jpg",
 		"videoid": "0d5d54537a5148795f6176",
@@ -5796,7 +5845,7 @@
 		"nome": "Premonição 5",
 		"duracao": "1:31:50",
 		"ano": 2011,
-		"score": 6.061,
+		"score": "6.0",
 		"poster": "https://image.tmdb.org/t/p/w200/jJZPD1eOzLJph5yedRv0dxwk5GA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aLi1AnZWDr0GCNvLsmoe0AAuhNO.jpg",
 		"videoid": "616f7a7e0d7874165e5a4c",
@@ -5842,7 +5891,7 @@
 		"nome": "1911: A Revolução",
 		"duracao": "1:39:09",
 		"ano": 2011,
-		"score": 5.72,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/rqppYmxtnQfs8yFKjtpWXjbWLzT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2RgsodpRG1kbSjv9q2g7flIShOY.jpg",
 		"videoid": "5c716b577e73560f764a4c",
@@ -5888,7 +5937,7 @@
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
 		"ano": 2011,
-		"score": 6.72,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/4yqEixwuJ1dgQ0C28ILHnotpIIY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
 		"videoid": "5e4c7e704b4f790e534e62",
@@ -5903,6 +5952,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 25
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 19
 			},
 			{
 				"filme": "Cidadão Kane",
@@ -5923,10 +5976,52 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
+			}
+		]
+	},
+	{
+		"nome": "Reflexões de um Liquidificador",
+		"duracao": "1:20:23",
+		"ano": 2010,
+		"score": "7.5",
+		"poster": "https://image.tmdb.org/t/p/w200/wVIbeWPhyGJE5rGRbUWeLyNJ6JX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/znZ2V6KLI61xLLMX3c7vN2Au4S9.jpg",
+		"videoid": "427d0c0a020351426a410f",
+		"resolucaoArmazenada": "1916x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 1
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 16
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Lacuna",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meu Nome é Bagdá",
+				"similaridade": 1
+			},
+			{
+				"filme": "Farofa da GKay: O Documentário",
+				"similaridade": 1
 			}
 		]
 	},
@@ -5934,7 +6029,7 @@
 		"nome": "Karatê Kid",
 		"duracao": "2:20:02",
 		"ano": 2010,
-		"score": 6.491,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wwkpQnhi1TXnB3YTZdHeeBpuHs4.jpg",
 		"videoid": "62587e02725e036161680f",
@@ -5980,7 +6075,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.604,
+		"score": "5.4",
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -6026,7 +6121,7 @@
 		"nome": "Entre Irmãos",
 		"duracao": "1:44:38",
 		"ano": 2009,
-		"score": 7.17,
+		"score": "7.1",
 		"poster": "https://image.tmdb.org/t/p/w200/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4olNFXmcXOvccVfhk0S2PubqkiK.jpg",
 		"videoid": "594b5f4c0d02525a61785c",
@@ -6072,7 +6167,7 @@
 		"nome": "Efeito Borboleta 3: Revelação",
 		"duracao": "1:30:17",
 		"ano": 2009,
-		"score": 5.433,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/6svx2au08QMyfXCEgNUht6maRIb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/foplAbUZrCeWHntCAb2BqFJCZHw.jpg",
 		"videoid": "597e636359755c6b4b697e",
@@ -6087,6 +6182,10 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 25
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 24
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -6107,10 +6206,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 19
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 18
 			}
 		]
 	},
@@ -6118,7 +6213,7 @@
 		"nome": "Batman: O Cavaleiro de Gotham",
 		"duracao": "1:16:00",
 		"ano": 2008,
-		"score": 6.708,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/jbsN2F0V0QIts4XFlCRKXOF3bAX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ng7VxyF0xl2d7ApM7Jo3lvH2LkG.jpg",
 		"videoid": "6c0b5e6c095f6869425a72",
@@ -6164,7 +6259,7 @@
 		"nome": "O Reino Proibido",
 		"duracao": "1:44:27",
 		"ano": 2008,
-		"score": 6.599,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/2rEzOeG6he952m7tyFe7tOyfoko.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
 		"videoid": "4273554b5f4f424c6b530b",
@@ -6210,7 +6305,7 @@
 		"nome": "Liga da Justiça: A Nova Fronteira",
 		"duracao": "1:14:55",
 		"ano": 2008,
-		"score": 6.9,
+		"score": "6.9",
 		"poster": "https://image.tmdb.org/t/p/w200/4Gbbj2bUNKi2Bfc5EOhbXomaeBo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qkdmZFwy8wTGEHgPAS1HX2lOdK6.jpg",
 		"videoid": "715f6864794d41690f5348",
@@ -6256,7 +6351,7 @@
 		"nome": "O Assassinato de Jesse James Pelo Covarde Robert Ford",
 		"duracao": "2:39:41",
 		"ano": 2007,
-		"score": 7.056,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
 		"videoid": "4b5e5a787277625f50734c",
@@ -6302,7 +6397,7 @@
 		"nome": "A Morte do Superman",
 		"duracao": "1:17:42",
 		"ano": 2007,
-		"score": 6.715,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/wcF16pLROx0MVxVqcCMX2SRmdv3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oTPSjQyETTFYDehdbiG8yi2oDmL.jpg",
 		"videoid": "5357564e0d620f577a6c62",
@@ -6348,7 +6443,7 @@
 		"nome": "12",
 		"duracao": "2:35:06",
 		"ano": 2007,
-		"score": 7.275,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/2B3NY8Hdi7Xy19Xnk5zVEUiwwO2.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
 		"videoid": "4a48635d5f7c7e75764e62",
@@ -6377,15 +6472,15 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
+			},
+			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 6
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 6
 			}
 		]
@@ -6394,7 +6489,7 @@
 		"nome": "As Fitas de Poughkeepsie",
 		"duracao": "1:21:00",
 		"ano": 2007,
-		"score": 6.605,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/uAv2ap0S1q0ksDHNM30xNbgPHZG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mq1TQH9hDQrltit7fyj8k2P1RuF.jpg",
 		"videoid": "4d0e036e5d564e5054575c",
@@ -6440,7 +6535,7 @@
 		"nome": "Primitivo",
 		"duracao": "1:34:13",
 		"ano": 2007,
-		"score": 6.034,
+		"score": "5.4",
 		"poster": "https://image.tmdb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
 		"videoid": "535479626e087f51526d5c",
@@ -6486,7 +6581,7 @@
 		"nome": "A Garota dos Meus Sonhos",
 		"duracao": "1:30:50",
 		"ano": 2006,
-		"score": 5.7,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/3s7FCTHkqRceySQmwPPpyV0yiD4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7ZGozuDVbVl7RcnWlucKAkJFCC2.jpg",
 		"videoid": "7a6e75424d71567f424250",
@@ -6532,7 +6627,7 @@
 		"nome": "Perfume - A História de um Assassino",
 		"duracao": "2:27:25",
 		"ano": 2006,
-		"score": 7.342,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/cXan3sEfEfyinnUYkhyRCD5NCC2.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kgHYRHQ5BZM1mxsy1MSZepNjMiR.jpg",
 		"videoid": "5c507554430b494e7d430f",
@@ -6578,7 +6673,7 @@
 		"nome": "DOA: Vivo ou Morto",
 		"duracao": "1:26:11",
 		"ano": 2006,
-		"score": 5.2,
+		"score": "5.0",
 		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
 		"videoid": "0362746f7d5e7e5c736103",
@@ -6624,7 +6719,7 @@
 		"nome": "Efeito Borboleta 2",
 		"duracao": "1:32:21",
 		"ano": 2006,
-		"score": 4.931,
+		"score": "4.7",
 		"poster": "https://image.tmdb.org/t/p/w200/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zQXlw0Vj20trQbbI1VRkqwhfqyn.jpg",
 		"videoid": "6e0c096403690a41560a50",
@@ -6645,6 +6740,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 11
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 10
 			},
@@ -6659,10 +6758,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 9
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 8
 			}
 		]
 	},
@@ -6670,7 +6765,7 @@
 		"nome": "Premonição 3",
 		"duracao": "1:32:50",
 		"ano": 2006,
-		"score": 6.064,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/qog4ibJFqTpLAIbqPSXncSG0ODJ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/2u6cSsGv5thEXcHFREhoYsgIEkt.jpg",
 		"videoid": "554c510a596948717a4c58",
@@ -6716,7 +6811,7 @@
 		"nome": "O Filho de Chucky",
 		"duracao": "1:26:15",
 		"ano": 2004,
-		"score": 5.413,
+		"score": "5.1",
 		"poster": "https://image.tmdb.org/t/p/w200/a7vVEDLt4rFYTxZRPeRGEv7QbNQ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/joTtQICm7vrGrVitC1bobgBmxUh.jpg",
 		"videoid": "596c6961750c6d4c0f6e54",
@@ -6762,7 +6857,7 @@
 		"nome": "Uma Festa no Ar",
 		"duracao": "1:32:02",
 		"ano": 2004,
-		"score": 5.297,
+		"score": "4.9",
 		"poster": "https://image.tmdb.org/t/p/w200/48hcA0oSX7DmMrS8zaLVD3k8Pe7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uYppahqnT4n0OlGf1BoeP8ADoS1.jpg",
 		"videoid": "6153684848485d6a5f790b",
@@ -6787,6 +6882,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 9
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 8
 			},
@@ -6797,10 +6896,6 @@
 			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 7
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 7
 			}
 		]
 	},
@@ -6808,7 +6903,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.545,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -6854,7 +6949,7 @@
 		"nome": "O Medalhão",
 		"duracao": "1:28:28",
 		"ano": 2003,
-		"score": 5.6,
+		"score": "5.4",
 		"poster": "https://image.tmdb.org/t/p/w200/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5GDwpS7FFnlkqLFtT06A93zOTRG.jpg",
 		"videoid": "6a414e0c61544f4e545503",
@@ -6900,7 +6995,7 @@
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
 		"ano": 2003,
-		"score": 6.134,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/fVPZumNA50cSePKm56lEZ9G86f4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ctSHPoptLOGtg2tKgVWhz1eCNNi.jpg",
 		"videoid": "0f790b52584d5e08710258",
@@ -6946,7 +7041,7 @@
 		"nome": "Dicionário de Cama",
 		"duracao": "1:49:20",
 		"ano": 2003,
-		"score": 6.55,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/g60TBvRbw9HhOp5mJRmR8LFGrTF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/351R85FxY6gHefB6tK5CWorjwpC.jpg",
 		"videoid": "515316625474695a4f7d03",
@@ -6992,7 +7087,7 @@
 		"nome": "Premonição 2",
 		"duracao": "1:30:11",
 		"ano": 2003,
-		"score": 6.193,
+		"score": "6.2",
 		"poster": "https://image.tmdb.org/t/p/w200/v1HSfT3BjDRGfHji30VvHeCBJHu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tSCozfXKeALzwcCilWcCXM14edJ.jpg",
 		"videoid": "540c7171514156726f6458",
@@ -7038,7 +7133,7 @@
 		"nome": "Cidade de Deus",
 		"duracao": "2:09:49",
 		"ano": 2002,
-		"score": 8.416,
+		"score": "8.5",
 		"poster": "https://image.tmdb.org/t/p/w200/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
 		"videoid": "5f6f56580c5c775e694e7e",
@@ -7071,11 +7166,11 @@
 				"similaridade": 56
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 53
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 55
 			},
 			{
-				"filme": "O Poderoso Chefão",
+				"filme": "O Estrangeiro",
 				"similaridade": 53
 			}
 		]
@@ -7084,7 +7179,7 @@
 		"nome": "A Viagem de Chihiro",
 		"duracao": "2:04:34",
 		"ano": 2001,
-		"score": 8.54,
+		"score": "8.6",
 		"poster": "https://image.tmdb.org/t/p/w200/e7WdOF6j3wB5kFXIEoqGXKmGaTl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hZth9NCeXvvO7Xi98d8q34e1Ier.jpg",
 		"videoid": "580c646a686f5c7656430b",
@@ -7130,7 +7225,7 @@
 		"nome": "Espião por Acidente",
 		"duracao": "1:26:14",
 		"ano": 2001,
-		"score": 6.001,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sfSXkCTeJ7qBJm44V65u3y7YQf6.jpg",
 		"videoid": "4c594a71734f0b495f5d58",
@@ -7176,7 +7271,7 @@
 		"nome": "O Auto da Compadecida",
 		"duracao": "2:40:12",
 		"ano": 2000,
-		"score": 8.441,
+		"score": "8.5",
 		"poster": "https://image.tmdb.org/t/p/w200/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xs6awEGjnH3e36YSAromfYu3PBQ.jpg",
 		"videoid": "4a535c027c62744b08160b",
@@ -7222,7 +7317,7 @@
 		"nome": "Mar em Fúria",
 		"duracao": "2:09:50",
 		"ano": 2000,
-		"score": 6.404,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/9R0CYorOmNfp17hnvO5zioT70D6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/cmOWlfDvBSMyLaeZ85M87GmkH8v.jpg",
 		"videoid": "16737974720d576c4e695c",
@@ -7268,7 +7363,7 @@
 		"nome": "Bater ou Correr",
 		"duracao": "1:50:18",
 		"ano": 2000,
-		"score": 6.4,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/82ZXnrTOcNOm1NjWAWrSROQMULc.jpg",
 		"videoid": "79516f557e0a7c72577e6a",
@@ -7314,7 +7409,7 @@
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
 		"ano": 2000,
-		"score": 7.394,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
 		"videoid": "5e5e6b7f50555d6a644c4c",
@@ -7360,7 +7455,7 @@
 		"nome": "Gladiador",
 		"duracao": "2:50:58",
 		"ano": 2000,
-		"score": 8.2,
+		"score": "8.3",
 		"poster": "https://image.tmdb.org/t/p/w200/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
 		"videoid": "680d786f766d4c50027958",
@@ -7406,7 +7501,7 @@
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
-		"score": 6.564,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
@@ -7452,7 +7547,7 @@
 		"nome": "A Lenda do Cavaleiro Sem Cabeça",
 		"duracao": "1:45:31",
 		"ano": 1999,
-		"score": 7.146,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
 		"videoid": "6950615859166b717f7576",
@@ -7498,7 +7593,7 @@
 		"nome": "Do Fundo do Mar",
 		"duracao": "1:45:01",
 		"ano": 1999,
-		"score": 5.939,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/d8TIyaOwqrzWWxERxQ9fJ9jrFrb.jpg",
 		"videoid": "7677430c0c6c755d694a6e",
@@ -7544,7 +7639,7 @@
 		"nome": "A Noiva de Chucky",
 		"duracao": "1:28:51",
 		"ano": 1998,
-		"score": 5.957,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/bhVKlNWNduGgPwI89I35CWtvIsn.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gCWYgNGQgB1zqPe2Jgds27cbOS3.jpg",
 		"videoid": "436f5f024a550b744c4950",
@@ -7590,7 +7685,7 @@
 		"nome": "Quem Sou Eu?",
 		"duracao": "1:48:02",
 		"ano": 1998,
-		"score": 7.105,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dlyeSZD92Arha6XVBteyNNaPi19.jpg",
 		"videoid": "4364415d037e16796b767a",
@@ -7636,7 +7731,7 @@
 		"nome": "12 Homens e uma Sentença",
 		"duracao": "1:57:28",
 		"ano": 1997,
-		"score": 7.7,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/fBWeLc6Kj8ok0Qsjj98VG91RO4U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kc1e8Atb1Dntzry6un1z3MAUzGe.jpg",
 		"videoid": "427350505574687e51765c",
@@ -7682,7 +7777,7 @@
 		"nome": "187: O Código",
 		"duracao": "1:59:35",
 		"ano": 1997,
-		"score": 6.639,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/oYj3TtkOOGFpV6ARX3KcZAVW2RX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/atxSD5UwoVGtIitOyNfQ6ry8q4u.jpg",
 		"videoid": "52766c616f6b53427a0b0f",
@@ -7728,7 +7823,7 @@
 		"nome": "O Quinto Elemento",
 		"duracao": "2:06:04",
 		"ano": 1997,
-		"score": 7.512,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/kjWYd2qziS18BPQs85xE6Lb3H09.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
 		"videoid": "4c7d4d795a530e416f5c50",
@@ -7774,7 +7869,7 @@
 		"nome": "Guerreiros da Virtude",
 		"duracao": "1:42:57",
 		"ano": 1997,
-		"score": 4.7,
+		"score": "4.7",
 		"poster": "https://image.tmdb.org/t/p/w200/imOcpaBQsDmvB5NL72aFIH2OUHg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/oL31tu5qgxHY7KlAEJQ8xad5STo.jpg",
 		"videoid": "765a167e4a6d5670506c03",
@@ -7820,7 +7915,7 @@
 		"nome": "Beavis e Butt-Head Detonam a América",
 		"duracao": "1:20:53",
 		"ano": 1996,
-		"score": 6.604,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/wEB1GPT7mQcTNuYT73s72ljjbMF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/myc2N1GjIKLTjSbIzmI0KEXdaPB.jpg",
 		"videoid": "567d735c5e6b5e61540262",
@@ -7866,7 +7961,7 @@
 		"nome": "Thunderbolt: Ação Sobre Rodas",
 		"duracao": "1:45:50",
 		"ano": 1995,
-		"score": 6.4,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/f87fY5kuGCKiWJduVXtBWxtJttF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mwt58ScrmiPUwgkR8NTEA26joMf.jpg",
 		"videoid": "517a7a160351767f494c76",
@@ -7909,10 +8004,56 @@
 		]
 	},
 	{
+		"nome": "Um Garoto na Corte do Rei Arthur",
+		"duracao": "1:30:26",
+		"ano": 1995,
+		"score": "4.8",
+		"poster": "https://image.tmdb.org/t/p/w200/a1ijvSAZJ4JG63Cyaa884k4V5fG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nqDQFwSpzqPNeu7gL0BWnwjWFkL.jpg",
+		"videoid": "7d4e77487050427f6f554c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 22
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 21
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 21
+			},
+			{
+				"filme": "Bater ou Correr",
+				"similaridade": 18
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 17
+			}
+		]
+	},
+	{
 		"nome": "Lembranças de Outra Vida",
 		"duracao": "1:35:40",
 		"ano": 1995,
-		"score": 7.167,
+		"score": "6.9",
 		"poster": "https://image.tmdb.org/t/p/w200/kCBAmH4K5hgL2H8hpQ8wHRwMAwI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lwnM9P0rtXdNdV2uZ9r84ALQTyt.jpg",
 		"videoid": "4a566e7e566f0f0e5c640b",
@@ -7958,7 +8099,7 @@
 		"nome": "Arrebentando em Nova York",
 		"duracao": "1:29:37",
 		"ano": 1995,
-		"score": 6.8,
+		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
 		"videoid": "620f510374560b03717054",
@@ -8004,7 +8145,7 @@
 		"nome": "Um Sonho de Liberdade",
 		"duracao": "2:22:33",
 		"ano": 1994,
-		"score": 8.722,
+		"score": "9.0",
 		"poster": "https://image.tmdb.org/t/p/w200/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
 		"videoid": "770d785c630b6e555d037a",
@@ -8050,7 +8191,7 @@
 		"nome": "A Fuga",
 		"duracao": "1:55:14",
 		"ano": 1994,
-		"score": 5.6,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/eByIA9G8dinaMJRexKbjmqJF8nF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nut4QrJMRM836INrpEaAbfO8DLp.jpg",
 		"videoid": "764e5476704e756c42537a",
@@ -8096,7 +8237,7 @@
 		"nome": "Perigo Para a Sociedade",
 		"duracao": "1:37:34",
 		"ano": 1993,
-		"score": 7.543,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/7KkHiZMvEdEZq2qrQX3kzYA7Off.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7MCj7x7nVWDj28qi2O8VqvcLXDc.jpg",
 		"videoid": "0e0c630c43645f7a707654",
@@ -8142,7 +8283,7 @@
 		"nome": "Perfume de Mulher",
 		"duracao": "2:36:26",
 		"ano": 1992,
-		"score": 7.738,
+		"score": "7.7",
 		"poster": "https://image.tmdb.org/t/p/w200/7vYWmKziZCfuXuIesRdVHUtXaLY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
 		"videoid": "6a49420f0d6c4363645e4c",
@@ -8188,7 +8329,7 @@
 		"nome": "Drácula de Bram Stoker",
 		"duracao": "2:07:23",
 		"ano": 1992,
-		"score": 7.433,
+		"score": "7.4",
 		"poster": "https://image.tmdb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
 		"videoid": "560f48080c554143095d54",
@@ -8234,7 +8375,7 @@
 		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
 		"duracao": "1:35:12",
 		"ano": 1992,
-		"score": 4.8,
+		"score": "4.3",
 		"poster": "https://image.tmdb.org/t/p/w200/7PNCxEh7dzuhCiMOrfguVjdUgl0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8t0KYCkBaK3aAgNvfrgVHpcuNI6.jpg",
 		"videoid": "4c4e430b0b50760c5a4d62",
@@ -8280,7 +8421,7 @@
 		"nome": "Uma Questão de Respeito",
 		"duracao": "1:34:41",
 		"ano": 1992,
-		"score": 7.2,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/eMCDtLlU62c7jXMJRD7TYKois6L.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pzJMoBpHXp5wIKbFUXLYUAoyaE8.jpg",
 		"videoid": "4979166116690f4d4c637a",
@@ -8326,7 +8467,7 @@
 		"nome": "Brinquedo Assassino 3",
 		"duracao": "1:29:41",
 		"ano": 1991,
-		"score": 5.867,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/k0XTbNtE3fSiId7IcMXXRGDJRYp.jpg",
 		"videoid": "697551024271755a746d72",
@@ -8372,7 +8513,7 @@
 		"nome": "O Poderoso Chefão: Parte III",
 		"duracao": "2:50:16",
 		"ano": 1990,
-		"score": 7.421,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/y8GROCjgD8amoFufSx2USKrOy7d.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9jzcBj3K3sOJe1yF73JEFPISIHE.jpg",
 		"videoid": "7e0b636373615c58776350",
@@ -8418,7 +8559,7 @@
 		"nome": "Brinquedo Assassino 2",
 		"duracao": "1:23:50",
 		"ano": 1990,
-		"score": 6.202,
+		"score": "6.1",
 		"poster": "https://image.tmdb.org/t/p/w200/ztcbACnysI1sUVi7u3333jQwFU1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5Fk490c1nNCyGT6HLVJO0rPD281.jpg",
 		"videoid": "036c7d0e6f6e6a79486e62",
@@ -8464,7 +8605,7 @@
 		"nome": "O Exorcista III",
 		"duracao": "1:49:57",
 		"ano": 1990,
-		"score": 6.2,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mpMC8HEUjnU0mMVlFsWTlFJeiq5.jpg",
 		"videoid": "5c77610f7e096264566c7a",
@@ -8510,7 +8651,7 @@
 		"nome": "O Dragão e o Tigre",
 		"duracao": "1:44:50",
 		"ano": 1990,
-		"score": 7.2,
+		"score": "6.9",
 		"poster": "https://image.tmdb.org/t/p/w200/5l3OymXLquKTUe9S7ewWJccRGVv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/reB9Xbx2i6tv5Io7MXBZ4jmSvKe.jpg",
 		"videoid": "0b7f74716142626b580350",
@@ -8543,11 +8684,11 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Agentes Vanguard",
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 7
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Agentes Vanguard",
 				"similaridade": 7
 			}
 		]
@@ -8556,7 +8697,7 @@
 		"nome": "Vingança",
 		"duracao": "2:03:50",
 		"ano": 1990,
-		"score": 6.6,
+		"score": "6.3",
 		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aCKxFn7oixq8PIdM1pHF2qn7GSB.jpg",
 		"videoid": "7563035f68740d52554962",
@@ -8602,7 +8743,7 @@
 		"nome": "Chefão Por Acaso",
 		"duracao": "2:06:58",
 		"ano": 1989,
-		"score": 7.1,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/aJgLhPwmzKtX0AONtWXWpIQpIHx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/baKUm23wuT8AqDu2ucx5bgfqETN.jpg",
 		"videoid": "507176565f6a6c0d4b7272",
@@ -8648,7 +8789,7 @@
 		"nome": "A Casa do Espanto 3",
 		"duracao": "1:34:23",
 		"ano": 1989,
-		"score": 5.3,
+		"score": "5.3",
 		"poster": "https://image.tmdb.org/t/p/w200/azkxRbusgAZiXGcZMfjWdYdqdGb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tZcOail3NuHDWUxh77FihNpsnH.jpg",
 		"videoid": "5f6c55596142764d7f0d03",
@@ -8694,7 +8835,7 @@
 		"nome": "Cemitério Maldito",
 		"duracao": "1:42:46",
 		"ano": 1989,
-		"score": 6.595,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/gklxyWeboH8ZerVwLSW79AEIInf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
 		"videoid": "485679684f58574d416f7e",
@@ -8740,7 +8881,7 @@
 		"nome": "Brinquedo Assassino",
 		"duracao": "1:27:31",
 		"ano": 1988,
-		"score": 6.633,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/ZOwMoz3wCXM6sdMWgZRYWBNlvI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
 		"videoid": "5c79527e6b794b0e43524c",
@@ -8786,7 +8927,7 @@
 		"nome": "Bat 21: Missão no Inferno",
 		"duracao": "1:44:55",
 		"ano": 1988,
-		"score": 6.4,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/yIeFT2RqJdXMRIhGLs05xtzBkt9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gKpOQOazSJHBZUQh1BkNNaocq8S.jpg",
 		"videoid": "7a4d5f507f517169515f0f",
@@ -8832,7 +8973,7 @@
 		"nome": "Dragões para Sempre",
 		"duracao": "1:29:57",
 		"ano": 1988,
-		"score": 7.2,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
 		"videoid": "586d616b7f4268080f6403",
@@ -8878,7 +9019,7 @@
 		"nome": "A Casa do Espanto 2",
 		"duracao": "1:28:11",
 		"ano": 1987,
-		"score": 5.5,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/A4tfyHwA0aZjDIBMRpONkNfhzUD.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/r3uHyikGNv5oiRbZvbryhnHk9ql.jpg",
 		"videoid": "766e7f5d6e5a7a0258547a",
@@ -8924,7 +9065,7 @@
 		"nome": "A Noite dos Arrepios",
 		"duracao": "1:29:53",
 		"ano": 1986,
-		"score": 6.75,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/ApOIn9hfTkI95eDAFcKOYrc4Qu7.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/i1fGLYO2nzkFazh58sgOT7ohosU.jpg",
 		"videoid": "724a795048736f590d6b0b",
@@ -8970,7 +9111,7 @@
 		"nome": "A Casa do Espanto",
 		"duracao": "1:31:58",
 		"ano": 1986,
-		"score": 6.1,
+		"score": "6.1",
 		"poster": "https://image.tmdb.org/t/p/w200/kiIZdDYP2vUV3PZrgY5vJBHhhdf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dQ1NwW8LE4PR8UfLEf8eAQpgTpG.jpg",
 		"videoid": "544e73517072554a6e7176",
@@ -9016,7 +9157,7 @@
 		"nome": "FX - Assassinato sem Morte",
 		"duracao": "1:43:58",
 		"ano": 1986,
-		"score": 6.446,
+		"score": "6.6",
 		"poster": "https://image.tmdb.org/t/p/w200/kViIizFhXM6kJFTLbrVrxUxYta9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iQpM9uZDW4R1d96xuTOO0DQUMVy.jpg",
 		"videoid": "41734c5d686b584d166a62",
@@ -9062,7 +9203,7 @@
 		"nome": "Olhos de Gato",
 		"duracao": "1:34:41",
 		"ano": 1985,
-		"score": 6.8,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/3UKPrcUdMedexjOKAfcDoJreoZO.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hxUM806p8SeOwdsYamUOrTYc07E.jpg",
 		"videoid": "6a740a6f0c780a774a0e72",
@@ -9108,7 +9249,7 @@
 		"nome": "Estrelas do Kung Fu",
 		"duracao": "1:36:18",
 		"ano": 1985,
-		"score": 6.4,
+		"score": "6.4",
 		"poster": "https://image.tmdb.org/t/p/w200/9RsG0eY9sJHd6Ar0OnZZ3k8WFCY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/x8yA4dKJyctamyiM6jF8Zgqrlkh.jpg",
 		"videoid": "5a4f7c494879167d576272",
@@ -9151,10 +9292,56 @@
 		]
 	},
 	{
+		"nome": "Cabra Marcado Para Morrer",
+		"duracao": "1:59:31",
+		"ano": 1984,
+		"score": "8.3",
+		"poster": "https://image.tmdb.org/t/p/w200/fdll4h8DHM4W1AXDh44WlfvY1rC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/f8zh7tSRsp4h3tGaD6ZRRWANXSX.jpg",
+		"videoid": "6f7a7f486b4374684d7d6e",
+		"resolucaoArmazenada": "1480x1078",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Detonando em Barcelona",
 		"duracao": "1:48:33",
 		"ano": 1984,
-		"score": 7,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iABwTioi1g9EyWfE7xsSIU4Gkqi.jpg",
 		"videoid": "4f6a6b487c0202500b5d50",
@@ -9200,7 +9387,7 @@
 		"nome": "Projeto China",
 		"duracao": "1:46:01",
 		"ano": 1983,
-		"score": 7.2,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/uvQadnCrtustVtz49hv3mRpNVZg.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ax6u1hXy9ZWvdl7uYTadx7RFReg.jpg",
 		"videoid": "6370024b0c63085a76797a",
@@ -9246,7 +9433,7 @@
 		"nome": "Perdedores e Vencedores",
 		"duracao": "1:48:14",
 		"ano": 1983,
-		"score": 6.8,
+		"score": "6.7",
 		"poster": "https://image.tmdb.org/t/p/w200/3GtnjzDrdIhnnyZZhFzATh61wD1.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/106zrDyHpD0T1ZtNBrBh1K5M9up.jpg",
 		"videoid": "4355744d7f720d725f7462",
@@ -9292,7 +9479,7 @@
 		"nome": "O Veredicto",
 		"duracao": "2:08:51",
 		"ano": 1982,
-		"score": 7.4,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
 		"videoid": "7e0c6250595972784d6854",
@@ -9338,7 +9525,7 @@
 		"nome": "Gandhi",
 		"duracao": "3:11:15",
 		"ano": 1982,
-		"score": 7.536,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
 		"videoid": "7955630356724e0c4d436e",
@@ -9384,7 +9571,7 @@
 		"nome": "O Enigma de Outro Mundo",
 		"duracao": "1:48:43",
 		"ano": 1982,
-		"score": 8.021,
+		"score": "8.1",
 		"poster": "https://image.tmdb.org/t/p/w200/jCEiFLzzmFw1Ijfs3YRy8yqHs9U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
 		"videoid": "6d48700b7f4a5108744862",
@@ -9430,7 +9617,7 @@
 		"nome": "Fúria Silenciosa",
 		"duracao": "1:40:26",
 		"ano": 1982,
-		"score": 6,
+		"score": "5.7",
 		"poster": "https://image.tmdb.org/t/p/w200/gxJm7yFKkbp5UojwOi71nNr3cmE.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8PKqcN6IREm2Xy43lzhPZ2ORzQi.jpg",
 		"videoid": "6a5a5c747f49501650706a",
@@ -9476,7 +9663,7 @@
 		"nome": "O Grande Lutador",
 		"duracao": "1:36:11",
 		"ano": 1980,
-		"score": 6.1,
+		"score": "5.9",
 		"poster": "https://image.tmdb.org/t/p/w200/xmlWFjvhmKjTiSqcvYrRDbRsTjQ.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yzrkvKADAP2DHXjG3dutmW85tRC.jpg",
 		"videoid": "42785c73085a095009530b",
@@ -9522,7 +9709,7 @@
 		"nome": "Justiça Para Todos",
 		"duracao": "1:59:05",
 		"ano": 1979,
-		"score": 7.1,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/l82JLXaJK9hqv08P4A9pTM8OCtq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSE7G4lmaTFgjj7KHIWlWoPo6q5.jpg",
 		"videoid": "4d5141780d7d557e706d7e",
@@ -9533,6 +9720,10 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 41
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 25
 			},
 			{
 				"filme": "Batman",
@@ -9557,10 +9748,6 @@
 			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 19
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 19
 			}
 		]
 	},
@@ -9568,7 +9755,7 @@
 		"nome": "Operação Dragão Negro",
 		"duracao": "1:34:10",
 		"ano": 1977,
-		"score": 5,
+		"score": "5.0",
 		"poster": "https://image.tmdb.org/t/p/w200/xOy3igwWmkF2zsecMiXoTFLd4UG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/duH3TEDkdZC3C2q2bY5c9SRg1DZ.jpg",
 		"videoid": "6a550d5e0f0d5d56755f48",
@@ -9614,7 +9801,7 @@
 		"nome": "O Exorcista II: O Herege",
 		"duracao": "1:57:42",
 		"ano": 1977,
-		"score": 4.5,
+		"score": "4.2",
 		"poster": "https://image.tmdb.org/t/p/w200/2XASU2NnhnOTitNwSN9GmWVhlov.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
 		"videoid": "5f645d56495f4174797862",
@@ -9660,7 +9847,7 @@
 		"nome": "A Nova Fúria do Dragão",
 		"duracao": "2:00:07",
 		"ano": 1976,
-		"score": 5.6,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ywYHvukuJjcZD7U2J23MS0ICPrP.jpg",
 		"videoid": "6d78497d0e620e0e4a7748",
@@ -9706,7 +9893,7 @@
 		"nome": "O Poderoso Chefão: Parte II",
 		"duracao": "3:22:07",
 		"ano": 1974,
-		"score": 8.591,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
 		"videoid": "4b4c706d765e165e6e5350",
@@ -9752,7 +9939,7 @@
 		"nome": "O Exorcista",
 		"duracao": "2:12:22",
 		"ano": 1973,
-		"score": 7.713,
+		"score": "7.9",
 		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
 		"videoid": "42766f594d7479535e4c03",
@@ -9798,7 +9985,7 @@
 		"nome": "Os Ritos Satânicos de Drácula",
 		"duracao": "1:27:47",
 		"ano": 1973,
-		"score": 5.584,
+		"score": "5.5",
 		"poster": "https://image.tmdb.org/t/p/w200/ssPuMch8b9tHSzlKAqJK7yp5lNo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7iHNbmOpNuRN8SFITE7nKlk00qY.jpg",
 		"videoid": "4e6b79764e795f0f525650",
@@ -9844,7 +10031,7 @@
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
 		"ano": 1973,
-		"score": 7.587,
+		"score": "7.6",
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "0c4f6d686f4375766b7c54",
@@ -9890,7 +10077,7 @@
 		"nome": "Operação Dragão",
 		"duracao": "1:42:24",
 		"ano": 1973,
-		"score": 7.424,
+		"score": "7.5",
 		"poster": "https://image.tmdb.org/t/p/w200/11IHhCkk9TtBkc4BbVPys6NkSh3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
 		"videoid": "4f525e770843776b5f4b7e",
@@ -9936,7 +10123,7 @@
 		"nome": "Tati, a Garota",
 		"duracao": "1:29:12",
 		"ano": 1973,
-		"score": 6.667,
+		"score": "6.5",
 		"poster": "https://image.tmdb.org/t/p/w200/1BMXiLQeWfJmTkn0YWhi4llj9lG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/s5L8lVxAfYlwm0Vmy1TJ8IYxb8J.jpg",
 		"videoid": "70746f5d527e027f50570f",
@@ -9982,7 +10169,7 @@
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
 		"ano": 1972,
-		"score": 7.293,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
 		"videoid": "557f0d4c43745c764c5662",
@@ -10028,7 +10215,7 @@
 		"nome": "O Poderoso Chefão",
 		"duracao": "2:57:10",
 		"ano": 1972,
-		"score": 8.707,
+		"score": "9.0",
 		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
 		"videoid": "4c6351700b686b76437f72",
@@ -10074,7 +10261,7 @@
 		"nome": "Um Violinista no Telhado",
 		"duracao": "3:01:08",
 		"ano": 1971,
-		"score": 7.8,
+		"score": "7.8",
 		"poster": "https://image.tmdb.org/t/p/w200/bFSDFdFrLWmaLavenuHFIUxgUVW.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4nQOHKYRwPhAXqYACxVY6bMKbu8.jpg",
 		"videoid": "424a7c6e5175030a7a780b",
@@ -10120,7 +10307,7 @@
 		"nome": "Tora! Tora! Tora!",
 		"duracao": "2:28:54",
 		"ano": 1970,
-		"score": 7.159,
+		"score": "7.3",
 		"poster": "https://image.tmdb.org/t/p/w200/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
 		"videoid": "735f5f79020f09420e5054",
@@ -10166,7 +10353,7 @@
 		"nome": "Era uma Vez no Oeste",
 		"duracao": "2:46:02",
 		"ano": 1968,
-		"score": 8.315,
+		"score": "8.4",
 		"poster": "https://image.tmdb.org/t/p/w200/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
 		"videoid": "760c097c7d7a0d710d646a",
@@ -10212,7 +10399,7 @@
 		"nome": "Os Doze Condenados",
 		"duracao": "2:29:38",
 		"ano": 1967,
-		"score": 7.631,
+		"score": "7.7",
 		"poster": "https://image.tmdb.org/t/p/w200/djGA2A1DuP8YYIkLmeiMzIgC9B9.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hDzCnoDiYMZ4rPQO4U0GB7exCzG.jpg",
 		"videoid": "775e434a6a5c576f5d6e4c",
@@ -10258,7 +10445,7 @@
 		"nome": "O Vento Será Tua Herança",
 		"duracao": "2:07:56",
 		"ano": 1960,
-		"score": 7.814,
+		"score": "8.0",
 		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
 		"videoid": "4c5950165757505554590f",
@@ -10304,7 +10491,7 @@
 		"nome": "A Embriaguez do Sucesso",
 		"duracao": "1:36:41",
 		"ano": 1957,
-		"score": 7.7,
+		"score": "7.7",
 		"poster": "https://image.tmdb.org/t/p/w200/a0rWG90gNd85ttLjXAYNUAUG8GK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nC8u2U0YpmFOzJjbQaCt5NwbkGQ.jpg",
 		"videoid": "0c566a7a6473555d025376",
@@ -10350,7 +10537,7 @@
 		"nome": "12 Homens e Uma Sentença",
 		"duracao": "1:36:22",
 		"ano": 1957,
-		"score": 8.521,
+		"score": "8.4",
 		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
 		"videoid": "7d7a4d7a616b7a7c735d48",
@@ -10396,7 +10583,7 @@
 		"nome": "Cinderela em Paris",
 		"duracao": "1:43:20",
 		"ano": 1957,
-		"score": 7,
+		"score": "7.0",
 		"poster": "https://image.tmdb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
 		"videoid": "4a506a030b485c6b765a03",
@@ -10442,7 +10629,7 @@
 		"nome": "Sindicato de Ladrões",
 		"duracao": "1:47:42",
 		"ano": 1954,
-		"score": 8,
+		"score": "8.1",
 		"poster": "https://image.tmdb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
 		"videoid": "776b785a70787d56705d0f",
@@ -10488,7 +10675,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.467,
+		"score": "8.5",
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "7756740a4e620e77556e6a",
@@ -10534,7 +10721,7 @@
 		"nome": "Crepúsculo dos Deuses",
 		"duracao": "1:50:19",
 		"ano": 1950,
-		"score": 8.39,
+		"score": "8.4",
 		"poster": "https://image.tmdb.org/t/p/w200/nOgsN1JibIKsb0tr8w2dCpYnU1R.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
 		"videoid": "0e704a497316646b584c03",
@@ -10580,7 +10767,7 @@
 		"nome": "Desfile de Páscoa",
 		"duracao": "1:43:22",
 		"ano": 1948,
-		"score": 7,
+		"score": "7.2",
 		"poster": "https://image.tmdb.org/t/p/w200/aLgvafQvb6D6at4khC0b7kn0h8f.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yf8Ct7WikW3TlgGlrMoCsCn7YBY.jpg",
 		"videoid": "7a4e645f7f6f726a6d4254",
@@ -10626,7 +10813,7 @@
 		"nome": "Casablanca",
 		"duracao": "1:42:37",
 		"ano": 1942,
-		"score": 8.169,
+		"score": "8.3",
 		"poster": "https://image.tmdb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
 		"videoid": "414a6954700a0203576e03",
@@ -10672,7 +10859,7 @@
 		"nome": "Cidadão Kane",
 		"duracao": "1:59:24",
 		"ano": 1941,
-		"score": 8.03,
+		"score": "8.2",
 		"poster": "https://image.tmdb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
 		"videoid": "0a786d5c5251770e02616e",
