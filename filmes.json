@@ -5,7 +5,7 @@
 		"ano": 2022,
 		"score": "6.8",
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/pLOFQLeKQYsCzkYgsw9tg1cPuDG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
 		"videoid": "1675615e757d524909726a",
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": "200M",
@@ -150,6 +150,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -175,10 +179,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -380,6 +380,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -405,10 +409,6 @@
 			},
 			{
 				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			}
 		]
@@ -480,6 +480,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -497,10 +501,6 @@
 			},
 			{
 				"filme": "Júpiter",
-				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
 				"similaridade": 1
 			}
 		]
@@ -518,6 +518,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -544,10 +548,6 @@
 			{
 				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
-				"similaridade": 1
 			}
 		]
 	},
@@ -563,6 +563,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
 			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
@@ -589,10 +593,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -693,7 +693,7 @@
 		"nome": "Farofa da GKay: O Documentário",
 		"duracao": "58:48",
 		"ano": 2022,
-		"score": "7.1",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/vXJIFS0aUE07M9lHRJr31Ngty1A.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iQpkvHCLupvsmB4StheP5nAEgb6.jpg",
 		"videoid": "7279725f6e5179495c5c0f",
@@ -701,6 +701,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
 			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
@@ -727,10 +731,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -1101,6 +1101,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1126,10 +1130,6 @@
 			},
 			{
 				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			}
 		]
@@ -1285,6 +1285,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1310,10 +1314,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -1331,6 +1331,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1356,10 +1360,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -1451,7 +1451,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -1607,6 +1607,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1632,10 +1636,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -1761,6 +1761,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1770,10 +1774,6 @@
 			},
 			{
 				"filme": "Cabra Marcado Para Morrer",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meteoros",
 				"similaridade": 1
 			}
 		]
@@ -1883,6 +1883,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -1908,10 +1912,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -1975,6 +1975,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -2000,10 +2004,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -2021,6 +2021,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -2046,10 +2050,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -2104,7 +2104,7 @@
 		"nome": "Meu Filho",
 		"duracao": "1:36:22",
 		"ano": 2021,
-		"score": "7.1",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/gBtXMBMHXUdEr44MUcMTlH4pQJr.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iWz8VTQaimKmC6MEYWa0uhyrW9p.jpg",
 		"videoid": "480c0b5143097008785f0f",
@@ -2355,6 +2355,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cabra Marcado Para Morrer",
 				"similaridade": 1
 			},
@@ -2381,10 +2385,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 1
-			},
-			{
-				"filme": "Primitivo",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2400,6 +2400,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
 			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
@@ -2426,10 +2430,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Morte do Superman",
 				"similaridade": 1
 			}
 		]
@@ -2484,7 +2484,7 @@
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
-		"score": "5.9",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
 		"videoid": "4e7016035503625c79757a",
@@ -2693,6 +2693,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -2703,10 +2707,6 @@
 			{
 				"filme": "Meteoros",
 				"similaridade": 1
-			},
-			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2714,7 +2714,7 @@
 		"nome": "Liga da Justiça de Zack Snyder",
 		"duracao": "4:02:08",
 		"ano": 2021,
-		"score": "7.1",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
 		"videoid": "4c52736c490869486e417a",
@@ -2935,7 +2935,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -3257,7 +3257,7 @@
 		"nome": "Fúria Incontrolável",
 		"duracao": "1:30:15",
 		"ano": 2020,
-		"score": "7.4",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
 		"videoid": "751603485c7c5f4c7d746e",
@@ -3316,6 +3316,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -3337,10 +3341,6 @@
 			},
 			{
 				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
 				"similaridade": 1
 			}
 		]
@@ -3404,6 +3404,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -3429,10 +3433,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			}
 		]
@@ -4010,6 +4010,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -4028,10 +4032,6 @@
 			{
 				"filme": "Júpiter",
 				"similaridade": 1
-			},
-			{
-				"filme": "Amor Sem Medida",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4047,6 +4047,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
 			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
@@ -4073,10 +4077,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -4152,6 +4152,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -4177,10 +4181,6 @@
 			},
 			{
 				"filme": "Lacuna",
-				"similaridade": 1
-			},
-			{
-				"filme": "Meu Nome é Bagdá",
 				"similaridade": 1
 			}
 		]
@@ -4324,6 +4324,52 @@
 		]
 	},
 	{
+		"nome": "Piripkura",
+		"duracao": "1:21:24",
+		"ano": 2017,
+		"score": "7.8",
+		"poster": "https://image.tmdb.org/t/p/w200/mFt7rO2d0ODgU7JlVfng0psWksZ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h5qur9zYUMMHrONvXedReAcFhkU.jpg",
+		"videoid": "08090f636f684a637f4b0b",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cabra Marcado Para Morrer",
+				"similaridade": 2
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 2
+			},
+			{
+				"filme": "Reflexões de um Liquidificador",
+				"similaridade": 1
+			},
+			{
+				"filme": "Meteoros",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Júpiter",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Totem",
 		"duracao": "1:30:19",
 		"ano": 2017,
@@ -4419,7 +4465,7 @@
 		"nome": "O Estrangeiro",
 		"duracao": "1:53:53",
 		"ano": 2017,
-		"score": "5.5",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
 		"videoid": "717c69570d6d7776090a5c",
@@ -4846,6 +4892,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			},
@@ -4867,10 +4917,6 @@
 			},
 			{
 				"filme": "Amor Sem Medida",
-				"similaridade": 1
-			},
-			{
-				"filme": "Lacuna",
 				"similaridade": 1
 			}
 		]
@@ -5293,7 +5339,7 @@
 		"nome": "O Jogo da Imitação",
 		"duracao": "1:54:14",
 		"ano": 2014,
-		"score": "6.0",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/pNa7vGKv04X2jnKifxLCTHPmWUT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jFp5aAlGQ1H3gwdORL2urr8dnoN.jpg",
 		"videoid": "16700f64536b0f57640d03",
@@ -5431,7 +5477,7 @@
 		"nome": "Alemão",
 		"duracao": "1:49:37",
 		"ano": 2014,
-		"score": "5.9",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/5q9wVeY0uGvpwEc3Z7lnhnZdROt.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/asN5O4FagB6zhDj6YDamjEBjnP6.jpg",
 		"videoid": "636370500d5f0b530b7872",
@@ -5464,11 +5510,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Reflexões de um Liquidificador",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Cabra Marcado Para Morrer",
+				"filme": "Reflexões de um Liquidificador",
 				"similaridade": 1
 			}
 		]
@@ -5937,7 +5983,7 @@
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
 		"ano": 2011,
-		"score": "7.3",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/4yqEixwuJ1dgQ0C28ILHnotpIIY.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/yPAYpLofITQ9pST80ZNBGIE2pfN.jpg",
 		"videoid": "5e4c7e704b4f790e534e62",
@@ -5992,6 +6038,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Cabra Marcado Para Morrer",
 				"similaridade": 1
 			},
@@ -6017,10 +6067,6 @@
 			},
 			{
 				"filme": "Meu Nome é Bagdá",
-				"similaridade": 1
-			},
-			{
-				"filme": "Farofa da GKay: O Documentário",
 				"similaridade": 1
 			}
 		]
@@ -6489,7 +6535,7 @@
 		"nome": "As Fitas de Poughkeepsie",
 		"duracao": "1:21:00",
 		"ano": 2007,
-		"score": "5.7",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/uAv2ap0S1q0ksDHNM30xNbgPHZG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mq1TQH9hDQrltit7fyj8k2P1RuF.jpg",
 		"videoid": "4d0e036e5d564e5054575c",
@@ -9304,6 +9350,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 2
+			},
+			{
 				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
 			},
@@ -9329,10 +9379,6 @@
 			},
 			{
 				"filme": "Luccas Neto em: O Plano dos Vilões",
-				"similaridade": 1
-			},
-			{
-				"filme": "Júpiter",
 				"similaridade": 1
 			}
 		]
@@ -9893,7 +9939,7 @@
 		"nome": "O Poderoso Chefão: Parte II",
 		"duracao": "3:22:07",
 		"ano": 1974,
-		"score": "7.5",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
 		"videoid": "4b4c706d765e165e6e5350",
@@ -10537,7 +10583,7 @@
 		"nome": "12 Homens e Uma Sentença",
 		"duracao": "1:36:22",
 		"ano": 1957,
-		"score": "8.4",
+		"score": 0,
 		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
 		"videoid": "7d7a4d7a616b7a7c735d48",
