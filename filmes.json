@@ -46,6 +46,52 @@
 		]
 	},
 	{
+		"nome": "O Sol de Amalfi",
+		"duracao": "1:36:13",
+		"ano": 2022,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
+		"videoid": "784b62747773414352526e",
+		"resolucaoArmazenada": "1920x960",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Tigre e o Dragão: A Espada do Destino",
+				"similaridade": 3
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 3
+			}
+		]
+	},
+	{
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
@@ -392,6 +438,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "O Sol de Amalfi",
+				"similaridade": 5
+			},
+			{
 				"filme": "Juntos e Misturados",
 				"similaridade": 5
 			},
@@ -405,10 +455,6 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 5
-			},
-			{
-				"filme": "Your Name.",
 				"similaridade": 5
 			}
 		]
@@ -4048,6 +4094,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Sol de Amalfi",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
 				"similaridade": 1
 			},
@@ -4073,10 +4123,6 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Filho de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -4252,15 +4298,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Sol de Amalfi",
+				"similaridade": 1
+			},
+			{
 				"filme": "Tormento",
 				"similaridade": 1
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
 			}
 		]
@@ -4732,7 +4778,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Your Name.",
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 7
 			}
 		]
@@ -5142,11 +5188,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Poço",
-				"similaridade": 1
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 2
 			},
 			{
-				"filme": "Baahubali 2: A Conclusão",
+				"filme": "O Poço",
 				"similaridade": 1
 			}
 		]
@@ -7866,6 +7912,52 @@
 		]
 	},
 	{
+		"nome": "A Lenda do Cavaleiro Sem Cabeça",
+		"duracao": "1:45:31",
+		"ano": 1999,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/zxOuNnW2qrOOFtiPVJtx5aRAJoX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nVi8CINgtMbWmCQ0XxXgW2H1ZTW.jpg",
+		"videoid": "6950615859166b717f7576",
+		"resolucaoArmazenada": "1920x1072",
+		"orcamento": "100M",
+		"receita": "206.1M",
+		"similares": [
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 52
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 46
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 39
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 37
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 36
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 36
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 35
+			}
+		]
+	},
+	{
 		"nome": "Do Fundo do Mar",
 		"duracao": "1:45:01",
 		"ano": 1999,
@@ -8614,6 +8706,10 @@
 		"receita": "215.9M",
 		"similares": [
 			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 52
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 51
 			},
@@ -8640,10 +8736,6 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 43
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 40
 			}
 		]
 	},
@@ -8906,6 +8998,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 14
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
 			},
@@ -8915,10 +9011,6 @@
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 12
-			},
-			{
-				"filme": "Brinquedo Assassino",
 				"similaridade": 12
 			}
 		]
@@ -9090,6 +9182,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 11
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 10
 			},
@@ -9100,10 +9196,6 @@
 			{
 				"filme": "Premonição 3",
 				"similaridade": 10
-			},
-			{
-				"filme": "Brinquedo Assassino 2",
-				"similaridade": 9
 			}
 		]
 	},
@@ -10524,11 +10616,11 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "O Castelo de Vidro",
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 12
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
+				"filme": "O Castelo de Vidro",
 				"similaridade": 12
 			}
 		]
