@@ -288,6 +288,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -309,14 +317,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -346,10 +346,6 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "DOA: Vivo ou Morto",
-				"similaridade": 6
-			},
-			{
 				"filme": "Mate ou Morra",
 				"similaridade": 6
 			},
@@ -363,6 +359,10 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 6
 			}
 		]
@@ -506,17 +506,21 @@
 		]
 	},
 	{
-		"nome": "Meteoros",
-		"duracao": "1:28:20",
+		"nome": "O Pai da Rita",
+		"duracao": "1:41:34",
 		"ano": 2022,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
-		"videoid": "755a535e0a16027f0f7254",
-		"resolucaoArmazenada": "1920x1080",
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/vSWzlq9jQJTLwG7xD8tLaT8cdE1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gObMmG8I701bhO2xhV751LirlKv.jpg",
+		"videoid": "774e4809614a4e767a5e0b",
+		"resolucaoArmazenada": "1920x804",
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
 			{
 				"filme": "Transversais",
 				"similaridade": 1
@@ -544,9 +548,51 @@
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Meteoros",
+		"duracao": "1:28:20",
+		"ano": 2022,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
+		"videoid": "755a535e0a16027f0f7254",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -622,6 +668,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -631,14 +685,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -655,6 +701,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
 			{
 				"filme": "Transversais",
 				"similaridade": 1
@@ -677,14 +731,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -794,6 +840,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -815,14 +869,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -856,6 +902,52 @@
 			null,
 			null,
 			null
+		]
+	},
+	{
+		"nome": "Vale Night",
+		"duracao": "1:32:33",
+		"ano": 2022,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/rREjHnosAMceEM6A4shFCNqicOJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fFfqx2jo2iq6iEXY6cnPrUQAEvi.jpg",
+		"videoid": "78766f760302616a42766e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			},
+			{
+				"filme": "Por Que Você Não Chora?",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sombra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 1
+			}
 		]
 	},
 	{
@@ -1197,6 +1289,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -1215,14 +1315,6 @@
 			{
 				"filme": "Sombra",
 				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1238,6 +1330,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
 			{
 				"filme": "Transversais",
 				"similaridade": 1
@@ -1260,14 +1360,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -1423,6 +1515,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -1444,14 +1544,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -1469,6 +1561,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -1490,14 +1590,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -1745,6 +1837,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -1766,14 +1866,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -1929,6 +2021,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -1951,14 +2051,6 @@
 			{
 				"filme": "Tô Ryca 2",
 				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
 			}
 		]
 	},
@@ -1974,6 +2066,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
 			{
 				"filme": "Tormento",
 				"similaridade": 1
@@ -1996,14 +2096,6 @@
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -2067,6 +2159,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -2088,14 +2188,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -2113,6 +2205,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -2134,14 +2234,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -2835,15 +2927,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -3153,19 +3245,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -3321,6 +3413,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -3342,14 +3442,6 @@
 			},
 			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca!",
 				"similaridade": 1
 			}
 		]
@@ -3638,6 +3730,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -3655,14 +3755,6 @@
 			},
 			{
 				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -3726,6 +3818,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -3747,14 +3847,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -4344,15 +4436,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Sol de Amalfi",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -4474,6 +4566,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -4483,14 +4583,6 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
-				"similaridade": 1
-			},
-			{
-				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
 				"similaridade": 1
 			}
 		]
@@ -4507,6 +4599,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
 			{
 				"filme": "Transversais",
 				"similaridade": 1
@@ -4529,14 +4629,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -4612,6 +4704,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -4633,14 +4733,6 @@
 			},
 			{
 				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Veneza",
 				"similaridade": 1
 			}
 		]
@@ -5264,6 +5356,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -5277,14 +5377,6 @@
 			},
 			{
 				"filme": "Por Que Você Não Chora?",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -5352,6 +5444,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
 				"filme": "Transversais",
 				"similaridade": 1
 			},
@@ -5369,14 +5469,6 @@
 			},
 			{
 				"filme": "Sombra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tô Ryca 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 1
 			}
 		]
@@ -5970,11 +6062,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Transversais",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tormento",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			}
 		]
@@ -6104,15 +6196,15 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "DOA: Vivo ou Morto",
-				"similaridade": 3
-			},
-			{
 				"filme": "Operação Dragão",
 				"similaridade": 3
 			},
 			{
 				"filme": "Agentes Vanguard",
+				"similaridade": 3
+			},
+			{
+				"filme": "Inimigo Mortal",
 				"similaridade": 3
 			}
 		]
@@ -7080,52 +7172,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 30
-			}
-		]
-	},
-	{
-		"nome": "DOA: Vivo ou Morto",
-		"duracao": "1:26:11",
-		"ano": 2006,
-		"score": 5,
-		"poster": "https://image.tmdb.org/t/p/w200/d9QRrN4v4oDQJQ9xPSnHFyg4VY0.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wa5eEBwjI01yhNMKPwIaqeBiw2d.jpg",
-		"videoid": "0362746f7d5e7e5c736103",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": "21M",
-		"receita": "7.6M",
-		"similares": [
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 26
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 26
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 26
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 25
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 24
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 23
-			},
-			{
-				"filme": "Operação Dragão",
-				"similaridade": 22
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 22
 			}
 		]
 	},
