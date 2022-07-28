@@ -49,7 +49,7 @@
 		"nome": "O Sol de Amalfi",
 		"duracao": "1:36:13",
 		"ano": 2022,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
 		"videoid": "784b62747773414352526e",
@@ -220,11 +220,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Sem Dor, Sem Ganho",
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 4
 			},
 			{
-				"filme": "Juntos e Misturados",
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 4
 			}
 		]
@@ -741,7 +741,7 @@
 		"ano": 2022,
 		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
 		"videoid": "09160a0d694b0e035e4f0b",
 		"resolucaoArmazenada": "1920x960",
 		"orcamento": "70M",
@@ -877,7 +877,7 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 4.7,
+		"score": 5,
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
 		"videoid": "685e0f4e4c7a540a4e486e",
@@ -2518,7 +2518,7 @@
 		"nome": "Instinto Materno",
 		"duracao": "1:20:40",
 		"ano": 2021,
-		"score": 5.1,
+		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/rAbreodoriF4LeyEjm3DrypFMTB.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
 		"videoid": "4a0b717541587c78555303",
@@ -2677,6 +2677,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -2702,10 +2706,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cemitério Maldito",
 				"similaridade": 1
 			}
 		]
@@ -3291,6 +3291,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -3300,10 +3304,6 @@
 			},
 			{
 				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -4278,6 +4278,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 1
+			},
+			{
+				"filme": "...E Frankenstein Criou a Mulher",
+				"similaridade": 1
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			},
@@ -4295,18 +4307,6 @@
 			},
 			{
 				"filme": "O Sol de Amalfi",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
-				"similaridade": 1
-			},
-			{
-				"filme": "Baahubali 2: A Conclusão",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 1
 			}
 		]
@@ -5615,7 +5615,7 @@
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
-		"score": 8.4,
+		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
@@ -5874,15 +5874,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "...E Frankenstein Criou a Mulher",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			},
 			{
 				"filme": "Os Últimos na Terra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 1
 			}
 		]
@@ -6765,7 +6765,7 @@
 		"nome": "Piratas do Caribe: Navegando em Águas Misteriosas",
 		"duracao": "2:16:24",
 		"ano": 2011,
-		"score": 6.5,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/rdOc15GIOGJMqgsQXHUNeVHvVzM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
 		"videoid": "775a760c4b6e0f505e7576",
@@ -6949,7 +6949,7 @@
 		"nome": "Entre Irmãos",
 		"duracao": "1:44:38",
 		"ano": 2009,
-		"score": 7.2,
+		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4olNFXmcXOvccVfhk0S2PubqkiK.jpg",
 		"videoid": "594b5f4c0d02525a61785c",
@@ -7636,6 +7636,52 @@
 		]
 	},
 	{
+		"nome": "Velozes e Furiosos: Desafio em Tóquio",
+		"duracao": "1:44:15",
+		"ano": 2006,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+		"videoid": "0b4e417d750f7864567548",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "85M",
+		"receita": "158.5M",
+		"similares": [
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 81
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 42
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 40
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 37
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 36
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 35
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 32
+			}
+		]
+	},
+	{
 		"nome": "Premonição 3",
 		"duracao": "1:32:50",
 		"ano": 2006,
@@ -7777,7 +7823,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.5,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -7908,6 +7954,52 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 29
+			}
+		]
+	},
+	{
+		"nome": "+ Velozes + Furiosos",
+		"duracao": "1:47:36",
+		"ano": 2003,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg",
+		"videoid": "54770b760a69755f73096e",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "76M",
+		"receita": "236.4M",
+		"similares": [
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 81
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 52
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 48
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 46
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 45
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 44
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 43
 			}
 		]
 	},
@@ -8421,7 +8513,7 @@
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
-		"score": 6.7,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
@@ -8559,7 +8651,7 @@
 		"nome": "A Noiva de Chucky",
 		"duracao": "1:28:51",
 		"ano": 1998,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/bhVKlNWNduGgPwI89I35CWtvIsn.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gCWYgNGQgB1zqPe2Jgds27cbOS3.jpg",
 		"videoid": "436f5f024a550b744c4950",
@@ -9212,8 +9304,16 @@
 		"receita": "134.1M",
 		"similares": [
 			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 16
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 14
+			},
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 13
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -9234,14 +9334,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 8
-			},
-			{
-				"filme": "A Babá",
-				"similaridade": 7
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 7
 			}
 		]
 	},
@@ -9692,15 +9784,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Fúria do Dragão",
 				"similaridade": 4
 			},
 			{
 				"filme": "Batman: O Cavaleiro de Gotham",
-				"similaridade": 4
-			},
-			{
-				"filme": "Operação Dragão",
 				"similaridade": 4
 			}
 		]
@@ -10224,6 +10316,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 7
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 6
 			},
@@ -10250,10 +10346,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 5
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 4
 			}
 		]
 	},
@@ -11312,6 +11404,52 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 32
+			}
+		]
+	},
+	{
+		"nome": "...E Frankenstein Criou a Mulher",
+		"duracao": "1:31:50",
+		"ano": 1967,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/1gT7sSKIITCchwCQopAuvxUctDU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6R9eCdkYrYIwHjGfqm8bdLUQV9Y.jpg",
+		"videoid": "0361690a51540a4e0f5c0b",
+		"resolucaoArmazenada": "1800x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 28
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 25
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 22
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 21
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 20
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 20
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 19
 			}
 		]
 	},
