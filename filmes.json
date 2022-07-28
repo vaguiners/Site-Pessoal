@@ -3646,10 +3646,7 @@
 				"filme": "Interestelar",
 				"similaridade": 1
 			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 1
-			},
+			null,
 			null,
 			null,
 			null
@@ -7686,10 +7683,6 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 8
-			},
-			{
 				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 8
 			},
@@ -7711,6 +7704,10 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			}
 		]
@@ -8869,7 +8866,7 @@
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
 		"ano": 2000,
-		"score": 7.7,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
 		"videoid": "5e5e6b7f50555d6a644c4c",
@@ -9212,10 +9209,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 12
-			},
-			{
 				"filme": "O Vento Será Tua Herança",
 				"similaridade": 10
 			},
@@ -9230,6 +9223,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 8
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 7
 			}
 		]
 	},
@@ -9602,52 +9599,6 @@
 		]
 	},
 	{
-		"nome": "Um Sonho de Liberdade",
-		"duracao": "2:22:33",
-		"ano": 1994,
-		"score": 9,
-		"poster": "https://image.tmdb.org/t/p/w200/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
-		"videoid": "770d785c630b6e555d037a",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "25M",
-		"receita": "28.3M",
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 57
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 50
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 48
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 45
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 41
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 41
-			},
-			{
-				"filme": "Perigo Para a Sociedade",
-				"similaridade": 40
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 40
-			}
-		]
-	},
-	{
 		"nome": "A Fuga",
 		"duracao": "1:55:14",
 		"ano": 1994,
@@ -9986,10 +9937,6 @@
 				"similaridade": 85
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 83
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 36
 			},
@@ -10012,6 +9959,10 @@
 			{
 				"filme": "Gladiador",
 				"similaridade": 27
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 26
 			}
 		]
 	},
@@ -10936,52 +10887,6 @@
 		]
 	},
 	{
-		"nome": "O Veredicto",
-		"duracao": "2:08:51",
-		"ano": 1982,
-		"score": 7.6,
-		"poster": "https://image.tmdb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
-		"videoid": "7e0c6250595972784d6854",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": "16M",
-		"receita": "54M",
-		"similares": [
-			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 13
-			},
-			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 11
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 10
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 10
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 9
-			},
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Exorcista",
-				"similaridade": 7
-			}
-		]
-	},
-	{
 		"nome": "Gandhi",
 		"duracao": "3:11:15",
 		"ano": 1982,
@@ -11022,8 +10927,8 @@
 				"similaridade": 24
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 22
+				"filme": "Tenet",
+				"similaridade": 21
 			}
 		]
 	},
@@ -11190,10 +11095,6 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 20
-			},
-			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 19
 			},
@@ -11207,6 +11108,10 @@
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Vento Será Tua Herança",
 				"similaridade": 19
 			}
 		]
@@ -11408,10 +11313,6 @@
 		"receita": "102.6M",
 		"similares": [
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 134
-			},
-			{
 				"filme": "O Poderoso Chefão: Parte III",
 				"similaridade": 85
 			},
@@ -11437,6 +11338,10 @@
 			},
 			{
 				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Estrangeiro",
 				"similaridade": 43
 			}
 		]
@@ -11718,52 +11623,6 @@
 		]
 	},
 	{
-		"nome": "O Poderoso Chefão",
-		"duracao": "2:57:10",
-		"ano": 1972,
-		"score": 9,
-		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
-		"videoid": "4c6351700b686b76437f72",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "6M",
-		"receita": "245.1M",
-		"similares": [
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 134
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte III",
-				"similaridade": 83
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 69
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 53
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 49
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 49
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 47
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 44
-			}
-		]
-	},
-	{
 		"nome": "Um Violinista no Telhado",
 		"duracao": "3:01:08",
 		"ano": 1971,
@@ -11792,10 +11651,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 13
-			},
-			{
 				"filme": "Eternos",
 				"similaridade": 12
 			},
@@ -11805,6 +11660,10 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
 			}
 		]
@@ -12018,16 +11877,8 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 12
-			},
-			{
 				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 12
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 11
 			},
 			{
 				"filme": "Gladiador",
@@ -12035,6 +11886,14 @@
 			},
 			{
 				"filme": "Batman",
+				"similaridade": 10
+			},
+			{
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 10
+			},
+			{
+				"filme": "12 Homens e uma Sentença",
 				"similaridade": 10
 			}
 		]
@@ -12064,10 +11923,6 @@
 				"similaridade": 16
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 15
-			},
-			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 14
 			},
@@ -12081,6 +11936,10 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 14
 			}
 		]
@@ -12100,10 +11959,6 @@
 			{
 				"filme": "12 Homens e uma Sentença",
 				"similaridade": 64
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 20
 			},
 			{
 				"filme": "Justiça Para Todos",
@@ -12126,8 +11981,12 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "O Veredicto",
-				"similaridade": 11
+				"filme": "Jogador N° 1",
+				"similaridade": 10
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 9
 			}
 		]
 	},
@@ -12206,10 +12065,6 @@
 				"similaridade": 30
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 29
-			},
-			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 27
 			},
@@ -12219,6 +12074,10 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 26
+			},
+			{
+				"filme": "Cidade de Deus",
 				"similaridade": 26
 			}
 		]
