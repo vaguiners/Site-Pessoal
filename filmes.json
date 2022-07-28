@@ -1,11 +1,103 @@
 [
 	{
+		"nome": "Tudo é Possível",
+		"duracao": "1:38:15",
+		"ano": 2022,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uc427uPu7q12bT27IkhZ4aPPyjB.jpg",
+		"videoid": "6d64740c6d0b4f557f5a4c",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "10M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Live Is Life",
+				"similaridade": 2
+			},
+			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 2
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 2
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 2
+			}
+		]
+	},
+	{
+		"nome": "O Sol de Amalfi",
+		"duracao": "1:36:13",
+		"ano": 2022,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
+		"videoid": "784b62747773414352526e",
+		"resolucaoArmazenada": "1920x960",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Tigre e o Dragão: A Espada do Destino",
+				"similaridade": 3
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 3
+			}
+		]
+	},
+	{
 		"nome": "Agente Oculto",
 		"duracao": "2:09:03",
 		"ano": 2022,
 		"score": 6.8,
 		"poster": "https://image.tmdb.org/t/p/w200/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/2u1YBNBlSwvBReyvI7i5z5ykQXP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/27Mj3rFYP3xqFy7lnz17vEd8Ms.jpg",
 		"videoid": "1675615e757d524909726a",
 		"resolucaoArmazenada": "1920x804",
 		"orcamento": "200M",
@@ -66,6 +158,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 8
 			},
@@ -83,10 +179,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 7
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 7
 			}
 		]
@@ -196,35 +288,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -288,6 +380,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 9
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 8
 			},
@@ -296,28 +392,24 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 7
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 7
 			},
 			{
+				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
+				"similaridade": 6
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 6
+			},
+			{
 				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 6
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 6
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 6
-			},
-			{
-				"filme": "A Liga de Monstros",
-				"similaridade": 5
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 5
 			}
 		]
 	},
@@ -325,7 +417,7 @@
 		"nome": "A Extraordinária Garota Chamada Estrela em Hollywood",
 		"duracao": "1:42:54",
 		"ano": 2022,
-		"score": 6.4,
+		"score": 6.5,
 		"poster": "https://image.tmdb.org/t/p/w200/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hGykHXIRZ5HI602BDpQDUNUsVqH.jpg",
 		"videoid": "5852034c5d756b684a4a58",
@@ -346,6 +438,14 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Sol de Amalfi",
+				"similaridade": 5
+			},
+			{
 				"filme": "Juntos e Misturados",
 				"similaridade": 5
 			},
@@ -355,14 +455,6 @@
 			},
 			{
 				"filme": "Brinquedo Assassino 2",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 5
-			},
-			{
-				"filme": "Your Name.",
 				"similaridade": 5
 			}
 		]
@@ -400,16 +492,108 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 5
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 5
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 5
+			}
+		]
+	},
+	{
+		"nome": "O Pai da Rita",
+		"duracao": "1:41:34",
+		"ano": 2022,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/vSWzlq9jQJTLwG7xD8tLaT8cdE1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gObMmG8I701bhO2xhV751LirlKv.jpg",
+		"videoid": "774e4809614a4e767a5e0b",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 5
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
 			},
 			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 5
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Vai Dar Nada",
+		"duracao": "1:42:17",
+		"ano": 2022,
+		"score": 1.5,
+		"poster": "https://image.tmdb.org/t/p/w200/jaXIoGMGsA1fCciQqkqIw6GmRgR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mVy5Brewa2XkiVuhWJd6QucpJFi.jpg",
+		"videoid": "7e747f6c61547d5f790e72",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
 			}
 		]
 	},
@@ -426,82 +610,36 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amor Sem Medida",
+				"filme": "Tormento",
 				"similaridade": 1
-			}
-		]
-	},
-	{
-		"nome": "Doutor Estranho no Multiverso da Loucura",
-		"duracao": "2:06:32",
-		"ano": 2022,
-		"score": 7.5,
-		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
-		"videoid": "566a506b02636d037d4a7e",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "200M",
-		"receita": "953.2M",
-		"similares": [
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 142
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 141
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 135
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 131
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 103
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 100
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 95
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 83
 			}
 		]
 	},
@@ -530,23 +668,23 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -564,35 +702,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amor Sem Medida",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -702,35 +840,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -739,7 +877,7 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 5.5,
+		"score": 4.7,
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
 		"videoid": "685e0f4e4c7a540a4e486e",
@@ -764,6 +902,52 @@
 			null,
 			null,
 			null
+		]
+	},
+	{
+		"nome": "Vale Night",
+		"duracao": "1:32:33",
+		"ano": 2022,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/rREjHnosAMceEM6A4shFCNqicOJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fFfqx2jo2iq6iEXY6cnPrUQAEvi.jpg",
+		"videoid": "78766f760302616a42766e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			}
 		]
 	},
 	{
@@ -841,6 +1025,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 5
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 5
 			},
@@ -850,10 +1038,6 @@
 			},
 			{
 				"filme": "Alerta Vermelho",
-				"similaridade": 5
-			},
-			{
-				"filme": "Dicionário de Cama",
 				"similaridade": 5
 			}
 		]
@@ -1037,8 +1221,8 @@
 				"similaridade": 81
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 75
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 76
 			}
 		]
 	},
@@ -1057,6 +1241,10 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 24
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 21
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
@@ -1081,10 +1269,6 @@
 			{
 				"filme": "A Babá",
 				"similaridade": 17
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 17
 			}
 		]
 	},
@@ -1092,7 +1276,7 @@
 		"nome": "Tô Ryca 2",
 		"duracao": "1:41:37",
 		"ano": 2022,
-		"score": 6.6,
+		"score": 6.5,
 		"poster": "https://image.tmdb.org/t/p/w200/84GIm1NIcIxCrPuoLlsaQzZFVH3.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/SqXE7ZZk4m9jeYVGtJ5CDjSkSu.jpg",
 		"videoid": "5102516b7d6b6b0f5a4a7e",
@@ -1105,31 +1289,31 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amor Sem Medida",
+				"filme": "Transversais",
 				"similaridade": 1
 			}
 		]
@@ -1147,35 +1331,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Amor Sem Medida",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -1331,35 +1515,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -1377,35 +1561,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -1425,6 +1609,10 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 7
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 3
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
@@ -1448,10 +1636,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 3
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 3
 			}
 		]
@@ -1549,6 +1733,52 @@
 		]
 	},
 	{
+		"nome": "Porta dos Fundos: Te Prego Lá Fora",
+		"duracao": "31:24",
+		"ano": 2021,
+		"score": 6.7,
+		"poster": "https://image.tmdb.org/t/p/w200/k06TIjqtbwplF2Q0EIHT229qUvC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cbwyxMrZhbUwdzPmc5hxa7TPvLP.jpg",
+		"videoid": "75647275646a636b020b6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "A Liga de Monstros",
 		"duracao": "1:35:50",
 		"ano": 2021,
@@ -1577,6 +1807,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 4
+			},
+			{
 				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 4
 			},
@@ -1586,10 +1820,6 @@
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
-				"similaridade": 4
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 4
 			}
 		]
@@ -1609,10 +1839,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 151
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 142
 			},
 			{
 				"filme": "Batman",
@@ -1637,6 +1863,10 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 97
 			}
 		]
 	},
@@ -1653,35 +1883,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -1837,35 +2067,81 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Transversais",
+		"duracao": "1:24:53",
+		"ano": 2021,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4SOT9FbmPna3z7ve8u9LgbF264p.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/vWw6fyU19CzlfSPAbq9gNHT0aZi.jpg",
+		"videoid": "7203635a587c68644a6154",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -1899,10 +2175,6 @@
 				"similaridade": 132
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 131
-			},
-			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 128
 			},
@@ -1913,6 +2185,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 104
 			}
 		]
 	},
@@ -1929,35 +2205,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -1975,35 +2251,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -2141,7 +2417,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Jogador N° 1",
 				"similaridade": 1
 			}
 		]
@@ -2171,6 +2447,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 4
+			},
+			{
 				"filme": "Medida Provisória",
 				"similaridade": 4
 			},
@@ -2184,10 +2464,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 4
 			}
 		]
@@ -2233,8 +2509,8 @@
 				"similaridade": 91
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 86
+				"filme": "Jogador N° 1",
+				"similaridade": 88
 			}
 		]
 	},
@@ -2275,10 +2551,6 @@
 				"similaridade": 151
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 141
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -2292,6 +2564,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 110
+			},
+			{
+				"filme": "Duna",
 				"similaridade": 110
 			}
 		]
@@ -2355,6 +2631,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
 				"filme": "Juntos e Misturados",
 				"similaridade": 1
 			},
@@ -2381,10 +2661,6 @@
 			{
 				"filme": "Primitivo",
 				"similaridade": 1
-			},
-			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2400,6 +2676,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
 			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
@@ -2426,10 +2706,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Morte do Superman",
 				"similaridade": 1
 			}
 		]
@@ -2484,7 +2760,7 @@
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
-		"score": 6,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
 		"videoid": "4e7016035503625c79757a",
@@ -2622,7 +2898,7 @@
 		"nome": "Não Me Mate",
 		"duracao": "1:30:25",
 		"ano": 2021,
-		"score": 4.2,
+		"score": 4.3,
 		"poster": "https://image.tmdb.org/t/p/w200/3nLpZivc9wYoX57aXF0ZLYVZDTz.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/cMGuvi3WoppST92uaXJ7a848SbR.jpg",
 		"videoid": "0955536c6c0c496c72410f",
@@ -2697,16 +2973,62 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Poço",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Tormento",
+		"duracao": "1:33:04",
+		"ano": 2021,
+		"score": 6.3,
+		"poster": "https://image.tmdb.org/t/p/w200/qdTIufUTn3846QxSRXWFrFZaWZ1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/13rIJeUSd6SU84U6WwaUmVL7UcU.jpg",
+		"videoid": "756b637e0b4e5a75025554",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 3
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 3
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
 			}
 		]
 	},
@@ -2895,6 +3217,98 @@
 		]
 	},
 	{
+		"nome": "Quando Chega a Calmaria",
+		"duracao": "1:35:47",
+		"ano": 2020,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rhvzXbS2YIlZ51HUIwpFitAfwPb.jpg",
+		"videoid": "56637d0e72735c09697348",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 3
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 3
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 2
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 2
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 2
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 2
+			}
+		]
+	},
+	{
+		"nome": "O Silêncio da Chuva",
+		"duracao": "1:36:22",
+		"ano": 2020,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jS4RiiYzOak0WbkLwF5UJg18NRt.jpg",
+		"videoid": "620c745d787508577f7376",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Sombra",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Medida Provisória",
 		"duracao": "1:41:41",
 		"ano": 2020,
@@ -3029,6 +3443,52 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 110
+			}
+		]
+	},
+	{
+		"nome": "Por Que Você Não Chora?",
+		"duracao": "1:45:39",
+		"ano": 2020,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/zNSHszBLb0fI1RcNPZw9YulKpzP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zdVxZaLBQskVtMUiHuvPTuAjsXf.jpg",
+		"videoid": "796b7969424f0d5c435748",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3232,6 +3692,14 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 7
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 6
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 5
 			},
@@ -3241,14 +3709,6 @@
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 4
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 4
 			}
 		]
@@ -3316,31 +3776,31 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Jogador N° 1",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -3404,35 +3864,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -3546,6 +4006,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 8
 			},
@@ -3567,10 +4031,6 @@
 			},
 			{
 				"filme": "Inocência Roubada",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 8
 			}
 		]
@@ -3818,6 +4278,26 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Sol de Amalfi",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
 				"similaridade": 1
 			},
@@ -3828,26 +4308,6 @@
 			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 1
-			},
-			{
-				"filme": "O Culto de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Maldição de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Nova Fúria do Dragão",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 1
 			}
 		]
 	},
@@ -3855,7 +4315,7 @@
 		"nome": "Turma da Mônica: Laços",
 		"duracao": "1:36:43",
 		"ano": 2019,
-		"score": 7.4,
+		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
 		"videoid": "094c0e4a6153610c025f48",
@@ -3901,7 +4361,7 @@
 		"nome": "Caçada Selvagem",
 		"duracao": "1:28:06",
 		"ano": 2019,
-		"score": 5.1,
+		"score": 5,
 		"poster": "https://image.tmdb.org/t/p/w200/paclnjtBlAcEh1ddUbCbT1azPIc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
 		"videoid": "77587a7850097a4b7d4f6a",
@@ -3915,10 +4375,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 6
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 6
 			},
 			{
@@ -3940,6 +4396,56 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Sonho de Rui",
+		"duracao": "1:18:31",
+		"ano": 2019,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/1ryOQV8LNbiXC3itIeIsotW57lU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9nhcZc8eWGjVfoJWECvTapWDvpv.jpg",
+		"videoid": "5d53615f7a555e7f7c4b6a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "20K",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
 			}
 		]
 	},
@@ -4022,15 +4528,15 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -4085,7 +4591,7 @@
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
-		"score": 7.2,
+		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
 		"videoid": "7075710b7d580e79164c72",
@@ -4100,6 +4606,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 112
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 92
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -4120,10 +4630,6 @@
 			{
 				"filme": "Duna",
 				"similaridade": 86
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 85
 			}
 		]
 	},
@@ -4152,23 +4658,23 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -4186,35 +4692,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -4290,35 +4796,35 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Júpiter",
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -4370,6 +4876,52 @@
 		]
 	},
 	{
+		"nome": "Jogador N° 1",
+		"duracao": "2:19:59",
+		"ano": 2018,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg",
+		"videoid": "6a03694349497c544d6e6e",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "175M",
+		"receita": "582.9M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 128
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 106
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 104
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 101
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 100
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 98
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 95
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 93
+			}
+		]
+	},
+	{
 		"nome": "Do Fundo do Mar 2",
 		"duracao": "1:34:00",
 		"ano": 2018,
@@ -4398,6 +4950,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 13
+			},
+			{
 				"filme": "Do Fundo do Mar 3",
 				"similaridade": 13
 			},
@@ -4408,10 +4964,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 13
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 12
 			}
 		]
 	},
@@ -4458,6 +5010,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 113
+			}
+		]
+	},
+	{
+		"nome": "Piripkura",
+		"duracao": "1:21:24",
+		"ano": 2017,
+		"score": 7.8,
+		"poster": "https://image.tmdb.org/t/p/w200/mFt7rO2d0ODgU7JlVfng0psWksZ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h5qur9zYUMMHrONvXedReAcFhkU.jpg",
+		"videoid": "484c5d5c537e4f080a037e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 3
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 2
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
 			}
 		]
 	},
@@ -4784,6 +5382,52 @@
 		]
 	},
 	{
+		"nome": "Piratas do Caribe: A Vingança de Salazar",
+		"duracao": "2:09:08",
+		"ano": 2017,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
+		"videoid": "6b520f76680f0d726b6f0f",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "230M",
+		"receita": "794.9M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 110
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 104
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 92
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 92
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 91
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 85
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 80
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 80
+			}
+		]
+	},
+	{
 		"nome": "Mulher-Maravilha",
 		"duracao": "2:21:16",
 		"ano": 2017,
@@ -4862,12 +5506,12 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 19
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 15
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 13
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
@@ -4892,10 +5536,6 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 3
-			},
-			{
 				"filme": "Gladiador",
 				"similaridade": 2
 			},
@@ -4916,7 +5556,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Poço",
+				"filme": "Jogador N° 1",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -4942,27 +5586,27 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Sem Dor, Sem Ganho",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			}
 		]
@@ -4971,7 +5615,7 @@
 		"nome": "Your Name.",
 		"duracao": "1:46:36",
 		"ano": 2016,
-		"score": 8.5,
+		"score": 8.4,
 		"poster": "https://image.tmdb.org/t/p/w200/7bAtBUQRC1M4zaIlihesBPTAJ8a.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
 		"videoid": "76435d6a58626b627a5562",
@@ -4982,6 +5626,10 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 39
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 32
 			},
 			{
 				"filme": "Batman",
@@ -5006,10 +5654,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 27
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 27
 			}
 		]
 	},
@@ -5030,31 +5674,31 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			},
 			{
-				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
+				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			},
 			{
-				"filme": "Veneza",
+				"filme": "Sonho de Rui",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca!",
+				"filme": "Vale Night",
 				"similaridade": 1
 			},
 			{
-				"filme": "Meteoros",
+				"filme": "O Pai da Rita",
 				"similaridade": 1
 			},
 			{
-				"filme": "Luccas Neto em: O Plano dos Vilões",
+				"filme": "Transversais",
 				"similaridade": 1
 			}
 		]
@@ -5065,7 +5709,7 @@
 		"ano": 2016,
 		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/L4W5K5eDuXHizVPNWpqK7TONlz.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/7mNJ8ALmMBrA1yLaKzPbA3HLnvy.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wsD8nxCRrVyGLsBLQhVgtTdl6Kr.jpg",
 		"videoid": "630c5179705109576f4303",
 		"resolucaoArmazenada": "1920x808",
 		"orcamento": 0,
@@ -5176,6 +5820,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "O Reino Proibido",
 				"similaridade": 8
 			},
@@ -5189,10 +5837,6 @@
 			},
 			{
 				"filme": "Duna",
-				"similaridade": 6
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 6
 			}
 		]
@@ -5230,15 +5874,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 1
+			},
+			{
 				"filme": "Os Últimos na Terra",
 				"similaridade": 1
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Quinto Elemento",
 				"similaridade": 1
 			}
 		]
@@ -5532,6 +6176,10 @@
 		"receita": "128M",
 		"similares": [
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 14
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 13
 			},
@@ -5557,10 +6205,6 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 12
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 12
 			}
 		]
@@ -5648,11 +6292,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Sombra",
+				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
-				"filme": "Tô Ryca 2",
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -5707,7 +6351,7 @@
 		"nome": "A Maldição de Chucky",
 		"duracao": "1:36:42",
 		"ano": 2013,
-		"score": 5.7,
+		"score": 5.8,
 		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
 		"videoid": "5348624169494a42097d50",
@@ -5753,7 +6397,7 @@
 		"nome": "A Fúria de Vajra",
 		"duracao": "1:50:38",
 		"ano": 2013,
-		"score": 5.6,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/ffbwHf6jbbsqhmJybsxAZjHP3qF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/wuzI70IYF89mT3lDF7etsPgAXqE.jpg",
 		"videoid": "556d5d495d505d6d5a0a54",
@@ -5966,15 +6610,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 8
 			},
 			{
 				"filme": "O Homem do Norte",
-				"similaridade": 8
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 8
 			}
 		]
@@ -6043,11 +6687,11 @@
 			},
 			{
 				"filme": "Premonição",
-				"similaridade": 28
+				"similaridade": 29
 			},
 			{
 				"filme": "Premonição 3",
-				"similaridade": 26
+				"similaridade": 27
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -6112,8 +6756,54 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 20
+			}
+		]
+	},
+	{
+		"nome": "Piratas do Caribe: Navegando em Águas Misteriosas",
+		"duracao": "2:16:24",
+		"ano": 2011,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/rdOc15GIOGJMqgsQXHUNeVHvVzM.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+		"videoid": "775a760c4b6e0f505e7576",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "380M",
+		"receita": "1B",
+		"similares": [
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 57
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 47
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 30
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 26
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 24
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 21
 			}
 		]
 	},
@@ -6138,6 +6828,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 21
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 19
 			},
@@ -6155,10 +6849,6 @@
 			},
 			{
 				"filme": "Morbius",
-				"similaridade": 16
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
 			}
 		]
@@ -6213,7 +6903,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.4,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -6259,7 +6949,7 @@
 		"nome": "Entre Irmãos",
 		"duracao": "1:44:38",
 		"ano": 2009,
-		"score": 7.1,
+		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/buKRRR6Z6TztAuMUw7DUXCwn4hs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/4olNFXmcXOvccVfhk0S2PubqkiK.jpg",
 		"videoid": "594b5f4c0d02525a61785c",
@@ -6624,6 +7314,52 @@
 		]
 	},
 	{
+		"nome": "Piratas do Caribe: No Fim do Mundo",
+		"duracao": "2:48:31",
+		"ano": 2007,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/j15lZasREutscon6e61LSSNJoN7.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3Au8rkDVsRK2AT4jq9dg6jH6buy.jpg",
+		"videoid": "795c7e7316524c4a565f4c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "300M",
+		"receita": "961M",
+		"similares": [
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 91
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 79
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 70
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 64
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 56
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 54
+			},
+			{
+				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
+				"similaridade": 47
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 45
+			}
+		]
+	},
+	{
 		"nome": "As Fitas de Poughkeepsie",
 		"duracao": "1:21:00",
 		"ano": 2007,
@@ -6748,16 +7484,16 @@
 				"similaridade": 34
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 33
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 33
 			},
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 31
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 30
 			}
 		]
 	},
@@ -6773,6 +7509,10 @@
 		"orcamento": "21M",
 		"receita": "7.6M",
 		"similares": [
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 29
+			},
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 26
@@ -6799,10 +7539,6 @@
 			},
 			{
 				"filme": "Operação Dragão",
-				"similaridade": 22
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 22
 			}
 		]
@@ -6854,6 +7590,52 @@
 		]
 	},
 	{
+		"nome": "Piratas do Caribe: O Baú da Morte",
+		"duracao": "2:30:40",
+		"ano": 2006,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8zfRLCgKrLAc5SSnACz8ZqmeKAP.jpg",
+		"videoid": "5a6e0a536d0d085a685e0b",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "200M",
+		"receita": "1.1B",
+		"similares": [
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 79
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 71
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 67
+			},
+			{
+				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 34
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 32
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 30
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 29
+			}
+		]
+	},
+	{
 		"nome": "Premonição 3",
 		"duracao": "1:32:50",
 		"ano": 2006,
@@ -6882,11 +7664,11 @@
 				"similaridade": 30
 			},
 			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 26
+				"filme": "Premonição 5",
+				"similaridade": 27
 			},
 			{
-				"filme": "Premonição 5",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 26
 			},
 			{
@@ -6978,15 +7760,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 8
 			},
 			{
 				"filme": "O Quinto Elemento",
-				"similaridade": 7
-			},
-			{
-				"filme": "Cemitério Maldito",
 				"similaridade": 7
 			}
 		]
@@ -6995,7 +7777,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.6,
+		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -7084,6 +7866,52 @@
 		]
 	},
 	{
+		"nome": "Piratas do Caribe: A Maldição do Pérola Negra",
+		"duracao": "2:23:11",
+		"ano": 2003,
+		"score": 7.9,
+		"poster": "https://image.tmdb.org/t/p/w200/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+		"videoid": "7e695e6b4c4a5e4a767876",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "140M",
+		"receita": "655M",
+		"similares": [
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 75
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 71
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 70
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 46
+			},
+			{
+				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
+				"similaridade": 41
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 30
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 29
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 29
+			}
+		]
+	},
+	{
 		"nome": "Bater ou Correr em Londres",
 		"duracao": "1:54:28",
 		"ano": 2003,
@@ -7162,15 +7990,15 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 26
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 24
 			},
 			{
-				"filme": "Megatubarão",
-				"similaridade": 23
-			},
-			{
-				"filme": "Duna",
+				"filme": "Piratas do Caribe: No Fim do Mundo",
 				"similaridade": 23
 			}
 		]
@@ -7284,10 +8112,6 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 24
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
 			},
@@ -7296,8 +8120,16 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 20
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 20
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 19
 			},
 			{
 				"filme": "Cemitério Maldito",
@@ -7305,10 +8137,6 @@
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 17
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
 				"similaridade": 17
 			}
 		]
@@ -7434,6 +8262,10 @@
 				"similaridade": 17
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 16
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 16
 			},
@@ -7443,10 +8275,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 15
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 15
 			}
 		]
@@ -7488,12 +8316,12 @@
 				"similaridade": 36
 			},
 			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 34
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 35
 			},
 			{
-				"filme": "Operação Dragão",
-				"similaridade": 33
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
 			}
 		]
 	},
@@ -7501,7 +8329,7 @@
 		"nome": "O Tigre e o Dragão",
 		"duracao": "2:00:15",
 		"ano": 2000,
-		"score": 7.6,
+		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZPfaWGAir5qgGK0VfBOzOqB3yF.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
 		"videoid": "5e5e6b7f50555d6a644c4c",
@@ -7584,8 +8412,8 @@
 				"similaridade": 57
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 50
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 51
 			}
 		]
 	},
@@ -7593,7 +8421,7 @@
 		"nome": "Premonição",
 		"duracao": "1:38:03",
 		"ano": 2000,
-		"score": 6.6,
+		"score": 6.7,
 		"poster": "https://image.tmdb.org/t/p/w200/fDsQOdnVrzCKCyzgMhNdBkrRy4F.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/e3I0M0k6Zbt7hUYxDmA3B6mNDUl.jpg",
 		"videoid": "744c5873645e0f16747e0b",
@@ -7731,7 +8559,7 @@
 		"nome": "A Noiva de Chucky",
 		"duracao": "1:28:51",
 		"ano": 1998,
-		"score": 5.7,
+		"score": 5.8,
 		"poster": "https://image.tmdb.org/t/p/w200/bhVKlNWNduGgPwI89I35CWtvIsn.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/gCWYgNGQgB1zqPe2Jgds27cbOS3.jpg",
 		"videoid": "436f5f024a550b744c4950",
@@ -7777,7 +8605,7 @@
 		"nome": "Quem Sou Eu?",
 		"duracao": "1:48:02",
 		"ano": 1998,
-		"score": 7,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dlyeSZD92Arha6XVBteyNNaPi19.jpg",
 		"videoid": "4364415d037e16796b767a",
@@ -7852,15 +8680,15 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 8
+			},
+			{
 				"filme": "12",
 				"similaridade": 8
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Veredicto",
 				"similaridade": 8
 			}
 		]
@@ -7940,6 +8768,10 @@
 				"similaridade": 51
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 50
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 50
 			},
@@ -7950,10 +8782,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 49
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 46
 			}
 		]
 	},
@@ -8086,11 +8914,11 @@
 				"similaridade": 28
 			},
 			{
-				"filme": "Espião por Acidente",
+				"filme": "Jogador N° 1",
 				"similaridade": 27
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Espião por Acidente",
 				"similaridade": 27
 			}
 		]
@@ -8128,15 +8956,15 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 18
+			},
+			{
 				"filme": "Bater ou Correr",
 				"similaridade": 18
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 17
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 17
 			}
 		]
@@ -8262,6 +9090,10 @@
 				"similaridade": 45
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 41
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 41
 			},
@@ -8272,10 +9104,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 40
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 38
 			}
 		]
 	},
@@ -8458,7 +9286,7 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "Vingança",
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 43
 			}
 		]
@@ -8789,9 +9617,9 @@
 		"nome": "Vingança",
 		"duracao": "2:03:50",
 		"ano": 1990,
-		"score": 6.3,
+		"score": 6.4,
 		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/aCKxFn7oixq8PIdM1pHF2qn7GSB.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/meFIsiR4XiQpFCL1YfDpLWgXYvG.jpg",
 		"videoid": "7563035f68740d52554962",
 		"resolucaoArmazenada": "1920x816",
 		"orcamento": 0,
@@ -9102,7 +9930,7 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Alerta Vermelho",
+				"filme": "Jogador N° 1",
 				"similaridade": 3
 			}
 		]
@@ -9132,6 +9960,10 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 19
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 19
 			},
@@ -9145,10 +9977,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 17
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 17
 			}
 		]
@@ -9278,16 +10106,16 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 25
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 25
 			},
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 25
-			},
-			{
-				"filme": "Alerta Vermelho",
-				"similaridade": 24
 			}
 		]
 	},
@@ -9450,6 +10278,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 5
+			},
+			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 5
 			},
@@ -9467,10 +10299,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 5
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 5
 			}
 		]
@@ -9600,16 +10428,16 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 24
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 24
 			},
 			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 22
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 21
 			}
 		]
 	},
@@ -9864,10 +10692,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 12
-			},
-			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			},
@@ -9885,6 +10709,10 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
+				"similaridade": 10
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
 				"similaridade": 10
 			}
 		]
@@ -10077,7 +10905,7 @@
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
 		"ano": 1973,
-		"score": 7.6,
+		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "0c4f6d686f4375766b7c54",
@@ -10169,7 +10997,7 @@
 		"nome": "Tati, a Garota",
 		"duracao": "1:29:12",
 		"ano": 1973,
-		"score": 6.5,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/1BMXiLQeWfJmTkn0YWhi4llj9lG.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/s5L8lVxAfYlwm0Vmy1TJ8IYxb8J.jpg",
 		"videoid": "70746f5d527e027f50570f",
@@ -10215,7 +11043,7 @@
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
 		"ano": 1972,
-		"score": 7.2,
+		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
 		"videoid": "557f0d4c43745c764c5662",
@@ -10420,6 +11248,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 39
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 37
 			},
@@ -10434,10 +11266,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 34
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 33
 			}
 		]
 	},
@@ -10491,7 +11319,7 @@
 		"nome": "O Vento Será Tua Herança",
 		"duracao": "2:07:56",
 		"ano": 1960,
-		"score": 8,
+		"score": 7.9,
 		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
 		"videoid": "4c5950165757505554590f",
@@ -10721,7 +11549,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.5,
+		"score": 8.6,
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "7756740a4e620e77556e6a",
@@ -10884,6 +11712,10 @@
 				"similaridade": 32
 			},
 			{
+				"filme": "Jogador N° 1",
+				"similaridade": 30
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 28
 			},
@@ -10893,10 +11725,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 27
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 27
 			}
 		]
