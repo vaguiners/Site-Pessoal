@@ -112,6 +112,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 22
+			},
+			{
 				"filme": "As Agentes 355",
 				"similaridade": 21
 			},
@@ -130,10 +134,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 20
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 19
 			}
 		]
 	},
@@ -158,6 +158,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 8
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
 			},
@@ -175,10 +179,6 @@
 			},
 			{
 				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 7
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 7
 			}
 		]
@@ -917,6 +917,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 1
 			},
@@ -942,10 +946,6 @@
 			},
 			{
 				"filme": "Transversais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -975,6 +975,10 @@
 				"similaridade": 98
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 96
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 95
 			},
@@ -988,10 +992,6 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 84
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 84
 			}
 		]
@@ -1025,6 +1025,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 5
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 5
 			},
@@ -1034,10 +1038,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 5
-			},
-			{
-				"filme": "Alerta Vermelho",
 				"similaridade": 5
 			}
 		]
@@ -1109,6 +1109,10 @@
 				"similaridade": 155
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 146
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 143
 			},
@@ -1126,10 +1130,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 138
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 138
 			}
 		]
@@ -1159,6 +1159,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 18
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 18
 			},
@@ -1173,10 +1177,6 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 17
-			},
-			{
-				"filme": "O Último Desafio",
-				"similaridade": 16
 			}
 		]
 	},
@@ -1213,16 +1213,16 @@
 				"similaridade": 86
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 84
+			},
+			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 84
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 81
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 76
 			}
 		]
 	},
@@ -1485,6 +1485,10 @@
 				"similaridade": 108
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 107
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 105
 			},
@@ -1495,10 +1499,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 102
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 93
 			}
 		]
 	},
@@ -2025,6 +2025,10 @@
 				"similaridade": 112
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 110
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 106
 			},
@@ -2047,10 +2051,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 90
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 88
 			}
 		]
 	},
@@ -2417,7 +2417,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Homem nas Trevas",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 1
 			}
 		]
@@ -2593,15 +2593,15 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 121
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 111
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 110
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 110
 			}
 		]
@@ -2631,6 +2631,10 @@
 				"similaridade": 78
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 77
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 77
 			},
@@ -2645,10 +2649,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 74
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 73
 			}
 		]
 	},
@@ -3137,6 +3137,10 @@
 				"similaridade": 142
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 135
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 129
 			},
@@ -3151,10 +3155,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 113
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 111
 			}
 		]
 	},
@@ -3241,12 +3241,12 @@
 				"similaridade": 110
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 102
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 98
+				"filme": "A Morte do Superman",
+				"similaridade": 102
 			}
 		]
 	},
@@ -3447,6 +3447,10 @@
 		"receita": "27.9M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 135
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 134
 			},
@@ -3473,10 +3477,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 112
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 110
 			}
 		]
 	},
@@ -3646,7 +3646,10 @@
 				"filme": "Interestelar",
 				"similaridade": 1
 			},
-			null,
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 1
+			},
 			null,
 			null,
 			null
@@ -3667,6 +3670,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 158
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 154
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -3691,10 +3698,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 132
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 123
 			}
 		]
 	},
@@ -4137,6 +4140,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 10
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 10
 			},
@@ -4150,10 +4157,6 @@
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 10
-			},
-			{
-				"filme": "Além da Escuridão - Star Trek",
 				"similaridade": 10
 			}
 		]
@@ -4309,6 +4312,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 1
 			},
@@ -4334,10 +4341,6 @@
 			},
 			{
 				"filme": "+ Velozes + Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -4429,7 +4432,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 4
 			}
 		]
@@ -4797,6 +4800,10 @@
 				"similaridade": 81
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 80
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 78
 			},
@@ -4807,10 +4814,6 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 74
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 73
 			}
 		]
 	},
@@ -4939,16 +4942,16 @@
 				"similaridade": 100
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 99
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 98
 			},
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 95
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 93
 			}
 		]
 	},
@@ -5023,6 +5026,10 @@
 				"similaridade": 125
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 123
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 120
 			},
@@ -5037,10 +5044,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 115
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 113
 			}
 		]
 	},
@@ -5207,6 +5210,10 @@
 				"similaridade": 139
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 138
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 129
 			},
@@ -5221,10 +5228,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 125
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 123
 			}
 		]
 	},
@@ -5479,6 +5482,10 @@
 				"similaridade": 104
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 93
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 92
 			},
@@ -5496,10 +5503,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 80
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 80
 			}
 		]
@@ -5541,11 +5544,11 @@
 				"similaridade": 132
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 127
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Mate ou Morra",
 				"similaridade": 127
 			}
 		]
@@ -5597,6 +5600,52 @@
 		]
 	},
 	{
+		"nome": "Velozes & Furiosos 8",
+		"duracao": "2:15:58",
+		"ano": 2017,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+		"videoid": "617a746459705108426a48",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "250M",
+		"receita": "1.2B",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 160
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 154
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 147
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 146
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 145
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 141
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 138
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 135
+			}
+		]
+	},
+	{
 		"nome": "Kung Fu Yoga",
 		"duracao": "1:47:01",
 		"ano": 2017,
@@ -5633,11 +5682,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Homem nas Trevas",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Último Desafio",
+				"filme": "O Homem nas Trevas",
 				"similaridade": 1
 			}
 		]
@@ -5839,6 +5888,10 @@
 		"receita": "14.7M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 147
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 135
 			},
@@ -5865,10 +5918,6 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 114
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 111
 			}
 		]
 	},
@@ -6069,6 +6118,10 @@
 		"receita": "1.5B",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 160
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 134
 			},
@@ -6095,10 +6148,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 93
-			},
-			{
-				"filme": "+ Velozes + Furiosos",
-				"similaridade": 92
 			}
 		]
 	},
@@ -6143,7 +6192,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 7
 			}
 		]
@@ -6411,15 +6460,15 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 12
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 12
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 12
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 12
 			}
 		]
@@ -6465,7 +6514,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Perigo Para a Sociedade",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 36
 			}
 		]
@@ -6713,6 +6762,10 @@
 		"receita": "788.7M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 141
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 132
 			},
@@ -6739,10 +6792,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 83
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 82
 			}
 		]
 	},
@@ -6779,16 +6828,16 @@
 				"similaridade": 77
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 76
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 76
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 74
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 73
 			}
 		]
 	},
@@ -6817,6 +6866,10 @@
 				"similaridade": 75
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 70
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 70
 			},
@@ -6831,10 +6884,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 63
-			},
-			{
-				"filme": "Vingança",
-				"similaridade": 61
 			}
 		]
 	},
@@ -6897,6 +6946,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 76
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 70
 			},
@@ -6923,10 +6976,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 63
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 62
 			}
 		]
 	},
@@ -7047,6 +7096,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 22
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 22
 			},
@@ -7061,10 +7114,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 21
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 20
 			}
 		]
 	},
@@ -7131,6 +7180,10 @@
 				"similaridade": 134
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 107
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 103
 			},
@@ -7153,10 +7206,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 75
-			},
-			{
-				"filme": "Velozes e Furiosos: Desafio em Tóquio",
-				"similaridade": 74
 			}
 		]
 	},
@@ -7185,6 +7234,10 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 19
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 19
 			},
@@ -7199,10 +7252,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 17
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 16
 			}
 		]
 	},
@@ -7239,15 +7288,15 @@
 				"similaridade": 33
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 32
+			},
+			{
 				"filme": "Operação Dragão",
 				"similaridade": 32
 			},
 			{
 				"filme": "O Reino Proibido",
-				"similaridade": 31
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 31
 			}
 		]
@@ -7331,16 +7380,16 @@
 				"similaridade": 81
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 80
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 67
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 53
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 50
 			}
 		]
 	},
@@ -7603,6 +7652,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 14
+			},
+			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 14
 			},
@@ -7612,10 +7665,6 @@
 			},
 			{
 				"filme": "Gladiador",
-				"similaridade": 14
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 14
 			}
 		]
@@ -7683,6 +7732,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 8
+			},
+			{
 				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 8
 			},
@@ -7704,10 +7757,6 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 6
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			}
 		]
@@ -7829,6 +7878,10 @@
 				"similaridade": 29
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 27
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 27
 			},
@@ -7842,10 +7895,6 @@
 			},
 			{
 				"filme": "Vingança",
-				"similaridade": 23
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 23
 			}
 		]
@@ -8067,16 +8116,16 @@
 				"similaridade": 67
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 57
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 55
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 42
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 41
 			}
 		]
 	},
@@ -8213,7 +8262,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "O Quinto Elemento",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 7
 			}
 		]
@@ -8393,12 +8442,12 @@
 				"similaridade": 76
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 52
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 73
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 48
+				"filme": "Batman",
+				"similaridade": 52
 			}
 		]
 	},
@@ -8439,12 +8488,12 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 36
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 34
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 36
 			}
 		]
 	},
@@ -8665,16 +8714,16 @@
 				"similaridade": 88
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 80
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 76
 			},
 			{
 				"filme": "Batman",
 				"similaridade": 58
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 57
 			}
 		]
 	},
@@ -8711,15 +8760,15 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 36
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 36
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 36
-			},
-			{
-				"filme": "O Medalhão",
 				"similaridade": 36
 			}
 		]
@@ -9133,8 +9182,8 @@
 				"similaridade": 83
 			},
 			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 81
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 82
 			}
 		]
 	},
@@ -9163,6 +9212,10 @@
 				"similaridade": 101
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 100
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 99
 			},
@@ -9177,10 +9230,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 92
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 87
 			}
 		]
 	},
@@ -9209,6 +9258,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 12
+			},
+			{
 				"filme": "O Vento Será Tua Herança",
 				"similaridade": 10
 			},
@@ -9223,10 +9276,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 8
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 7
 			}
 		]
 	},
@@ -9259,6 +9308,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 9
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 9
 			},
@@ -9269,10 +9322,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 9
-			},
-			{
-				"filme": "Velozes e Furiosos",
-				"similaridade": 8
 			}
 		]
 	},
@@ -9539,15 +9588,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 8
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 8
 			},
 			{
 				"filme": "Cruella",
-				"similaridade": 8
-			},
-			{
-				"filme": "Olhos de Gato",
 				"similaridade": 8
 			}
 		]
@@ -9573,6 +9622,10 @@
 				"similaridade": 61
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 57
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 57
 			},
@@ -9591,10 +9644,52 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 54
+			}
+		]
+	},
+	{
+		"nome": "Um Sonho de Liberdade",
+		"duracao": "2:22:33",
+		"ano": 1994,
+		"score": 9,
+		"poster": "https://image.tmdb.org/t/p/w200/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+		"videoid": "770d785c630b6e555d037a",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "25M",
+		"receita": "28.3M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 57
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 49
+				"filme": "Batman",
+				"similaridade": 50
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 48
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 45
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 41
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 41
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 40
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 40
 			}
 		]
 	},
@@ -9619,6 +9714,10 @@
 				"similaridade": 52
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 49
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 47
 			},
@@ -9637,10 +9736,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 42
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 41
 			}
 		]
 	},
@@ -9707,6 +9802,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 14
+			},
+			{
 				"filme": "Velozes e Furiosos",
 				"similaridade": 14
 			},
@@ -9728,10 +9827,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
-				"similaridade": 10
-			},
-			{
-				"filme": "Velozes e Furiosos 4",
 				"similaridade": 10
 			}
 		]
@@ -9937,6 +10032,10 @@
 				"similaridade": 85
 			},
 			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 83
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 36
 			},
@@ -9959,10 +10058,6 @@
 			{
 				"filme": "Gladiador",
 				"similaridade": 27
-			},
-			{
-				"filme": "Perigo Para a Sociedade",
-				"similaridade": 26
 			}
 		]
 	},
@@ -10133,6 +10228,10 @@
 				"similaridade": 73
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 72
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 72
 			},
@@ -10143,10 +10242,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 69
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 68
 			}
 		]
 	},
@@ -10375,7 +10470,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "O Quinto Elemento",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 9
 			}
 		]
@@ -10589,6 +10684,10 @@
 				"similaridade": 28
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 27
+			},
+			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 27
 			},
@@ -10602,10 +10701,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 25
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 25
 			}
 		]
@@ -10769,6 +10864,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 6
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 6
 			},
@@ -10786,10 +10885,6 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 5
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 5
 			}
 		]
@@ -10887,6 +10982,52 @@
 		]
 	},
 	{
+		"nome": "O Veredicto",
+		"duracao": "2:08:51",
+		"ano": 1982,
+		"score": 7.6,
+		"poster": "https://image.tmdb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+		"videoid": "7e0c6250595972784d6854",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "16M",
+		"receita": "54M",
+		"similares": [
+			{
+				"filme": "Justiça Para Todos",
+				"similaridade": 13
+			},
+			{
+				"filme": "12 Homens e Uma Sentença",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Vento Será Tua Herança",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 9
+			},
+			{
+				"filme": "12 Homens e uma Sentença",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 7
+			}
+		]
+	},
+	{
 		"nome": "Gandhi",
 		"duracao": "3:11:15",
 		"ano": 1982,
@@ -10927,8 +11068,8 @@
 				"similaridade": 24
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 21
+				"filme": "O Poderoso Chefão",
+				"similaridade": 22
 			}
 		]
 	},
@@ -11019,7 +11160,7 @@
 				"similaridade": 101
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 99
 			}
 		]
@@ -11095,6 +11236,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 20
+			},
+			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 19
 			},
@@ -11108,10 +11253,6 @@
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 19
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
 				"similaridade": 19
 			}
 		]
@@ -11233,6 +11374,10 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 52
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 44
 			},
@@ -11246,10 +11391,6 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 39
-			},
-			{
-				"filme": "Perigo Para a Sociedade",
 				"similaridade": 39
 			}
 		]
@@ -11313,6 +11454,10 @@
 		"receita": "102.6M",
 		"similares": [
 			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 134
+			},
+			{
 				"filme": "O Poderoso Chefão: Parte III",
 				"similaridade": 85
 			},
@@ -11338,10 +11483,6 @@
 			},
 			{
 				"filme": "Vingança",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 43
 			}
 		]
@@ -11517,15 +11658,15 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 62
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 61
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 60
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 60
 			}
 		]
@@ -11623,6 +11764,52 @@
 		]
 	},
 	{
+		"nome": "O Poderoso Chefão",
+		"duracao": "2:57:10",
+		"ano": 1972,
+		"score": 9,
+		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+		"videoid": "4c6351700b686b76437f72",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "6M",
+		"receita": "245.1M",
+		"similares": [
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 134
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 83
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 69
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 49
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 47
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 44
+			}
+		]
+	},
+	{
 		"nome": "Um Violinista no Telhado",
 		"duracao": "3:01:08",
 		"ano": 1971,
@@ -11651,6 +11838,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 13
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 12
 			},
@@ -11660,10 +11851,6 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 12
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
 			}
 		]
@@ -11709,7 +11896,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "O Quinto Elemento",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 10
 			}
 		]
@@ -11785,6 +11972,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 37
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 36
 			},
@@ -11798,10 +11989,6 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 32
-			},
-			{
-				"filme": "Quem Sou Eu?",
 				"similaridade": 32
 			}
 		]
@@ -11877,8 +12064,16 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 12
+			},
+			{
 				"filme": "12 Homens e Uma Sentença",
 				"similaridade": 12
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 11
 			},
 			{
 				"filme": "Gladiador",
@@ -11886,14 +12081,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 10
-			},
-			{
-				"filme": "Um Violinista no Telhado",
-				"similaridade": 10
-			},
-			{
-				"filme": "12 Homens e uma Sentença",
 				"similaridade": 10
 			}
 		]
@@ -11923,6 +12110,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 15
+			},
+			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 14
 			},
@@ -11936,10 +12127,6 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 14
 			}
 		]
@@ -11959,6 +12146,10 @@
 			{
 				"filme": "12 Homens e uma Sentença",
 				"similaridade": 64
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 20
 			},
 			{
 				"filme": "Justiça Para Todos",
@@ -11981,12 +12172,8 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "Jogador N° 1",
-				"similaridade": 10
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 9
+				"filme": "O Veredicto",
+				"similaridade": 11
 			}
 		]
 	},
@@ -12065,6 +12252,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 29
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 27
 			},
@@ -12074,10 +12265,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 26
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 26
 			}
 		]
