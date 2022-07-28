@@ -112,6 +112,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 22
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 22
 			},
@@ -130,10 +134,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 21
-			},
-			{
-				"filme": "Alerta Vermelho",
-				"similaridade": 20
 			}
 		]
 	},
@@ -174,11 +174,11 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "A Babá",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 7
 			},
 			{
-				"filme": "Uncharted: Fora do Mapa",
+				"filme": "A Babá",
 				"similaridade": 7
 			}
 		]
@@ -254,7 +254,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 1
 			},
 			{
@@ -263,14 +271,6 @@
 			},
 			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Quinto Elemento",
-				"similaridade": 1
-			},
-			{
-				"filme": "Alerta Vermelho",
 				"similaridade": 1
 			}
 		]
@@ -430,6 +430,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 6
 			},
@@ -451,10 +455,6 @@
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 5
-			},
-			{
-				"filme": "Brinquedo Assassino 2",
 				"similaridade": 5
 			}
 		]
@@ -492,15 +492,15 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 5
+			},
+			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 5
 			},
 			{
 				"filme": "Piratas do Caribe: No Fim do Mundo",
-				"similaridade": 5
-			},
-			{
-				"filme": "A Noiva de Chucky",
 				"similaridade": 5
 			}
 		]
@@ -593,6 +593,52 @@
 			},
 			{
 				"filme": "O Silêncio da Chuva",
+				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Meteoros",
+		"duracao": "1:28:20",
+		"ano": 2022,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xTJYLb2Ce76TGciI6hajcNFezQx.jpg",
+		"videoid": "755a535e0a16027f0f7254",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vai Dar Nada",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sonho de Rui",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vale Night",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Pai da Rita",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transversais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tormento",
 				"similaridade": 1
 			}
 		]
@@ -991,8 +1037,8 @@
 				"similaridade": 91
 			},
 			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 84
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 88
 			}
 		]
 	},
@@ -1205,6 +1251,10 @@
 				"similaridade": 91
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 88
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 87
 			},
@@ -1219,10 +1269,6 @@
 			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 84
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 81
 			}
 		]
 	},
@@ -1263,12 +1309,12 @@
 				"similaridade": 19
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 18
 			},
 			{
-				"filme": "A Babá",
-				"similaridade": 17
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 18
 			}
 		]
 	},
@@ -1439,10 +1485,6 @@
 				"similaridade": 90
 			},
 			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 90
-			},
-			{
 				"filme": "Mate ou Morra",
 				"similaridade": 90
 			},
@@ -1453,6 +1495,10 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 80
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 79
 			}
 		]
 	},
@@ -1471,6 +1517,10 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 123
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 118
 			},
 			{
 				"filme": "Mente Criminosa",
@@ -1495,10 +1545,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 105
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 103
 			}
 		]
 	},
@@ -1699,6 +1745,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 1
+			},
+			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
 			},
@@ -1724,10 +1774,6 @@
 			},
 			{
 				"filme": "Beavis e Butt-Head: Detonam o Universo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			}
 		]
@@ -1949,15 +1995,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Poço",
-				"similaridade": 1
-			},
-			{
-				"filme": "Fúria",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 1
 			}
 		]
@@ -2037,6 +2083,10 @@
 				"similaridade": 106
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 103
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 98
 			},
@@ -2047,10 +2097,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 93
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 90
 			}
 		]
 	},
@@ -2187,7 +2233,7 @@
 				"similaridade": 108
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 106
 			}
 		]
@@ -2417,7 +2463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 1
 			}
 		]
@@ -2589,6 +2635,10 @@
 				"similaridade": 140
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 135
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 132
 			},
@@ -2599,10 +2649,6 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 121
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 111
 			}
 		]
 	},
@@ -2621,6 +2667,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 94
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 80
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -2644,10 +2694,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 75
-			},
-			{
-				"filme": "As Agentes 355",
 				"similaridade": 75
 			}
 		]
@@ -2787,6 +2833,52 @@
 			{
 				"filme": "A Babá",
 				"similaridade": 7
+			}
+		]
+	},
+	{
+		"nome": "Velozes & Furiosos 9",
+		"duracao": "2:22:52",
+		"ano": 2021,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/fnAzaxRSiveFafudJtByxA7I2xT.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg",
+		"videoid": "436b544b5e76710343785c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "200M",
+		"receita": "726.2M",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 166
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 165
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 141
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 139
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 137
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 135
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 130
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 129
 			}
 		]
 	},
@@ -2961,15 +3053,15 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 6
 			},
 			{
 				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 6
-			},
-			{
-				"filme": "Fúria Silenciosa",
 				"similaridade": 6
 			}
 		]
@@ -3053,15 +3145,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 2
+			},
+			{
 				"filme": "Sheena - A Rainha das Selvas",
 				"similaridade": 2
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Quarto Secreto",
 				"similaridade": 2
 			}
 		]
@@ -3153,7 +3245,7 @@
 				"similaridade": 121
 			},
 			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 114
 			}
 		]
@@ -3191,15 +3283,15 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 4
-			},
-			{
 				"filme": "Mate ou Morra",
 				"similaridade": 4
 			},
 			{
 				"filme": "Inimigo Mortal",
+				"similaridade": 4
+			},
+			{
+				"filme": "Tenet",
 				"similaridade": 4
 			}
 		]
@@ -3233,6 +3325,10 @@
 				"similaridade": 128
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 121
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 112
 			},
@@ -3243,10 +3339,6 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 104
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 102
 			}
 		]
 	},
@@ -3287,11 +3379,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Fúria Incontrolável",
+				"filme": "Mar em Fúria",
 				"similaridade": 2
 			},
 			{
-				"filme": "Mar em Fúria",
+				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 2
 			}
 		]
@@ -3459,6 +3551,10 @@
 				"similaridade": 134
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 130
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 125
 			},
@@ -3473,10 +3569,6 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 114
-			},
-			{
-				"filme": "As Agentes 355",
-				"similaridade": 113
 			}
 		]
 	},
@@ -3688,16 +3780,16 @@
 				"similaridade": 144
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 139
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 138
 			},
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 134
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 132
 			}
 		]
 	},
@@ -3738,12 +3830,12 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 4
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 4
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 4
 			}
 		]
 	},
@@ -3759,10 +3851,6 @@
 		"orcamento": "33M",
 		"receita": "39.2M",
 		"similares": [
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 377
-			},
 			{
 				"filme": "Batman",
 				"similaridade": 94
@@ -3790,51 +3878,9 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 74
-			}
-		]
-	},
-	{
-		"nome": "Fúria Incontrolável",
-		"duracao": "1:30:15",
-		"ano": 2020,
-		"score": 6.4,
-		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
-		"videoid": "751603485c7c5f4c7d746e",
-		"resolucaoArmazenada": "1920x800",
-		"orcamento": "33M",
-		"receita": "39.2M",
-		"similares": [
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 377
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 94
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 90
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 83
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 82
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 76
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 74
-			},
-			{
-				"filme": "O Estrangeiro",
+				"filme": "Tenet",
 				"similaridade": 74
 			}
 		]
@@ -3854,6 +3900,10 @@
 			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 1
 			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
@@ -3877,10 +3927,6 @@
 			},
 			{
 				"filme": "Jogador N° 1",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -4186,6 +4232,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 10
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 10
 			},
@@ -4199,10 +4249,6 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 10
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 10
 			}
 		]
@@ -4324,6 +4370,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 4
+			},
+			{
 				"filme": "Sheena - A Rainha das Selvas",
 				"similaridade": 4
 			},
@@ -4337,10 +4387,6 @@
 			},
 			{
 				"filme": "Perfume - A História de um Assassino",
-				"similaridade": 4
-			},
-			{
-				"filme": "Não Me Mate",
 				"similaridade": 4
 			}
 		]
@@ -4357,6 +4403,10 @@
 		"orcamento": "49M",
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 1
+			},
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 1
@@ -4384,10 +4434,6 @@
 			{
 				"filme": "...E Frankenstein Criou a Mulher",
 				"similaridade": 1
-			},
-			{
-				"filme": "+ Velozes + Furiosos",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4406,6 +4452,10 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 166
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 165
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -4429,10 +4479,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 134
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 134
 			}
 		]
@@ -4980,6 +5026,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 11
 			},
@@ -4993,10 +5043,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 9
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 9
 			}
 		]
@@ -5016,6 +5062,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 128
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 114
 			},
 			{
 				"filme": "Batman",
@@ -5040,10 +5090,6 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 99
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 98
 			}
 		]
 	},
@@ -5402,16 +5448,16 @@
 				"similaridade": 24
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 23
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 21
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 20
 			}
 		]
 	},
@@ -5444,6 +5490,10 @@
 				"similaridade": 32
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 30
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 26
 			},
@@ -5453,10 +5503,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 25
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 25
 			}
 		]
@@ -5486,6 +5532,10 @@
 				"similaridade": 56
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 51
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 50
 			},
@@ -5500,10 +5550,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 45
-			},
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 43
 			}
 		]
 	},
@@ -5636,12 +5682,12 @@
 				"similaridade": 140
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 132
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 137
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 127
+				"filme": "Tenet",
+				"similaridade": 132
 			}
 		]
 	},
@@ -5704,6 +5750,10 @@
 		"receita": "1.2B",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 166
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 166
 			},
@@ -5730,10 +5780,6 @@
 			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 141
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 138
 			}
 		]
 	},
@@ -5774,11 +5820,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 1
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			}
 		]
@@ -5804,6 +5850,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 1
 			},
@@ -5821,10 +5871,6 @@
 			},
 			{
 				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -6226,6 +6272,10 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 129
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 105
 			},
@@ -6236,10 +6286,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 100
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 95
 			}
 		]
 	},
@@ -6387,7 +6433,7 @@
 		"ano": 2014,
 		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
 		"videoid": "4e72735909710955495650",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "165M",
@@ -6414,16 +6460,16 @@
 				"similaridade": 56
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 55
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 54
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 52
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 47
 			}
 		]
 	},
@@ -6532,6 +6578,10 @@
 		"receita": "128M",
 		"similares": [
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 17
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 14
 			},
@@ -6557,10 +6607,6 @@
 			},
 			{
 				"filme": "Megatubarão",
-				"similaridade": 12
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 12
 			}
 		]
@@ -6606,7 +6652,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 36
 			}
 		]
@@ -6698,8 +6744,8 @@
 				"similaridade": 87
 			},
 			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 84
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 86
 			}
 		]
 	},
@@ -6862,6 +6908,10 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 113
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 107
 			},
@@ -6880,10 +6930,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 90
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 89
 			}
 		]
 	},
@@ -7292,12 +7338,12 @@
 				"similaridade": 89
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 83
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 85
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 78
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 83
 			}
 		]
 	},
@@ -7376,6 +7422,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 33
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 33
 			},
@@ -7386,10 +7436,6 @@
 			{
 				"filme": "Operação Dragão",
 				"similaridade": 32
-			},
-			{
-				"filme": "O Reino Proibido",
-				"similaridade": 31
 			}
 		]
 	},
@@ -7480,8 +7526,8 @@
 				"similaridade": 67
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 59
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 64
 			}
 		]
 	},
@@ -7940,8 +7986,8 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 47
+				"filme": "O Filho de Chucky",
+				"similaridade": 42
 			}
 		]
 	},
@@ -8112,6 +8158,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 11
 			},
@@ -8122,10 +8172,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 10
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 9
 			}
 		]
 	},
@@ -8216,8 +8262,8 @@
 				"similaridade": 55
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 42
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 45
 			}
 		]
 	},
@@ -8330,6 +8376,10 @@
 				"similaridade": 20
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 11
 			},
@@ -8352,10 +8402,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 8
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 7
 			}
 		]
 	},
@@ -8614,6 +8660,10 @@
 				"similaridade": 32
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 31
+			},
+			{
 				"filme": "O Homem do Norte",
 				"similaridade": 30
 			},
@@ -8628,10 +8678,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 24
-			},
-			{
-				"filme": "Piratas do Caribe: No Fim do Mundo",
-				"similaridade": 23
 			}
 		]
 	},
@@ -8814,8 +8860,8 @@
 				"similaridade": 76
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 68
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 69
 			}
 		]
 	},
@@ -8852,15 +8898,15 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 36
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 36
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 36
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 36
 			}
 		]
@@ -9234,6 +9280,52 @@
 		]
 	},
 	{
+		"nome": "De Olhos Bem Fechados",
+		"duracao": "2:39:02",
+		"ano": 1999,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/pmU8WQ2fOdxLuYaNe1kHE2L8SlI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/AklO85uUDAL3O7iSOtFGfqT3w8n.jpg",
+		"videoid": "6e4c577350757c586c0c6e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "65M",
+		"receita": "162.1M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 86
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 51
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 47
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 43
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 41
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 40
+			}
+		]
+	},
+	{
 		"nome": "A Noiva de Chucky",
 		"duracao": "1:28:51",
 		"ano": 1998,
@@ -9270,12 +9362,12 @@
 				"similaridade": 83
 			},
 			{
-				"filme": "Fúria Incontrolável",
+				"filme": "Mate ou Morra",
 				"similaridade": 83
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 83
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 82
 			}
 		]
 	},
@@ -9316,11 +9408,11 @@
 				"similaridade": 99
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 96
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 98
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Batman",
 				"similaridade": 96
 			}
 		]
@@ -9596,7 +9688,7 @@
 				"similaridade": 29
 			},
 			{
-				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 28
 			}
 		]
@@ -9672,6 +9764,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 9
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 9
 			},
@@ -9685,10 +9781,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 7",
-				"similaridade": 8
-			},
-			{
-				"filme": "Cruella",
 				"similaridade": 8
 			}
 		]
@@ -9906,6 +9998,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 13
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 13
 			},
@@ -9916,10 +10012,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 11
-			},
-			{
-				"filme": "Velozes & Furiosos 5: Operação Rio",
-				"similaridade": 10
 			}
 		]
 	},
@@ -10534,6 +10626,10 @@
 		"receita": "4M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 12
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 11
 			},
@@ -10560,10 +10656,6 @@
 			{
 				"filme": "Tora! Tora! Tora!",
 				"similaridade": 10
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 9
 			}
 		]
 	},
@@ -10788,11 +10880,11 @@
 				"similaridade": 27
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 25
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 25
 			}
 		]
@@ -10964,6 +11056,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 5
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 5
 			},
@@ -10973,10 +11069,6 @@
 			},
 			{
 				"filme": "Alerta Vermelho",
-				"similaridade": 5
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 5
 			}
 		]
@@ -11374,6 +11466,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 3
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 3
 			},
@@ -11387,10 +11483,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 3
 			}
 		]
@@ -11432,11 +11524,11 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "A Noiva de Chucky",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 10
 			},
 			{
-				"filme": "Brinquedo Assassino 2",
+				"filme": "A Noiva de Chucky",
 				"similaridade": 10
 			}
 		]
@@ -11470,6 +11562,10 @@
 				"similaridade": 52
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 46
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 44
 			},
@@ -11479,10 +11575,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 39
-			},
-			{
-				"filme": "Jogador N° 1",
 				"similaridade": 39
 			}
 		]
@@ -11574,7 +11666,7 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "Vingança",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 43
 			}
 		]
@@ -11788,6 +11880,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 2
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 2
 			},
@@ -11802,10 +11898,6 @@
 			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 2
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 2
 			}
 		]
 	},
@@ -11813,7 +11905,7 @@
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
 		"ano": 1972,
-		"score": 7.3,
+		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
 		"videoid": "557f0d4c43745c764c5662",
@@ -12068,6 +12160,10 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 37
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 37
 			},
@@ -12078,10 +12174,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 35
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 34
 			}
 		]
 	},
@@ -12264,7 +12356,7 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "O Veredicto",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 11
 			}
 		]
@@ -12494,7 +12586,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "O Lobo de Wall Street",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 7
 			}
 		]
@@ -12574,6 +12666,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 40
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
 			},
@@ -12583,10 +12679,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 34
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 34
 			}
 		]
