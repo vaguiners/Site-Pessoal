@@ -644,6 +644,52 @@
 		]
 	},
 	{
+		"nome": "Doutor Estranho no Multiverso da Loucura",
+		"duracao": "2:06:32",
+		"ano": 2022,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
+		"videoid": "566a506b02636d037d4a7e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "200M",
+		"receita": "953.2M",
+		"similares": [
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 142
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 141
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 135
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 131
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 103
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 100
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 95
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 85
+			}
+		]
+	},
+	{
 		"nome": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 		"duracao": "1:44:46",
 		"ano": 2022,
@@ -1841,6 +1887,10 @@
 				"similaridade": 151
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 142
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -1863,10 +1913,6 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
-			},
-			{
-				"filme": "Morbius",
-				"similaridade": 97
 			}
 		]
 	},
@@ -2175,6 +2221,10 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 131
+			},
+			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 128
 			},
@@ -2185,10 +2235,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 104
 			}
 		]
 	},
@@ -2551,6 +2597,10 @@
 				"similaridade": 151
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 141
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -2564,10 +2614,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 110
-			},
-			{
-				"filme": "Duna",
 				"similaridade": 110
 			}
 		]
@@ -2677,6 +2723,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "+ Velozes + Furiosos",
 				"similaridade": 1
 			},
@@ -2702,10 +2752,6 @@
 			},
 			{
 				"filme": "O Filho de Chucky",
-				"similaridade": 1
-			},
-			{
-				"filme": "Perigo Para a Sociedade",
 				"similaridade": 1
 			}
 		]
@@ -3291,19 +3337,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Agarra-me se Puderes",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "+ Velozes + Furiosos",
 				"similaridade": 1
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -4332,6 +4378,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Agarra-me se Puderes",
+				"similaridade": 6
+			},
+			{
 				"filme": "A Morte do Superman",
 				"similaridade": 5
 			},
@@ -4349,10 +4399,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 5
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 5
 			}
 		]
@@ -4378,6 +4424,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 6
+			},
+			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 5
 			},
@@ -4396,10 +4446,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 4
 			}
 		]
 	},
@@ -5506,15 +5552,15 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 19
+			},
+			{
 				"filme": "Duna",
 				"similaridade": 15
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 13
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 13
 			}
 		]
@@ -5533,6 +5579,10 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 3
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 3
 			},
 			{
@@ -5558,10 +5608,6 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
 			}
 		]
 	},
@@ -5586,6 +5632,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Agarra-me se Puderes",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -5603,10 +5653,6 @@
 			},
 			{
 				"filme": "Vale Night",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Pai da Rita",
 				"similaridade": 1
 			}
 		]
@@ -7626,12 +7672,12 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Duna",
-				"similaridade": 30
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 32
 			},
 			{
-				"filme": "Megatubarão",
-				"similaridade": 29
+				"filme": "Duna",
+				"similaridade": 30
 			}
 		]
 	},
@@ -7647,6 +7693,10 @@
 		"orcamento": "85M",
 		"receita": "158.5M",
 		"similares": [
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 88
+			},
 			{
 				"filme": "+ Velozes + Furiosos",
 				"similaridade": 81
@@ -7674,10 +7724,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 35
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 32
 			}
 		]
 	},
@@ -7970,6 +8016,10 @@
 		"receita": "236.4M",
 		"similares": [
 			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 128
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 81
 			},
@@ -7996,10 +8046,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 44
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 43
 			}
 		]
 	},
@@ -8204,6 +8250,10 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 24
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
 			},
@@ -8226,10 +8276,52 @@
 			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Velozes e Furiosos",
+		"duracao": "1:46:50",
+		"ano": 2001,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/s02HsnF8H2plColwtkbqYz9GTw5.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+		"videoid": "59425849505571710a695c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "38M",
+		"receita": "207.3M",
+		"similares": [
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 128
 			},
 			{
-				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 17
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 88
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 58
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 56
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 55
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 54
+			},
+			{
+				"filme": "Infiltrado",
+				"similaridade": 52
 			}
 		]
 	},
@@ -8822,11 +8914,11 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "A Babá",
+				"filme": "Velozes e Furiosos",
 				"similaridade": 8
 			},
 			{
-				"filme": "Ambulância: Um Dia de Crime",
+				"filme": "A Babá",
 				"similaridade": 8
 			}
 		]
@@ -8998,6 +9090,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 29
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 29
 			},
@@ -9007,10 +9103,6 @@
 			},
 			{
 				"filme": "Jogador N° 1",
-				"similaridade": 27
-			},
-			{
-				"filme": "Espião por Acidente",
 				"similaridade": 27
 			}
 		]
@@ -9308,6 +9400,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 14
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 14
 			},
@@ -9329,10 +9425,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 8
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 8
 			}
 		]
@@ -10316,6 +10408,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 8
+			},
+			{
 				"filme": "+ Velozes + Furiosos",
 				"similaridade": 7
 			},
@@ -10341,10 +10437,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 5
 			}
 		]
@@ -10784,6 +10876,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 12
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			},
@@ -10802,10 +10898,52 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 10
+			}
+		]
+	},
+	{
+		"nome": "Agarra-me se Puderes",
+		"duracao": "1:35:51",
+		"ano": 1977,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/NGCnffk3veEIHUX1GtdYAs9FV5.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cIK6eSVbzBCxLFM5pTjM8KCexu1.jpg",
+		"videoid": "08617c7c535f5977735850",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "4.3M",
+		"receita": "126.7M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 54
 			},
 			{
-				"filme": "Brinquedo Assassino 2",
-				"similaridade": 10
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 54
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 53
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 44
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 39
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 39
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 39
 			}
 		]
 	},
