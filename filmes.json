@@ -3343,6 +3343,18 @@
 		]
 	},
 	{
+		"nome": "Xico, O Cachorro Mágico",
+		"duracao": "1:26:41",
+		"ano": 2020,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/orOMIRLONNoNkDRScVlfYiDKz4n.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fZHvSNUBKSgRAduB5k0fFST1xYn.jpg",
+		"videoid": "575d580c5150594e7d4a4c",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0
+	},
+	{
 		"nome": "Quando Chega a Calmaria",
 		"duracao": "1:35:47",
 		"ano": 2020,
@@ -3682,7 +3694,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 100
+				"similaridade": 99
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -3698,7 +3710,7 @@
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 65
+				"similaridade": 64
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -5387,7 +5399,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 90
+				"similaridade": 89
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -6081,7 +6093,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 71
+				"similaridade": 70
 			},
 			{
 				"filme": "A Babá",
@@ -6955,7 +6967,7 @@
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 65
+				"similaridade": 64
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -6963,11 +6975,11 @@
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 56
+				"similaridade": 55
 			},
 			{
 				"filme": "No Fim do Túnel",
-				"similaridade": 55
+				"similaridade": 54
 			},
 			{
 				"filme": "Olhos de Gato",
@@ -7223,7 +7235,7 @@
 		"similares": [
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 67
+				"similaridade": 66
 			},
 			{
 				"filme": "No Fim do Túnel",
@@ -7239,7 +7251,7 @@
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 46
+				"similaridade": 45
 			},
 			{
 				"filme": "O Lobo de Wall Street",
@@ -10857,11 +10869,11 @@
 		"similares": [
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 100
+				"similaridade": 99
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 90
+				"similaridade": 89
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -10869,15 +10881,15 @@
 			},
 			{
 				"filme": "No Fim do Túnel",
-				"similaridade": 71
-			},
-			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 67
+				"similaridade": 70
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 67
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 66
 			},
 			{
 				"filme": "O Homem nas Trevas",
@@ -11087,10 +11099,14 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 15
+				"similaridade": 16
 			},
 			{
 				"filme": "O Homem do Norte",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 14
 			},
 			{
@@ -11102,19 +11118,15 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Vingança",
+				"similaridade": 13
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 13
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 13
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 13
 			}
 		]
