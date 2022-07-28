@@ -49,7 +49,7 @@
 		"nome": "O Sol de Amalfi",
 		"duracao": "1:36:13",
 		"ano": 2022,
-		"score": 5.7,
+		"score": 5.8,
 		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
 		"videoid": "784b62747773414352526e",
@@ -761,7 +761,7 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 53
+				"similaridade": 54
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -806,11 +806,11 @@
 				"similaridade": 97
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 90
+				"filme": "A Morte do Superman",
+				"similaridade": 91
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Mate ou Morra",
 				"similaridade": 90
 			},
 			{
@@ -823,7 +823,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 86
+				"similaridade": 87
 			}
 		]
 	},
@@ -893,10 +893,7 @@
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 1
-			},
+			null,
 			null,
 			null,
 			null,
@@ -1819,8 +1816,8 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 4
+				"filme": "Fúria",
+				"similaridade": 3
 			}
 		]
 	},
@@ -3126,7 +3123,7 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 218
+				"similaridade": 219
 			},
 			{
 				"filme": "Batman",
@@ -3137,12 +3134,12 @@
 				"similaridade": 176
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"filme": "A Morte do Superman",
 				"similaridade": 167
 			},
 			{
-				"filme": "A Morte do Superman",
-				"similaridade": 166
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 167
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
@@ -3252,7 +3249,7 @@
 	},
 	{
 		"nome": "Relatos do Mundo",
-		"duracao": "0",
+		"duracao": "1:59:41",
 		"ano": 2020,
 		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg",
@@ -3517,10 +3514,6 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 3
-			},
-			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 2
 			},
@@ -3534,6 +3527,10 @@
 			},
 			{
 				"filme": "O Homem do Norte",
+				"similaridade": 2
+			},
+			{
+				"filme": "Lindinhas",
 				"similaridade": 2
 			}
 		]
@@ -3694,7 +3691,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 99
+				"similaridade": 100
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -3710,7 +3707,7 @@
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 64
+				"similaridade": 65
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -4386,10 +4383,6 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 7
-			},
-			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 6
 			},
@@ -4399,6 +4392,10 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 6
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			}
 		]
@@ -5399,7 +5396,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 89
+				"similaridade": 90
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -5763,7 +5760,7 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 218
+				"similaridade": 219
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
@@ -6093,7 +6090,7 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 70
+				"similaridade": 71
 			},
 			{
 				"filme": "A Babá",
@@ -6256,52 +6253,6 @@
 		]
 	},
 	{
-		"nome": "Abandonada: O Mal Foi Eleito",
-		"duracao": "1:29:22",
-		"ano": 2016,
-		"score": 3.7,
-		"poster": "https://image.tmdb.org/t/p/w200/1YhIAq1LkdCd4V7C4ciBaBXWCln.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/k0vXy591VCMF4GNJGRNYJmLbtGP.jpg",
-		"videoid": "5c795453707056754a596a",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Exorcista",
-				"similaridade": 3
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 2
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Exorcista III",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 2
-			},
-			{
-				"filme": "Super Velozes, Mega Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "...E Frankenstein Criou a Mulher",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			}
-		]
-	},
-	{
 		"nome": "Baahubali: O Início",
 		"duracao": "2:18:04",
 		"ano": 2015,
@@ -6456,10 +6407,6 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 5
-			},
-			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 5
 			},
@@ -6481,6 +6428,10 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Poderoso Chefão",
 				"similaridade": 4
 			}
 		]
@@ -6967,7 +6918,7 @@
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 64
+				"similaridade": 65
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -6975,11 +6926,11 @@
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 55
+				"similaridade": 56
 			},
 			{
 				"filme": "No Fim do Túnel",
-				"similaridade": 54
+				"similaridade": 55
 			},
 			{
 				"filme": "Olhos de Gato",
@@ -7235,7 +7186,7 @@
 		"similares": [
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 66
+				"similaridade": 67
 			},
 			{
 				"filme": "No Fim do Túnel",
@@ -7251,7 +7202,7 @@
 			},
 			{
 				"filme": "O Espelho",
-				"similaridade": 45
+				"similaridade": 46
 			},
 			{
 				"filme": "O Lobo de Wall Street",
@@ -7745,7 +7696,7 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 37
+				"similaridade": 38
 			},
 			{
 				"filme": "A Morte do Superman",
@@ -7833,7 +7784,7 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 50
+				"similaridade": 51
 			},
 			{
 				"filme": "A Morte do Superman",
@@ -7925,7 +7876,7 @@
 		"similares": [
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 166
+				"similaridade": 167
 			},
 			{
 				"filme": "Batman",
@@ -8166,10 +8117,6 @@
 				"similaridade": 35
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 35
-			},
-			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 34
 			},
@@ -8184,6 +8131,10 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 31
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 30
 			}
 		]
 	},
@@ -8592,11 +8543,11 @@
 				"similaridade": 42
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 41
+				"filme": "A Morte do Superman",
+				"similaridade": 40
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Eternos",
 				"similaridade": 40
 			}
 		]
@@ -9052,12 +9003,12 @@
 				"similaridade": 17
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 17
-			},
-			{
 				"filme": "A Babá",
 				"similaridade": 16
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 15
 			}
 		]
 	},
@@ -9304,10 +9255,6 @@
 		"receita": "206.1M",
 		"similares": [
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 52
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 46
 			},
@@ -9334,6 +9281,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 35
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
 			}
 		]
 	},
@@ -10120,52 +10071,6 @@
 		]
 	},
 	{
-		"nome": "Drácula de Bram Stoker",
-		"duracao": "2:07:23",
-		"ano": 1992,
-		"score": 7.4,
-		"poster": "https://image.tmdb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
-		"videoid": "560f48080c554143095d54",
-		"resolucaoArmazenada": "3840x2076",
-		"orcamento": "40M",
-		"receita": "215.9M",
-		"similares": [
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 52
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 51
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 46
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 46
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 45
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 45
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 44
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 43
-			}
-		]
-	},
-	{
 		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
 		"duracao": "1:35:12",
 		"ano": 1992,
@@ -10869,11 +10774,11 @@
 		"similares": [
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 99
+				"similaridade": 100
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 89
+				"similaridade": 90
 			},
 			{
 				"filme": "A Casa do Espanto",
@@ -10881,15 +10786,15 @@
 			},
 			{
 				"filme": "No Fim do Túnel",
-				"similaridade": 70
+				"similaridade": 71
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 67
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 67
-			},
-			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 66
 			},
 			{
 				"filme": "O Homem nas Trevas",
@@ -11110,10 +11015,6 @@
 				"similaridade": 14
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 14
-			},
-			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 13
 			},
@@ -11127,6 +11028,10 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 13
 			}
 		]
@@ -11433,7 +11338,7 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 110
+				"similaridade": 111
 			},
 			{
 				"filme": "Pânico",
@@ -11620,10 +11525,6 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 11
-			},
-			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 11
 			},
@@ -11633,6 +11534,10 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
+				"similaridade": 10
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
 				"similaridade": 10
 			}
 		]
@@ -11834,10 +11739,6 @@
 		"receita": "544.5K",
 		"similares": [
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 35
-			},
-			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 32
 			},
@@ -11864,6 +11765,10 @@
 			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 26
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 25
 			}
 		]
 	},
@@ -12482,10 +12387,6 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 9
-			},
-			{
 				"filme": "Megatubarão",
 				"similaridade": 7
 			},
@@ -12507,6 +12408,10 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
 				"similaridade": 7
 			}
 		]
@@ -12561,7 +12466,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.6,
+		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "7756740a4e620e77556e6a",
