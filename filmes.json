@@ -208,6 +208,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 5
+			},
+			{
 				"filme": "Sombra",
 				"similaridade": 5
 			},
@@ -221,10 +225,6 @@
 			},
 			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
-				"similaridade": 4
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 4
 			}
 		]
@@ -1209,20 +1209,20 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 17
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 17
 			},
 			{
+				"filme": "O Último Desafio",
+				"similaridade": 16
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 16
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 16
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 15
 			}
 		]
 	},
@@ -1715,6 +1715,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 2
+			},
+			{
 				"filme": "Estou Me Guardando para Quando o Carnaval Chegar",
 				"similaridade": 2
 			},
@@ -1724,10 +1728,6 @@
 			},
 			{
 				"filme": "Curral",
-				"similaridade": 2
-			},
-			{
-				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
 			}
 		]
@@ -2463,7 +2463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "O Último Desafio",
 				"similaridade": 1
 			}
 		]
@@ -2570,7 +2570,41 @@
 		"videoid": "4a0b717541587c78555303",
 		"resolucaoArmazenada": "1908x792",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 3
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 3
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cruella",
+				"similaridade": 3
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 3
+			}
+		]
 	},
 	{
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -2677,6 +2711,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sheena - A Rainha das Selvas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -2699,14 +2741,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 1
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 1
-			},
-			{
-				"filme": "Primitivo",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2722,6 +2756,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 1
+			},
 			{
 				"filme": "Velozes e Furiosos",
 				"similaridade": 1
@@ -2748,10 +2786,6 @@
 			},
 			{
 				"filme": "Jolt: Fúria Fatal",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Filho de Chucky",
 				"similaridade": 1
 			}
 		]
@@ -3065,15 +3099,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Sheena - A Rainha das Selvas",
+				"similaridade": 2
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 2
 			},
 			{
 				"filme": "O Quarto Secreto",
-				"similaridade": 2
-			},
-			{
-				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 2
 			}
 		]
@@ -3337,19 +3371,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Último Desafio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
 				"filme": "Agarra-me se Puderes",
 				"similaridade": 1
 			},
 			{
 				"filme": "Velozes e Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "+ Velozes + Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -3822,6 +3856,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -3843,10 +3881,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -4290,6 +4324,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Sheena - A Rainha das Selvas",
+				"similaridade": 4
+			},
+			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 4
 			},
@@ -4303,10 +4341,6 @@
 			},
 			{
 				"filme": "Não Me Mate",
-				"similaridade": 4
-			},
-			{
-				"filme": "Descascado",
 				"similaridade": 4
 			}
 		]
@@ -4323,6 +4357,14 @@
 		"orcamento": "49M",
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 1
+			},
 			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 1
@@ -4345,14 +4387,6 @@
 			},
 			{
 				"filme": "Piratas do Caribe: No Fim do Mundo",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: O Baú da Morte",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Sol de Amalfi",
 				"similaridade": 1
 			}
 		]
@@ -5080,6 +5114,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 2
+			},
+			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 2
 			},
@@ -5097,10 +5135,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -5606,7 +5640,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "O Último Desafio",
 				"similaridade": 1
 			}
 		]
@@ -5632,6 +5666,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
 				"filme": "Agarra-me se Puderes",
 				"similaridade": 1
 			},
@@ -5649,10 +5687,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -6338,11 +6372,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Piripkura",
+				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			},
 			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
+				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -6670,6 +6704,52 @@
 		]
 	},
 	{
+		"nome": "O Último Desafio",
+		"duracao": "1:47:04",
+		"ano": 2013,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/86yCBuxCX5PV60Y1Gp0VO6K8imM.jpg",
+		"videoid": "4a7c0a4a72546b4a5d0954",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "30M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 69
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 66
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 65
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 65
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 63
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 62
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 59
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 59
+			}
+		]
+	},
+	{
 		"nome": "O Quarto Secreto",
 		"duracao": "1:36:31",
 		"ano": 2011,
@@ -6854,6 +6934,52 @@
 		]
 	},
 	{
+		"nome": "Velozes & Furiosos 5: Operação Rio",
+		"duracao": "2:10:22",
+		"ano": 2011,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+		"videoid": "4f0e0874420f6876785962",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "125M",
+		"receita": "626.1M",
+		"similares": [
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 95
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 94
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 89
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 78
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 75
+			},
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 74
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 70
+			},
+			{
+				"filme": "O Último Desafio",
+				"similaridade": 69
+			}
+		]
+	},
+	{
 		"nome": "Os Agentes do Destino",
 		"duracao": "1:45:51",
 		"ano": 2011,
@@ -6988,6 +7114,52 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 29
+			}
+		]
+	},
+	{
+		"nome": "Velozes e Furiosos 4",
+		"duracao": "1:46:44",
+		"ano": 2009,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3ZiM6gm2XL8qnhZCXsTjixvaH4v.jpg",
+		"videoid": "784c6b5e7603434a634a6e",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "85M",
+		"receita": "363.2M",
+		"similares": [
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 100
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 94
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 90
+			},
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 67
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 53
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 50
+			},
+			{
+				"filme": "O Último Desafio",
+				"similaridade": 49
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 49
 			}
 		]
 	},
@@ -7702,6 +7874,14 @@
 				"similaridade": 81
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 74
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 67
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 42
 			},
@@ -7716,14 +7896,6 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 37
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 36
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 35
 			}
 		]
 	},
@@ -8020,6 +8192,14 @@
 				"similaridade": 128
 			},
 			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 90
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 89
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 81
 			},
@@ -8038,14 +8218,6 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 45
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 44
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 44
 			}
 		]
 	},
@@ -8296,6 +8468,14 @@
 				"similaridade": 128
 			},
 			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 100
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 95
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 88
 			},
@@ -8314,14 +8494,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 55
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 54
-			},
-			{
-				"filme": "Infiltrado",
-				"similaridade": 52
 			}
 		]
 	},
@@ -9098,12 +9270,12 @@
 				"similaridade": 29
 			},
 			{
-				"filme": "Quem Sou Eu?",
+				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 28
 			},
 			{
-				"filme": "Jogador N° 1",
-				"similaridade": 27
+				"filme": "Quem Sou Eu?",
+				"similaridade": 28
 			}
 		]
 	},
@@ -9196,52 +9368,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
-			}
-		]
-	},
-	{
-		"nome": "Arrebentando em Nova York",
-		"duracao": "1:29:37",
-		"ano": 1995,
-		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
-		"videoid": "620f510374560b03717054",
-		"resolucaoArmazenada": "1280x528",
-		"orcamento": "7.5M",
-		"receita": "32.4M",
-		"similares": [
-			{
-				"filme": "Batman",
-				"similaridade": 70
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 61
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 57
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 56
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 55
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 55
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 54
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 49
 			}
 		]
 	},
@@ -9416,16 +9542,16 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 10
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 9
-			},
-			{
-				"filme": "A Noite dos Arrepios",
-				"similaridade": 9
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 8
 			}
 		]
 	},
@@ -10392,6 +10518,52 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Sheena - A Rainha das Selvas",
+		"duracao": "1:56:22",
+		"ano": 1984,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/jpJ4kk5St9CpKFZZITMKqROCDeD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6rZNmdFPMoKvufR5MeiNpPMWcMy.jpg",
+		"videoid": "516168765757797051167e",
+		"resolucaoArmazenada": "1920x814",
+		"orcamento": "25M",
+		"receita": "5.8M",
+		"similares": [
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 14
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 13
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 13
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 13
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 13
 			}
 		]
 	},
