@@ -112,6 +112,10 @@
 				"similaridade": 23
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 22
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 22
 			},
@@ -129,10 +133,6 @@
 			},
 			{
 				"filme": "Alerta Vermelho",
-				"similaridade": 20
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 20
 			}
 		]
@@ -254,6 +254,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem de Toronto",
 				"similaridade": 1
 			},
@@ -267,10 +271,6 @@
 			},
 			{
 				"filme": "Alerta Vermelho",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Predestinado",
 				"similaridade": 1
 			}
 		]
@@ -1025,6 +1025,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 5
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 5
 			},
@@ -1034,10 +1038,6 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 5
-			},
-			{
-				"filme": "Mente Criminosa",
 				"similaridade": 5
 			}
 		]
@@ -1063,6 +1063,10 @@
 				"similaridade": 17
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 16
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
 			},
@@ -1081,10 +1085,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 14
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 13
 			}
 		]
 	},
@@ -1117,6 +1117,10 @@
 				"similaridade": 143
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 142
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 142
 			},
@@ -1127,10 +1131,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 140
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 138
 			}
 		]
 	},
@@ -1439,6 +1439,10 @@
 				"similaridade": 90
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 90
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 90
 			},
@@ -1449,10 +1453,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 80
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 79
 			}
 		]
 	},
@@ -1477,6 +1477,10 @@
 				"similaridade": 115
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 113
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 113
 			},
@@ -1495,10 +1499,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 103
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 102
 			}
 		]
 	},
@@ -1949,15 +1949,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Poço",
 				"similaridade": 1
 			},
 			{
 				"filme": "Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "Infiltrado",
 				"similaridade": 1
 			}
 		]
@@ -2037,6 +2037,10 @@
 				"similaridade": 106
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 98
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 93
 			},
@@ -2046,10 +2050,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 90
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 90
 			}
 		]
@@ -2187,8 +2187,8 @@
 				"similaridade": 108
 			},
 			{
-				"filme": "Jogador N° 1",
-				"similaridade": 104
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 106
 			}
 		]
 	},
@@ -2417,7 +2417,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			}
 		]
@@ -2509,7 +2509,7 @@
 				"similaridade": 91
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 88
 			}
 		]
@@ -2529,6 +2529,10 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 5
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 3
 			},
 			{
 				"filme": "Mente Criminosa",
@@ -2552,10 +2556,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 3
 			}
 		]
@@ -2593,16 +2593,16 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 130
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 121
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 111
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 110
 			}
 		]
 	},
@@ -2643,12 +2643,12 @@
 				"similaridade": 77
 			},
 			{
-				"filme": "As Agentes 355",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 75
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 74
+				"filme": "As Agentes 355",
+				"similaridade": 75
 			}
 		]
 	},
@@ -2711,6 +2711,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 1
+			},
+			{
 				"filme": "Super Velozes, Mega Furiosos",
 				"similaridade": 1
 			},
@@ -2736,10 +2740,6 @@
 			},
 			{
 				"filme": "+ Velozes + Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -2873,12 +2873,12 @@
 				"similaridade": 42
 			},
 			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 40
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 41
 			},
 			{
-				"filme": "Cidade de Deus",
-				"similaridade": 39
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 40
 			}
 		]
 	},
@@ -3107,8 +3107,8 @@
 				"similaridade": 158
 			},
 			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 151
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 155
 			}
 		]
 	},
@@ -3149,12 +3149,12 @@
 				"similaridade": 127
 			},
 			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 114
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 121
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 113
+				"filme": "Fúria Silenciosa",
+				"similaridade": 114
 			}
 		]
 	},
@@ -3191,15 +3191,15 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 4
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 4
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 4
 			}
 		]
@@ -3241,11 +3241,11 @@
 				"similaridade": 110
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 102
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 104
 			},
 			{
-				"filme": "A Morte do Superman",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 102
 			}
 		]
@@ -3287,11 +3287,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Mar em Fúria",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 2
 			},
 			{
-				"filme": "Ambulância: Um Dia de Crime",
+				"filme": "Mar em Fúria",
 				"similaridade": 2
 			}
 		]
@@ -3451,6 +3451,10 @@
 				"similaridade": 135
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 134
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 134
 			},
@@ -3473,10 +3477,6 @@
 			{
 				"filme": "As Agentes 355",
 				"similaridade": 113
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 112
 			}
 		]
 	},
@@ -3680,6 +3680,10 @@
 				"similaridade": 148
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 144
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 144
 			},
@@ -3693,10 +3697,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 132
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 132
 			}
 		]
@@ -3760,6 +3760,10 @@
 		"receita": "39.2M",
 		"similares": [
 			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 377
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 94
 			},
@@ -3786,9 +3790,51 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 74
+			}
+		]
+	},
+	{
+		"nome": "Fúria Incontrolável",
+		"duracao": "1:30:15",
+		"ano": 2020,
+		"score": 6.4,
+		"poster": "https://image.tmdb.org/t/p/w200/kDt37orVVcJ4tbB2azkMc4nqn1U.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wXk9y36eTmNl6XwEuOfw6yNNClr.jpg",
+		"videoid": "751603485c7c5f4c7d746e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "33M",
+		"receita": "39.2M",
+		"similares": [
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 377
 			},
 			{
-				"filme": "Tenet",
+				"filme": "Batman",
+				"similaridade": 94
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 90
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 83
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 82
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 76
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 74
+			},
+			{
+				"filme": "O Estrangeiro",
 				"similaridade": 74
 			}
 		]
@@ -3808,6 +3854,10 @@
 			{
 				"filme": "Turma da Mônica: Lições",
 				"similaridade": 2
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 1
 			},
 			{
 				"filme": "Velozes & Furiosos 7",
@@ -3831,10 +3881,6 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -4346,6 +4392,52 @@
 		]
 	},
 	{
+		"nome": "Velozes & Furiosos: Hobbs & Shaw",
+		"duracao": "2:16:42",
+		"ano": 2019,
+		"score": 6.7,
+		"poster": "https://image.tmdb.org/t/p/w200/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg",
+		"videoid": "6e43484b635e4c4b0c6f5c",
+		"resolucaoArmazenada": "1920x802",
+		"orcamento": "200M",
+		"receita": "760.1M",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 166
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 155
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 144
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 142
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 140
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 134
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 134
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 134
+			}
+		]
+	},
+	{
 		"nome": "Turma da Mônica: Laços",
 		"duracao": "1:36:43",
 		"ano": 2019,
@@ -4432,7 +4524,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 4
 			}
 		]
@@ -4642,6 +4734,10 @@
 				"similaridade": 112
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 93
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 92
 			},
@@ -4660,10 +4756,6 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 88
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 86
 			}
 		]
 	},
@@ -4934,6 +5026,10 @@
 				"similaridade": 104
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 102
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 101
 			},
@@ -4948,10 +5044,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 98
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 95
 			}
 		]
 	},
@@ -5026,6 +5118,10 @@
 				"similaridade": 125
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 123
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 123
 			},
@@ -5039,10 +5135,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 115
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 115
 			}
 		]
@@ -5214,6 +5306,10 @@
 				"similaridade": 138
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 133
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 129
 			},
@@ -5224,10 +5320,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 127
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 125
 			}
 		]
 	},
@@ -5502,8 +5594,8 @@
 				"similaridade": 85
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 80
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 84
 			}
 		]
 	},
@@ -5540,15 +5632,15 @@
 				"similaridade": 143
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 140
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 132
 			},
 			{
 				"filme": "Velozes & Furiosos 8",
-				"similaridade": 127
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 127
 			}
 		]
@@ -5612,6 +5704,10 @@
 		"receita": "1.2B",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 166
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 160
 			},
@@ -5638,10 +5734,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 138
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 135
 			}
 		]
 	},
@@ -5682,11 +5774,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			},
 			{
-				"filme": "O Homem nas Trevas",
+				"filme": "Velozes & Furiosos 8",
 				"similaridade": 1
 			}
 		]
@@ -5896,6 +5988,10 @@
 				"similaridade": 135
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 134
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 132
 			},
@@ -5914,10 +6010,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 115
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 114
 			}
 		]
 	},
@@ -6122,6 +6214,10 @@
 				"similaridade": 160
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 134
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 134
 			},
@@ -6144,10 +6240,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 95
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 93
 			}
 		]
 	},
@@ -6770,6 +6862,10 @@
 				"similaridade": 132
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 107
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 103
 			},
@@ -6788,10 +6884,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 89
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 83
 			}
 		]
 	},
@@ -6810,6 +6902,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 95
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 93
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -6834,10 +6930,6 @@
 			{
 				"filme": "Duna",
 				"similaridade": 76
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 74
 			}
 		]
 	},
@@ -6866,6 +6958,10 @@
 				"similaridade": 75
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 70
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 70
 			},
@@ -6879,10 +6975,6 @@
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 63
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 63
 			}
 		]
@@ -7200,12 +7292,12 @@
 				"similaridade": 89
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 78
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 83
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 75
+				"filme": "Batman",
+				"similaridade": 78
 			}
 		]
 	},
@@ -7388,8 +7480,8 @@
 				"similaridade": 67
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 53
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 59
 			}
 		]
 	},
@@ -7652,6 +7744,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 14
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 14
 			},
@@ -7661,10 +7757,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 14
-			},
-			{
-				"filme": "Gladiador",
 				"similaridade": 14
 			}
 		]
@@ -7848,8 +7940,8 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 42
+				"filme": "Fúria Incontrolável",
+				"similaridade": 47
 			}
 		]
 	},
@@ -8446,8 +8538,8 @@
 				"similaridade": 73
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 52
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 54
 			}
 		]
 	},
@@ -8722,8 +8814,8 @@
 				"similaridade": 76
 			},
 			{
-				"filme": "Batman",
-				"similaridade": 58
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 68
 			}
 		]
 	},
@@ -9178,12 +9270,12 @@
 				"similaridade": 83
 			},
 			{
-				"filme": "Mate ou Morra",
+				"filme": "Fúria Incontrolável",
 				"similaridade": 83
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 82
+				"filme": "Mate ou Morra",
+				"similaridade": 83
 			}
 		]
 	},
@@ -9202,6 +9294,10 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 108
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 105
 			},
 			{
 				"filme": "Tenet",
@@ -9226,10 +9322,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 96
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 92
 			}
 		]
 	},
@@ -9550,7 +9642,7 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "O Tigre e o Dragão",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 17
 			}
 		]
@@ -9722,6 +9814,10 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 43
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 43
 			},
@@ -9732,10 +9828,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 43
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 42
 			}
 		]
 	},
@@ -10696,11 +10788,11 @@
 				"similaridade": 27
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 25
 			},
 			{
-				"filme": "Mente Criminosa",
+				"filme": "Jogador N° 1",
 				"similaridade": 25
 			}
 		]
@@ -11160,8 +11252,8 @@
 				"similaridade": 101
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 99
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 100
 			}
 		]
 	},
@@ -11386,11 +11478,11 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "Jogador N° 1",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 39
 			},
 			{
-				"filme": "A Noiva de Chucky",
+				"filme": "Jogador N° 1",
 				"similaridade": 39
 			}
 		]
@@ -11658,16 +11750,16 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 63
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 62
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 61
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 60
 			}
 		]
 	},
@@ -11968,6 +12060,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 40
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 40
 			},
@@ -11986,10 +12082,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 34
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 32
 			}
 		]
 	},
