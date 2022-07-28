@@ -200,6 +200,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 6
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			},
@@ -222,10 +226,6 @@
 			{
 				"filme": "Karatê Kid",
 				"similaridade": 5
-			},
-			{
-				"filme": "Velozes e Furiosos: Desafio em Tóquio",
-				"similaridade": 4
 			}
 		]
 	},
@@ -346,6 +346,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 6
+			},
+			{
 				"filme": "DOA: Vivo ou Morto",
 				"similaridade": 6
 			},
@@ -359,10 +363,6 @@
 			},
 			{
 				"filme": "Tenet",
-				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			}
 		]
@@ -963,6 +963,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -988,10 +992,6 @@
 			},
 			{
 				"filme": "Tormento",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
 			}
 		]
@@ -1201,6 +1201,10 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 19
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 18
 			},
@@ -1218,10 +1222,6 @@
 			},
 			{
 				"filme": "O Último Desafio",
-				"similaridade": 16
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 16
 			}
 		]
@@ -1975,6 +1975,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 2
+			},
+			{
 				"filme": "Perfume de Mulher",
 				"similaridade": 2
 			},
@@ -2000,10 +2004,6 @@
 			},
 			{
 				"filme": "Infiltrado",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Casa Sombria",
 				"similaridade": 1
 			}
 		]
@@ -2463,7 +2463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Último Desafio",
+				"filme": "O Homem nas Trevas",
 				"similaridade": 1
 			}
 		]
@@ -2573,6 +2573,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 5
+			},
+			{
 				"filme": "Mente Criminosa",
 				"similaridade": 3
 			},
@@ -2598,10 +2602,6 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Espelho",
 				"similaridade": 3
 			}
 		]
@@ -2757,6 +2757,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Pequena Grande Vida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 1
 			},
@@ -2774,18 +2786,6 @@
 			},
 			{
 				"filme": "Um Garoto na Corte do Rei Arthur",
-				"similaridade": 1
-			},
-			{
-				"filme": "Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "Infiltrado",
-				"similaridade": 1
-			},
-			{
-				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 1
 			}
 		]
@@ -3309,6 +3309,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 3
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 3
 			},
@@ -3334,10 +3338,6 @@
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
-				"similaridade": 2
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 2
 			}
 		]
@@ -3643,6 +3643,10 @@
 				"similaridade": 75
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 72
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 66
 			},
@@ -3657,10 +3661,6 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 60
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 59
 			}
 		]
 	},
@@ -3856,6 +3856,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			},
@@ -3873,14 +3881,6 @@
 			},
 			{
 				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -4048,6 +4048,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 34
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 34
 			},
@@ -4061,10 +4065,6 @@
 			},
 			{
 				"filme": "Megatubarão",
-				"similaridade": 31
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 31
 			}
 		]
@@ -4084,6 +4084,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 11
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 9
 			},
 			{
 				"filme": "Jogador N° 1",
@@ -4107,10 +4111,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 8
-			},
-			{
-				"filme": "Inocência Roubada",
 				"similaridade": 8
 			}
 		]
@@ -4152,11 +4152,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Sem Dor, Sem Ganho",
+				"filme": "Velozes & Furiosos 7",
 				"similaridade": 4
 			},
 			{
-				"filme": "O Predestinado",
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 4
 			}
 		]
@@ -4240,16 +4240,16 @@
 				"similaridade": 50
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 48
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 40
 			},
 			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 38
-			},
-			{
-				"filme": "O Espelho",
-				"similaridade": 35
 			}
 		]
 	},
@@ -4358,6 +4358,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			},
@@ -4379,14 +4387,6 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: No Fim do Mundo",
 				"similaridade": 1
 			}
 		]
@@ -4562,15 +4562,15 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 12
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 12
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 12
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 12
 			}
 		]
@@ -4608,15 +4608,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Pequena Grande Vida",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
 			{
 				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -5210,6 +5210,10 @@
 				"similaridade": 79
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 78
+			},
+			{
 				"filme": "No Fim do Túnel",
 				"similaridade": 69
 			},
@@ -5224,10 +5228,6 @@
 			{
 				"filme": "O Poço",
 				"similaridade": 60
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 59
 			}
 		]
 	},
@@ -5320,6 +5320,52 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Pequena Grande Vida",
+		"duracao": "0",
+		"ano": 2017,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/10eAWCOBnTggxsHvAULoL8ZsfAs.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg",
+		"videoid": "0c086976547558785a5676",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "68M",
+		"receita": "55M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 27
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 26
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 24
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 21
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 21
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 20
 			}
 		]
 	},
@@ -5640,7 +5686,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Último Desafio",
+				"filme": "O Homem nas Trevas",
 				"similaridade": 1
 			}
 		]
@@ -5666,6 +5712,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			},
@@ -5683,10 +5733,6 @@
 			},
 			{
 				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -5796,6 +5842,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 84
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 72
 			},
@@ -5822,10 +5872,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 56
-			},
-			{
-				"filme": "O Espelho",
-				"similaridade": 55
 			}
 		]
 	},
@@ -5872,6 +5918,52 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 111
+			}
+		]
+	},
+	{
+		"nome": "O Homem nas Trevas",
+		"duracao": "1:28:33",
+		"ano": 2016,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/6F9QUWhGpZtYH0ibbuLJ49k91tZ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hvXWVpKvFWAqiGyTYloudgLXKMY.jpg",
+		"videoid": "5c7f095f7f5c0a63496354",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "9.9M",
+		"receita": "159M",
+		"similares": [
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 84
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 78
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 75
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 72
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 69
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 65
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 65
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 64
 			}
 		]
 	},
@@ -6014,6 +6106,52 @@
 		]
 	},
 	{
+		"nome": "Velozes & Furiosos 7",
+		"duracao": "0",
+		"ano": 2015,
+		"score": 7.2,
+		"poster": "https://image.tmdb.org/t/p/w200/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+		"videoid": "5d094c556a686f490c717e",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "190M",
+		"receita": "1.5B",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 134
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 132
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 105
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 103
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 100
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 95
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 93
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 92
+			}
+		]
+	},
+	{
 		"nome": "Ascensão e Queda de um Império",
 		"duracao": "1:53:23",
 		"ano": 2015,
@@ -6111,7 +6249,7 @@
 		"ano": 2014,
 		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
 		"videoid": "4e72735909710955495650",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "165M",
@@ -6184,16 +6322,16 @@
 				"similaridade": 46
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 41
+			},
+			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 40
 			},
 			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 33
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 32
 			}
 		]
 	},
@@ -6260,6 +6398,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 13
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 13
 			},
@@ -6281,10 +6423,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 12
 			}
 		]
@@ -6536,6 +6674,10 @@
 				"similaridade": 77
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 69
+			},
+			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 65
 			},
@@ -6558,10 +6700,52 @@
 			{
 				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 54
+			}
+		]
+	},
+	{
+		"nome": "Velozes & Furiosos 6",
+		"duracao": "2:11:03",
+		"ano": 2013,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mRfI3y2oAd7ejur2di09xC9niqp.jpg",
+		"videoid": "0b7f5c68744d78430b4b58",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "160M",
+		"receita": "788.7M",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 132
 			},
 			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 46
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 103
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 96
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 91
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 90
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 89
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 83
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 82
 			}
 		]
 	},
@@ -6716,6 +6900,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 70
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 69
 			},
@@ -6732,20 +6920,16 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 63
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 63
 			},
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 62
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 59
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 59
 			}
 		]
 	},
@@ -6774,6 +6958,10 @@
 				"similaridade": 50
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 47
+			},
+			{
 				"filme": "O Espelho",
 				"similaridade": 46
 			},
@@ -6788,10 +6976,6 @@
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 38
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 35
 			}
 		]
 	},
@@ -6946,6 +7130,14 @@
 		"receita": "626.1M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 134
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 103
+			},
+			{
 				"filme": "Velozes e Furiosos",
 				"similaridade": 95
 			},
@@ -6968,14 +7160,6 @@
 			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 74
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 70
-			},
-			{
-				"filme": "O Último Desafio",
-				"similaridade": 69
 			}
 		]
 	},
@@ -7130,6 +7314,10 @@
 		"receita": "363.2M",
 		"similares": [
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 103
+			},
+			{
 				"filme": "Velozes e Furiosos",
 				"similaridade": 100
 			},
@@ -7142,6 +7330,10 @@
 				"similaridade": 90
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 81
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 67
 			},
@@ -7152,14 +7344,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 50
-			},
-			{
-				"filme": "O Último Desafio",
-				"similaridade": 49
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 49
 			}
 		]
 	},
@@ -7518,15 +7702,15 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 6
+			},
+			{
 				"filme": "O Poço",
 				"similaridade": 6
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 6
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			}
 		]
@@ -7786,6 +7970,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 12
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 11
 			},
@@ -7799,10 +7987,6 @@
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 9
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 9
 			}
 		]
@@ -7878,8 +8062,16 @@
 				"similaridade": 74
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 68
+			},
+			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 67
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 55
 			},
 			{
 				"filme": "O Estrangeiro",
@@ -7888,14 +8080,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 41
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 40
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 37
 			}
 		]
 	},
@@ -8192,6 +8376,10 @@
 				"similaridade": 128
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 92
+			},
+			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 90
 			},
@@ -8204,20 +8392,16 @@
 				"similaridade": 81
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 76
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 52
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 48
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 46
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 45
 			}
 		]
 	},
@@ -8476,8 +8660,16 @@
 				"similaridade": 95
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 90
+			},
+			{
 				"filme": "Velozes e Furiosos: Desafio em Tóquio",
 				"similaridade": 88
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 76
 			},
 			{
 				"filme": "Batman",
@@ -8486,14 +8678,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 57
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 56
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 55
 			}
 		]
 	},
@@ -9078,6 +9262,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 9
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 9
 			},
@@ -9087,10 +9275,6 @@
 			},
 			{
 				"filme": "Velozes e Furiosos",
-				"similaridade": 8
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 8
 			}
 		]
@@ -9258,6 +9442,10 @@
 				"similaridade": 32
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 30
+			},
+			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 30
 			},
@@ -9271,10 +9459,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
-				"similaridade": 28
-			},
-			{
-				"filme": "Quem Sou Eu?",
 				"similaridade": 28
 			}
 		]
@@ -9358,16 +9542,62 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 8
+			},
+			{
 				"filme": "Cruella",
 				"similaridade": 8
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 8
+			}
+		]
+	},
+	{
+		"nome": "Arrebentando em Nova York",
+		"duracao": "1:29:37",
+		"ano": 1995,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h9T2IaeL9VlKY4MJcTNLtLwj4jG.jpg",
+		"videoid": "620f510374560b03717054",
+		"resolucaoArmazenada": "1280x528",
+		"orcamento": "7.5M",
+		"receita": "32.4M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 70
 			},
 			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
+				"filme": "O Estrangeiro",
+				"similaridade": 61
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 56
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 55
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 55
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 54
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 49
 			}
 		]
 	},
@@ -9538,6 +9768,10 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 12
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 11
 			},
@@ -9548,10 +9782,6 @@
 			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 10
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 9
 			}
 		]
 	},
@@ -10328,12 +10558,12 @@
 				"similaridade": 67
 			},
 			{
-				"filme": "O Espelho",
-				"similaridade": 57
+				"filme": "O Homem nas Trevas",
+				"similaridade": 63
 			},
 			{
-				"filme": "O Poço",
-				"similaridade": 55
+				"filme": "O Espelho",
+				"similaridade": 57
 			}
 		]
 	},
@@ -10370,16 +10600,16 @@
 				"similaridade": 72
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 65
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 65
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 54
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 53
 			}
 		]
 	},
@@ -10462,16 +10692,16 @@
 				"similaridade": 62
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 56
+			},
+			{
 				"filme": "O Espelho",
 				"similaridade": 54
 			},
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 47
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 40
 			}
 		]
 	},
@@ -10592,6 +10822,14 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 5
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 5
+			},
+			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 5
 			},
@@ -10601,14 +10839,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 5
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 5
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 5
 			}
 		]
@@ -10634,6 +10864,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 5
+			},
+			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 5
 			},
@@ -10651,10 +10885,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 5
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 5
 			}
 		]
@@ -11902,52 +12132,6 @@
 		]
 	},
 	{
-		"nome": "Cinderela em Paris",
-		"duracao": "1:43:20",
-		"ano": 1957,
-		"score": 7,
-		"poster": "https://image.tmdb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
-		"videoid": "4a506a030b485c6b765a03",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 9
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 9
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 7
-			},
-			{
-				"filme": "Perfume - A História de um Assassino",
-				"similaridade": 7
-			},
-			{
-				"filme": "Cruella",
-				"similaridade": 7
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 7
-			},
-			{
-				"filme": "Casablanca",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 7
-			}
-		]
-	},
-	{
 		"nome": "Sindicato de Ladrões",
 		"duracao": "1:47:42",
 		"ano": 1954,
@@ -12072,15 +12256,15 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 33
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 33
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 32
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 32
 			}
 		]
