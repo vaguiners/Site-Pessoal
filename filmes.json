@@ -644,52 +644,6 @@
 		]
 	},
 	{
-		"nome": "Doutor Estranho no Multiverso da Loucura",
-		"duracao": "2:06:32",
-		"ano": 2022,
-		"score": 7.5,
-		"poster": "https://image.tmdb.org/t/p/w200/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
-		"videoid": "566a506b02636d037d4a7e",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "200M",
-		"receita": "953.2M",
-		"similares": [
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 142
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 141
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 135
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 131
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 103
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 100
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 95
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 85
-			}
-		]
-	},
-	{
 		"nome": "D.P.A. 3: O Filme - Uma Aventura no Fim do Mundo",
 		"duracao": "1:44:46",
 		"ano": 2022,
@@ -1887,10 +1841,6 @@
 				"similaridade": 151
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 142
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -1913,6 +1863,10 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 97
 			}
 		]
 	},
@@ -2221,10 +2175,6 @@
 				"similaridade": 132
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 131
-			},
-			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 128
 			},
@@ -2235,6 +2185,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 104
 			}
 		]
 	},
@@ -2631,10 +2585,6 @@
 				"similaridade": 151
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 141
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 140
 			},
@@ -2648,6 +2598,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 110
+			},
+			{
+				"filme": "Duna",
 				"similaridade": 110
 			}
 		]
@@ -2757,6 +2711,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Super Velozes, Mega Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "Pequena Grande Vida",
 				"similaridade": 1
 			},
@@ -2782,10 +2740,6 @@
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
 			}
 		]
@@ -3371,6 +3325,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Super Velozes, Mega Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Último Desafio",
 				"similaridade": 1
 			},
@@ -3380,10 +3338,6 @@
 			},
 			{
 				"filme": "Agarra-me se Puderes",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes e Furiosos",
 				"similaridade": 1
 			}
 		]
@@ -4458,10 +4412,6 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 6
-			},
-			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 5
 			},
@@ -4480,6 +4430,10 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 5
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 4
 			}
 		]
 	},
@@ -5325,7 +5279,7 @@
 	},
 	{
 		"nome": "Pequena Grande Vida",
-		"duracao": "0",
+		"duracao": "2:15:21",
 		"ano": 2017,
 		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/10eAWCOBnTggxsHvAULoL8ZsfAs.jpg",
@@ -5511,7 +5465,7 @@
 		"nome": "Piratas do Caribe: A Vingança de Salazar",
 		"duracao": "2:09:08",
 		"ano": 2017,
-		"score": 6.5,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
 		"videoid": "6b520f76680f0d726b6f0f",
@@ -5632,15 +5586,15 @@
 				"similaridade": 21
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 19
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 15
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 13
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 13
 			}
 		]
@@ -5659,10 +5613,6 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 3
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 3
 			},
 			{
@@ -5687,6 +5637,10 @@
 			},
 			{
 				"filme": "O Homem nas Trevas",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Último Desafio",
 				"similaridade": 1
 			}
 		]
@@ -6046,15 +6000,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Super Velozes, Mega Furiosos",
+				"similaridade": 1
+			},
+			{
 				"filme": "...E Frankenstein Criou a Mulher",
 				"similaridade": 1
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Os Últimos na Terra",
 				"similaridade": 1
 			}
 		]
@@ -6107,7 +6061,7 @@
 	},
 	{
 		"nome": "Velozes & Furiosos 7",
-		"duracao": "0",
+		"duracao": "2:19:55",
 		"ano": 2015,
 		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg",
@@ -6148,6 +6102,52 @@
 			{
 				"filme": "+ Velozes + Furiosos",
 				"similaridade": 92
+			}
+		]
+	},
+	{
+		"nome": "Super Velozes, Mega Furiosos",
+		"duracao": "1:39:31",
+		"ano": 2015,
+		"score": 4.5,
+		"poster": "https://image.tmdb.org/t/p/w200/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pwqfrqNkE4UJQqGdBc5qFUC6w9V.jpg",
+		"videoid": "647d6d6c61585e0c766f62",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "20M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 12
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 9
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 9
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 8
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 8
+			},
+			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 8
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 7
 			}
 		]
 	},
@@ -6249,7 +6249,7 @@
 		"ano": 2014,
 		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg",
 		"videoid": "4e72735909710955495650",
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": "165M",
@@ -8028,12 +8028,12 @@
 				"similaridade": 32
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 32
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 30
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 29
 			}
 		]
 	},
@@ -8606,10 +8606,6 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 24
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
 			},
@@ -8631,6 +8627,10 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
+				"similaridade": 17
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 17
 			}
 		]
@@ -11278,10 +11278,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
-				"similaridade": 12
-			},
-			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			},
@@ -11299,6 +11295,10 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
+				"similaridade": 10
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
 				"similaridade": 10
 			}
 		]
@@ -12128,6 +12128,52 @@
 			{
 				"filme": "O Veredicto",
 				"similaridade": 11
+			}
+		]
+	},
+	{
+		"nome": "Cinderela em Paris",
+		"duracao": "1:43:20",
+		"ano": 1957,
+		"score": 7,
+		"poster": "https://image.tmdb.org/t/p/w200/1eYBElIMm82PgzMlf1Ogr5cdKdB.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tHxsIOdnzvK3w0fWC4dcGG2Zj41.jpg",
+		"videoid": "4a506a030b485c6b765a03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 9
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 9
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 7
+			},
+			{
+				"filme": "Perfume - A História de um Assassino",
+				"similaridade": 7
+			},
+			{
+				"filme": "Cruella",
+				"similaridade": 7
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 7
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
 			}
 		]
 	},
