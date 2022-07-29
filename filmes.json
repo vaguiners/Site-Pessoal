@@ -6652,10 +6652,6 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 2
-			},
-			{
 				"filme": "A Maldição da Chorona",
 				"similaridade": 1
 			},
@@ -6665,6 +6661,10 @@
 			},
 			{
 				"filme": "...E Frankenstein Criou a Mulher",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -8099,7 +8099,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.3,
+		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -9065,7 +9065,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.6,
+		"score": 7.5,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -10988,8 +10988,8 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 13
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
 			}
 		]
 	},
@@ -12190,52 +12190,6 @@
 		]
 	},
 	{
-		"nome": "O Exorcista II: O Herege",
-		"duracao": "1:57:42",
-		"ano": 1977,
-		"score": 4.2,
-		"poster": "https://image.tmdb.org/t/p/w200/2XASU2NnhnOTitNwSN9GmWVhlov.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
-		"videoid": "5f645d56495f4174797862",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "14M",
-		"receita": "30.7M",
-		"similares": [
-			{
-				"filme": "O Exorcista",
-				"similaridade": 24
-			},
-			{
-				"filme": "O Exorcista III",
-				"similaridade": 13
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 11
-			},
-			{
-				"filme": "Os Ritos Satânicos de Drácula",
-				"similaridade": 11
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 11
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 11
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 10
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 10
-			}
-		]
-	},
-	{
 		"nome": "Agarra-me se Puderes",
 		"duracao": "1:35:51",
 		"ano": 1977,
@@ -12922,52 +12876,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 10
-			}
-		]
-	},
-	{
-		"nome": "A Embriaguez do Sucesso",
-		"duracao": "1:36:41",
-		"ano": 1957,
-		"score": 7.7,
-		"poster": "https://image.tmdb.org/t/p/w200/a0rWG90gNd85ttLjXAYNUAUG8GK.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/nC8u2U0YpmFOzJjbQaCt5NwbkGQ.jpg",
-		"videoid": "0c566a7a6473555d025376",
-		"resolucaoArmazenada": "1200x720",
-		"orcamento": "3.4M",
-		"receita": "2.5M",
-		"similares": [
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 25
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 18
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 16
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 15
-			},
-			{
-				"filme": "Uma Questão de Respeito",
-				"similaridade": 14
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 14
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 14
 			}
 		]
 	},
