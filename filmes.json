@@ -3,7 +3,7 @@
 		"nome": "Tudo é Possível",
 		"duracao": "1:38:15",
 		"ano": 2022,
-		"score": 5.4,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uc427uPu7q12bT27IkhZ4aPPyjB.jpg",
 		"videoid": "6d64740c6d0b4f557f5a4c",
@@ -5136,6 +5136,52 @@
 			{
 				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Contos do Caçador de Sombras",
+		"duracao": "1:48:53",
+		"ano": 2019,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
+		"videoid": "6c64730b5958685d495d54",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 3
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 3
+			},
+			{
+				"filme": "Bater ou Correr",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 3
+			},
+			{
+				"filme": "Guerreiros da Virtude",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 2
 			}
 		]
 	},
@@ -11770,8 +11816,8 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Sindicato de Ladrões",
-				"similaridade": 7
+				"filme": "Jogador N° 1",
+				"similaridade": 6
 			}
 		]
 	},
@@ -12830,52 +12876,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 7
-			}
-		]
-	},
-	{
-		"nome": "Sindicato de Ladrões",
-		"duracao": "1:47:42",
-		"ano": 1954,
-		"score": 8.1,
-		"poster": "https://image.tmdb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
-		"videoid": "776b785a70787d56705d0f",
-		"resolucaoArmazenada": "1792x1072",
-		"orcamento": "910K",
-		"receita": "9.6M",
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 39
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 34
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 33
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 30
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 29
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 27
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 27
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 26
 			}
 		]
 	},
