@@ -49,7 +49,7 @@
 		"nome": "O Sol de Amalfi",
 		"duracao": "1:36:13",
 		"ano": 2022,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
 		"videoid": "784b62747773414352526e",
@@ -442,6 +442,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 5
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 5
 			},
@@ -451,10 +455,6 @@
 			},
 			{
 				"filme": "Juntos e Misturados",
-				"similaridade": 5
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 5
 			}
 		]
@@ -480,6 +480,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 6
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 6
 			},
@@ -492,15 +496,11 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 5
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
-				"similaridade": 5
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 5
-			},
-			{
-				"filme": "Piratas do Caribe: No Fim do Mundo",
 				"similaridade": 5
 			}
 		]
@@ -877,7 +877,7 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 5,
+		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
 		"videoid": "685e0f4e4c7a540a4e486e",
@@ -893,7 +893,10 @@
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			},
-			null,
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 1
+			},
 			null,
 			null,
 			null,
@@ -913,6 +916,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sobrenatural",
+				"similaridade": 1
+			},
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 1
@@ -935,14 +946,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Pai da Rita",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transversais",
 				"similaridade": 1
 			}
 		]
@@ -1240,6 +1243,10 @@
 				"similaridade": 24
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 21
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 21
 			},
@@ -1261,10 +1268,6 @@
 			},
 			{
 				"filme": "De Olhos Bem Fechados",
-				"similaridade": 18
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
 				"similaridade": 18
 			}
 		]
@@ -1390,6 +1393,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "A Chorona",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Última Noite",
 				"similaridade": 4
 			},
@@ -1399,10 +1406,6 @@
 			},
 			{
 				"filme": "Jolt: Fúria Fatal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 4
 			}
 		]
@@ -1608,6 +1611,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 3
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 3
 			},
@@ -1629,10 +1636,6 @@
 			},
 			{
 				"filme": "Karatê Kid",
-				"similaridade": 3
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 3
 			}
 		]
@@ -1816,8 +1819,8 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Fúria",
-				"similaridade": 3
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 4
 			}
 		]
 	},
@@ -2236,6 +2239,52 @@
 		]
 	},
 	{
+		"nome": "A Mansão",
+		"duracao": "1:21:12",
+		"ano": 2021,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/dpz5hyD5YhNMgqnVSvdtMuWmxr4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/7k7U0XWjo5LRAu9UxF9iGE3pCrF.jpg",
+		"videoid": "4f500a094c4c6d7f747d0f",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 5
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 4
+			}
+		]
+	},
+	{
 		"nome": "A Matéria Noturna",
 		"duracao": "1:29:36",
 		"ano": 2021,
@@ -2414,7 +2463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Velozes & Furiosos 9",
+				"filme": "O Homem nas Trevas 2",
 				"similaridade": 1
 			}
 		]
@@ -2604,6 +2653,52 @@
 		]
 	},
 	{
+		"nome": "O Homem nas Trevas 2",
+		"duracao": "1:38:14",
+		"ano": 2021,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/bE46qkPtUnff8READ0AYZP9mVj2.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+		"videoid": "684254484b0f494d734d76",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "10M",
+		"receita": "45M",
+		"similares": [
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 55
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 27
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 26
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 23
+			},
+			{
+				"filme": "Infiltrado",
+				"similaridade": 22
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 22
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 21
+			}
+		]
+	},
+	{
 		"nome": "Jolt: Fúria Fatal",
 		"duracao": "1:31:06",
 		"ano": 2021,
@@ -2662,6 +2757,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Gigantes de Aço",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			},
@@ -2688,10 +2787,6 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
-			},
-			{
-				"filme": "Quem Sou Eu?",
-				"similaridade": 1
 			}
 		]
 	},
@@ -2707,6 +2802,14 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "A Maldição da Chorona",
+				"similaridade": 1
+			},
+			{
+				"filme": "Xanadu",
+				"similaridade": 1
+			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
@@ -2729,14 +2832,6 @@
 			},
 			{
 				"filme": "Velozes e Furiosos 4",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes e Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "+ Velozes + Furiosos",
 				"similaridade": 1
 			}
 		]
@@ -3000,7 +3095,7 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 7
 			},
 			{
@@ -3226,6 +3321,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 4
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 4
 			},
@@ -3239,10 +3338,6 @@
 			},
 			{
 				"filme": "Inimigo Mortal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 4
 			}
 		]
@@ -3262,6 +3357,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 31
+			},
+			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 27
 			},
 			{
 				"filme": "O Homem do Norte",
@@ -3286,10 +3385,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 20
 			}
 		]
 	},
@@ -3350,6 +3445,52 @@
 		"resolucaoArmazenada": "1920x1080",
 		"orcamento": 0,
 		"receita": 0
+	},
+	{
+		"nome": "Quando o Demônio Chama",
+		"duracao": "1:27:42",
+		"ano": 2020,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/x91rdEBFATNkmt4QmaccZFtCXzO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/nJRECsWoujE2Ppe2X3uskWCJEX3.jpg",
+		"videoid": "74594942420b62794e610f",
+		"resolucaoArmazenada": "1492x808",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sobrenatural",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Casa Sombria",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 3
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 2
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 2
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 2
+			}
+		]
 	},
 	{
 		"nome": "Quando Chega a Calmaria",
@@ -3426,19 +3567,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Maldição da Chorona",
+				"similaridade": 1
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 1
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 1
-			},
-			{
-				"filme": "Super Velozes, Mega Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Último Desafio",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
 			}
 		]
@@ -3514,6 +3655,14 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 3
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 2
 			},
@@ -3523,14 +3672,6 @@
 			},
 			{
 				"filme": "Dicionário de Cama",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Homem do Norte",
-				"similaridade": 2
-			},
-			{
-				"filme": "Lindinhas",
 				"similaridade": 2
 			}
 		]
@@ -3648,6 +3789,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 3
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 3
 			},
@@ -3666,10 +3811,6 @@
 			{
 				"filme": "O Homem do Norte",
 				"similaridade": 3
-			},
-			{
-				"filme": "Olhos de Gato",
-				"similaridade": 3
 			}
 		]
 	},
@@ -3687,7 +3828,7 @@
 		"similares": [
 			{
 				"filme": "A Babá",
-				"similaridade": 165
+				"similaridade": 164
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -4045,6 +4186,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Espantalho",
+				"similaridade": 1
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 1
 			},
@@ -4070,10 +4215,6 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: Navegando em Águas Misteriosas",
 				"similaridade": 1
 			}
 		]
@@ -4161,12 +4302,12 @@
 				"similaridade": 34
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "A Cor Que Caiu do Espaço",
 				"similaridade": 32
 			},
 			{
-				"filme": "Megatubarão",
-				"similaridade": 31
+				"filme": "O Estrangeiro",
+				"similaridade": 32
 			}
 		]
 	},
@@ -4185,6 +4326,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 11
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 10
 			},
 			{
 				"filme": "Velozes & Furiosos 7",
@@ -4208,10 +4353,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 8
 			}
 		]
@@ -4253,11 +4394,11 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Velozes & Furiosos 7",
+				"filme": "Xanadu",
 				"similaridade": 4
 			},
 			{
-				"filme": "Sem Dor, Sem Ganho",
+				"filme": "Velozes & Furiosos 7",
 				"similaridade": 4
 			}
 		]
@@ -4305,6 +4446,98 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 10
+			}
+		]
+	},
+	{
+		"nome": "A Cor Que Caiu do Espaço",
+		"duracao": "1:50:01",
+		"ano": 2019,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/vj2gCvD5vZDJ865izTU0J0wJBVc.jpg",
+		"videoid": "480216506c76437d486e5c",
+		"resolucaoArmazenada": "1920x804",
+		"orcamento": "6M",
+		"receita": "1M",
+		"similares": [
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 50
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 46
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 45
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 44
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 40
+			}
+		]
+	},
+	{
+		"nome": "O Rebanho",
+		"duracao": "1:36:49",
+		"ano": 2019,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/2ZZeSKqhbteQ7lDZnse9DmpIQDC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zun99bRRcg7d8C6QrIGU3xJbk5t.jpg",
+		"videoid": "647d5d734c5c6e59626172",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 6
+			},
+			{
+				"filme": "Os Ritos Satânicos de Drácula",
+				"similaridade": 5
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4383,6 +4616,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 7
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 6
 			},
@@ -4392,10 +4629,6 @@
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			}
 		]
@@ -4441,7 +4674,7 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 4
 			}
 		]
@@ -4505,6 +4738,14 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Homem nas Trevas 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 1
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 1
 			},
@@ -4527,14 +4768,52 @@
 			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "A Chorona",
+		"duracao": "1:36:17",
+		"ano": 2019,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/oj9pEWQq5higRzKWiE8f0d5hBSb.jpg",
+		"videoid": "7e5c53727f0b780c64736a",
+		"resolucaoArmazenada": "1920x872",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
 			},
 			{
-				"filme": "Velozes e Furiosos 4",
-				"similaridade": 1
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 9
 			},
 			{
-				"filme": "Velozes e Furiosos: Desafio em Tóquio",
-				"similaridade": 1
+				"filme": "A Casa do Espanto",
+				"similaridade": 9
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 8
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 8
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 8
 			}
 		]
 	},
@@ -4769,6 +5048,52 @@
 		]
 	},
 	{
+		"nome": "A Maldição da Chorona",
+		"duracao": "1:33:15",
+		"ano": 2019,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/2D8MtUYt9ojKmKvyeXpsfZtDDgw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9p5BuzUNcvCltQAIiDLILEsH0dk.jpg",
+		"videoid": "41690943490d167e536250",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "9M",
+		"receita": "122M",
+		"similares": [
+			{
+				"filme": "O Exorcista",
+				"similaridade": 21
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 20
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 18
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 16
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 15
+			}
+		]
+	},
+	{
 		"nome": "Estou Me Guardando para Quando o Carnaval Chegar",
 		"duracao": "1:25:50",
 		"ano": 2019,
@@ -4864,7 +5189,7 @@
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
-		"score": 7.3,
+		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8RKBHHRqOMOLh5qW3sS6TSFTd8h.jpg",
 		"videoid": "7075710b7d580e79164c72",
@@ -5127,6 +5452,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 11
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 11
 			},
@@ -5140,10 +5469,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 9
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 9
 			}
 		]
@@ -5315,6 +5640,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Gigantes de Aço",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piratas do Caribe: O Baú da Morte",
 				"similaridade": 1
 			},
@@ -5324,10 +5653,6 @@
 			},
 			{
 				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -5357,6 +5682,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 8
+			},
+			{
 				"filme": "No Fim do Túnel",
 				"similaridade": 8
 			},
@@ -5371,10 +5700,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 8
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 7
 			}
 		]
 	},
@@ -5392,7 +5717,7 @@
 		"similares": [
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 165
+				"similaridade": 164
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -5609,6 +5934,52 @@
 		]
 	},
 	{
+		"nome": "Verônica: Jogo Sobrenatural",
+		"duracao": "1:45:23",
+		"ano": 2017,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/d8iFWosh3NJiZG27AXX1uzKwRLO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lVYDlp2yC9tCIxGyI8nY7cX4oFB.jpg",
+		"videoid": "7d160e630b797e7454740f",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Espelho",
+				"similaridade": 69
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 66
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 62
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 57
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 53
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 51
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 43
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 43
+			}
+		]
+	},
+	{
 		"nome": "O Castelo de Vidro",
 		"duracao": "2:06:57",
 		"ano": 2017,
@@ -5637,6 +6008,10 @@
 				"similaridade": 51
 			},
 			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 50
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 50
 			},
@@ -5647,10 +6022,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 47
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 45
 			}
 		]
 	},
@@ -5669,6 +6040,10 @@
 			{
 				"filme": "Um Violinista no Telhado",
 				"similaridade": 2
+			},
+			{
+				"filme": "Xanadu",
+				"similaridade": 1
 			},
 			{
 				"filme": "Perfume de Mulher",
@@ -5692,10 +6067,6 @@
 			},
 			{
 				"filme": "Liga da Justiça: A Nova Fronteira",
-				"similaridade": 1
-			},
-			{
-				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 1
 			}
 		]
@@ -5921,11 +6292,11 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
+				"filme": "Xanadu",
 				"similaridade": 1
 			},
 			{
-				"filme": "Velozes & Furiosos 9",
+				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 1
 			}
 		]
@@ -5951,6 +6322,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Gigantes de Aço",
+				"similaridade": 1
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 1
 			},
@@ -5968,10 +6343,6 @@
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -6164,9 +6535,9 @@
 		"nome": "O Homem nas Trevas",
 		"duracao": "1:28:33",
 		"ano": 2016,
-		"score": 7.1,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/6F9QUWhGpZtYH0ibbuLJ49k91tZ.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hvXWVpKvFWAqiGyTYloudgLXKMY.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/20rdYjWhr1UrOm76zNS4Wx7DU0M.jpg",
 		"videoid": "5c7f095f7f5c0a63496354",
 		"resolucaoArmazenada": "1920x800",
 		"orcamento": "9.9M",
@@ -6249,6 +6620,52 @@
 			{
 				"filme": "Duna",
 				"similaridade": 6
+			}
+		]
+	},
+	{
+		"nome": "Abandonada: O Mal Foi Eleito",
+		"duracao": "1:29:22",
+		"ano": 2016,
+		"score": 3.7,
+		"poster": "https://image.tmdb.org/t/p/w200/1YhIAq1LkdCd4V7C4ciBaBXWCln.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/k0vXy591VCMF4GNJGRNYJmLbtGP.jpg",
+		"videoid": "5c795453707056754a596a",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Exorcista",
+				"similaridade": 3
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 2
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Exorcista III",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Exorcista II: O Herege",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Maldição da Chorona",
+				"similaridade": 1
+			},
+			{
+				"filme": "Super Velozes, Mega Furiosos",
+				"similaridade": 1
+			},
+			{
+				"filme": "...E Frankenstein Criou a Mulher",
+				"similaridade": 1
 			}
 		]
 	},
@@ -6381,7 +6798,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 8
 			},
 			{
@@ -6407,6 +6824,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 5
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 5
 			},
@@ -6428,10 +6849,6 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Poderoso Chefão",
 				"similaridade": 4
 			}
 		]
@@ -6561,16 +6978,16 @@
 				"similaridade": 46
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 43
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 41
 			},
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 40
-			},
-			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 33
 			}
 		]
 	},
@@ -6897,6 +7314,52 @@
 		]
 	},
 	{
+		"nome": "Sobrenatural: Capítulo 2",
+		"duracao": "1:45:53",
+		"ano": 2013,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uwivrZ7vIeP0HNkE5gKavzhZNpG.jpg",
+		"videoid": "69776e544e5e595a0b6c62",
+		"resolucaoArmazenada": "1920x808",
+		"orcamento": "5M",
+		"receita": "161M",
+		"similares": [
+			{
+				"filme": "Sobrenatural",
+				"similaridade": 39
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 31
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 26
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 25
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 25
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 24
+			}
+		]
+	},
+	{
 		"nome": "O Espelho",
 		"duracao": "1:44:04",
 		"ano": 2013,
@@ -6911,6 +7374,10 @@
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 77
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 69
 			},
 			{
 				"filme": "O Homem nas Trevas",
@@ -6934,10 +7401,6 @@
 			},
 			{
 				"filme": "Olhos de Gato",
-				"similaridade": 54
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 54
 			}
 		]
@@ -7105,7 +7568,7 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 9
 			},
 			{
@@ -7130,7 +7593,7 @@
 		"nome": "O Último Desafio",
 		"duracao": "1:47:04",
 		"ano": 2013,
-		"score": 6.2,
+		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/brDYycnYgG6hxsM3Ysyqsg9ANyx.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/86yCBuxCX5PV60Y1Gp0VO6K8imM.jpg",
 		"videoid": "4a7c0a4a72546b4a5d0954",
@@ -7173,6 +7636,52 @@
 		]
 	},
 	{
+		"nome": "Gigantes de Aço",
+		"duracao": "2:06:51",
+		"ano": 2011,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/pp74uUjwQTknGPqNrerj4FvU0ce.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4f0Kj0QwPui5ydu1UavsnvP1m1o.jpg",
+		"videoid": "556e0d694a794b6e025462",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "110M",
+		"receita": "299.3M",
+		"similares": [
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 15
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 14
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 14
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 11
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 11
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 11
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 10
+			}
+		]
+	},
+	{
 		"nome": "O Quarto Secreto",
 		"duracao": "1:36:31",
 		"ano": 2011,
@@ -7193,6 +7702,10 @@
 				"similaridade": 57
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 53
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 50
 			},
@@ -7210,10 +7723,6 @@
 			},
 			{
 				"filme": "O Poço",
-				"similaridade": 38
-			},
-			{
-				"filme": "Olhos de Gato",
 				"similaridade": 38
 			}
 		]
@@ -7445,6 +7954,98 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Espantalho",
+		"duracao": "1:23:05",
+		"ano": 2011,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/t5pUkjo4dgTR1cYzunHi99AbJ2V.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kDTJLrmhaZke76zRxxMelRPm2qv.jpg",
+		"videoid": "69516f5a56420c7d690f7a",
+		"resolucaoArmazenada": "1920x1076",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 17
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 16
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 16
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 16
+			}
+		]
+	},
+	{
+		"nome": "Sobrenatural",
+		"duracao": "1:42:24",
+		"ano": 2010,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/2L8fErMpGD4s81VtWwspeyHYdiI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
+		"videoid": "4a4a5f16567d5f615a7162",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "1.5M",
+		"receita": "97M",
+		"similares": [
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 26
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 25
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 22
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 22
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 21
 			}
 		]
 	},
@@ -8093,7 +8694,7 @@
 		]
 	},
 	{
-		"nome": "Perfume - A História de um Assassino",
+		"nome": "Perfume: A História de um Assassino",
 		"duracao": "2:27:25",
 		"ano": 2006,
 		"score": 7.4,
@@ -8117,6 +8718,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 35
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 34
 			},
@@ -8131,10 +8736,6 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 31
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 30
 			}
 		]
 	},
@@ -8878,7 +9479,7 @@
 		"nome": "Velozes e Furiosos",
 		"duracao": "1:46:50",
 		"ano": 2001,
-		"score": 6.8,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/s02HsnF8H2plColwtkbqYz9GTw5.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
 		"videoid": "59425849505571710a695c",
@@ -8991,7 +9592,7 @@
 				"similaridade": 17
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 17
 			},
 			{
@@ -9003,12 +9604,12 @@
 				"similaridade": 17
 			},
 			{
-				"filme": "A Babá",
-				"similaridade": 16
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 17
 			},
 			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 15
+				"filme": "A Babá",
+				"similaridade": 16
 			}
 		]
 	},
@@ -9255,6 +9856,10 @@
 		"receita": "206.1M",
 		"similares": [
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 52
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 46
 			},
@@ -9281,10 +9886,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 35
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 34
 			}
 		]
 	},
@@ -9762,7 +10363,7 @@
 		"similares": [
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 25
+				"similaridade": 26
 			},
 			{
 				"filme": "Mate ou Morra",
@@ -10071,6 +10672,52 @@
 		]
 	},
 	{
+		"nome": "Drácula de Bram Stoker",
+		"duracao": "2:07:23",
+		"ano": 1992,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
+		"videoid": "560f48080c554143095d54",
+		"resolucaoArmazenada": "3840x2076",
+		"orcamento": "40M",
+		"receita": "215.9M",
+		"similares": [
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 52
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 51
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 46
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 46
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 45
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 45
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 44
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 43
+			}
+		]
+	},
+	{
 		"nome": "A Casa do Espanto 4 - Decisão para a Loucura",
 		"duracao": "1:35:12",
 		"ano": 1992,
@@ -10091,6 +10738,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 14
+			},
+			{
 				"filme": "O Espelho",
 				"similaridade": 14
 			},
@@ -10108,10 +10759,6 @@
 			},
 			{
 				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 12
-			},
-			{
-				"filme": "Fúria Silenciosa",
 				"similaridade": 12
 			}
 		]
@@ -10333,16 +10980,16 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 13
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
 			},
 			{
 				"filme": "O Exorcista II: O Herege",
 				"similaridade": 13
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 12
 			}
 		]
 	},
@@ -10801,8 +11448,8 @@
 				"similaridade": 63
 			},
 			{
-				"filme": "O Espelho",
-				"similaridade": 57
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 62
 			}
 		]
 	},
@@ -10839,16 +11486,16 @@
 				"similaridade": 72
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 66
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 65
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 65
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 54
 			}
 		]
 	},
@@ -11015,6 +11662,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 14
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 13
 			},
@@ -11028,10 +11679,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 13
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 13
 			}
 		]
@@ -11405,6 +12052,52 @@
 		]
 	},
 	{
+		"nome": "Xanadu",
+		"duracao": "1:35:59",
+		"ano": 1980,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/wVgCNOMJpffFrpkHL9E4BKD6atE.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/sPiDLXc3MytlZk01nblRMsCymE0.jpg",
+		"videoid": "69690a70577271420f5a6e",
+		"resolucaoArmazenada": "1920x1036",
+		"orcamento": "20M",
+		"receita": "22.8M",
+		"similares": [
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 13
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 12
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 11
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 11
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 10
+			}
+		]
+	},
+	{
 		"nome": "Justiça Para Todos",
 		"duracao": "1:59:05",
 		"ano": 1979,
@@ -11525,6 +12218,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 11
+			},
+			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 11
 			},
@@ -11534,10 +12231,6 @@
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 10
-			},
-			{
-				"filme": "Brinquedo Assassino 2",
 				"similaridade": 10
 			}
 		]
@@ -11739,6 +12432,10 @@
 		"receita": "544.5K",
 		"similares": [
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 35
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 32
 			},
@@ -11765,10 +12462,6 @@
 			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 26
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 25
 			}
 		]
 	},
@@ -11889,6 +12582,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 2
+			},
+			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 2
 			},
@@ -11903,10 +12600,6 @@
 			{
 				"filme": "Megatubarão",
 				"similaridade": 2
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 2
 			}
 		]
 	},
@@ -11914,7 +12607,7 @@
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
 		"ano": 1972,
-		"score": 7.3,
+		"score": 7.2,
 		"poster": "https://image.tmdb.org/t/p/w200/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
 		"videoid": "557f0d4c43745c764c5662",
@@ -12069,10 +12762,6 @@
 				"similaridade": 16
 			},
 			{
-				"filme": "Os Doze Condenados",
-				"similaridade": 15
-			},
-			{
 				"filme": "Megatubarão",
 				"similaridade": 14
 			},
@@ -12090,6 +12779,10 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 8",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Quinto Elemento",
 				"similaridade": 10
 			}
 		]
@@ -12137,52 +12830,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 34
-			}
-		]
-	},
-	{
-		"nome": "Os Doze Condenados",
-		"duracao": "2:29:38",
-		"ano": 1967,
-		"score": 7.7,
-		"poster": "https://image.tmdb.org/t/p/w200/djGA2A1DuP8YYIkLmeiMzIgC9B9.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hDzCnoDiYMZ4rPQO4U0GB7exCzG.jpg",
-		"videoid": "775e434a6a5c576f5d6e4c",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "5.4M",
-		"receita": "45.3M",
-		"similares": [
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 45
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 41
-			},
-			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 40
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 40
-			},
-			{
-				"filme": "Velozes & Furiosos 9",
-				"similaridade": 37
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 37
-			},
-			{
-				"filme": "Mente Criminosa",
-				"similaridade": 36
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 35
 			}
 		]
 	},
@@ -12387,11 +13034,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 9
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 7
 			},
 			{
-				"filme": "Perfume - A História de um Assassino",
+				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 7
 			},
 			{
@@ -12408,10 +13059,6 @@
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 7
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
 				"similaridade": 7
 			}
 		]
