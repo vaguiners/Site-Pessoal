@@ -3,7 +3,7 @@
 		"nome": "Tudo é Possível",
 		"duracao": "1:38:15",
 		"ano": 2022,
-		"score": 5.4,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uc427uPu7q12bT27IkhZ4aPPyjB.jpg",
 		"videoid": "6d64740c6d0b4f557f5a4c",
@@ -243,7 +243,7 @@
 		"similares": [
 			{
 				"filme": "Beavis e Butt-Head Detonam a América",
-				"similaridade": 4
+				"similaridade": 3
 			},
 			{
 				"filme": "Bob's Burger: O Filme",
@@ -279,7 +279,7 @@
 		"nome": "Bruna Louise: Demolição",
 		"duracao": "1:05:51",
 		"ano": 2022,
-		"score": 5.2,
+		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nfYcG8XBT5Pzk3thtS2MbIxM5mC.jpg",
 		"videoid": "090d58506d4d0251687954",
@@ -1415,7 +1415,7 @@
 		"duracao": "1:54:29",
 		"ano": 2022,
 		"score": 6.6,
-		"poster": "https://image.tmdb.org/t/p/w200/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg",
+		"poster": "https://image.tmdb.org/t/p/w200/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
 		"videoid": "72167d6c4c535d5f7e4d6e",
 		"resolucaoArmazenada": "1920x800",
@@ -2397,10 +2397,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "O Exorcista",
-				"similaridade": 12
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 10
 			},
@@ -2418,6 +2414,10 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
+				"similaridade": 9
+			},
+			{
+				"filme": "Mate ou Morra",
 				"similaridade": 9
 			}
 		]
@@ -4223,7 +4223,7 @@
 		"nome": "The Forty-Year-Old Version",
 		"duracao": "2:04:15",
 		"ano": 2020,
-		"score": 7.1,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/71kAv6hJ8G9zmjZJQhWUtC9ubp.jpg",
 		"videoid": "48786f504f0f50626a6b50",
@@ -5030,10 +5030,6 @@
 				"similaridade": 15
 			},
 			{
-				"filme": "O Exorcista",
-				"similaridade": 15
-			},
-			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 12
 			},
@@ -5043,6 +5039,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 12
+			},
+			{
+				"filme": "Pânico",
 				"similaridade": 12
 			}
 		]
@@ -5059,10 +5059,6 @@
 		"orcamento": "9M",
 		"receita": "122M",
 		"similares": [
-			{
-				"filme": "O Exorcista",
-				"similaridade": 21
-			},
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 20
@@ -5089,6 +5085,10 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 15
 			}
 		]
@@ -6636,19 +6636,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "O Exorcista",
-				"similaridade": 3
-			},
-			{
 				"filme": "Duna",
 				"similaridade": 2
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Exorcista III",
 				"similaridade": 2
 			},
 			{
@@ -6665,6 +6657,14 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Os Últimos na Terra",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 1
 			}
 		]
@@ -6894,8 +6894,8 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "O Exorcista",
-				"similaridade": 7
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
 			}
 		]
 	},
@@ -8530,10 +8530,6 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 8
-			},
-			{
 				"filme": "Dicionário de Cama",
 				"similaridade": 7
 			},
@@ -8551,6 +8547,10 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			}
 		]
@@ -9065,7 +9065,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.5,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -10086,10 +10086,6 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 64
-			},
-			{
 				"filme": "Justiça Para Todos",
 				"similaridade": 15
 			},
@@ -10115,6 +10111,10 @@
 			},
 			{
 				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Veredicto",
 				"similaridade": 8
 			}
 		]
@@ -10754,11 +10754,11 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "O Exorcista",
-				"similaridade": 13
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 12
 			},
 			{
-				"filme": "A Babá: Rainha da Morte",
+				"filme": "Fúria Silenciosa",
 				"similaridade": 12
 			}
 		]
@@ -10948,52 +10948,6 @@
 		]
 	},
 	{
-		"nome": "O Exorcista III",
-		"duracao": "1:49:57",
-		"ano": 1990,
-		"score": 6.3,
-		"poster": "https://image.tmdb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/mpMC8HEUjnU0mMVlFsWTlFJeiq5.jpg",
-		"videoid": "5c77610f7e096264566c7a",
-		"resolucaoArmazenada": "1280x720",
-		"orcamento": "9.3M",
-		"receita": "39M",
-		"similares": [
-			{
-				"filme": "O Exorcista",
-				"similaridade": 19
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 16
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 14
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 14
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 14
-			},
-			{
-				"filme": "Sobrenatural: Capítulo 2",
-				"similaridade": 13
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 13
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 12
-			}
-		]
-	},
-	{
 		"nome": "O Dragão e o Tigre",
 		"duracao": "1:44:50",
 		"ano": 1990,
@@ -11135,7 +11089,7 @@
 		"nome": "A Casa do Espanto 3",
 		"duracao": "1:34:23",
 		"ano": 1989,
-		"score": 5.3,
+		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/azkxRbusgAZiXGcZMfjWdYdqdGb.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tZcOail3NuHDWUxh77FihNpsnH.jpg",
 		"videoid": "5f6c55596142764d7f0d03",
@@ -11190,10 +11144,6 @@
 		"receita": "57.5M",
 		"similares": [
 			{
-				"filme": "O Exorcista",
-				"similaridade": 46
-			},
-			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 43
 			},
@@ -11220,6 +11170,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 37
 			}
 		]
 	},
@@ -11310,8 +11264,8 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Tora! Tora! Tora!",
-				"similaridade": 10
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 9
 			}
 		]
 	},
@@ -11838,10 +11792,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 11
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			},
@@ -11862,8 +11812,12 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "O Exorcista",
-				"similaridade": 7
+				"filme": "Jogador N° 1",
+				"similaridade": 6
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 6
 			}
 		]
 	},
@@ -12328,52 +12282,6 @@
 		]
 	},
 	{
-		"nome": "O Exorcista",
-		"duracao": "2:12:22",
-		"ano": 1973,
-		"score": 7.9,
-		"poster": "https://image.tmdb.org/t/p/w200/z8X9sQ64GPGeJi5hWQsqDqEVMan.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-		"videoid": "42766f594d7479535e4c03",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "11M",
-		"receita": "441.3M",
-		"similares": [
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 46
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 40
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 39
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 37
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 36
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 36
-			}
-		]
-	},
-	{
 		"nome": "Os Ritos Satânicos de Drácula",
 		"duracao": "1:27:47",
 		"ano": 1973,
@@ -12696,52 +12604,6 @@
 		]
 	},
 	{
-		"nome": "Tora! Tora! Tora!",
-		"duracao": "2:28:54",
-		"ano": 1970,
-		"score": 7.3,
-		"poster": "https://image.tmdb.org/t/p/w200/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/bhEJZ6XH1B9ld97OWppdAnvWzl5.jpg",
-		"videoid": "735f5f79020f09420e5054",
-		"resolucaoArmazenada": "1920x814",
-		"orcamento": "25.5M",
-		"receita": "37.1M",
-		"similares": [
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 20
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 16
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 14
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 13
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Jogo da Imitação",
-				"similaridade": 11
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 10
-			},
-			{
-				"filme": "O Quinto Elemento",
-				"similaridade": 10
-			}
-		]
-	},
-	{
 		"nome": "Era uma Vez no Oeste",
 		"duracao": "2:46:02",
 		"ano": 1968,
@@ -12837,7 +12699,7 @@
 		"nome": "O Vento Será Tua Herança",
 		"duracao": "2:07:56",
 		"ano": 1960,
-		"score": 7.9,
+		"score": 8,
 		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
 		"videoid": "4c5950165757505554590f",
@@ -12862,10 +12724,6 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 12
-			},
-			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 11
 			},
@@ -12876,52 +12734,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 10
-			}
-		]
-	},
-	{
-		"nome": "12 Homens e Uma Sentença",
-		"duracao": "1:36:22",
-		"ano": 1957,
-		"score": 8.5,
-		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
-		"videoid": "7d7a4d7a616b7a7c735d48",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "350K",
-		"receita": "1M",
-		"similares": [
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 64
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 20
-			},
-			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 17
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 17
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 12
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 11
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 10
 			}
 		]
 	},
@@ -12968,52 +12784,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 7
-			}
-		]
-	},
-	{
-		"nome": "Sindicato de Ladrões",
-		"duracao": "1:47:42",
-		"ano": 1954,
-		"score": 8.1,
-		"poster": "https://image.tmdb.org/t/p/w200/nh4VykXaCLywF0ZOmgKEgR2w3kj.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
-		"videoid": "776b785a70787d56705d0f",
-		"resolucaoArmazenada": "1792x1072",
-		"orcamento": "910K",
-		"receita": "9.6M",
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 39
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 34
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 33
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 30
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 29
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 27
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 27
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 26
 			}
 		]
 	},
