@@ -5140,52 +5140,6 @@
 		]
 	},
 	{
-		"nome": "Contos do Caçador de Sombras",
-		"duracao": "1:48:53",
-		"ano": 2019,
-		"score": 5.2,
-		"poster": "https://image.tmdb.org/t/p/w200/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
-		"videoid": "6c64730b5958685d495d54",
-		"resolucaoArmazenada": "1920x816",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Tigre e o Dragão",
-				"similaridade": 3
-			},
-			{
-				"filme": "Karatê Kid",
-				"similaridade": 3
-			},
-			{
-				"filme": "Bater ou Correr",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Reino Proibido",
-				"similaridade": 3
-			},
-			{
-				"filme": "Guerreiros da Virtude",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Fúria do Dragão",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 2
-			}
-		]
-	},
-	{
 		"nome": "Alita: Anjo de Combate",
 		"duracao": "2:02:05",
 		"ano": 2019,
@@ -6648,10 +6602,6 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Exorcista III",
-				"similaridade": 2
-			},
-			{
 				"filme": "A Maldição da Chorona",
 				"similaridade": 1
 			},
@@ -6665,6 +6615,10 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Os Últimos na Terra",
 				"similaridade": 1
 			}
 		]
@@ -8099,7 +8053,7 @@
 		"nome": "Premonição 4",
 		"duracao": "1:21:48",
 		"ano": 2009,
-		"score": 5.4,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/sIDOFaipvpSM0R2uZNcDMLvTbhM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/tQabRmgDtyktWGK23GmcTj2kUgu.jpg",
 		"videoid": "4302627f647f747c724f4c",
@@ -8530,10 +8484,6 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 8
-			},
-			{
 				"filme": "Dicionário de Cama",
 				"similaridade": 7
 			},
@@ -8551,6 +8501,10 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 6
 			}
 		]
@@ -9065,7 +9019,7 @@
 		"nome": "Efeito Borboleta",
 		"duracao": "1:59:38",
 		"ano": 2004,
-		"score": 7.5,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
 		"videoid": "4a6352024c7448640d4154",
@@ -10086,10 +10040,6 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 64
-			},
-			{
 				"filme": "Justiça Para Todos",
 				"similaridade": 15
 			},
@@ -10115,6 +10065,10 @@
 			},
 			{
 				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Veredicto",
 				"similaridade": 8
 			}
 		]
@@ -10944,52 +10898,6 @@
 			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 33
-			}
-		]
-	},
-	{
-		"nome": "O Exorcista III",
-		"duracao": "1:49:57",
-		"ano": 1990,
-		"score": 6.3,
-		"poster": "https://image.tmdb.org/t/p/w200/vXV1IZ4s8giO7MKp8ay8P0h9Kio.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/mpMC8HEUjnU0mMVlFsWTlFJeiq5.jpg",
-		"videoid": "5c77610f7e096264566c7a",
-		"resolucaoArmazenada": "1280x720",
-		"orcamento": "9.3M",
-		"receita": "39M",
-		"similares": [
-			{
-				"filme": "O Exorcista",
-				"similaridade": 19
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 16
-			},
-			{
-				"filme": "O Filho de Chucky",
-				"similaridade": 14
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 14
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 14
-			},
-			{
-				"filme": "Sobrenatural: Capítulo 2",
-				"similaridade": 13
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 13
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 12
 			}
 		]
 	},
@@ -11838,10 +11746,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 11
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			},
@@ -11863,6 +11767,10 @@
 			},
 			{
 				"filme": "O Exorcista",
+				"similaridade": 7
+			},
+			{
+				"filme": "Sindicato de Ladrões",
 				"similaridade": 7
 			}
 		]
@@ -12837,7 +12745,7 @@
 		"nome": "O Vento Será Tua Herança",
 		"duracao": "2:07:56",
 		"ano": 1960,
-		"score": 7.9,
+		"score": 8,
 		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
 		"videoid": "4c5950165757505554590f",
@@ -12862,10 +12770,6 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "12 Homens e Uma Sentença",
-				"similaridade": 12
-			},
-			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 11
 			},
@@ -12876,52 +12780,10 @@
 			{
 				"filme": "Batman",
 				"similaridade": 10
-			}
-		]
-	},
-	{
-		"nome": "12 Homens e Uma Sentença",
-		"duracao": "1:36:22",
-		"ano": 1957,
-		"score": 8.5,
-		"poster": "https://image.tmdb.org/t/p/w200/q8RGf4SbVCObCySZ4PIGsn5wFm6.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
-		"videoid": "7d7a4d7a616b7a7c735d48",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "350K",
-		"receita": "1M",
-		"similares": [
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 64
 			},
 			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 20
-			},
-			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 17
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 17
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 14
-			},
-			{
-				"filme": "O Poderoso Chefão: Parte II",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 12
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 11
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 10
 			}
 		]
 	},
