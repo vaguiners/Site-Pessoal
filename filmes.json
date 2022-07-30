@@ -41,6 +41,22 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 2
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 2
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Extraordinária Garota Chamada Estrela em Hollywood",
+				"similaridade": 2
+			},
+			{
+				"filme": "Live Is Life",
+				"similaridade": 2
 			}
 		]
 	},
@@ -86,6 +102,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 20
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 19
 			}
 		]
 	},
@@ -131,6 +163,22 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 3
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 2
+			},
+			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 2
 			}
 		]
 	},
@@ -176,6 +224,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 7
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 7
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 7
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 7
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 6
 			}
 		]
 	},
@@ -221,6 +285,22 @@
 			{
 				"filme": "Sombra",
 				"similaridade": 5
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 4
+			},
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 4
 			}
 		]
 	},
@@ -265,6 +345,22 @@
 			},
 			{
 				"filme": "Efeito Borboleta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição",
+				"similaridade": 1
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
 				"similaridade": 1
 			}
 		]
@@ -311,6 +407,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
 			}
 		]
 	},
@@ -356,6 +468,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 6
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 5
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 5
 			}
 		]
 	},
@@ -401,6 +529,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 6
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 6
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 6
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 5
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 5
 			}
 		]
 	},
@@ -445,6 +589,22 @@
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 5
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 5
+			},
+			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 5
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 5
+			},
+			{
+				"filme": "Your Name.",
 				"similaridade": 5
 			}
 		]
@@ -491,6 +651,22 @@
 			{
 				"filme": "Um Sonho de Liberdade",
 				"similaridade": 5
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 5
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 5
+			},
+			{
+				"filme": "Os Sete Samurais",
+				"similaridade": 5
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 5
 			}
 		]
 	},
@@ -535,6 +711,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -581,6 +773,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
 			}
 		]
 	},
@@ -625,6 +833,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -671,6 +895,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 86
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 85
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 85
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 83
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 83
 			}
 		]
 	},
@@ -715,6 +955,22 @@
 			},
 			{
 				"filme": "Beniker Gang: Os Fugitivos",
+				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cinema Novo",
 				"similaridade": 1
 			}
 		]
@@ -761,6 +1017,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
 			}
 		]
 	},
@@ -806,6 +1078,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 43
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 41
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 40
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 39
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 38
 			}
 		]
 	},
@@ -851,6 +1139,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 87
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 84
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 83
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 82
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 81
 			}
 		]
 	},
@@ -896,6 +1200,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
 			}
 		]
 	},
@@ -922,6 +1242,10 @@
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			},
+			null,
+			null,
+			null,
+			null,
 			null,
 			null,
 			null,
@@ -971,6 +1295,22 @@
 			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 1
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade em Chamas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Predestinado",
+				"similaridade": 1
 			}
 		]
 	},
@@ -1016,6 +1356,22 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 91
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 88
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 84
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 84
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 83
 			}
 		]
 	},
@@ -1060,6 +1416,22 @@
 			},
 			{
 				"filme": "Fim dos Dias",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 5
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 5
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 5
 			}
 		]
@@ -1106,6 +1478,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 14
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 14
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 13
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 13
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 12
 			}
 		]
 	},
@@ -1151,6 +1539,22 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 140
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 140
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 138
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 138
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 135
 			}
 		]
 	},
@@ -1196,6 +1600,22 @@
 			{
 				"filme": "Alerta Vermelho",
 				"similaridade": 84
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 82
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 81
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 80
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 76
 			}
 		]
 	},
@@ -1241,6 +1661,22 @@
 			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 17
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 17
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 16
+			},
+			{
+				"filme": "Efeito Colateral",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Último Desafio",
+				"similaridade": 16
 			}
 		]
 	},
@@ -1286,6 +1722,22 @@
 			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 18
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 18
+			},
+			{
+				"filme": "A Viagem de Chihiro",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 17
 			}
 		]
 	},
@@ -1330,6 +1782,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1376,6 +1844,22 @@
 			{
 				"filme": "O Predestinado",
 				"similaridade": 4
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
 			}
 		]
 	},
@@ -1420,6 +1904,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1466,6 +1966,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 80
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 80
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 76
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 76
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 75
 			}
 		]
 	},
@@ -1511,6 +2027,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 105
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 103
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 102
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 97
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 93
 			}
 		]
 	},
@@ -1555,6 +2087,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1601,6 +2149,22 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 3
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 3
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 3
 			}
 		]
 	},
@@ -1645,6 +2209,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1691,6 +2271,22 @@
 			{
 				"filme": "Curral",
 				"similaridade": 2
+			},
+			{
+				"filme": "Amor Sem Medida",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Auto da Compadecida",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
 			}
 		]
 	},
@@ -1735,6 +2331,22 @@
 			},
 			{
 				"filme": "Premonição 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição",
+				"similaridade": 1
+			},
+			{
+				"filme": "Efeito Borboleta 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Efeito Borboleta 3: Revelação",
 				"similaridade": 1
 			}
 		]
@@ -1781,6 +2393,22 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 4
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 4
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 3
 			}
 		]
 	},
@@ -1825,6 +2453,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1871,6 +2515,22 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 97
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 95
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 95
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 95
 			}
 		]
 	},
@@ -1915,6 +2575,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -1961,6 +2637,22 @@
 			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 1
+			},
+			{
+				"filme": "12 Homens e Uma Sentença",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Fuga",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2006,6 +2698,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 3
+			},
+			{
+				"filme": "7 Prisioneiros",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 2
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 2
+			},
+			{
+				"filme": "Piratas do Caribe: O Baú da Morte",
+				"similaridade": 2
 			}
 		]
 	},
@@ -2051,6 +2759,22 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 93
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 90
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 90
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 88
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 88
 			}
 		]
 	},
@@ -2095,6 +2819,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -2141,6 +2881,22 @@
 			{
 				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2186,6 +2942,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 106
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 106
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 104
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 101
 			}
 		]
 	},
@@ -2230,6 +3002,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -2276,6 +3064,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 4
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 4
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 4
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
 			}
 		]
 	},
@@ -2320,6 +3124,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -2366,6 +3186,22 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 6
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 6
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 5
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 5
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 5
 			}
 		]
 	},
@@ -2410,6 +3246,22 @@
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
+				"similaridade": 9
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 9
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 9
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 9
 			}
 		]
@@ -2456,6 +3308,22 @@
 			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Viagem de Chihiro",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Era uma Vez no Oeste",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2500,6 +3368,22 @@
 			},
 			{
 				"filme": "Megatubarão",
+				"similaridade": 4
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 4
+			},
+			{
+				"filme": "Medida Provisória",
 				"similaridade": 4
 			}
 		]
@@ -2546,6 +3430,22 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 88
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 88
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 86
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 86
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 86
 			}
 		]
 	},
@@ -2591,6 +3491,22 @@
 			{
 				"filme": "Cruella",
 				"similaridade": 3
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 3
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 3
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 3
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 2
 			}
 		]
 	},
@@ -2636,6 +3552,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 130
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 121
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 111
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 110
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 110
 			}
 		]
 	},
@@ -2681,6 +3613,22 @@
 			{
 				"filme": "A Babá",
 				"similaridade": 21
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 21
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 20
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 20
 			}
 		]
 	},
@@ -2726,6 +3674,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 75
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 75
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 74
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 74
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 73
 			}
 		]
 	},
@@ -2770,6 +3734,22 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Juntos e Misturados",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Agentes Vanguard",
 				"similaridade": 1
 			}
 		]
@@ -2816,6 +3796,22 @@
 			{
 				"filme": "Operação Dragão",
 				"similaridade": 1
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 1
+			},
+			{
+				"filme": "Efeito Colateral",
+				"similaridade": 1
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
+				"similaridade": 1
 			}
 		]
 	},
@@ -2860,6 +3856,22 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
+				"similaridade": 7
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 7
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 7
+			},
+			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 7
 			}
 		]
@@ -2906,6 +3918,22 @@
 			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 129
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 128
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 124
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 121
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 118
 			}
 		]
 	},
@@ -2951,6 +3979,22 @@
 			{
 				"filme": "O Homem do Norte",
 				"similaridade": 4
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 3
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 3
+			},
+			{
+				"filme": "Herança Maldita",
+				"similaridade": 3
 			}
 		]
 	},
@@ -2996,6 +4040,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 41
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 40
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 39
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 38
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 38
 			}
 		]
 	},
@@ -3041,6 +4101,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 77
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 77
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 75
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 75
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 71
 			}
 		]
 	},
@@ -3085,6 +4161,22 @@
 			},
 			{
 				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 6
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 6
+			},
+			{
+				"filme": "Herança Maldita",
 				"similaridade": 6
 			}
 		]
@@ -3131,6 +4223,22 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 1
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 1
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			{
+				"filme": "Gandhi",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3175,6 +4283,22 @@
 			},
 			{
 				"filme": "De Olhos Bem Fechados",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 2
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Fuga",
+				"similaridade": 2
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
 				"similaridade": 2
 			}
 		]
@@ -3221,6 +4345,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 155
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 151
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 147
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 145
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 141
 			}
 		]
 	},
@@ -3266,6 +4406,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 121
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 114
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 114
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 113
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 111
 			}
 		]
 	},
@@ -3310,6 +4466,22 @@
 			},
 			{
 				"filme": "Megatubarão",
+				"similaridade": 4
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 4
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 4
+			},
+			{
+				"filme": "Tenet",
 				"similaridade": 4
 			}
 		]
@@ -3356,6 +4528,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 21
+			},
+			{
+				"filme": "Era uma Vez no Oeste",
+				"similaridade": 20
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 20
 			}
 		]
 	},
@@ -3401,6 +4589,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 104
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 102
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 102
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 98
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 97
 			}
 		]
 	},
@@ -3457,6 +4661,22 @@
 			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 2
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 2
+			},
+			{
+				"filme": "Os Espíritos",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Casa do Espanto 4 - Decisão para a Loucura",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 2
 			}
 		]
 	},
@@ -3501,6 +4721,22 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
+				"similaridade": 2
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 2
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 2
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 2
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 2
 			}
 		]
@@ -3547,6 +4783,22 @@
 			{
 				"filme": "Casablanca",
 				"similaridade": 1
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 1
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sindicato de Ladrões",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Embriaguez do Sucesso",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3592,6 +4844,22 @@
 			{
 				"filme": "Amor Sem Medida",
 				"similaridade": 2
+			},
+			{
+				"filme": "12 Homens e Uma Sentença",
+				"similaridade": 1
+			},
+			{
+				"filme": "Gandhi",
+				"similaridade": 1
+			},
+			{
+				"filme": "Os Doze Condenados",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bater ou Correr",
+				"similaridade": 1
 			}
 		]
 	},
@@ -3636,6 +4904,22 @@
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 2
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 2
+			},
+			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 2
+			},
+			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Quarto Secreto",
 				"similaridade": 2
 			}
 		]
@@ -3682,6 +4966,22 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 120
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 114
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 113
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 112
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 110
 			}
 		]
 	},
@@ -3726,6 +5026,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -3772,6 +5088,22 @@
 			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 3
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 3
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 3
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 3
 			}
 		]
 	},
@@ -3817,6 +5149,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 60
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 59
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 58
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 57
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 56
 			}
 		]
 	},
@@ -3873,6 +5221,22 @@
 			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 134
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 134
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 132
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 132
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 123
 			}
 		]
 	},
@@ -3917,6 +5281,22 @@
 			},
 			{
 				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 4
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 4
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
 				"similaridade": 4
 			}
 		]
@@ -3963,6 +5343,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 74
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 74
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 72
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 70
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 69
 			}
 		]
 	},
@@ -4007,6 +5403,22 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 6",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma História de Amor e Fúria",
 				"similaridade": 1
 			}
 		]
@@ -4053,6 +5465,22 @@
 			{
 				"filme": "Interestelar",
 				"similaridade": 5
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 5
+			},
+			{
+				"filme": "Corrida Silenciosa",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Assassinato de Jesse James Pelo Covarde Robert Ford",
+				"similaridade": 4
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4097,6 +5525,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -4143,6 +5587,22 @@
 			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 1
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 1
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 1
 			}
 		]
 	},
@@ -4187,6 +5647,22 @@
 			},
 			{
 				"filme": "187: O Código",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 2
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 2
+			},
+			{
+				"filme": "Uma Festa no Ar",
+				"similaridade": 2
+			},
+			{
+				"filme": "Na Escola da Vida",
 				"similaridade": 2
 			}
 		]
@@ -4233,6 +5709,22 @@
 			{
 				"filme": "A Cor Que Caiu do Espaço",
 				"similaridade": 32
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 31
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 31
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 31
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 29
 			}
 		]
 	},
@@ -4278,6 +5770,22 @@
 			{
 				"filme": "Inocência Roubada",
 				"similaridade": 8
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 8
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 8
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 7
 			}
 		]
 	},
@@ -4322,6 +5830,22 @@
 			},
 			{
 				"filme": "Os Doze Condenados",
+				"similaridade": 4
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 4
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 4
+			},
+			{
+				"filme": "Xanadu",
 				"similaridade": 4
 			}
 		]
@@ -4368,6 +5892,22 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 10
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 10
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 9
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 9
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 9
 			}
 		]
 	},
@@ -4413,6 +5953,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 40
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 40
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 39
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 38
 			}
 		]
 	},
@@ -4457,6 +6013,22 @@
 			},
 			{
 				"filme": "Os Sete Samurais",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 4
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 4
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 4
+			},
+			{
+				"filme": "Grito de Horror",
 				"similaridade": 4
 			}
 		]
@@ -4503,6 +6075,22 @@
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 40
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 38
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 35
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 32
 			}
 		]
 	},
@@ -4547,6 +6135,22 @@
 			},
 			{
 				"filme": "A Noite dos Arrepios",
+				"similaridade": 6
+			},
+			{
+				"filme": "Os Ritos Satânicos de Drácula",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 6
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 6
 			}
 		]
@@ -4593,6 +6197,22 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 4
+			},
+			{
+				"filme": "Herança Maldita",
+				"similaridade": 4
+			},
+			{
+				"filme": "Sheena - A Rainha das Selvas",
+				"similaridade": 4
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4638,6 +6258,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 124
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 124
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 120
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 120
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 108
 			}
 		]
 	},
@@ -4682,6 +6318,22 @@
 			},
 			{
 				"filme": "A Vingança de Frankenstein",
+				"similaridade": 1
+			},
+			{
+				"filme": "Beavis e Butt-Head Detonam a América",
+				"similaridade": 1
+			},
+			{
+				"filme": "Bater ou Correr em Londres",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 1
+			},
+			{
+				"filme": "Premonição 2",
 				"similaridade": 1
 			}
 		]
@@ -4728,6 +6380,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 8
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 7
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 7
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 7
 			}
 		]
 	},
@@ -4773,6 +6441,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 134
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 134
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 133
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 130
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 129
 			}
 		]
 	},
@@ -4818,6 +6502,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 5
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 5
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 5
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 5
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4863,6 +6563,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 5
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 4
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 4
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 4
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 4
 			}
 		]
 	},
@@ -4907,6 +6623,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -4953,6 +6685,22 @@
 			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 12
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 12
+			},
+			{
+				"filme": "Herança Maldita",
+				"similaridade": 12
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
 			}
 		]
 	},
@@ -4998,6 +6746,22 @@
 			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 15
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Casa Sombria",
+				"similaridade": 14
 			}
 		]
 	},
@@ -5042,6 +6806,22 @@
 			},
 			{
 				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 1
+			},
+			{
+				"filme": "Os Sete Samurais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 1
+			},
+			{
+				"filme": "Primitivo",
 				"similaridade": 1
 			}
 		]
@@ -5088,6 +6868,22 @@
 			{
 				"filme": "Detonando em Barcelona",
 				"similaridade": 2
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 2
+			},
+			{
+				"filme": "Guerreiros da Virtude",
+				"similaridade": 2
+			},
+			{
+				"filme": "1911: A Revolução",
+				"similaridade": 2
 			}
 		]
 	},
@@ -5133,6 +6929,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 88
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 86
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 85
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 85
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 82
 			}
 		]
 	},
@@ -5178,6 +6990,22 @@
 			{
 				"filme": "Beniker Gang: Os Fugitivos",
 				"similaridade": 1
+			},
+			{
+				"filme": "Alemão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
 			}
 		]
 	},
@@ -5222,6 +7050,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
 				"similaridade": 1
 			}
 		]
@@ -5279,6 +7123,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 74
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 73
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 72
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 70
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 70
 			}
 		]
 	},
@@ -5323,6 +7183,22 @@
 			},
 			{
 				"filme": "Turma da Mônica: Laços",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
 				"similaridade": 1
 			}
 		]
@@ -5369,6 +7245,22 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 9
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 9
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 8
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 8
 			}
 		]
 	},
@@ -5414,6 +7306,22 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 99
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 98
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 95
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 93
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 93
 			}
 		]
 	},
@@ -5459,6 +7367,22 @@
 			{
 				"filme": "Do Fundo do Mar 3",
 				"similaridade": 13
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 12
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 12
 			}
 		]
 	},
@@ -5504,6 +7428,22 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 117
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 115
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 115
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 113
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 112
 			}
 		]
 	},
@@ -5548,6 +7488,22 @@
 			},
 			{
 				"filme": "Efeito Colateral",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Exorcista II: O Herege",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 1
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luar Sobre Parador",
 				"similaridade": 1
 			}
 		]
@@ -5594,6 +7550,22 @@
 			{
 				"filme": "Morbius",
 				"similaridade": 8
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 7
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 7
+			},
+			{
+				"filme": "Your Name.",
+				"similaridade": 7
 			}
 		]
 	},
@@ -5639,6 +7611,22 @@
 			{
 				"filme": "O Poço",
 				"similaridade": 60
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 59
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 58
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 56
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 54
 			}
 		]
 	},
@@ -5684,6 +7672,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 128
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 127
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 125
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 123
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 109
 			}
 		]
 	},
@@ -5729,6 +7733,22 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 17
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 16
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 16
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 16
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 14
 			}
 		]
 	},
@@ -5774,6 +7794,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 21
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 21
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 19
+			},
+			{
+				"filme": "Cruella",
+				"similaridade": 19
 			}
 		]
 	},
@@ -5819,6 +7855,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 25
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 25
+			},
+			{
+				"filme": "Cruella",
+				"similaridade": 24
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 24
 			}
 		]
 	},
@@ -5864,6 +7916,22 @@
 			{
 				"filme": "Boa Noite, Mamãe!",
 				"similaridade": 43
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 42
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 38
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 37
 			}
 		]
 	},
@@ -5909,6 +7977,22 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 49
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 47
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 45
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 43
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 43
 			}
 		]
 	},
@@ -5954,6 +8038,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 84
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 80
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 80
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 79
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 79
 			}
 		]
 	},
@@ -5999,6 +8099,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 132
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 127
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 127
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 127
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 119
 			}
 		]
 	},
@@ -6044,6 +8160,22 @@
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 13
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 13
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 13
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 12
+			},
+			{
+				"filme": "Os Sete Samurais",
+				"similaridade": 12
 			}
 		]
 	},
@@ -6089,6 +8221,22 @@
 			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 141
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 138
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 135
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 135
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 127
 			}
 		]
 	},
@@ -6133,6 +8281,22 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 1
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Os Sete Samurais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Gandhi",
 				"similaridade": 1
 			}
 		]
@@ -6179,6 +8343,22 @@
 			{
 				"filme": "A Fuga",
 				"similaridade": 1
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 1
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 1
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 1
 			}
 		]
 	},
@@ -6224,6 +8404,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 27
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 27
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 26
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 23
 			}
 		]
 	},
@@ -6269,6 +8465,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 82
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 76
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 74
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 74
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 74
 			}
 		]
 	},
@@ -6313,6 +8525,22 @@
 			},
 			{
 				"filme": "Piripkura",
+				"similaridade": 1
+			},
+			{
+				"filme": "Talvez uma História de Amor",
+				"similaridade": 1
+			},
+			{
+				"filme": "Veneza",
+				"similaridade": 1
+			},
+			{
+				"filme": "Eduardo e Mônica",
+				"similaridade": 1
+			},
+			{
+				"filme": "D.P.A. 2: O Filme - O Mistério Italiano",
 				"similaridade": 1
 			}
 		]
@@ -6359,6 +8587,22 @@
 			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 56
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 55
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 50
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 49
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 46
 			}
 		]
 	},
@@ -6404,6 +8648,22 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 115
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 115
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 114
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 112
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 111
 			}
 		]
 	},
@@ -6449,6 +8709,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 64
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 63
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 62
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 56
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 55
 			}
 		]
 	},
@@ -6493,6 +8769,22 @@
 			},
 			{
 				"filme": "DOA: Vivo ou Morto",
+				"similaridade": 6
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 6
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 6
 			}
 		]
@@ -6539,6 +8831,22 @@
 			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 1
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sindicato de Ladrões",
+				"similaridade": 1
+			},
+			{
+				"filme": "Gandhi",
+				"similaridade": 1
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 1
 			}
 		]
 	},
@@ -6584,6 +8892,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 8
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 8
+			},
+			{
+				"filme": "Gandhi",
+				"similaridade": 7
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 7
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 7
 			}
 		]
 	},
@@ -6629,6 +8953,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 100
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 95
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 93
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 92
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 92
 			}
 		]
 	},
@@ -6674,6 +9014,22 @@
 			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 8
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 8
+			},
+			{
+				"filme": "Espião por Acidente",
+				"similaridade": 7
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 7
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 7
 			}
 		]
 	},
@@ -6719,6 +9075,22 @@
 			{
 				"filme": "Força Oposta",
 				"similaridade": 4
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 4
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 3
 			}
 		]
 	},
@@ -6764,6 +9136,22 @@
 			{
 				"filme": "Duna",
 				"similaridade": 7
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 6
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 6
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
 			}
 		]
 	},
@@ -6809,6 +9197,22 @@
 			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 52
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 47
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 47
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 46
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 46
 			}
 		]
 	},
@@ -6854,6 +9258,22 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 40
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 33
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 32
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 32
 			}
 		]
 	},
@@ -6899,6 +9319,22 @@
 			{
 				"filme": "Casablanca",
 				"similaridade": 14
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 14
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 14
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 13
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 13
 			}
 		]
 	},
@@ -6943,6 +9379,22 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 12
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 12
 			}
 		]
@@ -6989,6 +9441,22 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 38
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 36
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 36
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 36
 			}
 		]
 	},
@@ -7033,6 +9501,22 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tô Ryca!",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tati, a Garota",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cinema Novo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Turma da Mônica: Laços",
 				"similaridade": 1
 			}
 		]
@@ -7079,6 +9563,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 87
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 86
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 84
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 81
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 79
 			}
 		]
 	},
@@ -7124,6 +9624,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 32
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 30
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 30
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 28
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 27
 			}
 		]
 	},
@@ -7168,6 +9684,22 @@
 			},
 			{
 				"filme": "A Nova Fúria do Dragão",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Grande Lutador",
+				"similaridade": 3
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 3
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 3
+			},
+			{
+				"filme": "Inimigo Mortal",
 				"similaridade": 3
 			}
 		]
@@ -7214,6 +9746,22 @@
 			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 24
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 24
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 23
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 23
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 22
 			}
 		]
 	},
@@ -7259,6 +9807,22 @@
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 54
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 54
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 46
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 46
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 46
 			}
 		]
 	},
@@ -7304,6 +9868,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 90
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 89
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 88
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 83
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 82
 			}
 		]
 	},
@@ -7349,6 +9929,22 @@
 			{
 				"filme": "Duna",
 				"similaridade": 76
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 74
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 74
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 73
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 71
 			}
 		]
 	},
@@ -7394,6 +9990,22 @@
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 70
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 67
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 63
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 63
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 61
 			}
 		]
 	},
@@ -7439,6 +10051,22 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 8
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 7
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 7
 			}
 		]
 	},
@@ -7484,6 +10112,22 @@
 			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 63
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 63
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 62
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 60
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 59
 			}
 		]
 	},
@@ -7528,6 +10172,22 @@
 			},
 			{
 				"filme": "Interestelar",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 10
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 10
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 10
+			},
+			{
+				"filme": "Eternos",
 				"similaridade": 10
 			}
 		]
@@ -7574,6 +10234,22 @@
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 38
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 38
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 36
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 35
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 33
 			}
 		]
 	},
@@ -7619,6 +10295,22 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 18
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 17
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 17
+			},
+			{
+				"filme": "Fim dos Dias",
+				"similaridade": 16
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 16
 			}
 		]
 	},
@@ -7664,6 +10356,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 21
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 20
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 20
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 20
 			}
 		]
 	},
@@ -7709,6 +10417,22 @@
 			{
 				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 21
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 21
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 20
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 19
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 19
 			}
 		]
 	},
@@ -7754,6 +10478,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 83
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 78
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 75
+			},
+			{
+				"filme": "Velozes e Furiosos: Desafio em Tóquio",
+				"similaridade": 74
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 70
 			}
 		]
 	},
@@ -7799,6 +10539,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 17
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 17
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 17
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 16
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 16
 			}
 		]
 	},
@@ -7843,6 +10599,22 @@
 			},
 			{
 				"filme": "O Espelho",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 16
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 16
+			},
+			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 16
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
 			}
 		]
@@ -7889,6 +10661,22 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 21
+			},
+			{
+				"filme": "A Casa Sombria",
+				"similaridade": 21
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 20
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 20
 			}
 		]
 	},
@@ -7934,6 +10722,22 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 32
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 31
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 31
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 31
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 30
 			}
 		]
 	},
@@ -7979,6 +10783,22 @@
 			{
 				"filme": "Premonição 5",
 				"similaridade": 29
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 29
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 27
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 27
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 27
 			}
 		]
 	},
@@ -8024,6 +10844,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 64
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 59
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 53
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 50
+			},
+			{
+				"filme": "O Último Desafio",
+				"similaridade": 49
 			}
 		]
 	},
@@ -8069,6 +10905,22 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 17
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 16
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 16
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 16
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 16
 			}
 		]
 	},
@@ -8114,6 +10966,22 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 20
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 19
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
 			}
 		]
 	},
@@ -8159,6 +11027,22 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 23
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 23
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 22
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 21
+			},
+			{
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 21
 			}
 		]
 	},
@@ -8203,6 +11087,22 @@
 			},
 			{
 				"filme": "Operação Dragão",
+				"similaridade": 36
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 36
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 36
 			}
 		]
@@ -8249,6 +11149,22 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 20
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 18
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 18
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 15
 			}
 		]
 	},
@@ -8294,6 +11210,22 @@
 			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 14
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 14
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 14
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 13
 			}
 		]
 	},
@@ -8339,6 +11271,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 101
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 100
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 98
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 97
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 96
 			}
 		]
 	},
@@ -8384,6 +11332,22 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 6
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 6
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 5
 			}
 		]
 	},
@@ -8429,6 +11393,22 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 45
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 44
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 43
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 43
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 41
 			}
 		]
 	},
@@ -8474,6 +11454,22 @@
 			{
 				"filme": "Fúria Incontrolável",
 				"similaridade": 47
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 44
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 42
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 41
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 40
 			}
 		]
 	},
@@ -8519,6 +11515,22 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 23
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 23
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 23
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 23
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 22
 			}
 		]
 	},
@@ -8564,6 +11576,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 33
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 31
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 30
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 30
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 29
 			}
 		]
 	},
@@ -8609,6 +11637,22 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 23
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 22
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 22
+			},
+			{
+				"filme": "O Medalhão",
+				"similaridade": 20
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 20
 			}
 		]
 	},
@@ -8654,6 +11698,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 10
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 10
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 9
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 9
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 9
 			}
 		]
 	},
@@ -8699,6 +11759,22 @@
 			{
 				"filme": "Duna",
 				"similaridade": 30
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 29
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 29
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 28
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 27
 			}
 		]
 	},
@@ -8744,6 +11820,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 45
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 42
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 41
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 40
 			}
 		]
 	},
@@ -8789,6 +11881,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 22
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 22
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 21
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 21
 			}
 		]
 	},
@@ -8834,6 +11942,22 @@
 			{
 				"filme": "Os Espíritos",
 				"similaridade": 34
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 33
+			},
+			{
+				"filme": "Brinquedo Assassino 3",
+				"similaridade": 31
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 30
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 29
 			}
 		]
 	},
@@ -8879,6 +12003,22 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
+			},
+			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 7
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 7
 			}
 		]
 	},
@@ -8924,6 +12064,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 44
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 43
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 43
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 43
 			}
 		]
 	},
@@ -8969,6 +12125,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 40
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 39
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 39
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 39
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 38
 			}
 		]
 	},
@@ -9014,6 +12186,22 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 29
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 28
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 27
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 27
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 27
 			}
 		]
 	},
@@ -9059,6 +12247,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 54
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 52
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 48
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 48
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 46
 			}
 		]
 	},
@@ -9104,6 +12308,22 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 36
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 34
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 34
+			},
+			{
+				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 33
 			}
 		]
 	},
@@ -9149,6 +12369,22 @@
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 26
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Piratas do Caribe: No Fim do Mundo",
+				"similaridade": 23
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 23
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 23
 			}
 		]
 	},
@@ -9194,6 +12430,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 27
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 26
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 25
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 25
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 25
 			}
 		]
 	},
@@ -9239,6 +12491,22 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 55
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 53
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 52
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 50
 			}
 		]
 	},
@@ -9284,6 +12552,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 42
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 42
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 40
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 39
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 39
 			}
 		]
 	},
@@ -9329,6 +12613,22 @@
 			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 17
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 17
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 17
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 17
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 16
 			}
 		]
 	},
@@ -9374,6 +12674,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 69
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 68
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 58
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 57
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 56
 			}
 		]
 	},
@@ -9419,6 +12735,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 36
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 36
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 34
 			}
 		]
 	},
@@ -9464,6 +12796,22 @@
 			{
 				"filme": "A Babá",
 				"similaridade": 16
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 15
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 14
+			},
+			{
+				"filme": "Dicionário de Cama",
+				"similaridade": 14
 			}
 		]
 	},
@@ -9509,6 +12857,22 @@
 			{
 				"filme": "Do Fundo do Mar",
 				"similaridade": 15
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 15
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 15
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 15
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 14
 			}
 		]
 	},
@@ -9553,6 +12917,22 @@
 			},
 			{
 				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 8
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 8
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Babá",
 				"similaridade": 8
 			}
 		]
@@ -9599,6 +12979,22 @@
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 35
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 33
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 33
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 32
 			}
 		]
 	},
@@ -9644,6 +13040,22 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 59
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 57
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 56
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 56
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 55
 			}
 		]
 	},
@@ -9689,6 +13101,22 @@
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 51
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 50
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 49
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 48
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 46
 			}
 		]
 	},
@@ -9734,6 +13162,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 31
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 31
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 31
+			},
+			{
+				"filme": "Premonição 2",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 30
 			}
 		]
 	},
@@ -9779,6 +13223,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 47
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 47
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 44
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 42
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 42
 			}
 		]
 	},
@@ -9824,6 +13284,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 35
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 35
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 33
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 33
 			}
 		]
 	},
@@ -9869,6 +13345,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 25
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 24
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 24
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 24
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 24
 			}
 		]
 	},
@@ -9914,6 +13406,22 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 41
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 40
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 39
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 33
 			}
 		]
 	},
@@ -9959,6 +13467,22 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 82
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 82
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 81
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 80
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 80
 			}
 		]
 	},
@@ -10004,6 +13528,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 96
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 96
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 93
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 92
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 87
 			}
 		]
 	},
@@ -10049,6 +13589,22 @@
 			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 7
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 7
 			}
 		]
 	},
@@ -10094,6 +13650,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 9
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 8
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 8
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 8
 			}
 		]
 	},
@@ -10139,6 +13711,22 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 49
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 47
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 46
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 44
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 44
 			}
 		]
 	},
@@ -10184,6 +13772,22 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 5
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 4
+			},
+			{
+				"filme": "Bater ou Correr",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Fúria do Dragão",
+				"similaridade": 4
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 4
 			}
 		]
 	},
@@ -10229,6 +13833,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 12
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 12
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 11
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 11
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
+				"similaridade": 11
 			}
 		]
 	},
@@ -10274,6 +13894,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 30
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 28
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 25
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 25
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 25
 			}
 		]
 	},
@@ -10319,6 +13955,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 36
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 35
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 34
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 34
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 34
 			}
 		]
 	},
@@ -10364,6 +14016,22 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 28
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 28
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 28
+			},
+			{
+				"filme": "Espião por Acidente",
+				"similaridade": 27
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 27
 			}
 		]
 	},
@@ -10408,6 +14076,22 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 17
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 17
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 17
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 17
 			}
 		]
@@ -10454,6 +14138,22 @@
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 8
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 8
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 8
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 8
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 8
 			}
 		]
 	},
@@ -10499,6 +14199,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 54
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 49
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 49
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 48
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 48
 			}
 		]
 	},
@@ -10544,6 +14260,22 @@
 			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 40
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 40
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 37
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 36
 			}
 		]
 	},
@@ -10589,6 +14321,22 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 43
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 43
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 42
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 41
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 41
 			}
 		]
 	},
@@ -10634,6 +14382,22 @@
 			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 51
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 51
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 50
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 50
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 49
 			}
 		]
 	},
@@ -10679,6 +14443,22 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 72
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 71
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 70
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 65
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 64
 			}
 		]
 	},
@@ -10724,6 +14504,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 11
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 10
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 9
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 9
 			}
 		]
 	},
@@ -10769,6 +14565,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 44
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 43
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 40
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 38
 			}
 		]
 	},
@@ -10813,6 +14625,22 @@
 			},
 			{
 				"filme": "Drácula de Bram Stoker",
+				"similaridade": 12
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 12
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 12
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 12
 			}
 		]
@@ -10859,6 +14687,22 @@
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 61
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 60
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 58
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 58
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 57
 			}
 		]
 	},
@@ -10904,6 +14748,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 32
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 31
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 31
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 31
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 31
 			}
 		]
 	},
@@ -10949,6 +14809,22 @@
 			{
 				"filme": "Gladiador",
 				"similaridade": 27
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 26
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 26
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 24
 			}
 		]
 	},
@@ -10994,6 +14870,22 @@
 			{
 				"filme": "O Fantasma da Máquina",
 				"similaridade": 37
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 34
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 33
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 32
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 32
 			}
 		]
 	},
@@ -11039,6 +14931,22 @@
 			{
 				"filme": "O Exorcista II: O Herege",
 				"similaridade": 13
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 13
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 13
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 12
 			}
 		]
 	},
@@ -11084,6 +14992,22 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 7
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 7
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 6
 			}
 		]
 	},
@@ -11129,6 +15053,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 70
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 70
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 68
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 67
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 67
 			}
 		]
 	},
@@ -11173,6 +15113,22 @@
 			},
 			{
 				"filme": "+ Velozes + Furiosos",
+				"similaridade": 4
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 4
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 4
+			},
+			{
+				"filme": "Thunderbolt: Ação Sobre Rodas",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Fúria do Dragão",
 				"similaridade": 4
 			}
 		]
@@ -11219,6 +15175,22 @@
 			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 10
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 10
+			},
+			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 9
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 9
+			},
+			{
+				"filme": "Brinquedo Assassino 2",
+				"similaridade": 9
 			}
 		]
 	},
@@ -11264,6 +15236,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 38
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 37
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 37
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 36
 			}
 		]
 	},
@@ -11309,6 +15297,22 @@
 			{
 				"filme": "A Maldição de Chucky",
 				"similaridade": 37
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 35
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 32
 			}
 		]
 	},
@@ -11353,6 +15357,22 @@
 			},
 			{
 				"filme": "O Quinto Elemento",
+				"similaridade": 2
+			},
+			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 2
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 2
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 2
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 2
 			}
 		]
@@ -11399,6 +15419,22 @@
 			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 11
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 11
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 11
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 10
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 10
 			}
 		]
 	},
@@ -11444,6 +15480,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 10
+			},
+			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 9
+			},
+			{
+				"filme": "Mar em Fúria",
+				"similaridade": 9
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 9
 			}
 		]
 	},
@@ -11488,6 +15540,22 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
+				"similaridade": 3
+			},
+			{
+				"filme": "12 Homens e Uma Sentença",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 3
+			},
+			{
+				"filme": "Bater ou Correr em Londres",
+				"similaridade": 3
+			},
+			{
+				"filme": "DOA: Vivo ou Morto",
 				"similaridade": 3
 			}
 		]
@@ -11534,6 +15602,22 @@
 			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 5
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
+				"similaridade": 5
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 5
+			},
+			{
+				"filme": "Arrebentando em Nova York",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 5
 			}
 		]
 	},
@@ -11579,6 +15663,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 44
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 44
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 42
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 41
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 41
 			}
 		]
 	},
@@ -11624,6 +15724,22 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 17
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 16
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 16
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 16
 			}
 		]
 	},
@@ -11669,6 +15785,22 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 17
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 16
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 15
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 15
 			}
 		]
 	},
@@ -11714,6 +15846,22 @@
 			{
 				"filme": "Verônica: Jogo Sobrenatural",
 				"similaridade": 62
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 57
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 55
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 51
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 50
 			}
 		]
 	},
@@ -11759,6 +15907,22 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 15
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 15
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 15
 			}
 		]
 	},
@@ -11804,6 +15968,22 @@
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 11
+			},
+			{
+				"filme": "A Noite das Brincadeiras Mortais",
+				"similaridade": 11
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Filho de Chucky",
+				"similaridade": 10
 			}
 		]
 	},
@@ -11849,6 +16029,22 @@
 			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 19
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 18
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 18
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 17
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 17
 			}
 		]
 	},
@@ -11894,6 +16090,22 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 65
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 54
+			},
+			{
+				"filme": "Boa Noite, Mamãe!",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 53
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 50
 			}
 		]
 	},
@@ -11938,6 +16150,22 @@
 			},
 			{
 				"filme": "Mente Criminosa",
+				"similaridade": 25
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 25
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 25
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 25
+			},
+			{
+				"filme": "Inimigo Mortal",
 				"similaridade": 25
 			}
 		]
@@ -11984,6 +16212,22 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 14
+			},
+			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 13
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 13
+			},
+			{
+				"filme": "Premonição 4",
+				"similaridade": 13
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 13
 			}
 		]
 	},
@@ -12029,6 +16273,22 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 47
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 40
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 39
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 38
 			}
 		]
 	},
@@ -12073,6 +16333,22 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 17
+			},
+			{
+				"filme": "Operação Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Medalhão",
+				"similaridade": 17
+			},
+			{
+				"filme": "Perdedores e Vencedores",
 				"similaridade": 17
 			}
 		]
@@ -12119,6 +16395,22 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 10
+			},
+			{
+				"filme": "Na Escola da Vida",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 10
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 10
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 9
 			}
 		]
 	},
@@ -12163,6 +16455,22 @@
 			},
 			{
 				"filme": "O Reino Proibido",
+				"similaridade": 5
+			},
+			{
+				"filme": "Karatê Kid",
+				"similaridade": 5
+			},
+			{
+				"filme": "Velozes & Furiosos 6",
+				"similaridade": 5
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha",
 				"similaridade": 5
 			}
 		]
@@ -12209,6 +16517,22 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 13
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 13
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 13
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 12
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 12
 			}
 		]
 	},
@@ -12253,6 +16577,22 @@
 			},
 			{
 				"filme": "Uncharted: Fora do Mapa",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 5
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 5
+			},
+			{
+				"filme": "Alerta Vermelho",
 				"similaridade": 5
 			}
 		]
@@ -12299,6 +16639,22 @@
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 22
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 21
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 20
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 18
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 17
 			}
 		]
 	},
@@ -12344,6 +16700,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 15
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 15
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 15
+			},
+			{
+				"filme": "Bater ou Correr em Londres",
+				"similaridade": 14
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 14
 			}
 		]
 	},
@@ -12389,6 +16761,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 66
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 63
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 62
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 61
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 61
 			}
 		]
 	},
@@ -12434,6 +16822,22 @@
 			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 7
+			},
+			{
+				"filme": "Sindicato de Ladrões",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 6
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 6
 			}
 		]
 	},
@@ -12479,6 +16883,22 @@
 			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 23
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 22
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 22
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 21
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 21
 			}
 		]
 	},
@@ -12524,6 +16944,22 @@
 			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 54
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 53
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 53
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 52
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 52
 			}
 		]
 	},
@@ -12569,6 +17005,22 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 100
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 100
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 100
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 99
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 91
 			}
 		]
 	},
@@ -12614,6 +17066,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 7
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 6
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 6
 			}
 		]
 	},
@@ -12659,6 +17127,22 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 31
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 31
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 30
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 29
 			}
 		]
 	},
@@ -12704,6 +17188,22 @@
 			{
 				"filme": "Karatê Kid",
 				"similaridade": 19
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 18
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 18
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 17
+			},
+			{
+				"filme": "Espião por Acidente",
+				"similaridade": 16
 			}
 		]
 	},
@@ -12749,6 +17249,22 @@
 			{
 				"filme": "Casablanca",
 				"similaridade": 10
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 10
+			},
+			{
+				"filme": "Banzé no Oeste",
+				"similaridade": 9
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 8
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
+				"similaridade": 8
 			}
 		]
 	},
@@ -12794,6 +17310,22 @@
 			{
 				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 19
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 19
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 18
 			}
 		]
 	},
@@ -12838,6 +17370,22 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 11
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 11
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 11
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 11
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 11
 			}
 		]
@@ -12884,6 +17432,22 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 3
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 3
+			},
+			{
+				"filme": "+ Velozes + Furiosos",
+				"similaridade": 2
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 2
+			},
+			{
+				"filme": "Sindicato de Ladrões",
+				"similaridade": 2
 			}
 		]
 	},
@@ -12929,6 +17493,22 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 10
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 10
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 10
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 10
 			}
 		]
 	},
@@ -12974,6 +17554,22 @@
 			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 43
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 39
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 39
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 39
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 39
 			}
 		]
 	},
@@ -13019,6 +17615,22 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 21
+			},
+			{
+				"filme": "O Medalhão",
+				"similaridade": 21
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Grande Lutador",
+				"similaridade": 20
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 20
 			}
 		]
 	},
@@ -13064,6 +17676,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 44
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 43
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 43
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 41
 			}
 		]
 	},
@@ -13109,6 +17737,22 @@
 			{
 				"filme": "Crepúsculo dos Deuses",
 				"similaridade": 25
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 25
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 25
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
 			}
 		]
 	},
@@ -13154,6 +17798,22 @@
 			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 37
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 36
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 36
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 36
 			}
 		]
 	},
@@ -13199,6 +17859,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 26
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 26
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 24
 			}
 		]
 	},
@@ -13244,6 +17920,22 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 30
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Último Desafio",
+				"similaridade": 28
+			},
+			{
+				"filme": "Velozes & Furiosos 5: Operação Rio",
+				"similaridade": 27
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 27
 			}
 		]
 	},
@@ -13289,6 +17981,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 61
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 60
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 60
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 60
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 60
 			}
 		]
 	},
@@ -13333,6 +18041,22 @@
 			},
 			{
 				"filme": "Olhos de Gato",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 2
+			},
+			{
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 2
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 2
+			},
+			{
+				"filme": "Beniker Gang: Os Fugitivos",
 				"similaridade": 2
 			}
 		]
@@ -13379,6 +18103,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 29
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 28
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 28
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 27
 			}
 		]
 	},
@@ -13424,6 +18164,22 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 47
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 44
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 44
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 42
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 40
 			}
 		]
 	},
@@ -13469,6 +18225,22 @@
 			{
 				"filme": "Além da Escuridão - Star Trek",
 				"similaridade": 34
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 34
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 34
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 33
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 33
 			}
 		]
 	},
@@ -13514,6 +18286,22 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 72
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 72
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 70
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 67
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 67
 			}
 		]
 	},
@@ -13559,6 +18347,22 @@
 			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 12
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
+				"filme": "Os Sete Samurais",
+				"similaridade": 11
 			}
 		]
 	},
@@ -13604,6 +18408,22 @@
 			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 10
+			},
+			{
+				"filme": "Bat 21: Missão no Inferno",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 9
 			}
 		]
 	},
@@ -13649,6 +18469,22 @@
 			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 34
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 34
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 33
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 31
 			}
 		]
 	},
@@ -13694,6 +18530,22 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 35
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 34
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 34
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 32
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 32
 			}
 		]
 	},
@@ -13739,6 +18591,22 @@
 			{
 				"filme": "Batman",
 				"similaridade": 20
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 20
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 19
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 19
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 19
 			}
 		]
 	},
@@ -13783,6 +18651,22 @@
 			},
 			{
 				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 6
+			},
+			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Noiva de Chucky",
 				"similaridade": 6
 			}
 		]
@@ -13829,6 +18713,22 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 5
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 5
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 5
+			},
+			{
+				"filme": "Alerta Vermelho",
+				"similaridade": 5
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 5
 			}
 		]
 	},
@@ -13873,6 +18773,22 @@
 			},
 			{
 				"filme": "Gladiador",
+				"similaridade": 10
+			},
+			{
+				"filme": "Sindicato de Ladrões",
+				"similaridade": 10
+			},
+			{
+				"filme": "12 Homens e uma Sentença",
+				"similaridade": 10
+			},
+			{
+				"filme": "Um Violinista no Telhado",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Veredicto",
 				"similaridade": 10
 			}
 		]
@@ -13919,6 +18835,22 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 20
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 20
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 19
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 19
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 19
 			}
 		]
 	},
@@ -13964,6 +18896,22 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 14
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 14
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 13
 			}
 		]
 	},
@@ -14009,6 +18957,22 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 24
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 23
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 23
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 23
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 23
 			}
 		]
 	},
@@ -14054,6 +19018,22 @@
 			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 11
+			},
+			{
+				"filme": "O Veredicto",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 10
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 10
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 9
 			}
 		]
 	},
@@ -14099,6 +19079,22 @@
 			{
 				"filme": "Cruella",
 				"similaridade": 7
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 7
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
 			}
 		]
 	},
@@ -14144,6 +19140,22 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 27
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 26
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 26
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 25
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 24
 			}
 		]
 	},
@@ -14189,6 +19201,22 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 36
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 35
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 35
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 35
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 34
 			}
 		]
 	},
@@ -14234,6 +19262,22 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 33
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 32
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 32
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 31
 			}
 		]
 	},
@@ -14279,6 +19323,22 @@
 			{
 				"filme": "Cruella",
 				"similaridade": 8
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 7
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 6
 			}
 		]
 	},
@@ -14324,6 +19384,22 @@
 			{
 				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 27
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 27
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 26
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 26
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 26
 			}
 		]
 	},
@@ -14369,6 +19445,22 @@
 			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 36
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 34
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 33
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 32
 			}
 		]
 	}
