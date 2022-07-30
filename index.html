@@ -65,7 +65,6 @@ function AdicionarFilme(filme) {
 	cell1.dataset.videoid=filme.videoid;
 	cell1.dataset.poster=filme.poster;
 	cell1.dataset.background=filme.background;
-	cell1.dataset.resolucaoArmazenada=filme.resolucaoArmazenada;
 	if (filme.similares) {cell1.dataset.similares=JSON.stringify(filme.similares)}
 	cell1.style = "cursor:pointer";
 	//Celula ano
@@ -140,7 +139,6 @@ document.addEventListener('mousemove', function(event) {
 		OverlayDIV.style.left = event.pageX+10 + 'px';
 		OverlayDIV.style.display = "block";
 		OverlayBackdrop.src = event.target.dataset.background;
-		resolucaoArmazenada.innerText=event.target.dataset.resolucaoArmazenada;
 		if (window.innerHeight-event.clientY > 300) {
 			OverlayDIV.style.top = event.pageY + 'px';
 		} else {
