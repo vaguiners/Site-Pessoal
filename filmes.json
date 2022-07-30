@@ -12,6 +12,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 3
+			},
+			{
 				"filme": "Live Is Life",
 				"similaridade": 2
 			},
@@ -37,10 +41,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 2
 			}
 		]
@@ -254,6 +254,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Corrida Silenciosa",
+				"similaridade": 1
+			},
+			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 1
 			},
@@ -267,10 +271,6 @@
 			},
 			{
 				"filme": "O Homem de Toronto",
-				"similaridade": 1
-			},
-			{
-				"filme": "Um Garoto na Corte do Rei Arthur",
 				"similaridade": 1
 			}
 		]
@@ -430,6 +430,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 6
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 6
 			},
@@ -451,10 +455,6 @@
 			},
 			{
 				"filme": "O Sol de Amalfi",
-				"similaridade": 5
-			},
-			{
-				"filme": "Juntos e Misturados",
 				"similaridade": 5
 			}
 		]
@@ -496,11 +496,11 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "A Cor Que Caiu do Espaço",
+				"filme": "Laranja Mecânica",
 				"similaridade": 5
 			},
 			{
-				"filme": "De Olhos Bem Fechados",
+				"filme": "A Cor Que Caiu do Espaço",
 				"similaridade": 5
 			}
 		]
@@ -668,6 +668,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -681,10 +685,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -877,7 +877,7 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 5.6,
+		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
 		"videoid": "685e0f4e4c7a540a4e486e",
@@ -1009,6 +1009,10 @@
 		"receita": "164.3M",
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 8
+			},
+			{
 				"filme": "Tenet",
 				"similaridade": 7
 			},
@@ -1034,10 +1038,6 @@
 			},
 			{
 				"filme": "Jogador N° 1",
-				"similaridade": 5
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 5
 			}
 		]
@@ -1807,6 +1807,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 4
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 4
 			},
@@ -1816,10 +1820,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 4
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 4
 			}
 		]
@@ -1949,15 +1949,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 1
 			},
 			{
 				"filme": "Velozes & Furiosos 9",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			}
 		]
@@ -2359,6 +2359,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 6
+			},
+			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 6
 			},
@@ -2368,10 +2372,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 6
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 6
 			}
 		]
@@ -2388,6 +2388,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 13
+			},
 			{
 				"filme": "Eternos",
 				"similaridade": 13
@@ -2414,10 +2418,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 9
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 9
 			}
 		]
@@ -2803,6 +2803,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Maldição da Chorona",
 				"similaridade": 1
 			},
@@ -2828,10 +2832,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 6",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes e Furiosos 4",
 				"similaridade": 1
 			}
 		]
@@ -2941,6 +2941,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 5
+			},
+			{
 				"filme": "O Poço",
 				"similaridade": 5
 			},
@@ -2967,10 +2971,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 3
 			}
 		]
 	},
@@ -2995,6 +2995,10 @@
 				"similaridade": 52
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 45
+			},
+			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 44
 			},
@@ -3013,10 +3017,6 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 41
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 40
 			}
 		]
 	},
@@ -3083,6 +3083,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 9
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 8
 			},
@@ -3104,10 +3108,6 @@
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
-				"similaridade": 6
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 6
 			}
 		]
@@ -3145,15 +3145,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 1
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 1
 			},
 			{
 				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -3173,6 +3173,10 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 4
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 3
 			},
 			{
 				"filme": "Veneza",
@@ -3196,10 +3200,6 @@
 			},
 			{
 				"filme": "Sheena - A Rainha das Selvas",
-				"similaridade": 2
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 2
 			}
 		]
@@ -3567,6 +3567,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Cor Que Caiu do Espaço",
 				"similaridade": 1
 			},
@@ -3576,10 +3580,6 @@
 			},
 			{
 				"filme": "Verônica: Jogo Sobrenatural",
-				"similaridade": 1
-			},
-			{
-				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 1
 			}
 		]
@@ -3781,6 +3781,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 4
+			},
+			{
 				"filme": "Uma Questão de Respeito",
 				"similaridade": 4
 			},
@@ -3806,10 +3810,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Homem do Norte",
 				"similaridade": 3
 			}
 		]
@@ -4114,15 +4114,15 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 5
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 5
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 5
-			},
-			{
-				"filme": "Interestelar",
 				"similaridade": 5
 			}
 		]
@@ -4186,6 +4186,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 1
+			},
+			{
 				"filme": "Espantalho",
 				"similaridade": 1
 			},
@@ -4211,10 +4215,6 @@
 			},
 			{
 				"filme": "+ Velozes + Furiosos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 1
 			}
 		]
@@ -4524,6 +4524,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 4
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 4
 			},
@@ -4533,10 +4537,6 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Homem do Norte",
 				"similaridade": 4
 			}
 		]
@@ -4578,12 +4578,12 @@
 				"similaridade": 48
 			},
 			{
-				"filme": "Olhos de Gato",
+				"filme": "Laranja Mecânica",
 				"similaridade": 40
 			},
 			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 38
+				"filme": "Olhos de Gato",
+				"similaridade": 40
 			}
 		]
 	},
@@ -4599,6 +4599,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 8
+			},
 			{
 				"filme": "Morbius",
 				"similaridade": 8
@@ -4626,10 +4630,6 @@
 			{
 				"filme": "Alita: Anjo de Combate",
 				"similaridade": 6
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 6
 			}
 		]
 	},
@@ -4645,6 +4645,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 5
+			},
 			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 5
@@ -4671,10 +4675,6 @@
 			},
 			{
 				"filme": "Vingança",
-				"similaridade": 4
-			},
-			{
-				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 4
 			}
 		]
@@ -5030,6 +5030,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 13
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 12
 			},
@@ -5039,10 +5043,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 12
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 12
 			}
 		]
@@ -5256,6 +5256,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
+			},
+			{
 				"filme": "Piripkura",
 				"similaridade": 1
 			},
@@ -5269,10 +5273,6 @@
 			},
 			{
 				"filme": "Sonho de Rui",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vale Night",
 				"similaridade": 1
 			}
 		]
@@ -5924,11 +5924,11 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Batman",
+				"filme": "Laranja Mecânica",
 				"similaridade": 25
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Batman",
 				"similaridade": 25
 			}
 		]
@@ -6042,6 +6042,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
+			},
+			{
+				"filme": "Dirty Dancing: Ritmo Quente",
+				"similaridade": 1
+			},
+			{
 				"filme": "Xanadu",
 				"similaridade": 1
 			},
@@ -6059,14 +6067,6 @@
 			},
 			{
 				"filme": "O Predestinado",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 1
-			},
-			{
-				"filme": "Liga da Justiça: A Nova Fronteira",
 				"similaridade": 1
 			}
 		]
@@ -6644,6 +6644,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 1
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Maldição da Chorona",
 				"similaridade": 1
 			},
@@ -6657,14 +6665,6 @@
 			},
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Os Últimos na Terra",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 1
 			}
 		]
@@ -6820,6 +6820,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 7
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 5
 			},
@@ -6845,10 +6849,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
 			}
 		]
@@ -6894,7 +6894,7 @@
 				"similaridade": 7
 			},
 			{
-				"filme": "De Olhos Bem Fechados",
+				"filme": "Laranja Mecânica",
 				"similaridade": 6
 			}
 		]
@@ -7020,6 +7020,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 15
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 15
 			},
@@ -7029,10 +7033,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 14
-			},
-			{
-				"filme": "Cidadão Kane",
 				"similaridade": 14
 			}
 		]
@@ -7124,8 +7124,8 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Velozes & Furiosos 9",
-				"similaridade": 36
+				"filme": "Laranja Mecânica",
+				"similaridade": 37
 			}
 		]
 	},
@@ -7204,6 +7204,10 @@
 				"similaridade": 96
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 94
+			},
+			{
 				"filme": "Vingança",
 				"similaridade": 89
 			},
@@ -7214,10 +7218,6 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 87
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 86
 			}
 		]
 	},
@@ -7538,8 +7538,8 @@
 				"similaridade": 70
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 67
+				"filme": "Laranja Mecânica",
+				"similaridade": 68
 			}
 		]
 	},
@@ -7576,15 +7576,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 8
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Homem do Norte",
 				"similaridade": 8
 			}
 		]
@@ -7948,11 +7948,11 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
+				"filme": "Laranja Mecânica",
 				"similaridade": 17
 			},
 			{
-				"filme": "O Estrangeiro",
+				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 17
 			}
 		]
@@ -8246,6 +8246,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 29
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 25
 			},
@@ -8272,10 +8276,6 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 20
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 19
 			}
 		]
 	},
@@ -8430,6 +8430,10 @@
 		"receita": "14.7M",
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 18
+			},
+			{
 				"filme": "Perigo Para a Sociedade",
 				"similaridade": 17
 			},
@@ -8455,10 +8459,6 @@
 			},
 			{
 				"filme": "Uma Questão de Respeito",
-				"similaridade": 14
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 14
 			}
 		]
@@ -8660,6 +8660,10 @@
 		"receita": "10.6M",
 		"similares": [
 			{
+				"filme": "Primitivo",
+				"similaridade": 110
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 31
 			},
@@ -8686,10 +8690,52 @@
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 24
+			}
+		]
+	},
+	{
+		"nome": "Primitivo",
+		"duracao": "1:34:13",
+		"ano": 2007,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/90Ck5KYjfiyM7fyJPx7y5qZfYGm.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9MsqUNYYSXSZeWyxzAlTwTbPavv.jpg",
+		"videoid": "535479626e087f51526d5c",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": 0,
+		"receita": "10.6M",
+		"similares": [
+			{
+				"filme": "Primitivo",
+				"similaridade": 110
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 23
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 31
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 30
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 29
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 27
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 27
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 24
 			}
 		]
 	},
@@ -8734,8 +8780,8 @@
 				"similaridade": 33
 			},
 			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 31
+				"filme": "Laranja Mecânica",
+				"similaridade": 32
 			}
 		]
 	},
@@ -8810,6 +8856,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 12
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 12
 			},
@@ -8823,10 +8873,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 10
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 10
 			}
 		]
@@ -9082,6 +9128,10 @@
 				"similaridade": 50
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 48
+			},
+			{
 				"filme": "Cidade de Deus",
 				"similaridade": 47
 			},
@@ -9099,10 +9149,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 44
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 44
 			}
 		]
@@ -9416,16 +9462,16 @@
 				"similaridade": 57
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 56
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 56
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 55
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 53
 			}
 		]
 	},
@@ -9956,6 +10002,10 @@
 				"similaridade": 51
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 47
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 47
 			},
@@ -9974,10 +10024,6 @@
 			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 41
-			},
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 40
 			}
 		]
 	},
@@ -10420,6 +10466,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 9
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 9
 			},
@@ -10433,10 +10483,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 8",
-				"similaridade": 8
-			},
-			{
-				"filme": "Velozes & Furiosos 7",
 				"similaridade": 8
 			}
 		]
@@ -10504,6 +10550,10 @@
 				"similaridade": 57
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 53
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 50
 			},
@@ -10525,10 +10575,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 40
-			},
-			{
-				"filme": "O Estrangeiro",
 				"similaridade": 40
 			}
 		]
@@ -10604,6 +10650,10 @@
 				"similaridade": 77
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 74
+			},
+			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 74
 			},
@@ -10618,10 +10668,6 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 72
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 71
 			}
 		]
 	},
@@ -10684,6 +10730,10 @@
 		"receita": "215.9M",
 		"similares": [
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 52
+			},
+			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 52
 			},
@@ -10710,10 +10760,6 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 44
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
-				"similaridade": 43
 			}
 		]
 	},
@@ -10796,16 +10842,16 @@
 				"similaridade": 66
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 63
+			},
+			{
 				"filme": "Mate ou Morra",
 				"similaridade": 63
 			},
 			{
 				"filme": "Ambulância: Um Dia de Crime",
 				"similaridade": 61
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 60
 			}
 		]
 	},
@@ -11362,6 +11408,52 @@
 		]
 	},
 	{
+		"nome": "Dirty Dancing: Ritmo Quente",
+		"duracao": "1:40:24",
+		"ano": 1987,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/diYAEG9hqtxnjCwkClwY2zkCtun.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tNx3lrLMhdMRm9LdvR6U9UhnuJo.jpg",
+		"videoid": "16506c544c6c525a634a6a",
+		"resolucaoArmazenada": "1920x1038",
+		"orcamento": "6M",
+		"receita": "214.6M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 27
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 22
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 19
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 18
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Cor Que Caiu do Espaço",
+				"similaridade": 16
+			}
+		]
+	},
+	{
 		"nome": "A Noite dos Arrepios",
 		"duracao": "1:29:53",
 		"ano": 1986,
@@ -11808,15 +11900,15 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 7
+			},
+			{
 				"filme": "O Poderoso Chefão",
 				"similaridade": 7
 			},
 			{
 				"filme": "Jogador N° 1",
-				"similaridade": 6
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 6
 			}
 		]
@@ -12552,8 +12644,100 @@
 				"similaridade": 47
 			},
 			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Laranja Mecânica",
 				"similaridade": 44
+			}
+		]
+	},
+	{
+		"nome": "Corrida Silenciosa",
+		"duracao": "1:29:31",
+		"ano": 1972,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/ss4xx1KjGxkO5eJP96o8rOqAW3V.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/9WmPbUHvyLc7zs3KdbopoRYBP7r.jpg",
+		"videoid": "62637c7c0c795d16511672",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "1M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Interestelar",
+				"similaridade": 44
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 41
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 40
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 39
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 36
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 35
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 34
+			}
+		]
+	},
+	{
+		"nome": "Laranja Mecânica",
+		"duracao": "2:16:36",
+		"ano": 1971,
+		"score": 8.3,
+		"poster": "https://image.tmdb.org/t/p/w200/tNgmc9kKLPYn78yTWZ50omc4QVb.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3w2v0iNPPNeIKOV5wu1NU1DDHHy.jpg",
+		"videoid": "6271090a565a4e026a7676",
+		"resolucaoArmazenada": "1794x1080",
+		"orcamento": "2.2M",
+		"receita": "26.6M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 94
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 91
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 74
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 71
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 70
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 69
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 68
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 68
 			}
 		]
 	},
@@ -12578,6 +12762,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 13
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 13
 			},
@@ -12595,10 +12783,6 @@
 			},
 			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 12
-			},
-			{
-				"filme": "O Castelo de Vidro",
 				"similaridade": 12
 			}
 		]
@@ -12624,6 +12808,10 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 25
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 25
 			},
@@ -12642,10 +12830,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 20
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 19
 			}
 		]
 	},
@@ -12692,6 +12876,52 @@
 			{
 				"filme": "Um Violinista no Telhado",
 				"similaridade": 10
+			}
+		]
+	},
+	{
+		"nome": "A Maldição de Frankenstein",
+		"duracao": "1:23:36",
+		"ano": 1957,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/rDqHrCas6D6mDyqUCBTJi7ZL5zX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5UfnkAPHGWjbWh71CfOJ660HCMx.jpg",
+		"videoid": "41424a6b6a5055626a4962",
+		"resolucaoArmazenada": "1480x1080",
+		"orcamento": "270K",
+		"receita": "8M",
+		"similares": [
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 31
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 28
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 26
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 26
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 26
+			},
+			{
+				"filme": "...E Frankenstein Criou a Mulher",
+				"similaridade": 25
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 24
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 23
 			}
 		]
 	},
@@ -12820,16 +13050,16 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 35
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 33
 			},
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 33
-			},
-			{
-				"filme": "A Babá",
-				"similaridade": 32
 			}
 		]
 	},
@@ -12946,6 +13176,10 @@
 				"similaridade": 49
 			},
 			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 44
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 43
 			},
@@ -12964,10 +13198,6 @@
 			{
 				"filme": "O Poderoso Chefão: Parte II",
 				"similaridade": 36
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 34
 			}
 		]
 	}
