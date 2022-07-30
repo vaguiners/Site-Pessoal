@@ -49,7 +49,7 @@
 		"nome": "O Sol de Amalfi",
 		"duracao": "1:36:13",
 		"ano": 2022,
-		"score": 5.7,
+		"score": 5.8,
 		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
 		"videoid": "784b62747773414352526e",
@@ -212,6 +212,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Cidadão Kane",
+				"similaridade": 6
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 5
 			},
@@ -221,10 +225,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 5
-			},
-			{
-				"filme": "Karatê Kid",
 				"similaridade": 5
 			}
 		]
@@ -1552,7 +1552,7 @@
 		"nome": "Juntos e Enrolados",
 		"duracao": "1:34:51",
 		"ano": 2021,
-		"score": 6.2,
+		"score": 6.1,
 		"poster": "https://image.tmdb.org/t/p/w200/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eAbnORHyYIlAfqrZJywo0X5mzmP.jpg",
 		"videoid": "72640a6a6151627f4e7676",
@@ -2409,15 +2409,15 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Cidadão Kane",
+				"similaridade": 10
+			},
+			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 10
 			},
 			{
 				"filme": "A Noiva de Chucky",
-				"similaridade": 9
-			},
-			{
-				"filme": "Cemitério Maldito",
 				"similaridade": 9
 			}
 		]
@@ -7902,11 +7902,11 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 17
+				"filme": "Cidadão Kane",
+				"similaridade": 18
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
+				"filme": "Laranja Mecânica",
 				"similaridade": 17
 			}
 		]
@@ -10098,10 +10098,6 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 10
-			},
-			{
 				"filme": "Jogador N° 1",
 				"similaridade": 8
 			},
@@ -10114,8 +10110,12 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "O Veredicto",
-				"similaridade": 8
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 7
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 7
 			}
 		]
 	},
@@ -10984,12 +10984,12 @@
 				"similaridade": 29
 			},
 			{
-				"filme": "Gladiador",
-				"similaridade": 27
+				"filme": "Cidadão Kane",
+				"similaridade": 29
 			},
 			{
-				"filme": "Perigo Para a Sociedade",
-				"similaridade": 26
+				"filme": "Gladiador",
+				"similaridade": 27
 			}
 		]
 	},
@@ -12006,52 +12006,6 @@
 		]
 	},
 	{
-		"nome": "O Veredicto",
-		"duracao": "2:08:51",
-		"ano": 1982,
-		"score": 7.6,
-		"poster": "https://image.tmdb.org/t/p/w200/xHkOkNVoaadCiAMCzBelJM5hQlG.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
-		"videoid": "7e0c6250595972784d6854",
-		"resolucaoArmazenada": "1920x1040",
-		"orcamento": "16M",
-		"receita": "54M",
-		"similares": [
-			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 13
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 10
-			},
-			{
-				"filme": "O Vento Será Tua Herança",
-				"similaridade": 10
-			},
-			{
-				"filme": "12 Homens e uma Sentença",
-				"similaridade": 8
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 7
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 6
-			},
-			{
-				"filme": "Pânico",
-				"similaridade": 6
-			}
-		]
-	},
-	{
 		"nome": "Gandhi",
 		"duracao": "3:11:15",
 		"ano": 1982,
@@ -13064,52 +13018,6 @@
 		]
 	},
 	{
-		"nome": "O Vento Será Tua Herança",
-		"duracao": "2:07:56",
-		"ano": 1960,
-		"score": 8,
-		"poster": "https://image.tmdb.org/t/p/w200/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/qtTF3ZZBekXG7mBteNZn3V4CXQ2.jpg",
-		"videoid": "4c5950165757505554590f",
-		"resolucaoArmazenada": "1792x1080",
-		"orcamento": 0,
-		"receita": 0,
-		"similares": [
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 21
-			},
-			{
-				"filme": "Justiça Para Todos",
-				"similaridade": 19
-			},
-			{
-				"filme": "Gandhi",
-				"similaridade": 18
-			},
-			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 12
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 11
-			},
-			{
-				"filme": "Um Sonho de Liberdade",
-				"similaridade": 11
-			},
-			{
-				"filme": "Gladiador",
-				"similaridade": 10
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 10
-			}
-		]
-	},
-	{
 		"nome": "A Vingança de Frankenstein",
 		"duracao": "1:29:57",
 		"ano": 1958,
@@ -13310,6 +13218,10 @@
 				"similaridade": 49
 			},
 			{
+				"filme": "Cidadão Kane",
+				"similaridade": 49
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 45
 			},
@@ -13332,10 +13244,6 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 33
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 33
 			}
 		]
 	},
@@ -13351,6 +13259,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 15
+			},
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 15
@@ -13377,10 +13289,6 @@
 			},
 			{
 				"filme": "Cruella",
-				"similaridade": 8
-			},
-			{
-				"filme": "Casablanca",
 				"similaridade": 8
 			}
 		]
@@ -13444,6 +13352,10 @@
 		"receita": "23.2M",
 		"similares": [
 			{
+				"filme": "Cidadão Kane",
+				"similaridade": 494
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 66
 			},
@@ -13470,10 +13382,52 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
+			}
+		]
+	},
+	{
+		"nome": "Cidadão Kane",
+		"duracao": "1:59:24",
+		"ano": 1941,
+		"score": 8.2,
+		"poster": "https://image.tmdb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
+		"videoid": "0a786d5c5251770e02616e",
+		"resolucaoArmazenada": "1488x1080",
+		"orcamento": "839.7K",
+		"receita": "23.2M",
+		"similares": [
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 494
 			},
 			{
-				"filme": "O Estrangeiro",
-				"similaridade": 34
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 66
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 50
+			},
+			{
+				"filme": "Crepúsculo dos Deuses",
+				"similaridade": 49
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 43
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 41
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 40
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 38
 			}
 		]
 	}
