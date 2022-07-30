@@ -16,6 +16,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 2
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 2
 			},
@@ -37,10 +41,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 2
-			},
-			{
-				"filme": "Red: Crescer é Uma Fera",
 				"similaridade": 2
 			}
 		]
@@ -212,10 +212,6 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 6
-			},
-			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 5
 			},
@@ -225,6 +221,10 @@
 			},
 			{
 				"filme": "Mate ou Morra",
+				"similaridade": 5
+			},
+			{
+				"filme": "Karatê Kid",
 				"similaridade": 5
 			}
 		]
@@ -668,6 +668,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Beniker Gang: Os Fugitivos",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Maldição de Frankenstein",
 				"similaridade": 1
 			},
@@ -681,10 +685,6 @@
 			},
 			{
 				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -917,6 +917,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Cidade em Chamas",
+				"similaridade": 1
+			},
+			{
 				"filme": "Sobrenatural: Capítulo 2",
 				"similaridade": 1
 			},
@@ -942,10 +946,6 @@
 			},
 			{
 				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -1389,6 +1389,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Chorona",
 				"similaridade": 4
 			},
@@ -1402,10 +1406,6 @@
 			},
 			{
 				"filme": "Jolt: Fúria Fatal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 4
 			}
 		]
@@ -1699,6 +1699,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 1
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 1
 			},
@@ -1724,10 +1728,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Reino Proibido",
 				"similaridade": 1
 			}
 		]
@@ -1807,6 +1807,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 4
+			},
+			{
 				"filme": "A Maldição de Frankenstein",
 				"similaridade": 4
 			},
@@ -1816,10 +1820,6 @@
 			},
 			{
 				"filme": "Red: Crescer é Uma Fera",
-				"similaridade": 4
-			},
-			{
-				"filme": "Eternos",
 				"similaridade": 4
 			}
 		]
@@ -1945,19 +1945,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Fantasma da Ópera",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 1
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 1
 			},
 			{
 				"filme": "A Maldição de Frankenstein",
-				"similaridade": 1
-			},
-			{
-				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes & Furiosos 9",
 				"similaridade": 1
 			}
 		]
@@ -2003,7 +2003,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Fim dos Dias",
+				"filme": "Busca Sem Limites",
 				"similaridade": 2
 			}
 		]
@@ -2409,15 +2409,15 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 10
-			},
-			{
 				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 10
 			},
 			{
 				"filme": "A Noiva de Chucky",
+				"similaridade": 9
+			},
+			{
+				"filme": "Cemitério Maldito",
 				"similaridade": 9
 			}
 		]
@@ -2463,7 +2463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Dragnet: Desafiando o Perigo",
+				"filme": "Busca Sem Limites",
 				"similaridade": 1
 			}
 		]
@@ -2803,6 +2803,18 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 1
+			},
+			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Uma Alucinante Viagem",
+				"similaridade": 1
+			},
+			{
 				"filme": "Grito de Horror",
 				"similaridade": 1
 			},
@@ -2820,18 +2832,6 @@
 			},
 			{
 				"filme": "Dirty Dancing: Ritmo Quente",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Maldição da Chorona",
-				"similaridade": 1
-			},
-			{
-				"filme": "Xanadu",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 1
 			}
 		]
@@ -3145,15 +3145,15 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 1
+			},
+			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 1
 			},
 			{
 				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -3321,6 +3321,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 4
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 4
 			},
@@ -3334,10 +3338,6 @@
 			},
 			{
 				"filme": "Fúria Incontrolável",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 4
 			}
 		]
@@ -3567,19 +3567,19 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Herança Maldita",
+				"filme": "Busca Sem Limites",
 				"similaridade": 1
 			},
 			{
-				"filme": "Grito de Horror",
+				"filme": "A Noite das Brincadeiras Mortais",
 				"similaridade": 1
 			},
 			{
-				"filme": "Dragnet: Desafiando o Perigo",
+				"filme": "O Fantasma da Máquina",
 				"similaridade": 1
 			},
 			{
-				"filme": "Fim dos Dias",
+				"filme": "Uma Alucinante Viagem",
 				"similaridade": 1
 			}
 		]
@@ -3663,15 +3663,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 2
+			},
+			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 2
+			},
+			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 2
-			},
-			{
-				"filme": "Verônica: Jogo Sobrenatural",
-				"similaridade": 2
-			},
-			{
-				"filme": "O Quarto Secreto",
 				"similaridade": 2
 			}
 		]
@@ -4186,6 +4186,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Noite das Brincadeiras Mortais",
+				"similaridade": 1
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 1
 			},
@@ -4212,10 +4216,6 @@
 			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 1
-			},
-			{
-				"filme": "Velozes e Furiosos",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4240,6 +4240,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Na Escola da Vida",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Quinto Elemento",
 				"similaridade": 2
 			},
@@ -4257,10 +4261,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 2
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 2
 			}
 		]
@@ -4738,6 +4738,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 1
+			},
+			{
 				"filme": "Dragnet: Desafiando o Perigo",
 				"similaridade": 1
 			},
@@ -4763,10 +4767,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 8",
-				"similaridade": 1
-			},
-			{
-				"filme": "Velozes & Furiosos 7",
 				"similaridade": 1
 			}
 		]
@@ -5256,6 +5256,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Beniker Gang: Os Fugitivos",
+				"similaridade": 1
+			},
+			{
 				"filme": "A Maldição de Frankenstein",
 				"similaridade": 1
 			},
@@ -5269,10 +5273,6 @@
 			},
 			{
 				"filme": "Vai Dar Nada",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sonho de Rui",
 				"similaridade": 1
 			}
 		]
@@ -5640,19 +5640,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 1
+			},
+			{
 				"filme": "Efeito Colateral",
 				"similaridade": 1
 			},
 			{
 				"filme": "Gigantes de Aço",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piratas do Caribe: O Baú da Morte",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
 				"similaridade": 1
 			}
 		]
@@ -6038,8 +6038,16 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Fantasma da Ópera",
+				"similaridade": 2
+			},
+			{
 				"filme": "Um Violinista no Telhado",
 				"similaridade": 2
+			},
+			{
+				"filme": "Luar Sobre Parador",
+				"similaridade": 1
 			},
 			{
 				"filme": "A Maldição de Frankenstein",
@@ -6059,14 +6067,6 @@
 			},
 			{
 				"filme": "Entre Irmãos",
-				"similaridade": 1
-			},
-			{
-				"filme": "Fúria",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Predestinado",
 				"similaridade": 1
 			}
 		]
@@ -6322,6 +6322,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 1
+			},
+			{
 				"filme": "Gigantes de Aço",
 				"similaridade": 1
 			},
@@ -6339,10 +6343,6 @@
 			},
 			{
 				"filme": "Agarra-me se Puderes",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
 				"similaridade": 1
 			}
 		]
@@ -6390,6 +6390,52 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 27
+			}
+		]
+	},
+	{
+		"nome": "Busca Sem Limites",
+		"duracao": "1:38:44",
+		"ano": 2016,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/wXJvhIt2lx5FAaTVj0ddOy7BXqC.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/vbC4aCxtmiT88pf1dosP3940MfG.jpg",
+		"videoid": "76024c72641649700e7c5c",
+		"resolucaoArmazenada": "1920x800",
+		"orcamento": "21.5M",
+		"receita": "6.8M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 99
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 92
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 89
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 89
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 86
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 84
+			},
+			{
+				"filme": "Ambulância: Um Dia de Crime",
+				"similaridade": 83
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 82
 			}
 		]
 	},
@@ -6648,6 +6694,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Uma Voz na Sombras",
+				"similaridade": 1
+			},
+			{
 				"filme": "Dragnet: Desafiando o Perigo",
 				"similaridade": 1
 			},
@@ -6661,10 +6711,6 @@
 			},
 			{
 				"filme": "A Maldição de Frankenstein",
-				"similaridade": 1
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 1
 			}
 		]
@@ -6794,15 +6840,15 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 8
+			},
+			{
 				"filme": "Velozes & Furiosos 7",
 				"similaridade": 8
 			},
 			{
 				"filme": "+ Velozes + Furiosos",
-				"similaridade": 8
-			},
-			{
-				"filme": "Perfume: A História de um Assassino",
 				"similaridade": 8
 			}
 		]
@@ -6832,6 +6878,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Força Oposta",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 4
 			},
@@ -6845,10 +6895,6 @@
 			},
 			{
 				"filme": "Cidade de Deus",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 4
 			}
 		]
@@ -7902,11 +7948,11 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 18
+				"filme": "Laranja Mecânica",
+				"similaridade": 17
 			},
 			{
-				"filme": "Laranja Mecânica",
+				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 17
 			}
 		]
@@ -7923,6 +7969,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 17
+			},
 			{
 				"filme": "Mente Criminosa",
 				"similaridade": 17
@@ -7949,10 +7999,6 @@
 			},
 			{
 				"filme": "O Homem nas Trevas",
-				"similaridade": 16
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 16
 			}
 		]
@@ -10336,16 +10382,16 @@
 				"similaridade": 31
 			},
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 30
+			},
+			{
 				"filme": "Christine: O Carro Assassino",
 				"similaridade": 30
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 30
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 28
 			}
 		]
 	},
@@ -10672,6 +10718,52 @@
 		]
 	},
 	{
+		"nome": "O Fantasma da Máquina",
+		"duracao": "1:35:20",
+		"ano": 1993,
+		"score": 4.7,
+		"poster": "https://image.tmdb.org/t/p/w200/nbn7yUAOCPqGTXu5nY4dSjWiARo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1emhG0B9gv7TtClUVC6RxjjVVrs.jpg",
+		"videoid": "550f567a0d030b7458435c",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": "12M",
+		"receita": "5.1M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 68
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 64
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 60
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 59
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 56
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 55
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 53
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 51
+			}
+		]
+	},
+	{
 		"nome": "Perigo Para a Sociedade",
 		"duracao": "1:37:34",
 		"ano": 1993,
@@ -10960,10 +11052,6 @@
 		"receita": "136.8M",
 		"similares": [
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 83
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 36
 			},
@@ -10984,12 +11072,16 @@
 				"similaridade": 29
 			},
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 29
-			},
-			{
 				"filme": "Gladiador",
 				"similaridade": 27
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 26
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 26
 			}
 		]
 	},
@@ -11034,8 +11126,8 @@
 				"similaridade": 39
 			},
 			{
-				"filme": "Christine: O Carro Assassino",
-				"similaridade": 34
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 37
 			}
 		]
 	},
@@ -11210,15 +11302,15 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 10
+			},
+			{
 				"filme": "O Filho de Chucky",
 				"similaridade": 10
 			},
 			{
 				"filme": "A Noite dos Arrepios",
-				"similaridade": 10
-			},
-			{
-				"filme": "Premonição 3",
 				"similaridade": 10
 			}
 		]
@@ -11270,6 +11362,52 @@
 		]
 	},
 	{
+		"nome": "In the Aftermath",
+		"duracao": "1:12:03",
+		"ano": 1988,
+		"score": 4.6,
+		"poster": "https://image.tmdb.org/t/p/w200/21EIQjnnye94SjoIWrdilhcbKmL.jpg",
+		"background": "https://image.tmdb.org/t/p/w780null",
+		"videoid": "6f6e4d09720d725d0c4a62",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Os Últimos na Terra",
+				"similaridade": 3
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 3
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 3
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 3
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 3
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 3
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 3
+			},
+			{
+				"filme": "Beniker Gang: Os Fugitivos",
+				"similaridade": 2
+			}
+		]
+	},
+	{
 		"nome": "Brinquedo Assassino",
 		"duracao": "1:27:31",
 		"ano": 1988,
@@ -11312,6 +11450,52 @@
 			{
 				"filme": "A Maldição de Chucky",
 				"similaridade": 37
+			}
+		]
+	},
+	{
+		"nome": "Luar Sobre Parador",
+		"duracao": "1:43:53",
+		"ano": 1988,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/lqRNz3TgccDJqFE3AU1YExb5NSq.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zzA9obNm9f6Ol0uGChN9Y8UwOWS.jpg",
+		"videoid": "7d770a7a59504271704d54",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": "20M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 20
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 13
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 13
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 13
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 13
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 12
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 12
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 11
 			}
 		]
 	},
@@ -11404,6 +11588,52 @@
 			{
 				"filme": "Dragnet: Desafiando o Perigo",
 				"similaridade": 3
+			}
+		]
+	},
+	{
+		"nome": "Uma Alucinante Viagem",
+		"duracao": "1:38:03",
+		"ano": 1988,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/sCeJGc17XXbSYlEYBB7FlXj3V4v.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hSklMIxwYZzQyrg3QfCZ2HbjF3Y.jpg",
+		"videoid": "68510f79700f61587c5662",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 8
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 8
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 6
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Fuga",
+				"similaridade": 6
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 5
+			},
+			{
+				"filme": "Dragnet: Desafiando o Perigo",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 5
 			}
 		]
 	},
@@ -11592,6 +11822,144 @@
 		]
 	},
 	{
+		"nome": "Força Oposta",
+		"duracao": "1:37:40",
+		"ano": 1986,
+		"score": 4.5,
+		"poster": "https://image.tmdb.org/t/p/w200/v3LHYWkkf8pSoX37NYZLakdybFo.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hgCRKxkEHsvvRK6lWtSMvlyBeKO.jpg",
+		"videoid": "726a7a644c094d55417550",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 21
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 21
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 19
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 19
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 18
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 17
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 16
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 16
+			}
+		]
+	},
+	{
+		"nome": "A Noite das Brincadeiras Mortais",
+		"duracao": "1:31:49",
+		"ano": 1986,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/1GTnEEzoz8nfzkrohMmNPTpIMZk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/q7nViSV9IEa7AoBD9kgthp307sk.jpg",
+		"videoid": "54617c4c0b7058590e7a6a",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 13
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Fantasma da Máquina",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Noite das Brincadeiras Mortais",
+				"similaridade": 11
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 11
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 11
+			}
+		]
+	},
+	{
+		"nome": "A Noite das Brincadeiras Mortais",
+		"duracao": "1:29:01",
+		"ano": 1986,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/nIqh39zT4SUFCjbeyMitcOX3aRc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/g0pIbOsJQfFt2C4gDXiLdWGMhRE.jpg",
+		"videoid": "77770a6e547f427e796372",
+		"resolucaoArmazenada": "1920x816",
+		"orcamento": "5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Pânico",
+				"similaridade": 26
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 25
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 23
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 22
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 21
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 21
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 19
+			},
+			{
+				"filme": "Brinquedo Assassino",
+				"similaridade": 19
+			}
+		]
+	},
+	{
 		"nome": "A Casa do Espanto",
 		"duracao": "1:31:58",
 		"ano": 1986,
@@ -11684,6 +12052,52 @@
 		]
 	},
 	{
+		"nome": "Grito de Horror 2",
+		"duracao": "1:30:56",
+		"ano": 1985,
+		"score": 4.4,
+		"poster": "https://image.tmdb.org/t/p/w200/tDbhuq0HueljuSo8XIEJbenFEhL.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wmytu08dWYRrH161GGPzl4VB5rn.jpg",
+		"videoid": "520f7a73734f7553596b7e",
+		"resolucaoArmazenada": "1920x1040",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 32
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 27
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 16
+			},
+			{
+				"filme": "Herança Maldita",
+				"similaridade": 15
+			},
+			{
+				"filme": "Os Ritos Satânicos de Drácula",
+				"similaridade": 15
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 14
+			},
+			{
+				"filme": "Premonição 3",
+				"similaridade": 14
+			}
+		]
+	},
+	{
 		"nome": "Olhos de Gato",
 		"duracao": "1:34:41",
 		"ano": 1985,
@@ -11772,6 +12186,52 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Beniker Gang: Os Fugitivos",
+		"duracao": "1:27:03",
+		"ano": 1985,
+		"score": 6.1,
+		"poster": "https://image.tmdb.org/t/p/w200/yhQ5Fw4aR9Cka6aDEjrxIZ1q9An.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/mgHhuJdEdEyyqj1IgM296rQxYtn.jpg",
+		"videoid": "0c547d580a5516544a7376",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 14
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 12
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 11
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 11
+			},
+			{
+				"filme": "Na Escola da Vida",
+				"similaridade": 10
 			}
 		]
 	},
@@ -11910,6 +12370,52 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 5
+			}
+		]
+	},
+	{
+		"nome": "Na Escola da Vida",
+		"duracao": "1:36:28",
+		"ano": 1983,
+		"score": 5.7,
+		"poster": "https://image.tmdb.org/t/p/w200/iPHUbIyybXzDaW8197y55aIRRfv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/r4MPjjCTakNAOU5CY4fxf16MLqZ.jpg",
+		"videoid": "7f590b5f4f7c7e545f0f03",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 40
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 32
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 30
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 26
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 24
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 22
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 22
 			}
 		]
 	},
@@ -12210,6 +12716,10 @@
 				"similaridade": 35
 			},
 			{
+				"filme": "Grito de Horror 2",
+				"similaridade": 32
+			},
+			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 32
 			},
@@ -12227,10 +12737,6 @@
 			},
 			{
 				"filme": "Fúria Silenciosa",
-				"similaridade": 31
-			},
-			{
-				"filme": "Vingança",
 				"similaridade": 31
 			}
 		]
@@ -12370,6 +12876,52 @@
 			{
 				"filme": "Pânico",
 				"similaridade": 19
+			}
+		]
+	},
+	{
+		"nome": "Cidade em Chamas",
+		"duracao": "1:46:30",
+		"ano": 1979,
+		"score": 4.8,
+		"poster": "https://image.tmdb.org/t/p/w200/djIDHmCzMy7q4FyW569LyqnW6zM.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gE28FEY1wvMcfrmB0UwPRGuWpo2.jpg",
+		"videoid": "6f77714808610341554850",
+		"resolucaoArmazenada": "1920x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 17
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 13
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 13
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 13
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 12
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 11
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 11
 			}
 		]
 	},
@@ -12716,6 +13268,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Beniker Gang: Os Fugitivos",
+				"similaridade": 2
+			},
+			{
 				"filme": "Verônica: Jogo Sobrenatural",
 				"similaridade": 2
 			},
@@ -12733,10 +13289,6 @@
 			},
 			{
 				"filme": "Megatubarão",
-				"similaridade": 2
-			},
-			{
-				"filme": "As Fitas de Poughkeepsie",
 				"similaridade": 2
 			}
 		]
@@ -12784,52 +13336,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 29
-			}
-		]
-	},
-	{
-		"nome": "O Poderoso Chefão",
-		"duracao": "2:57:10",
-		"ano": 1972,
-		"score": 9,
-		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
-		"videoid": "4c6351700b686b76437f72",
-		"resolucaoArmazenada": "1920x1080",
-		"orcamento": "6M",
-		"receita": "245.1M",
-		"similares": [
-			{
-				"filme": "O Poderoso Chefão: Parte III",
-				"similaridade": 83
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 69
-			},
-			{
-				"filme": "Cidade de Deus",
-				"similaridade": 53
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 49
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 49
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 47
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 47
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 44
 			}
 		]
 	},
@@ -12954,10 +13460,6 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "O Poderoso Chefão",
-				"similaridade": 13
-			},
-			{
 				"filme": "Eternos",
 				"similaridade": 12
 			},
@@ -12967,6 +13469,10 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
 				"similaridade": 12
 			}
 		]
@@ -13014,6 +13520,98 @@
 			{
 				"filme": "Batman",
 				"similaridade": 20
+			}
+		]
+	},
+	{
+		"nome": "Uma Voz na Sombras",
+		"duracao": "1:34:34",
+		"ano": 1963,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/oCiKoBxseUqvR6sqSFuFjbV3iHX.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5107YjuW65wugo9IGrKGkZNIgIQ.jpg",
+		"videoid": "7e7e6a7d0d7861784d5f6e",
+		"resolucaoArmazenada": "1800x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte III",
+				"similaridade": 7
+			},
+			{
+				"filme": "Relatos do Mundo",
+				"similaridade": 6
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes e Furiosos 4",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 6
+			},
+			{
+				"filme": "Perfume de Mulher",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 6
+			}
+		]
+	},
+	{
+		"nome": "O Fantasma da Ópera",
+		"duracao": "1:24:15",
+		"ano": 1962,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/hFrSX8SBQPFvtwPP2AIHY8RElRb.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/3mzii3oIuePoXCl1Y961IUUj2iv.jpg",
+		"videoid": "5e7e5c58704d5753616a6e",
+		"resolucaoArmazenada": "1800x1080",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 7
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 7
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 5
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 5
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 5
 			}
 		]
 	},
@@ -13218,10 +13816,6 @@
 				"similaridade": 49
 			},
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 49
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 45
 			},
@@ -13244,6 +13838,10 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 33
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 33
 			}
 		]
 	},
@@ -13259,10 +13857,6 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 15
-			},
 			{
 				"filme": "Cidadão Kane",
 				"similaridade": 15
@@ -13289,6 +13883,10 @@
 			},
 			{
 				"filme": "Cruella",
+				"similaridade": 8
+			},
+			{
+				"filme": "Casablanca",
 				"similaridade": 8
 			}
 		]
@@ -13352,10 +13950,6 @@
 		"receita": "23.2M",
 		"similares": [
 			{
-				"filme": "Cidadão Kane",
-				"similaridade": 494
-			},
-			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 66
 			},
@@ -13382,52 +13976,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 38
-			}
-		]
-	},
-	{
-		"nome": "Cidadão Kane",
-		"duracao": "1:59:24",
-		"ano": 1941,
-		"score": 8.2,
-		"poster": "https://image.tmdb.org/t/p/w200/tLp8GbgdOExNdmXLeDddWXJxIwr.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
-		"videoid": "0a786d5c5251770e02616e",
-		"resolucaoArmazenada": "1488x1080",
-		"orcamento": "839.7K",
-		"receita": "23.2M",
-		"similares": [
-			{
-				"filme": "Cidadão Kane",
-				"similaridade": 494
 			},
 			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 66
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 50
-			},
-			{
-				"filme": "Crepúsculo dos Deuses",
-				"similaridade": 49
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 41
-			},
-			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 40
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 38
+				"filme": "O Estrangeiro",
+				"similaridade": 34
 			}
 		]
 	}
