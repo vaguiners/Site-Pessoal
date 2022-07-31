@@ -2704,15 +2704,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "O Doador de Memórias",
+				"similaridade": 3
+			},
+			{
+				"filme": "O 6º Dia",
+				"similaridade": 3
+			},
+			{
 				"filme": "Cidadão Kane",
-				"similaridade": 2
-			},
-			{
-				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
-				"similaridade": 2
-			},
-			{
-				"filme": "Piratas do Caribe: O Baú da Morte",
 				"similaridade": 2
 			}
 		]
@@ -3827,6 +3827,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "O Doador de Memórias",
+				"similaridade": 11
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 10
 			},
@@ -3868,10 +3872,6 @@
 			},
 			{
 				"filme": "A Babá",
-				"similaridade": 7
-			},
-			{
-				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 7
 			}
 		]
@@ -8280,6 +8280,10 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Top Gang 2! A Missão",
+				"similaridade": 2
+			},
+			{
 				"filme": "Piratas do Caribe: A Maldição do Pérola Negra",
 				"similaridade": 1
 			},
@@ -8293,10 +8297,6 @@
 			},
 			{
 				"filme": "Os Sete Samurais",
-				"similaridade": 1
-			},
-			{
-				"filme": "Gandhi",
 				"similaridade": 1
 			}
 		]
@@ -9339,6 +9339,67 @@
 		]
 	},
 	{
+		"nome": "O Doador de Memórias",
+		"duracao": "1:37:18",
+		"ano": 2014,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/Abe0Pmz6cuW2mWVyVEkEetVFtgG.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/gFKC66PEiM2Xuzgpg1OwVzWjzPn.jpg",
+		"videoid": "ÚЌÏÎÄЌäËàÒÊ",
+		"orcamento": "25M",
+		"receita": "67M",
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 43
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 42
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 36
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 36
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 36
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 35
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 34
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 34
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 33
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 31
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 31
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 31
+			}
+		]
+	},
+	{
 		"nome": "Juntos e Misturados",
 		"duracao": "1:57:14",
 		"ano": 2014,
@@ -10305,11 +10366,11 @@
 				"similaridade": 17
 			},
 			{
-				"filme": "Fim dos Dias",
-				"similaridade": 16
+				"filme": "O Massacre da Serra Elétrica: O Início",
+				"similaridade": 17
 			},
 			{
-				"filme": "Mente Criminosa",
+				"filme": "Fim dos Dias",
 				"similaridade": 16
 			}
 		]
@@ -11535,6 +11596,67 @@
 		]
 	},
 	{
+		"nome": "O Massacre da Serra Elétrica: O Início",
+		"duracao": "1:30:51",
+		"ano": 2006,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/a6oqQberLAI2KWkYEz6c4gP2nIk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/lTGOQk29RDqsNzD2v25dB0Rm9Jn.jpg",
+		"videoid": "ÕíêìÉÔÐÛõÊü",
+		"orcamento": "16M",
+		"receita": "107.4M",
+		"similares": [
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 36
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 34
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 31
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 29
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 26
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 25
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 25
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 23
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 23
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 23
+			}
+		]
+	},
+	{
 		"nome": "Perfume: A História de um Assassino",
 		"duracao": "2:27:25",
 		"ano": 2006,
@@ -12755,6 +12877,67 @@
 		]
 	},
 	{
+		"nome": "O 6º Dia",
+		"duracao": "2:03:35",
+		"ano": 2000,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/rl0puYa84YLu7q7CILHmupljpGD.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/opkt6IK1Os5gAwhlpu27bCZCk8K.jpg",
+		"videoid": "ÅúéÚÂäÅçêèÑ",
+		"orcamento": "82M",
+		"receita": "96.1M",
+		"similares": [
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 67
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 64
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 62
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 61
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 61
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 61
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 60
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 59
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 58
+			},
+			{
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 58
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 57
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 55
+			}
+		]
+	},
+	{
 		"nome": "O Auto da Compadecida",
 		"duracao": "2:40:12",
 		"ano": 2000,
@@ -13422,6 +13605,67 @@
 			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 33
+			}
+		]
+	},
+	{
+		"nome": "Kiriku e a Feiticeira",
+		"duracao": "1:07:35",
+		"ano": 1998,
+		"score": 7.4,
+		"poster": "https://image.tmdb.org/t/p/w200/bKFbdYlcjx6toJMJPiWW0ejSHfc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/blraBX7K9PrjzgLqa7M0NAsZUyX.jpg",
+		"videoid": "üåýÌЍíËðÇôä",
+		"orcamento": "4.5M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Homem do Norte",
+				"similaridade": 7
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 6
+			},
+			{
+				"filme": "A Viagem de Chihiro",
+				"similaridade": 5
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 5
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 4
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 4
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 4
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 3
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 3
 			}
 		]
 	},
@@ -14136,6 +14380,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "O Doador de Memórias",
+				"similaridade": 9
+			},
+			{
 				"filme": "Cidadão Kane",
 				"similaridade": 8
 			},
@@ -14149,10 +14397,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 7",
-				"similaridade": 8
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
 				"similaridade": 8
 			}
 		]
@@ -14463,6 +14707,67 @@
 		]
 	},
 	{
+		"nome": "Top Gang 2! A Missão",
+		"duracao": "1:28:34",
+		"ano": 1993,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/th9xB4OsGxUjrgcSYPB72z9vdWE.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kBqxCAFpLmVxYQLwCKmmXVDtfyh.jpg",
+		"videoid": "ЇóîËåЌÝöÈÑЍ",
+		"orcamento": "25M",
+		"receita": "133.8M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 47
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 46
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 46
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 45
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 44
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 42
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 41
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 40
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 40
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 38
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 36
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 36
+			}
+		]
+	},
+	{
 		"nome": "Perfume de Mulher",
 		"duracao": "2:36:26",
 		"ano": 1992,
@@ -14581,6 +14886,67 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 38
+			}
+		]
+	},
+	{
+		"nome": "Munchie",
+		"duracao": "1:20:55",
+		"ano": 1992,
+		"score": 3.7,
+		"poster": "https://image.tmdb.org/t/p/w200/aNPRbUTDPeZ7GOF5n5vyAQWG2h6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/e1bszYUg2dJ9GVUc8xoHfSP7nKG.jpg",
+		"videoid": "ЌééÅÍïÒÔÕûÅ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 10
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 9
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 7
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 7
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 6
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 6
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Quinto Elemento",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Casa do Espanto 4 - Decisão para a Loucura",
+				"similaridade": 5
 			}
 		]
 	},
@@ -14764,6 +15130,67 @@
 			{
 				"filme": "Mate ou Morra",
 				"similaridade": 31
+			}
+		]
+	},
+	{
+		"nome": "Top Gang! Ases Muito Loucos",
+		"duracao": "1:24:48",
+		"ano": 1991,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/pzdcjtJmK6lbCsfMD1sA6KnzKZm.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/uwLI17reYWprmtp6yDCVD8QdNqw.jpg",
+		"videoid": "üÎðÄЀЇҪîäÕЍ",
+		"orcamento": "26M",
+		"receita": "181.1M",
+		"similares": [
+			{
+				"filme": "Top Gun - Ases Indomáveis",
+				"similaridade": 26
+			},
+			{
+				"filme": "Top Gang 2! A Missão",
+				"similaridade": 25
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 17
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 14
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 12
+			},
+			{
+				"filme": "Banzé no Oeste",
+				"similaridade": 12
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 12
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 11
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 11
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 10
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 10
 			}
 		]
 	},
@@ -15069,6 +15496,67 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 67
+			}
+		]
+	},
+	{
+		"nome": "Loucademia de Esqui",
+		"duracao": "1:28:14",
+		"ano": 1990,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/hDrLJNnWOlEjhuIvuVC3RKLjWXU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jRvsE4wR82sGzz5yIIOCRsoJJhM.jpg",
+		"videoid": "ÇÃёҊËãЁÌÚãö",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 12
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 10
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 9
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 9
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 9
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 8
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 8
+			},
+			{
+				"filme": "Herança Maldita",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 8
+			},
+			{
+				"filme": "Top Gun - Ases Indomáveis",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 7
 			}
 		]
 	},
@@ -15622,6 +16110,67 @@
 		]
 	},
 	{
+		"nome": "Te Pego Lá Fora",
+		"duracao": "1:29:42",
+		"ano": 1987,
+		"score": 7,
+		"poster": "https://image.tmdb.org/t/p/w200/bgGt4wmByJc4dXq4mXfWZgNuBPQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/h88puFdtkQLGHgvKF6lNsqjAzwX.jpg",
+		"videoid": "ЁòÐéêÑЀÀáùä",
+		"orcamento": "6M",
+		"receita": "3.7M",
+		"similares": [
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 30
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 28
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 24
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 24
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 24
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 24
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 20
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 19
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 18
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 18
+			}
+		]
+	},
+	{
 		"nome": "Dragnet: Desafiando o Perigo",
 		"duracao": "1:45:51",
 		"ano": 1987,
@@ -15927,6 +16476,67 @@
 		]
 	},
 	{
+		"nome": "Top Gun - Ases Indomáveis",
+		"duracao": "1:49:27",
+		"ano": 1986,
+		"score": 7,
+		"poster": "https://image.tmdb.org/t/p/w200/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+		"videoid": "äÐôëҪÈÜÈёЎî",
+		"orcamento": "15M",
+		"receita": "356.8M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
+			},
+			{
+				"filme": "Top Gang! Ases Muito Loucos",
+				"similaridade": 26
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 23
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 23
+			},
+			{
+				"filme": "Velozes e Furiosos",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 21
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 20
+			},
+			{
+				"filme": "Casablanca",
+				"similaridade": 19
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 19
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 19
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 19
+			}
+		]
+	},
+	{
 		"nome": "A Noite das Brincadeiras Mortais",
 		"duracao": "1:31:49",
 		"ano": 1986,
@@ -16167,6 +16777,67 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 25
+			}
+		]
+	},
+	{
+		"nome": "Luta Solitária",
+		"duracao": "1:33:19",
+		"ano": 1985,
+		"score": 5.1,
+		"poster": "https://image.tmdb.org/t/p/w200/rPyShvEOhi7O624A7Of5s5cabkY.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zTJECzM20B5Faez2CctfjQ8dJP9.jpg",
+		"videoid": "ÌäÎÀËЁÌìЀïÏ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 17
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 16
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 14
+			},
+			{
+				"filme": "Inimigo Mortal",
+				"similaridade": 14
+			},
+			{
+				"filme": "Jolt: Fúria Fatal",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 13
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 13
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 13
+			},
+			{
+				"filme": "O Poderoso Chefão: Parte II",
+				"similaridade": 12
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 12
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 12
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 12
 			}
 		]
 	},
@@ -17259,11 +17930,11 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 8
+				"filme": "Top Gun - Ases Indomáveis",
+				"similaridade": 9
 			},
 			{
-				"filme": "Dragnet: Desafiando o Perigo",
+				"filme": "Drácula de Bram Stoker",
 				"similaridade": 8
 			}
 		]
@@ -17387,6 +18058,67 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 11
+			}
+		]
+	},
+	{
+		"nome": "Terrores da Noite",
+		"duracao": "1:45:25",
+		"ano": 1979,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/tAz34KPMKEmQ7wZtojUHYc2wsA8.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/6ifr5j43Jr1Ko1aKclLzzeMDv6b.jpg",
+		"videoid": "ÝëЁÒÍãïàÛëÅ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Morbius",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Reino Proibido",
+				"similaridade": 6
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 6
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 6
+			},
+			{
+				"filme": "Gladiador",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Tigre e o Dragão",
+				"similaridade": 5
+			},
+			{
+				"filme": "Era uma Vez no Oeste",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Maldição de Frankenstein",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 5
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 5
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 5
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 5
 			}
 		]
 	},
@@ -18062,6 +18794,67 @@
 		]
 	},
 	{
+		"nome": "Receita: Violência",
+		"duracao": "1:40:59",
+		"ano": 1972,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4SWxSm9jW14J4GMdOOsuEj617P.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/niXQcIrgF8RON8rW2GgvANHxLN7.jpg",
+		"videoid": "ëЌÃҪҊÏöâÒöü",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 10
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 10
+			},
+			{
+				"filme": "Quem Sou Eu?",
+				"similaridade": 9
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 9
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 9
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 9
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 8
+			},
+			{
+				"filme": "Morbius",
+				"similaridade": 8
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Vingança de Frankenstein",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 7
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 7
+			}
+		]
+	},
+	{
 		"nome": "A Fúria do Dragão",
 		"duracao": "1:46:11",
 		"ano": 1972,
@@ -18357,11 +19150,11 @@
 				"similaridade": 12
 			},
 			{
-				"filme": "De Olhos Bem Fechados",
-				"similaridade": 11
+				"filme": "O Doador de Memórias",
+				"similaridade": 12
 			},
 			{
-				"filme": "Os Sete Samurais",
+				"filme": "De Olhos Bem Fechados",
 				"similaridade": 11
 			}
 		]
@@ -18380,6 +19173,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 20
+			},
+			{
+				"filme": "Top Gun - Ases Indomáveis",
+				"similaridade": 18
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
@@ -18420,10 +19217,6 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 10
-			},
-			{
-				"filme": "Velozes & Furiosos 7",
-				"similaridade": 9
 			}
 		]
 	},
