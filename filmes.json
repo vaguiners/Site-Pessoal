@@ -3,7 +3,7 @@
 		"nome": "Tudo é Possível",
 		"duracao": "1:38:15",
 		"ano": 2022,
-		"score": 5.3,
+		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uc427uPu7q12bT27IkhZ4aPPyjB.jpg",
 		"videoid": "ðҊàЌðüíÇÈÁó",
@@ -125,7 +125,7 @@
 		"nome": "O Sol de Amalfi",
 		"duracao": "1:36:13",
 		"ano": 2022,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eHi7TyBJW9g6OdRzrrecrFJd3uo.jpg",
 		"videoid": "ÄãöàÙÐûõÒÒî",
@@ -186,7 +186,7 @@
 		"nome": "O Homem de Toronto",
 		"duracao": "1:52:04",
 		"ano": 2022,
-		"score": 6.1,
+		"score": 6.2,
 		"poster": "https://image.tmdb.org/t/p/w200/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/iOFBH9KtjKMntbP2kheeOpMQTcC.jpg",
 		"videoid": "ÉêòÇêÕÓúïÝÅ",
@@ -247,7 +247,7 @@
 		"nome": "Rise",
 		"duracao": "1:51:19",
 		"ano": 2022,
-		"score": 7.1,
+		"score": 7.4,
 		"poster": "https://image.tmdb.org/t/p/w200/czXyMcmiulyZjhYAnnMwVhFCvN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uKL39lSf3rQbcMG8XbByoHBwGId.jpg",
 		"videoid": "ýáÂåËÐúÅÛÛö",
@@ -308,7 +308,7 @@
 		"nome": "Beavis e Butt-Head: Detonam o Universo",
 		"duracao": "1:25:53",
 		"ano": 2022,
-		"score": 7.1,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/q3sfAlvvEvJn3PSPAMJiOqGl9OC.jpg",
 		"videoid": "ÊҊâЌÊêЁêёõë",
@@ -1284,9 +1284,9 @@
 		"nome": "O Último Dragão",
 		"duracao": "1:39:00",
 		"ano": 2022,
-		"score": 5.6,
+		"score": 5.3,
 		"poster": "https://image.tmdb.org/t/p/w200/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/lkZjWIuwJQohA1zjIlMaqK2QpWA.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/l99dylTOAMkwKSr54X5ytiEtnLA.jpg",
 		"videoid": "êËЀïóÀáýïëî",
 		"orcamento": 0,
 		"receita": 0,
@@ -1771,12 +1771,12 @@
 				"similaridade": 28
 			},
 			{
-				"filme": "Harry Potter e o Cálice de Fogo",
-				"similaridade": 25
+				"filme": "Eternos",
+				"similaridade": 26
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 24
+				"filme": "Harry Potter e o Cálice de Fogo",
+				"similaridade": 25
 			},
 			{
 				"filme": "Harry Potter e o Prisioneiro de Azkaban",
@@ -1788,6 +1788,10 @@
 			},
 			{
 				"filme": "Harry Potter e a Câmara Secreta",
+				"similaridade": 21
+			},
+			{
+				"filme": "Mulher-Maravilha",
 				"similaridade": 21
 			},
 			{
@@ -1809,10 +1813,6 @@
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 20
-			},
-			{
-				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
-				"similaridade": 19
 			}
 		]
 	},
@@ -2003,7 +2003,7 @@
 		"nome": "Pânico",
 		"duracao": "1:54:29",
 		"ano": 2022,
-		"score": 6.6,
+		"score": 6.5,
 		"poster": "https://image.tmdb.org/t/p/w200/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
 		"videoid": "ÑҾÌòóҪÍÉÊñî",
@@ -2305,7 +2305,7 @@
 		]
 	},
 	{
-		"nome": "Intervenção",
+		"nome": "Intervenção, É Proibido Morrer",
 		"duracao": "1:27:04",
 		"ano": 2021,
 		"score": 6.4,
@@ -2901,12 +2901,12 @@
 				"similaridade": 93
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Inimigo Mortal",
 				"similaridade": 90
 			},
 			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 90
+				"filme": "Mulher-Maravilha",
+				"similaridade": 89
 			},
 			{
 				"filme": "Invasão ao Serviço Secreto",
@@ -3057,7 +3057,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 145
+				"similaridade": 147
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
@@ -3069,7 +3069,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 128
+				"similaridade": 130
 			},
 			{
 				"filme": "Deadpool 2",
@@ -3414,6 +3414,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Eternos",
+				"similaridade": 15
+			},
+			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 13
 			},
@@ -3422,12 +3426,16 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 13
-			},
-			{
 				"filme": "O Exorcista",
 				"similaridade": 12
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 11
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 11
 			},
 			{
 				"filme": "A Profissional",
@@ -3451,14 +3459,6 @@
 			},
 			{
 				"filme": "Deadpool 2",
-				"similaridade": 9
-			},
-			{
-				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 9
-			},
-			{
-				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 9
 			}
 		]
@@ -3861,11 +3861,11 @@
 				"similaridade": 25
 			},
 			{
-				"filme": "A Profissional",
-				"similaridade": 23
+				"filme": "Pânico",
+				"similaridade": 24
 			},
 			{
-				"filme": "Pânico",
+				"filme": "A Profissional",
 				"similaridade": 23
 			},
 			{
@@ -3881,12 +3881,12 @@
 				"similaridade": 22
 			},
 			{
-				"filme": "Infiltrado",
+				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 22
 			},
 			{
-				"filme": "A Babá",
-				"similaridade": 21
+				"filme": "Infiltrado",
+				"similaridade": 22
 			}
 		]
 	},
@@ -4077,7 +4077,7 @@
 		"nome": "Live Is Life",
 		"duracao": "1:50:09",
 		"ano": 2021,
-		"score": 6.7,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/9FFz0ZYuNmBmKQBaZ5ibSqGvnI3.jpg",
 		"videoid": "ùèëñÍàáÍÍÎü",
@@ -4211,11 +4211,11 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 6
+				"filme": "12 Anos de Escravidão",
+				"similaridade": 5
 			},
 			{
-				"filme": "12 Anos de Escravidão",
+				"filme": "Laranja Mecânica",
 				"similaridade": 5
 			},
 			{
@@ -4463,7 +4463,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Intervenção",
+				"filme": "Intervenção, É Proibido Morrer",
 				"similaridade": 2
 			},
 			{
@@ -4687,7 +4687,7 @@
 		"nome": "Music",
 		"duracao": "1:47:23",
 		"ano": 2021,
-		"score": 4.5,
+		"score": 4.4,
 		"poster": "https://image.tmdb.org/t/p/w200/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/a5PNkyt8zx6sSXCzgKpKAaAXNJw.jpg",
 		"videoid": "óÛàЁÊôÁäЌÕÊ",
@@ -4818,7 +4818,7 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 170
+				"similaridade": 172
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
@@ -4830,7 +4830,7 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 128
+				"similaridade": 130
 			},
 			{
 				"filme": "Velozes & Furiosos 9",
@@ -4936,7 +4936,57 @@
 		"background": "https://image.tmdb.org/t/p/w780/fZHvSNUBKSgRAduB5k0fFST1xYn.jpg",
 		"videoid": "ÚÍÅЌÔÖÃïÌåó",
 		"orcamento": 0,
-		"receita": 0
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Django Livre",
+				"similaridade": 3
+			},
+			{
+				"filme": "Harry Potter e a Câmara Secreta",
+				"similaridade": 3
+			},
+			{
+				"filme": "A Viagem de Chihiro",
+				"similaridade": 3
+			},
+			{
+				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
+				"similaridade": 2
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 2
+			},
+			{
+				"filme": "Need for Speed: O Filme",
+				"similaridade": 2
+			},
+			{
+				"filme": "Transformers: A Era da Extinção",
+				"similaridade": 2
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
+				"similaridade": 2
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
+				"similaridade": 2
+			},
+			{
+				"filme": "O Profissional",
+				"similaridade": 2
+			},
+			{
+				"filme": "Harry Potter e o Enigma do Príncipe",
+				"similaridade": 2
+			},
+			{
+				"filme": "Harry Potter e a Ordem da Fênix",
+				"similaridade": 2
+			}
+		]
 	},
 	{
 		"nome": "Quando o Demônio Chama",
@@ -5003,7 +5053,7 @@
 		"nome": "Quando Chega a Calmaria",
 		"duracao": "1:35:47",
 		"ano": 2020,
-		"score": 6.4,
+		"score": 6.6,
 		"poster": "https://image.tmdb.org/t/p/w200/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/rhvzXbS2YIlZ51HUIwpFitAfwPb.jpg",
 		"videoid": "ÜôÌЁÑÐÏçèÐë",
@@ -5064,7 +5114,7 @@
 		"nome": "O Silêncio da Chuva",
 		"duracao": "1:36:22",
 		"ano": 2020,
-		"score": 5.8,
+		"score": 6,
 		"poster": "https://image.tmdb.org/t/p/w200/8nUWNGJYNx4Y4WDIe9kJkgeFBfK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/jS4RiiYzOak0WbkLwF5UJg18NRt.jpg",
 		"videoid": "öЌàÍÄÝёÚÈÐÛ",
@@ -5133,7 +5183,7 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Intervenção",
+				"filme": "Intervenção, É Proibido Morrer",
 				"similaridade": 5
 			},
 			{
@@ -5685,7 +5735,7 @@
 		"nome": "Eduardo e Mônica",
 		"duracao": "2:00:03",
 		"ano": 2020,
-		"score": 7.7,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/eaCb1Rx0gCpJ6Zl60tyJZeJUu2H.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/xGwH1MyfHGHPNrBbeEetM30rtpO.jpg",
 		"videoid": "ÇҾÉЎõÛÚñÎòö",
@@ -5766,10 +5816,6 @@
 				"similaridade": 6
 			},
 			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 6
-			},
-			{
 				"filme": "Cidade de Deus",
 				"similaridade": 6
 			},
@@ -5791,6 +5837,10 @@
 			},
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 5
+			},
+			{
+				"filme": "Laranja Mecânica",
 				"similaridade": 5
 			},
 			{
@@ -6506,12 +6556,12 @@
 				"similaridade": 50
 			},
 			{
-				"filme": "Laranja Mecânica",
+				"filme": "O Homem nas Trevas",
 				"similaridade": 48
 			},
 			{
-				"filme": "O Homem nas Trevas",
-				"similaridade": 48
+				"filme": "Laranja Mecânica",
+				"similaridade": 47
 			},
 			{
 				"filme": "Olhos de Gato",
@@ -6905,7 +6955,7 @@
 		"nome": "Turma da Mônica: Laços",
 		"duracao": "1:36:43",
 		"ano": 2019,
-		"score": 7.3,
+		"score": 7.4,
 		"poster": "https://image.tmdb.org/t/p/w200/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zN5eohKqT9Rww6m7PQOfyCXPi4.jpg",
 		"videoid": "çóЁåúҪúЌЎÉë",
@@ -6966,7 +7016,7 @@
 		"nome": "Caçada Selvagem",
 		"duracao": "1:28:06",
 		"ano": 2019,
-		"score": 5,
+		"score": 5.1,
 		"poster": "https://image.tmdb.org/t/p/w200/paclnjtBlAcEh1ddUbCbT1azPIc.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pGzUGy5EJFfZudzKXXc2kyQN4mu.jpg",
 		"videoid": "ÙÅÀÄÖçÀãÌíä",
@@ -7352,7 +7402,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "Intervenção",
+				"filme": "Intervenção, É Proibido Morrer",
 				"similaridade": 2
 			},
 			{
@@ -8563,7 +8613,7 @@
 		"nome": "O Estrangeiro",
 		"duracao": "1:53:53",
 		"ano": 2017,
-		"score": 6.8,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
 		"videoid": "ÓÎèÚЇðÙÛçýÏ",
@@ -8763,14 +8813,14 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 35
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 32
+				"similaridade": 37
 			},
 			{
 				"filme": "Mulher-Maravilha",
+				"similaridade": 34
+			},
+			{
+				"filme": "Laranja Mecânica",
 				"similaridade": 32
 			},
 			{
@@ -8790,15 +8840,15 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "Eternos",
+				"similaridade": 27
+			},
+			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 26
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 25
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 25
 			}
 		]
@@ -8859,7 +8909,7 @@
 				"similaridade": 38
 			},
 			{
-				"filme": "Laranja Mecânica",
+				"filme": "O Lobo de Wall Street",
 				"similaridade": 37
 			}
 		]
@@ -9003,7 +9053,7 @@
 			},
 			{
 				"filme": "Mulher-Maravilha 1984",
-				"similaridade": 170
+				"similaridade": 172
 			},
 			{
 				"filme": "Deadpool 2",
@@ -9015,7 +9065,7 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 145
+				"similaridade": 147
 			},
 			{
 				"filme": "Batman",
@@ -10109,7 +10159,7 @@
 			},
 			{
 				"filme": "Corrida Silenciosa",
-				"similaridade": 39
+				"similaridade": 40
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -11324,7 +11374,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Intervenção",
+				"filme": "Intervenção, É Proibido Morrer",
 				"similaridade": 3
 			},
 			{
@@ -11443,7 +11493,7 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 109
+				"similaridade": 108
 			},
 			{
 				"filme": "Sem Dor, Sem Ganho",
@@ -11760,7 +11810,7 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 45
+				"similaridade": 44
 			},
 			{
 				"filme": "Cidade de Deus",
@@ -12109,10 +12159,6 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 11
-			},
-			{
 				"filme": "Cidade de Deus",
 				"similaridade": 11
 			},
@@ -12122,6 +12168,10 @@
 			},
 			{
 				"filme": "Django Livre",
+				"similaridade": 10
+			},
+			{
+				"filme": "Laranja Mecânica",
 				"similaridade": 10
 			},
 			{
@@ -12469,7 +12519,7 @@
 		"ano": 2011,
 		"score": 7.3,
 		"poster": "https://image.tmdb.org/t/p/w200/96JVSZDXTPy4qw4kgzhLfSCQcwd.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/wlKQp7rRQ2FYYWetqjwfVm9pAYu.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/ez0zntkwczsv1d1n8WFhMe5rtq5.jpg",
 		"videoid": "ЇÍáҪÀÔëÂÉúÛ",
 		"orcamento": 0,
 		"receita": 0,
@@ -12512,7 +12562,7 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 36
+				"similaridade": 35
 			},
 			{
 				"filme": "Efeito Borboleta",
@@ -12955,7 +13005,7 @@
 		"nome": "Espantalho",
 		"duracao": "1:23:05",
 		"ano": 2011,
-		"score": 5.4,
+		"score": 5.5,
 		"poster": "https://image.tmdb.org/t/p/w200/t5pUkjo4dgTR1cYzunHi99AbJ2V.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/kDTJLrmhaZke76zRxxMelRPm2qv.jpg",
 		"videoid": "èÔìÁÜùЌÌèЀÀ",
@@ -13077,7 +13127,7 @@
 		"nome": "Sobrenatural",
 		"duracao": "1:42:24",
 		"ano": 2010,
-		"score": 6.8,
+		"score": 6.9,
 		"poster": "https://image.tmdb.org/t/p/w200/2L8fErMpGD4s81VtWwspeyHYdiI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
 		"videoid": "ååÉҾÜÌÉúÁÓö",
@@ -14733,7 +14783,7 @@
 		"similares": [
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 39
+				"similaridade": 38
 			},
 			{
 				"filme": "O Lobo de Wall Street",
@@ -16087,7 +16137,7 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 66
+				"similaridade": 64
 			},
 			{
 				"filme": "O Irlandês",
@@ -16922,7 +16972,7 @@
 		"ano": 2000,
 		"score": 8.3,
 		"poster": "https://image.tmdb.org/t/p/w200/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aZtwH3RQ0L8jbInxr7OSc9tlGMJ.jpg",
 		"videoid": "êЇÄìÛðóÖЎÂÅ",
 		"orcamento": "103M",
 		"receita": "465.4M",
@@ -18820,7 +18870,7 @@
 		"similares": [
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 57
+				"similaridade": 56
 			},
 			{
 				"filme": "A Lenda do Cavaleiro Sem Cabeça",
@@ -19421,7 +19471,7 @@
 		"nome": "Vingança",
 		"duracao": "2:03:50",
 		"ano": 1990,
-		"score": 6.4,
+		"score": 6.3,
 		"poster": "https://image.tmdb.org/t/p/w200/dsGzK6zfvI4lAuejHewAAQ64iVC.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/meFIsiR4XiQpFCL1YfDpLWgXYvG.jpg",
 		"videoid": "ÝôЍÉêàЇÒÇéö",
@@ -19723,7 +19773,7 @@
 		]
 	},
 	{
-		"nome": "In the Aftermath",
+		"nome": "A Chave do Futuro",
 		"duracao": "1:12:03",
 		"ano": 1988,
 		"score": 4.6,
@@ -19970,7 +20020,7 @@
 		"nome": "Dragões para Sempre",
 		"duracao": "1:29:57",
 		"ano": 1988,
-		"score": 7.2,
+		"score": 7.1,
 		"poster": "https://image.tmdb.org/t/p/w200/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5KwIMLRVOfwVmYId7IEkhF5vssp.jpg",
 		"videoid": "ÅðúâÈùêёЀҊЍ",
@@ -22654,7 +22704,7 @@
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
 		"ano": 1973,
-		"score": 7.6,
+		"score": 7.7,
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "ЌíðêìõÝÛâÎá",
@@ -22961,7 +23011,7 @@
 		"ano": 1972,
 		"score": 9,
 		"poster": "https://image.tmdb.org/t/p/w200/oJagOzBu9Rdd9BrciseCm3U3MCU.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
 		"videoid": "óôÔÕüêâÛõÈÑ",
 		"orcamento": "6M",
 		"receita": "245.1M",
@@ -23029,19 +23079,19 @@
 		"similares": [
 			{
 				"filme": "Interestelar",
-				"similaridade": 44
+				"similaridade": 45
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 41
 			},
 			{
-				"filme": "Alita: Anjo de Combate",
+				"filme": "Perdido em Marte",
 				"similaridade": 40
 			},
 			{
-				"filme": "Perdido em Marte",
-				"similaridade": 39
+				"filme": "Alita: Anjo de Combate",
+				"similaridade": 40
 			},
 			{
 				"filme": "Duna",
@@ -23060,15 +23110,15 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 35
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 35
 			},
 			{
 				"filme": "Hitman: Agente 47",
-				"similaridade": 34
-			},
-			{
-				"filme": "Além da Escuridão - Star Trek",
 				"similaridade": 34
 			},
 			{
@@ -23090,7 +23140,7 @@
 		"similares": [
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 109
+				"similaridade": 108
 			},
 			{
 				"filme": "Batman",
@@ -23312,12 +23362,12 @@
 				"similaridade": 35
 			},
 			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Laranja Mecânica",
 				"similaridade": 35
 			},
 			{
-				"filme": "Onde os Fracos Não Têm Vez",
-				"similaridade": 34
+				"filme": "Fúria Silenciosa",
+				"similaridade": 35
 			}
 		]
 	},
@@ -23996,7 +24046,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.5,
+		"score": 8.6,
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "ÙÜàýïöЁÙÇîä",
@@ -24181,7 +24231,7 @@
 		"ano": 1942,
 		"score": 8.3,
 		"poster": "https://image.tmdb.org/t/p/w200/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
-		"background": "https://image.tmdb.org/t/p/w780/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
 		"videoid": "ûåèáÕýЎЍÚîЍ",
 		"orcamento": "878K",
 		"receita": "10.5M",
