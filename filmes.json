@@ -369,7 +369,7 @@
 		"nome": "Bruna Louise: Demolição",
 		"duracao": "1:05:51",
 		"ano": 2022,
-		"score": 5.5,
+		"score": 5.4,
 		"poster": "https://image.tmdb.org/t/p/w200/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/nfYcG8XBT5Pzk3thtS2MbIxM5mC.jpg",
 		"videoid": "çЇÅÖðñЎÔêÂá",
@@ -613,7 +613,7 @@
 		"nome": "Bob's Burger: O Filme",
 		"duracao": "1:41:54",
 		"ano": 2022,
-		"score": 7.1,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/hcOMkf6dwZTMxSjgBdIisrBHYhw.jpg",
 		"videoid": "ÚÅÒÄÓÍёóâÎä",
@@ -1300,6 +1300,10 @@
 				"similaridade": 1
 			},
 			{
+				"filme": "Agente Oculto",
+				"similaridade": 1
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 1
 			},
@@ -1307,7 +1311,6 @@
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 1
 			},
-			null,
 			null,
 			null,
 			null,
@@ -2004,7 +2007,7 @@
 		"duracao": "1:54:29",
 		"ano": 2022,
 		"score": 6.5,
-		"poster": "https://image.tmdb.org/t/p/w200/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg",
+		"poster": "https://image.tmdb.org/t/p/w200/7qrIvCcUcQGZBFLrgBLcaIcEuHd.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
 		"videoid": "ÑҾÌòóҪÍÉÊñî",
 		"orcamento": "24M",
@@ -2186,7 +2189,7 @@
 		"nome": "Juntos e Enrolados",
 		"duracao": "1:34:51",
 		"ano": 2021,
-		"score": 6.1,
+		"score": 6.2,
 		"poster": "https://image.tmdb.org/t/p/w200/ciOCqvJiMQ3PkTEYLBv8q72QT9J.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/eAbnORHyYIlAfqrZJywo0X5mzmP.jpg",
 		"videoid": "ÑҊýäúÔöÈïÛÛ",
@@ -3772,7 +3775,7 @@
 		"nome": "Shang-Chi e a Lenda dos Dez Anéis",
 		"duracao": "2:12:21",
 		"ano": 2021,
-		"score": 7.5,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
 		"videoid": "ҪçôÇÀÑÊÛàîë",
@@ -4199,7 +4202,7 @@
 		"nome": "Descascado",
 		"duracao": "1:26:01",
 		"ano": 2021,
-		"score": 6.6,
+		"score": 6.5,
 		"poster": "https://image.tmdb.org/t/p/w200/wUQMdpFuyDuxjStpiO4t63XslWu.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/lMaOJ1xUssAwJpVEkEvzI2aCQzV.jpg",
 		"videoid": "ïÕҾЍÇЍöÏÂÝÀ",
@@ -6110,10 +6113,18 @@
 		"similares": [
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 11
+				"similaridade": 13
 			},
 			{
 				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 10
+			},
+			{
+				"filme": "Red: Crescer é Uma Fera",
+				"similaridade": 10
+			},
+			{
+				"filme": "Eternos",
 				"similaridade": 10
 			},
 			{
@@ -6133,7 +6144,7 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Red: Crescer é Uma Fera",
+				"filme": "Jolt: Fúria Fatal",
 				"similaridade": 8
 			},
 			{
@@ -6141,19 +6152,11 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Professor Marston e as Mulheres-Maravilhas",
+				"similaridade": 8
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 8
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 8
-			},
-			{
-				"filme": "Inocência Roubada",
-				"similaridade": 8
-			},
-			{
-				"filme": "O Lobo de Wall Street",
 				"similaridade": 8
 			}
 		]
@@ -8239,7 +8242,7 @@
 			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 97
+				"similaridade": 96
 			}
 		]
 	},
@@ -9011,10 +9014,6 @@
 				"similaridade": 1
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 1
-			},
-			{
 				"filme": "Corrida Mortal",
 				"similaridade": 1
 			},
@@ -9032,6 +9031,10 @@
 			},
 			{
 				"filme": "O Massacre da Serra Elétrica: O Início",
+				"similaridade": 1
+			},
+			{
+				"filme": "Luar Sobre Parador",
 				"similaridade": 1
 			}
 		]
@@ -9153,7 +9156,7 @@
 				"similaridade": 134
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
+				"filme": "Tenet",
 				"similaridade": 132
 			}
 		]
@@ -10212,7 +10215,7 @@
 			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 47
+				"similaridade": 46
 			},
 			{
 				"filme": "Megatubarão",
@@ -10414,12 +10417,12 @@
 				"similaridade": 121
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 113
 			},
 			{
-				"filme": "Transformers: A Vingança dos Derrotados",
-				"similaridade": 112
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 113
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
@@ -10471,11 +10474,11 @@
 				"similaridade": 129
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 114
+				"filme": "Deadpool 2",
+				"similaridade": 112
 			},
 			{
-				"filme": "Deadpool 2",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 112
 			},
 			{
@@ -11012,15 +11015,15 @@
 				"similaridade": 37
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 37
-			},
-			{
 				"filme": "Deadpool 2",
 				"similaridade": 36
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 36
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 36
 			},
 			{
@@ -11175,7 +11178,7 @@
 		"nome": "Transformers: A Era da Extinção",
 		"duracao": "2:45:08",
 		"ano": 2014,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/7ji8C8xC5ttSIeH6OdwbT0Qbw5m.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h6wflubjTvlYgFUfcRKmZOPBPzM.jpg",
 		"videoid": "ðÉЌÀÖÑÂÙЍÝÖ",
@@ -11184,7 +11187,7 @@
 		"similares": [
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 160
+				"similaridade": 159
 			},
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
@@ -11602,7 +11605,7 @@
 		"nome": "A Maldição de Chucky",
 		"duracao": "1:36:42",
 		"ano": 2013,
-		"score": 5.8,
+		"score": 5.7,
 		"poster": "https://image.tmdb.org/t/p/w200/xLHcsBemdliseJUteA6IuX24op0.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/h9pt74NuKn0z5L3RPv3VbCzxGcS.jpg",
 		"videoid": "ҪëöûèéåùçÌÖ",
@@ -11985,7 +11988,7 @@
 			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 142
+				"similaridade": 141
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -12114,12 +12117,12 @@
 				"similaridade": 91
 			},
 			{
-				"filme": "Mulher-Maravilha",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 91
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 90
+				"filme": "Mulher-Maravilha",
+				"similaridade": 91
 			},
 			{
 				"filme": "Vingadores: Era de Ultron",
@@ -12679,11 +12682,11 @@
 				"similaridade": 23
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 21
+				"filme": "Fatal",
+				"similaridade": 20
 			},
 			{
-				"filme": "Fatal",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 20
 			},
 			{
@@ -12831,7 +12834,7 @@
 		"similares": [
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
-				"similaridade": 202
+				"similaridade": 203
 			},
 			{
 				"filme": "Transformers",
@@ -12839,31 +12842,31 @@
 			},
 			{
 				"filme": "Transformers: A Era da Extinção",
-				"similaridade": 160
+				"similaridade": 159
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 150
+				"similaridade": 149
 			},
 			{
 				"filme": "O Homem de Aço",
-				"similaridade": 142
+				"similaridade": 141
 			},
 			{
 				"filme": "Deadpool 2",
-				"similaridade": 136
+				"similaridade": 135
 			},
 			{
 				"filme": "Velozes & Furiosos 8",
-				"similaridade": 133
+				"similaridade": 131
 			},
 			{
 				"filme": "Mulher-Maravilha",
-				"similaridade": 132
+				"similaridade": 131
 			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 131
+				"similaridade": 130
 			},
 			{
 				"filme": "Vingadores: Era de Ultron",
@@ -12874,7 +12877,7 @@
 				"similaridade": 123
 			},
 			{
-				"filme": "Velozes & Furiosos 7",
+				"filme": "Tenet",
 				"similaridade": 114
 			}
 		]
@@ -12883,7 +12886,7 @@
 		"nome": "Piratas do Caribe: Navegando em Águas Misteriosas",
 		"duracao": "2:16:24",
 		"ano": 2011,
-		"score": 6.6,
+		"score": 6.5,
 		"poster": "https://image.tmdb.org/t/p/w200/rdOc15GIOGJMqgsQXHUNeVHvVzM.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
 		"videoid": "ÙÁÛЌãîЀÖËÝÛ",
@@ -12923,11 +12926,11 @@
 				"similaridade": 24
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 22
+				"filme": "Deadpool",
+				"similaridade": 21
 			},
 			{
-				"filme": "Deadpool",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 21
 			},
 			{
@@ -12988,15 +12991,15 @@
 				"similaridade": 83
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 78
-			},
-			{
 				"filme": "Batman",
 				"similaridade": 78
 			},
 			{
 				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 77
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 77
 			}
 		]
@@ -13188,7 +13191,7 @@
 		"nome": "Sobrenatural",
 		"duracao": "1:42:24",
 		"ano": 2010,
-		"score": 6.9,
+		"score": 6.8,
 		"poster": "https://image.tmdb.org/t/p/w200/2L8fErMpGD4s81VtWwspeyHYdiI.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/bylGn5OC2h3BWfGLYFtIcxlYxLy.jpg",
 		"videoid": "ååÉҾÜÌÉúÁÓö",
@@ -13380,7 +13383,7 @@
 		"similares": [
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 59
+				"similaridade": 58
 			},
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
@@ -13624,11 +13627,11 @@
 		"similares": [
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 202
+				"similaridade": 203
 			},
 			{
 				"filme": "Transformers",
-				"similaridade": 201
+				"similaridade": 202
 			},
 			{
 				"filme": "Transformers: A Era da Extinção",
@@ -13636,7 +13639,7 @@
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 127
+				"similaridade": 128
 			},
 			{
 				"filme": "O Homem de Aço",
@@ -13644,22 +13647,22 @@
 			},
 			{
 				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 112
+				"similaridade": 113
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 106
 			},
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 106
 			},
 			{
-				"filme": "Deadpool 2",
-				"similaridade": 105
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 99
 			},
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 98
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
 				"similaridade": 98
 			},
 			{
@@ -13692,11 +13695,11 @@
 				"similaridade": 70
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 63
+				"filme": "Deadpool",
+				"similaridade": 62
 			},
 			{
-				"filme": "Deadpool",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 62
 			},
 			{
@@ -14082,15 +14085,15 @@
 				"similaridade": 55
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 55
-			},
-			{
 				"filme": "Mente Criminosa",
 				"similaridade": 55
 			},
 			{
 				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 54
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 54
 			},
 			{
@@ -14531,7 +14534,7 @@
 		"duracao": "2:23:28",
 		"ano": 2007,
 		"score": 6.8,
-		"poster": "https://image.tmdb.org/t/p/w200/6eehp9I54syN3x753XMqjKz8M3F.jpg",
+		"poster": "https://image.tmdb.org/t/p/w200/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
 		"videoid": "ÑҾÒîҾÍÓáÍÀÀ",
 		"orcamento": "150M",
@@ -14539,7 +14542,7 @@
 		"similares": [
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
-				"similaridade": 201
+				"similaridade": 202
 			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
@@ -16038,11 +16041,11 @@
 				"similaridade": 54
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 53
+				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 52
 			},
 			{
-				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 52
 			},
 			{
@@ -18068,7 +18071,7 @@
 		"nome": "Quem Sou Eu?",
 		"duracao": "1:48:02",
 		"ano": 1998,
-		"score": 6.9,
+		"score": 7,
 		"poster": "https://image.tmdb.org/t/p/w200/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/dlyeSZD92Arha6XVBteyNNaPi19.jpg",
 		"videoid": "õҊûÍЍÊҾÂâÛÀ",
@@ -18466,6 +18469,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 14
+			},
+			{
 				"filme": "Transformers",
 				"similaridade": 14
 			},
@@ -18483,10 +18490,6 @@
 			},
 			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
-				"similaridade": 13
-			},
-			{
-				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 13
 			}
 		]
@@ -23680,7 +23683,7 @@
 		"nome": "Terra de Ninguém",
 		"duracao": "1:33:59",
 		"ano": 1973,
-		"score": 7.7,
+		"score": 7.6,
 		"poster": "https://image.tmdb.org/t/p/w200/1TwMedZNtCjEGnrsgqewrjeKuEN.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
 		"videoid": "ЌíðêìõÝÛâÎá",
@@ -25022,7 +25025,7 @@
 		"nome": "Os Sete Samurais",
 		"duracao": "3:27:05",
 		"ano": 1954,
-		"score": 8.6,
+		"score": 8.5,
 		"poster": "https://image.tmdb.org/t/p/w200/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
 		"videoid": "ÙÜàýïöЁÙÇîä",
