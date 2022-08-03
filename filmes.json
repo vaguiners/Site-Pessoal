@@ -80,6 +80,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 3
+			},
+			{
 				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
 				"similaridade": 3
 			},
@@ -113,10 +117,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 3
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 3
 			}
 		]
@@ -275,6 +275,14 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 5
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 5
+			},
+			{
 				"filme": "Velozes & Furiosos 5: Operação Rio",
 				"similaridade": 5
 			},
@@ -291,15 +299,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "John Wick: De Volta ao Jogo",
-				"similaridade": 4
-			},
-			{
-				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Doador de Memórias",
+				"filme": "2012",
 				"similaridade": 4
 			}
 		]
@@ -332,6 +332,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Campo do Medo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 1
+			},
+			{
 				"filme": "Fatal",
 				"similaridade": 1
 			},
@@ -345,22 +361,6 @@
 			},
 			{
 				"filme": "Perdido em Marte",
-				"similaridade": 1
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem de Aço",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers",
 				"similaridade": 1
 			}
 		]
@@ -454,6 +454,10 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 6
+			},
+			{
 				"filme": "Fatal",
 				"similaridade": 6
 			},
@@ -480,10 +484,6 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 6
 			}
 		]
 	},
@@ -509,6 +509,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 8
+			},
+			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 7
 			},
 			{
 				"filme": "Piratas do Caribe: No Fim do Mundo",
@@ -541,10 +545,6 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 6
-			},
-			{
-				"filme": "O Apanhador de Sonhos",
-				"similaridade": 5
 			}
 		]
 	},
@@ -621,6 +621,10 @@
 		"receita": "34M",
 		"similares": [
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 9
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 7
 			},
@@ -662,10 +666,6 @@
 			},
 			{
 				"filme": "Professor Marston e as Mulheres-Maravilhas",
-				"similaridade": 6
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 6
 			}
 		]
@@ -938,6 +938,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Rede Social",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem do Ano",
 				"similaridade": 1
 			},
@@ -959,18 +971,6 @@
 			},
 			{
 				"filme": "A Maldição de Frankenstein",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -1092,8 +1092,8 @@
 				"similaridade": 46
 			},
 			{
-				"filme": "Mate ou Morra",
-				"similaridade": 43
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 44
 			}
 		]
 	},
@@ -1292,6 +1292,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 1
+			},
+			{
 				"filme": "Harry Potter e o Prisioneiro de Azkaban",
 				"similaridade": 1
 			},
@@ -1316,7 +1320,6 @@
 			null,
 			null,
 			null,
-			null,
 			null
 		]
 	},
@@ -1331,6 +1334,18 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Elle",
+				"similaridade": 1
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
 			{
 				"filme": "Fatal",
 				"similaridade": 1
@@ -1365,18 +1380,6 @@
 			},
 			{
 				"filme": "O Doador de Memórias",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cidade em Chamas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sobrenatural: Capítulo 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Sobrenatural",
 				"similaridade": 1
 			}
 		]
@@ -1482,6 +1485,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Missão: Impossível - Nação Secreta",
+				"similaridade": 5
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 5
 			},
@@ -1495,10 +1502,6 @@
 			},
 			{
 				"filme": "Fim dos Dias",
-				"similaridade": 5
-			},
-			{
-				"filme": "Efeito Colateral",
 				"similaridade": 5
 			}
 		]
@@ -1737,6 +1740,10 @@
 				"similaridade": 86
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 84
+			},
+			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 84
 			},
@@ -1751,10 +1758,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 81
-			},
-			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
-				"similaridade": 80
 			}
 		]
 	},
@@ -1877,6 +1880,67 @@
 			{
 				"filme": "O Silêncio da Chuva",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "Moonfall: Ameaça Lunar",
+		"duracao": "2:10:27",
+		"ano": 2022,
+		"score": 5.8,
+		"poster": "https://image.tmdb.org/t/p/w200/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg",
+		"videoid": "ÅёÚüëҪàÃÅÖá",
+		"orcamento": "146M",
+		"receita": "58.9M",
+		"similares": [
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 95
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 85
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
+				"similaridade": 85
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 79
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 79
+			},
+			{
+				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 77
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 77
+			},
+			{
+				"filme": "O Homem de Aço",
+				"similaridade": 76
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 74
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 72
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 68
+			},
+			{
+				"filme": "Transformers",
+				"similaridade": 67
 			}
 		]
 	},
@@ -2384,6 +2448,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Campo do Medo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Elle",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 1
+			},
+			{
 				"filme": "Fatal",
 				"similaridade": 1
 			},
@@ -2409,22 +2489,6 @@
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 1
-			},
-			{
-				"filme": "MIB: Homens de Preto 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
-				"similaridade": 1
-			},
-			{
-				"filme": "Corrida Mortal",
-				"similaridade": 1
-			},
-			{
-				"filme": "Zodíaco",
 				"similaridade": 1
 			}
 		]
@@ -2502,6 +2566,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Prometheus",
+				"similaridade": 6
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 6
 			},
@@ -2543,10 +2611,6 @@
 			},
 			{
 				"filme": "Eternos",
-				"similaridade": 4
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
 				"similaridade": 4
 			}
 		]
@@ -2628,6 +2692,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Tinker Bell: O Segredo das Fadas",
+				"similaridade": 4
+			},
+			{
 				"filme": "Harry Potter e o Enigma do Príncipe",
 				"similaridade": 4
 			},
@@ -2665,10 +2733,6 @@
 			},
 			{
 				"filme": "Os 12 Macacos",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Apanhador de Sonhos",
 				"similaridade": 3
 			}
 		]
@@ -2746,6 +2810,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Prazeres Mortais",
+				"similaridade": 2
+			},
+			{
 				"filme": "Corrida Mortal",
 				"similaridade": 2
 			},
@@ -2774,23 +2842,19 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Campo do Medo",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
+			{
 				"filme": "Fatal",
 				"similaridade": 1
 			},
 			{
 				"filme": "Super Mario Bros.",
-				"similaridade": 1
-			},
-			{
-				"filme": "Menina Má.Com",
-				"similaridade": 1
-			},
-			{
-				"filme": "Nasce uma Estrela",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem de Aço",
 				"similaridade": 1
 			}
 		]
@@ -2807,8 +2871,28 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Poderoso Chefão: Parte III",
 				"similaridade": 4
+			},
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 3
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 3
+			},
+			{
+				"filme": "2012",
+				"similaridade": 3
 			},
 			{
 				"filme": "Guardiões da Galáxia",
@@ -2823,10 +2907,6 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "2012",
-				"similaridade": 3
-			},
-			{
 				"filme": "7 Prisioneiros",
 				"similaridade": 3
 			},
@@ -2836,22 +2916,6 @@
 			},
 			{
 				"filme": "Cemitério Maldito",
-				"similaridade": 3
-			},
-			{
-				"filme": "Turma da Mônica: Laços",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 3
-			},
-			{
-				"filme": "Efeito Borboleta",
 				"similaridade": 3
 			}
 		]
@@ -2979,6 +3043,67 @@
 		]
 	},
 	{
+		"nome": "Warning",
+		"duracao": "1:25:44",
+		"ano": 2021,
+		"score": 4.9,
+		"poster": "https://image.tmdb.org/t/p/w200/3UwzfI85ZoAXqdMrG878OudMQr6.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/m0MNplwgV1G6lrQcL1Cqohhlqc7.jpg",
+		"videoid": "îËåçËÒùÛîÓÊ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 7
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 6
+			},
+			{
+				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 6
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 6
+			},
+			{
+				"filme": "Interestelar",
+				"similaridade": 6
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 5
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 5
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 5
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 4
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 4
+			},
+			{
+				"filme": "Perdido em Marte",
+				"similaridade": 4
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 4
+			}
+		]
+	},
+	{
 		"nome": "Transversais",
 		"duracao": "1:24:53",
 		"ano": 2021,
@@ -3075,6 +3200,10 @@
 				"similaridade": 130
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 126
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 122
 			},
@@ -3093,10 +3222,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 108
-			},
-			{
-				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 107
 			}
 		]
 	},
@@ -3201,6 +3326,14 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 3
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 3
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
 				"similaridade": 3
 			},
@@ -3210,14 +3343,6 @@
 			},
 			{
 				"filme": "Frankenstein: Entre Anjos e Demônios",
-				"similaridade": 3
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
-				"similaridade": 3
-			},
-			{
-				"filme": "Tróia",
 				"similaridade": 3
 			}
 		]
@@ -3244,6 +3369,10 @@
 			{
 				"filme": "No Fim do Túnel",
 				"similaridade": 5
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 4
 			},
 			{
 				"filme": "A Profissional",
@@ -3275,10 +3404,6 @@
 			},
 			{
 				"filme": "O Homem nas Trevas",
-				"similaridade": 4
-			},
-			{
-				"filme": "Vingança",
 				"similaridade": 4
 			}
 		]
@@ -3461,7 +3586,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Deadpool 2",
+				"filme": "Prometheus",
 				"similaridade": 9
 			}
 		]
@@ -3506,23 +3631,23 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Substituto",
+				"filme": "Isolados: Medo Invisível",
 				"similaridade": 1
 			},
 			{
-				"filme": "Fatal",
+				"filme": "A Viúva das Sombras",
 				"similaridade": 1
 			},
 			{
-				"filme": "Super Mario Bros.",
+				"filme": "A Maldição da Freira",
 				"similaridade": 1
 			},
 			{
-				"filme": "Eles Vivem",
+				"filme": "Midway: Batalha em Alto Mar",
 				"similaridade": 1
 			},
 			{
-				"filme": "Menina Má.Com",
+				"filme": "Annabelle 2: A Criação do Mal",
 				"similaridade": 1
 			}
 		]
@@ -3555,6 +3680,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 4
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
 				"similaridade": 4
 			},
@@ -3580,10 +3709,6 @@
 			},
 			{
 				"filme": "Perigo Para a Sociedade",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 4
 			}
 		]
@@ -3620,6 +3745,10 @@
 				"similaridade": 95
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 94
+			},
+			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 94
 			},
@@ -3642,10 +3771,6 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 88
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 88
 			}
 		]
 	},
@@ -3663,6 +3788,10 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 5
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 3
 			},
 			{
 				"filme": "Fatal",
@@ -3702,10 +3831,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 3
-			},
-			{
-				"filme": "Cruella",
 				"similaridade": 3
 			}
 		]
@@ -3823,12 +3948,12 @@
 				"similaridade": 121
 			},
 			{
-				"filme": "Deadpool",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 120
 			},
 			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 119
+				"filme": "Deadpool",
+				"similaridade": 120
 			}
 		]
 	},
@@ -3846,6 +3971,10 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 55
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 27
 			},
 			{
 				"filme": "Batman",
@@ -3885,10 +4014,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 22
-			},
-			{
-				"filme": "A Casa do Espanto",
 				"similaridade": 22
 			}
 		]
@@ -3955,6 +4080,67 @@
 		]
 	},
 	{
+		"nome": "Benedetta",
+		"duracao": "2:11:06",
+		"ano": 2021,
+		"score": 6.8,
+		"poster": "https://image.tmdb.org/t/p/w200/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/voi88IfoNAykXAEd0zrnczNM8LF.jpg",
+		"videoid": "ïûáûÂíðÕЀêÛ",
+		"orcamento": "24.4M",
+		"receita": "2.7M",
+		"similares": [
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 15
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 12
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 12
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 11
+			},
+			{
+				"filme": "Sheena - A Rainha das Selvas",
+				"similaridade": 11
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 10
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 10
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 10
+			},
+			{
+				"filme": "Elle",
+				"similaridade": 9
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 9
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 9
+			},
+			{
+				"filme": "12 Anos de Escravidão",
+				"similaridade": 8
+			}
+		]
+	},
+	{
 		"nome": "O Marinheiro das Montanhas",
 		"duracao": "1:38:06",
 		"ano": 2021,
@@ -3965,6 +4151,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 1
+			},
 			{
 				"filme": "O Homem do Ano",
 				"similaridade": 1
@@ -4008,10 +4198,6 @@
 			{
 				"filme": "Agentes Vanguard",
 				"similaridade": 1
-			},
-			{
-				"filme": "Turma da Mônica: Laços",
-				"similaridade": 1
 			}
 		]
 	},
@@ -4026,6 +4212,34 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Elvis & Nixon",
+				"similaridade": 2
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tinker Bell: O Segredo das Fadas",
+				"similaridade": 1
+			},
+			{
+				"filme": "2012",
+				"similaridade": 1
+			},
 			{
 				"filme": "Queimando Tudo",
 				"similaridade": 1
@@ -4044,34 +4258,6 @@
 			},
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers",
-				"similaridade": 1
-			},
-			{
-				"filme": "A Mexicana",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Fantasma da Máquina",
-				"similaridade": 1
-			},
-			{
-				"filme": "Grito de Horror 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Uma Alucinante Viagem",
-				"similaridade": 1
-			},
-			{
-				"filme": "Grito de Horror",
-				"similaridade": 1
-			},
-			{
-				"filme": "Banzé no Oeste",
 				"similaridade": 1
 			}
 		]
@@ -4138,6 +4324,67 @@
 		]
 	},
 	{
+		"nome": "Invocação do Mal 3: A Ordem do Demônio",
+		"duracao": "1:51:52",
+		"ano": 2021,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+		"videoid": "ÄáÍöÅìÄìüÛü",
+		"orcamento": "39M",
+		"receita": "201M",
+		"similares": [
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 83
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 47
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 46
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 34
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 33
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 31
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 30
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 29
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 28
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 28
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 28
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 28
+			}
+		]
+	},
+	{
 		"nome": "Velozes & Furiosos 9",
 		"duracao": "2:22:52",
 		"ano": 2021,
@@ -4189,12 +4436,12 @@
 				"similaridade": 128
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 124
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 127
 			},
 			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 123
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 124
 			}
 		]
 	},
@@ -4212,6 +4459,10 @@
 			{
 				"filme": "Deadpool",
 				"similaridade": 6
+			},
+			{
+				"filme": "Elle",
+				"similaridade": 5
 			},
 			{
 				"filme": "12 Anos de Escravidão",
@@ -4251,10 +4502,6 @@
 			},
 			{
 				"filme": "O Homem do Norte",
-				"similaridade": 4
-			},
-			{
-				"filme": "Cidade de Deus",
 				"similaridade": 4
 			}
 		]
@@ -4299,6 +4546,10 @@
 				"similaridade": 43
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 42
+			},
+			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 42
 			},
@@ -4312,10 +4563,6 @@
 			},
 			{
 				"filme": "O Irlandês",
-				"similaridade": 40
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 40
 			}
 		]
@@ -4405,6 +4652,10 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "Elle",
+				"similaridade": 8
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 8
 			},
@@ -4421,6 +4672,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Benedetta",
+				"similaridade": 7
+			},
+			{
 				"filme": "Corrida Mortal: Anarquia",
 				"similaridade": 7
 			},
@@ -4430,14 +4685,6 @@
 			},
 			{
 				"filme": "Hitman: Assassino 47",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 7
-			},
-			{
-				"filme": "Vingança",
 				"similaridade": 7
 			}
 		]
@@ -4519,6 +4766,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Elle",
+				"similaridade": 3
+			},
+			{
 				"filme": "12 Anos de Escravidão",
 				"similaridade": 3
 			},
@@ -4547,19 +4798,15 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Viúva das Sombras",
+				"similaridade": 2
+			},
+			{
+				"filme": "Benedetta",
+				"similaridade": 2
+			},
+			{
 				"filme": "Uma Mistura Especial",
-				"similaridade": 2
-			},
-			{
-				"filme": "Mais um Besteirol ao Extremo",
-				"similaridade": 2
-			},
-			{
-				"filme": "Marcas da Violência",
-				"similaridade": 2
-			},
-			{
-				"filme": "Corrida Mortal: Anarquia",
 				"similaridade": 2
 			}
 		]
@@ -4596,6 +4843,10 @@
 				"similaridade": 174
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 168
+			},
+			{
 				"filme": "A Morte do Superman",
 				"similaridade": 167
 			},
@@ -4618,10 +4869,6 @@
 			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 153
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 151
 			}
 		]
 	},
@@ -4698,6 +4945,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 6
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 6
 			},
@@ -4708,6 +4959,10 @@
 			{
 				"filme": "Lindinhas",
 				"similaridade": 5
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 4
 			},
 			{
 				"filme": "Deadpool 2",
@@ -4735,14 +4990,6 @@
 			},
 			{
 				"filme": "Fúria Incontrolável",
-				"similaridade": 4
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 4
-			},
-			{
-				"filme": "Inimigo Mortal",
 				"similaridade": 4
 			}
 		]
@@ -4799,11 +5046,11 @@
 				"similaridade": 23
 			},
 			{
-				"filme": "John Wick 3: Parabellum",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 22
 			},
 			{
-				"filme": "O Apanhador de Sonhos",
+				"filme": "John Wick 3: Parabellum",
 				"similaridade": 22
 			}
 		]
@@ -4840,6 +5087,10 @@
 				"similaridade": 121
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 115
+			},
+			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 112
 			},
@@ -4862,10 +5113,67 @@
 			{
 				"filme": "A Morte do Superman",
 				"similaridade": 102
+			}
+		]
+	},
+	{
+		"nome": "Isolados: Medo Invisível",
+		"duracao": "1:25:24",
+		"ano": 2020,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/irojlZd3fTBWgiLyxS7zmElokH7.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2XQPcgGMyw2qSssv3CsCaOP61l3.jpg",
+		"videoid": "ÊÎûöòÍÚÏäðЀ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 105
 			},
 			{
-				"filme": "O Homem de Aço",
-				"similaridade": 101
+				"filme": "O Estrangeiro",
+				"similaridade": 90
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 85
+			},
+			{
+				"filme": "Mate ou Morra",
+				"similaridade": 83
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 81
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 79
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 75
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 74
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 73
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 73
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 73
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 72
 			}
 		]
 	},
@@ -4913,19 +5221,19 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 3
+			},
+			{
+				"filme": "Campo do Medo",
+				"similaridade": 3
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 3
+			},
+			{
 				"filme": "Fatal",
-				"similaridade": 3
-			},
-			{
-				"filme": "Menina Má.Com",
-				"similaridade": 3
-			},
-			{
-				"filme": "A Profissional",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Irlandês",
 				"similaridade": 3
 			}
 		]
@@ -4992,6 +5300,67 @@
 		]
 	},
 	{
+		"nome": "A Viúva das Sombras",
+		"duracao": "1:26:17",
+		"ano": 2020,
+		"score": 5,
+		"poster": "https://image.tmdb.org/t/p/w200/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aZpgmzGcHoY80DiH3eqOXfV0wYk.jpg",
+		"videoid": "íÂҊéëöЇÁÄÑó",
+		"orcamento": 0,
+		"receita": "137.5K",
+		"similares": [
+			{
+				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 13
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 12
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 12
+			},
+			{
+				"filme": "Chernobyl: Sinta a Radiação",
+				"similaridade": 10
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 10
+			},
+			{
+				"filme": "Clube da Luta",
+				"similaridade": 10
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 10
+			},
+			{
+				"filme": "A Casa Sombria",
+				"similaridade": 10
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 10
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 10
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 9
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 9
+			}
+		]
+	},
+	{
 		"nome": "Quando o Demônio Chama",
 		"duracao": "1:27:42",
 		"ano": 2020,
@@ -5002,6 +5371,26 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 3
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 3
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 3
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 3
+			},
 			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 3
@@ -5023,31 +5412,11 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Vingadores: Era de Ultron",
+				"filme": "Annabelle 3: De Volta para Casa",
 				"similaridade": 2
 			},
 			{
-				"filme": "Harry Potter e o Cálice de Fogo",
-				"similaridade": 2
-			},
-			{
-				"filme": "Harry Potter e o Prisioneiro de Azkaban",
-				"similaridade": 2
-			},
-			{
-				"filme": "Harry Potter e a Câmara Secreta",
-				"similaridade": 2
-			},
-			{
-				"filme": "Os Espíritos",
-				"similaridade": 2
-			},
-			{
-				"filme": "Christine: O Carro Assassino",
-				"similaridade": 2
-			},
-			{
-				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
 				"similaridade": 2
 			}
 		]
@@ -5068,11 +5437,15 @@
 				"similaridade": 4
 			},
 			{
-				"filme": "O Homem nas Trevas",
+				"filme": "Moonfall: Ameaça Lunar",
 				"similaridade": 3
 			},
 			{
 				"filme": "2012",
+				"similaridade": 3
+			},
+			{
+				"filme": "O Homem nas Trevas",
 				"similaridade": 3
 			},
 			{
@@ -5088,27 +5461,23 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 2
+			},
+			{
+				"filme": "Campo do Medo",
+				"similaridade": 2
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 2
+			},
+			{
 				"filme": "A Profissional",
 				"similaridade": 2
 			},
 			{
 				"filme": "No Olho do Tornado",
-				"similaridade": 2
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
-				"similaridade": 2
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 2
-			},
-			{
-				"filme": "Fúria Incontrolável",
-				"similaridade": 2
-			},
-			{
-				"filme": "Mar em Fúria",
 				"similaridade": 2
 			}
 		]
@@ -5141,6 +5510,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
+			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 1
+			},
+			{
 				"filme": "Ninja Assassino",
 				"similaridade": 1
 			},
@@ -5154,22 +5539,6 @@
 			},
 			{
 				"filme": "O Homem do Ano",
-				"similaridade": 1
-			},
-			{
-				"filme": "Eles Vivem",
-				"similaridade": 1
-			},
-			{
-				"filme": "15 Minutes",
-				"similaridade": 1
-			},
-			{
-				"filme": "Menina Má.Com",
-				"similaridade": 1
-			},
-			{
-				"filme": "Um Dia de Cão",
 				"similaridade": 1
 			}
 		]
@@ -5236,6 +5605,17 @@
 		]
 	},
 	{
+		"nome": "Missão: Rússia",
+		"duracao": "1:43:03",
+		"ano": 2020,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/dXmeAzaceJk6cg4cxauUKhhXoxt.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hNn2OBoPSKCkEQiyF3fMxE9InQ0.jpg",
+		"videoid": "ÛÈÃýËÚЍôóÜÖ",
+		"orcamento": 0,
+		"receita": "52.4K"
+	},
+	{
 		"nome": "Sedenta de Sangue",
 		"duracao": "1:24:31",
 		"ano": 2020,
@@ -5271,6 +5651,18 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 2
+			},
+			{
+				"filme": "Benedetta",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Rede Social",
+				"similaridade": 2
+			},
+			{
 				"filme": "O Irlandês",
 				"similaridade": 2
 			},
@@ -5280,18 +5672,6 @@
 			},
 			{
 				"filme": "Hitman: Assassino 47",
-				"similaridade": 2
-			},
-			{
-				"filme": "Luar Sobre Parador",
-				"similaridade": 2
-			},
-			{
-				"filme": "Grito de Horror 2",
-				"similaridade": 2
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 2
 			}
 		]
@@ -5430,6 +5810,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Campo do Medo",
+				"similaridade": 5
+			},
+			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 4
 			},
@@ -5454,6 +5838,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 3
+			},
+			{
 				"filme": "Nasce uma Estrela",
 				"similaridade": 3
 			},
@@ -5467,14 +5855,6 @@
 			},
 			{
 				"filme": "Tróia",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Apanhador de Sonhos",
-				"similaridade": 3
-			},
-			{
-				"filme": "O Massacre da Serra Elétrica: O Início",
 				"similaridade": 3
 			}
 		]
@@ -5503,6 +5883,10 @@
 				"similaridade": 77
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 75
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 75
 			},
@@ -5519,6 +5903,10 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 61
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 61
 			},
@@ -5529,14 +5917,6 @@
 			{
 				"filme": "O Poço",
 				"similaridade": 59
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 58
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 57
 			}
 		]
 	},
@@ -5613,6 +5993,67 @@
 		]
 	},
 	{
+		"nome": "Nadando pelo Ouro",
+		"duracao": "1:30:55",
+		"ano": 2020,
+		"score": 6.6,
+		"poster": "https://image.tmdb.org/t/p/w200/yJ8SCGtFRjHxfTesnKOyulXb68a.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/xHoXZQymVRDH9W2Ef8JyJz9Rbw2.jpg",
+		"videoid": "ÇÙҊïЍÚýÂҪèá",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Rede Social",
+				"similaridade": 4
+			},
+			{
+				"filme": "Need for Speed: O Filme",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 4
+			},
+			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 3
+			},
+			{
+				"filme": "Golpe Duplo",
+				"similaridade": 3
+			},
+			{
+				"filme": "Nasce uma Estrela",
+				"similaridade": 3
+			},
+			{
+				"filme": "Guardiões da Galáxia",
+				"similaridade": 3
+			},
+			{
+				"filme": "Django Livre",
+				"similaridade": 3
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
+				"similaridade": 3
+			},
+			{
+				"filme": "Top Gun - Ases Indomáveis",
+				"similaridade": 3
+			},
+			{
+				"filme": "Na Escola da Vida",
+				"similaridade": 3
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 3
+			}
+		]
+	},
+	{
 		"nome": "Do Fundo do Mar 3",
 		"duracao": "1:40:11",
 		"ano": 2020,
@@ -5648,6 +6089,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 5
+			},
+			{
 				"filme": "Transformers: A Era da Extinção",
 				"similaridade": 5
 			},
@@ -5664,11 +6109,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "A Profissional",
-				"similaridade": 4
-			},
-			{
-				"filme": "John Wick 3: Parabellum",
+				"filme": "Midway: Batalha em Alto Mar",
 				"similaridade": 4
 			}
 		]
@@ -5731,6 +6172,67 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 72
+			}
+		]
+	},
+	{
+		"nome": "Oração Diabólica",
+		"duracao": "1:13:19",
+		"ano": 2020,
+		"score": 4.5,
+		"poster": "https://image.tmdb.org/t/p/w200/9LcOsiSqeR94knLnpJ0ktnOx7OQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/edXuLjxjYu1SkyMHd55hRasME8b.jpg",
+		"videoid": "ÂÐЀãÛÎÕЌóÕÛ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Freira",
+				"similaridade": 4
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 4
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 4
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
+				"similaridade": 4
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 4
+			},
+			{
+				"filme": "Um Sonho de Liberdade",
+				"similaridade": 4
+			},
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 3
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 3
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 3
+			},
+			{
+				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
+				"similaridade": 3
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 3
 			}
 		]
 	},
@@ -5835,6 +6337,14 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 5
+			},
+			{
+				"filme": "Prazeres Mortais",
+				"similaridade": 5
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 5
 			},
@@ -5844,14 +6354,6 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 5
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 5
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 5
 			}
 		]
@@ -5929,6 +6431,22 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "A Viúva das Sombras",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Chernobyl: Sinta a Radiação",
+				"similaridade": 1
+			},
+			{
 				"filme": "John Wick 3: Parabellum",
 				"similaridade": 1
 			},
@@ -5958,22 +6476,6 @@
 			},
 			{
 				"filme": "Confiar",
-				"similaridade": 1
-			},
-			{
-				"filme": "MIB: Homens de Preto 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 1
-			},
-			{
-				"filme": "Bastardos Inglórios",
-				"similaridade": 1
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 1
 			}
 		]
@@ -6059,6 +6561,14 @@
 				"similaridade": 38
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 36
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 35
+			},
+			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 35
 			},
@@ -6079,24 +6589,16 @@
 				"similaridade": 33
 			},
 			{
+				"filme": "Invocação do Mal",
+				"similaridade": 32
+			},
+			{
 				"filme": "A Cor Que Caiu do Espaço",
 				"similaridade": 32
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 32
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 31
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 31
-			},
-			{
-				"filme": "A Casa do Espanto",
-				"similaridade": 31
 			}
 		]
 	},
@@ -6189,6 +6691,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 5
+			},
+			{
 				"filme": "Morbius",
 				"similaridade": 5
 			},
@@ -6205,19 +6711,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Golpe Duplo",
+				"similaridade": 4
+			},
+			{
 				"filme": "Nasce uma Estrela",
 				"similaridade": 4
 			},
 			{
 				"filme": "John Wick: De Volta ao Jogo",
-				"similaridade": 4
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 4
-			},
-			{
-				"filme": "Guerra Mundial Z",
 				"similaridade": 4
 			}
 		]
@@ -6234,11 +6736,15 @@
 		"receita": "61.3M",
 		"similares": [
 			{
-				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 14
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 15
 			},
 			{
 				"filme": "2012",
+				"similaridade": 14
+			},
+			{
+				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 14
 			},
 			{
@@ -6248,6 +6754,10 @@
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 12
+			},
+			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 11
 			},
 			{
 				"filme": "Mente Criminosa",
@@ -6272,14 +6782,128 @@
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 10
+			}
+		]
+	},
+	{
+		"nome": "Midway: Batalha em Alto Mar",
+		"duracao": "2:18:26",
+		"ano": 2019,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+		"videoid": "ìõâÝÜðòõÂÁî",
+		"orcamento": "100M",
+		"receita": "127.4M",
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 92
 			},
 			{
-				"filme": "Velozes & Furiosos 9",
-				"similaridade": 10
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 84
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 10
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 79
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 70
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 69
+			},
+			{
+				"filme": "Corações de Ferro",
+				"similaridade": 66
+			},
+			{
+				"filme": "Tora! Tora! Tora!",
+				"similaridade": 66
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 65
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 63
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 63
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 63
+			},
+			{
+				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 62
+			}
+		]
+	},
+	{
+		"nome": "A Hora da Sua Morte",
+		"duracao": "1:30:41",
+		"ano": 2019,
+		"score": 5.9,
+		"poster": "https://image.tmdb.org/t/p/w200/qukqQBC1N2KTakalFPxoKf2SycP.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/zETkzgle7c6wAeW11snnVUBp67S.jpg",
+		"videoid": "ÝõÇÄÅäìÛîÈä",
+		"orcamento": "6.5M",
+		"receita": "48M",
+		"similares": [
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 75
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 68
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 68
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 65
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 64
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 64
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 63
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 63
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 57
+			},
+			{
+				"filme": "Guardiões da Galáxia",
+				"similaridade": 54
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 53
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 50
 			}
 		]
 	},
@@ -6341,6 +6965,67 @@
 			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 80
+			}
+		]
+	},
+	{
+		"nome": "Campo do Medo",
+		"duracao": "1:41:55",
+		"ano": 2019,
+		"score": 5.5,
+		"poster": "https://image.tmdb.org/t/p/w200/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/rKr0kHznCiIodur5dhvmWs4tLQY.jpg",
+		"videoid": "ÌìüÀãÀíÂãÄó",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 57
+			},
+			{
+				"filme": "A Noite dos Arrepios",
+				"similaridade": 54
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 52
+			},
+			{
+				"filme": "Olhos de Gato",
+				"similaridade": 52
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 48
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 48
+			},
+			{
+				"filme": "No Fim do Túnel",
+				"similaridade": 45
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 44
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 41
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 41
+			},
+			{
+				"filme": "O Poço",
+				"similaridade": 40
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 40
 			}
 		]
 	},
@@ -6461,7 +7146,7 @@
 				"similaridade": 40
 			},
 			{
-				"filme": "Deadpool 2",
+				"filme": "Isolados: Medo Invisível",
 				"similaridade": 39
 			}
 		]
@@ -6490,6 +7175,14 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "A Viúva das Sombras",
+				"similaridade": 5
+			},
+			{
+				"filme": "Chernobyl: Sinta a Radiação",
+				"similaridade": 5
+			},
+			{
 				"filme": "A Profissional",
 				"similaridade": 5
 			},
@@ -6502,27 +7195,19 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Elle",
+				"similaridade": 4
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 4
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 4
+			},
+			{
 				"filme": "Fatal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Deadpool",
-				"similaridade": 4
-			},
-			{
-				"filme": "12 Anos de Escravidão",
-				"similaridade": 4
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
-				"similaridade": 4
-			},
-			{
-				"filme": "Seven: Os Sete Crimes Capitais",
-				"similaridade": 4
-			},
-			{
-				"filme": "O Doador de Memórias",
 				"similaridade": 4
 			}
 		]
@@ -6567,24 +7252,24 @@
 				"similaridade": 47
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 40
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 40
+			},
+			{
+				"filme": "Campo do Medo",
+				"similaridade": 40
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 40
 			},
 			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 38
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 36
-			},
-			{
-				"filme": "Verônica: Jogo Sobrenatural",
-				"similaridade": 36
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 35
 			}
 		]
 	},
@@ -6599,6 +7284,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Prometheus",
+				"similaridade": 8
+			},
 			{
 				"filme": "Deadpool",
 				"similaridade": 8
@@ -6632,19 +7321,15 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 6
+			},
+			{
 				"filme": "Cemitério Maldito",
 				"similaridade": 6
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 6
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 6
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 6
 			}
 		]
@@ -6660,6 +7345,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Elle",
+				"similaridade": 5
+			},
 			{
 				"filme": "Corrida Mortal: Anarquia",
 				"similaridade": 5
@@ -6693,19 +7382,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Benedetta",
+				"similaridade": 4
+			},
+			{
 				"filme": "Uma Mistura Especial",
 				"similaridade": 4
 			},
 			{
 				"filme": "Django Livre",
-				"similaridade": 4
-			},
-			{
-				"filme": "Herança Maldita",
-				"similaridade": 4
-			},
-			{
-				"filme": "Grito de Horror",
 				"similaridade": 4
 			}
 		]
@@ -6783,6 +7468,42 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Annabelle 3: De Volta para Casa",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 1
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 1
+			},
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 1
+			},
+			{
+				"filme": "Missão: Impossível - Nação Secreta",
+				"similaridade": 1
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 1
+			},
+			{
 				"filme": "Super Mario Bros.",
 				"similaridade": 1
 			},
@@ -6792,42 +7513,6 @@
 			},
 			{
 				"filme": "Corrida Mortal: Anarquia",
-				"similaridade": 1
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 1
-			},
-			{
-				"filme": "Animais Fantásticos: Os Segredos de Dumbledore",
-				"similaridade": 1
-			},
-			{
-				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
-				"similaridade": 1
-			},
-			{
-				"filme": "John Wick 2: Um Novo Dia para Matar",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers: A Era da Extinção",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem de Aço",
-				"similaridade": 1
-			},
-			{
-				"filme": "MIB: Homens de Preto 3",
-				"similaridade": 1
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 1
 			}
 		]
@@ -6844,6 +7529,10 @@
 		"receita": 0,
 		"similares": [
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 10
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 9
 			},
@@ -6854,6 +7543,10 @@
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 9
+			},
+			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 8
 			},
 			{
 				"filme": "Cemitério Maldito",
@@ -6881,14 +7574,6 @@
 			},
 			{
 				"filme": "O Irlandês",
-				"similaridade": 7
-			},
-			{
-				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 7
-			},
-			{
-				"filme": "John Wick: De Volta ao Jogo",
 				"similaridade": 7
 			}
 		]
@@ -7016,6 +7701,67 @@
 		]
 	},
 	{
+		"nome": "Annabelle 3: De Volta para Casa",
+		"duracao": "1:46:06",
+		"ano": 2019,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/dBt0DoFfbhOI4ypUfRj1uTq623M.jpg",
+		"videoid": "êïïÕòÓÜÁЎÒü",
+		"orcamento": "30M",
+		"receita": "231.3M",
+		"similares": [
+			{
+				"filme": "Annabelle",
+				"similaridade": 18
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 17
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 17
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 13
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 12
+			},
+			{
+				"filme": "A Maldição da Chorona",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 11
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 10
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 10
+			},
+			{
+				"filme": "Harry Potter e a Ordem da Fênix",
+				"similaridade": 10
+			},
+			{
+				"filme": "Harry Potter e o Cálice de Fogo",
+				"similaridade": 10
+			},
+			{
+				"filme": "A Maldição de Chucky",
+				"similaridade": 10
+			}
+		]
+	},
+	{
 		"nome": "Caçada Selvagem",
 		"duracao": "1:28:06",
 		"ano": 2019,
@@ -7037,6 +7783,10 @@
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 6
+			},
+			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 5
 			},
 			{
 				"filme": "Fatal",
@@ -7067,11 +7817,7 @@
 				"similaridade": 5
 			},
 			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 4
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
+				"filme": "Elle",
 				"similaridade": 4
 			}
 		]
@@ -7271,6 +8017,14 @@
 		"receita": "122M",
 		"similares": [
 			{
+				"filme": "Annabelle",
+				"similaridade": 24
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 21
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
 				"similaridade": 21
 			},
@@ -7283,8 +8037,16 @@
 				"similaridade": 20
 			},
 			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 18
+			},
+			{
 				"filme": "O Espelho",
 				"similaridade": 18
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 17
 			},
 			{
 				"filme": "Verônica: Jogo Sobrenatural",
@@ -7301,22 +8063,6 @@
 			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 15
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
-				"similaridade": 15
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 15
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 15
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 14
 			}
 		]
 	},
@@ -7376,7 +8122,7 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "John Wick: De Volta ao Jogo",
+				"filme": "Golpe Duplo",
 				"similaridade": 12
 			}
 		]
@@ -7413,6 +8159,14 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 1
+			},
+			{
+				"filme": "2012",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem do Ano",
 				"similaridade": 1
 			},
@@ -7430,14 +8184,6 @@
 			},
 			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tróia",
-				"similaridade": 1
-			},
-			{
-				"filme": "Harry Potter e o Enigma do Príncipe",
 				"similaridade": 1
 			}
 		]
@@ -7474,6 +8220,14 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 2
+			},
+			{
+				"filme": "2012",
+				"similaridade": 2
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 2
 			},
@@ -7490,15 +8244,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "2012",
-				"similaridade": 2
-			},
-			{
 				"filme": "Guerreiros da Virtude",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Fúria do Dragão",
 				"similaridade": 2
 			}
 		]
@@ -7559,8 +8305,8 @@
 				"similaridade": 88
 			},
 			{
-				"filme": "Duna",
-				"similaridade": 86
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 87
 			}
 		]
 	},
@@ -7588,6 +8334,18 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
+			{
+				"filme": "A Rede Social",
+				"similaridade": 1
+			},
+			{
 				"filme": "O Homem do Ano",
 				"similaridade": 1
 			},
@@ -7609,18 +8367,6 @@
 			},
 			{
 				"filme": "A Maldição de Frankenstein",
-				"similaridade": 1
-			},
-			{
-				"filme": "Piripkura",
-				"similaridade": 1
-			},
-			{
-				"filme": "Porta dos Fundos: Te Prego Lá Fora",
-				"similaridade": 1
-			},
-			{
-				"filme": "Vai Dar Nada",
 				"similaridade": 1
 			}
 		]
@@ -7748,6 +8494,67 @@
 		]
 	},
 	{
+		"nome": "Renascida das Trevas",
+		"duracao": "1:16:40",
+		"ano": 2018,
+		"score": 5.2,
+		"poster": "https://image.tmdb.org/t/p/w200/gx6eZTOV6fQ7H49muQOwAZegc28.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tNo2tEmdvNVWBiOfnB1dr8QMdsu.jpg",
+		"videoid": "íÌÃÔЀûÅЁÊÅÑ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 1
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Fome de Poder",
+				"similaridade": 1
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 1
+			},
+			{
+				"filme": "Guardiões da Galáxia",
+				"similaridade": 1
+			},
+			{
+				"filme": "Vingadores: Era de Ultron",
+				"similaridade": 1
+			},
+			{
+				"filme": "12 Anos de Escravidão",
+				"similaridade": 1
+			},
+			{
+				"filme": "O Profissional",
+				"similaridade": 1
+			},
+			{
+				"filme": "Harry Potter e o Prisioneiro de Azkaban",
+				"similaridade": 1
+			},
+			{
+				"filme": "Harry Potter e a Câmara Secreta",
+				"similaridade": 1
+			}
+		]
+	},
+	{
 		"nome": "Karma: Aqui se Faz, Aqui se Paga",
 		"duracao": "1:25:35",
 		"ano": 2018,
@@ -7814,7 +8621,7 @@
 				"similaridade": 10
 			},
 			{
-				"filme": "Fatal",
+				"filme": "Elle",
 				"similaridade": 9
 			}
 		]
@@ -7881,6 +8688,67 @@
 		]
 	},
 	{
+		"nome": "A Freira",
+		"duracao": "1:36:35",
+		"ano": 2018,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+		"videoid": "ÅåóÇЍÜüÄҾàÅ",
+		"orcamento": "22M",
+		"receita": "365.6M",
+		"similares": [
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 44
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 41
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 37
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 36
+			},
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 36
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 35
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 33
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 32
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 31
+			},
+			{
+				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
+				"similaridade": 30
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 30
+			}
+		]
+	},
+	{
 		"nome": "Nasce uma Estrela",
 		"duracao": "2:15:44",
 		"ano": 2018,
@@ -7898,6 +8766,10 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 40
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 38
 			},
 			{
 				"filme": "De Olhos Bem Fechados",
@@ -7934,10 +8806,6 @@
 			{
 				"filme": "Sem Dor, Sem Ganho",
 				"similaridade": 30
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 30
 			}
 		]
 	},
@@ -7952,6 +8820,10 @@
 		"orcamento": "150M",
 		"receita": "530.2M",
 		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 98
+			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 92
@@ -7995,11 +8867,41 @@
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 72
+			}
+		]
+	},
+	{
+		"nome": "Operação Resgate – Caverna na Tailândia",
+		"duracao": "1:47:07",
+		"ano": 2018,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/1ibkgLrUx5K2Ejoij3VkAJgnCCh.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/5u25dUUeCNdsaGp0VeFNbRstoTg.jpg",
+		"videoid": "ìÅÒÜÑìëҾҪЍä",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "O Homem do Ano",
+				"similaridade": 1
 			},
 			{
-				"filme": "Jogador N° 1",
-				"similaridade": 70
-			}
+				"filme": "A Noite das Brincadeiras Mortais",
+				"similaridade": 1
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 1
+			},
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
 		]
 	},
 	{
@@ -8060,6 +8962,67 @@
 			{
 				"filme": "Por Que Você Não Chora?",
 				"similaridade": 1
+			}
+		]
+	},
+	{
+		"nome": "A Maldição da Freira",
+		"duracao": "1:16:40",
+		"ano": 2018,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/aZprxLjhvt58FcEPNMA3Ef0XuG2.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/weaONWEyKX0OmFwcB2SWsNXeP8Z.jpg",
+		"videoid": "óåñÒÝðòêÝèЍ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Annabelle",
+				"similaridade": 9
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 7
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 7
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 6
+			},
+			{
+				"filme": "Fim dos Dias",
+				"similaridade": 6
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 5
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 5
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 5
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Exorcista III",
+				"similaridade": 5
+			},
+			{
+				"filme": "O Exorcista II: O Herege",
+				"similaridade": 5
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 4
 			}
 		]
 	},
@@ -8186,6 +9149,67 @@
 		]
 	},
 	{
+		"nome": "Não Adianta Rezar",
+		"duracao": "1:20:06",
+		"ano": 2018,
+		"score": 3.5,
+		"poster": "https://image.tmdb.org/t/p/w200/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hSdVjJ1kJD7EZ4jSLpmnBWeDz6g.jpg",
+		"videoid": "ëЎÉèЀËÉñðíÑ",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "A Freira",
+				"similaridade": 5
+			},
+			{
+				"filme": "Grito de Horror",
+				"similaridade": 5
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 4
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 4
+			},
+			{
+				"filme": "Drácula de Bram Stoker",
+				"similaridade": 4
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 4
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 3
+			},
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 3
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 3
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 3
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 3
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 3
+			}
+		]
+	},
+	{
 		"nome": "Jogador N° 1",
 		"duracao": "2:19:59",
 		"ano": 2018,
@@ -8203,6 +9227,10 @@
 			{
 				"filme": "Deadpool 2",
 				"similaridade": 120
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 115
 			},
 			{
 				"filme": "Velozes & Furiosos 9",
@@ -8239,10 +9267,6 @@
 			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 98
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 96
 			}
 		]
 	},
@@ -8286,6 +9310,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 13
+			},
+			{
 				"filme": "Harry Potter e o Enigma do Príncipe",
 				"similaridade": 13
 			},
@@ -8299,10 +9327,6 @@
 			},
 			{
 				"filme": "Alita: Anjo de Combate",
-				"similaridade": 13
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 13
 			}
 		]
@@ -8318,6 +9342,10 @@
 		"orcamento": "395.2K",
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Prometheus",
+				"similaridade": 7
+			},
 			{
 				"filme": "A.I.: Inteligência Artificial",
 				"similaridade": 7
@@ -8339,6 +9367,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 5
+			},
+			{
 				"filme": "Perdido em Marte",
 				"similaridade": 5
 			},
@@ -8357,14 +9389,67 @@
 			{
 				"filme": "Duna",
 				"similaridade": 5
+			}
+		]
+	},
+	{
+		"nome": "Sobrenatural: A Última Chave",
+		"duracao": "1:43:25",
+		"ano": 2018,
+		"score": 6,
+		"poster": "https://image.tmdb.org/t/p/w200/v3RYZGwImjBUF18RV57J5QuOa31.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
+		"videoid": "îЀÐèÄäЎõÅÄÛ",
+		"orcamento": "10M",
+		"receita": "167.2M",
+		"similares": [
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 17
 			},
 			{
-				"filme": "Além da Escuridão - Star Trek",
-				"similaridade": 5
+				"filme": "Invocação do Mal",
+				"similaridade": 15
 			},
 			{
-				"filme": "Eles Vivem",
-				"similaridade": 4
+				"filme": "Sobrenatural",
+				"similaridade": 14
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 14
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 13
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 12
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 12
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 12
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 11
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 11
+			},
+			{
+				"filme": "Os Espíritos",
+				"similaridade": 11
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 11
 			}
 		]
 	},
@@ -8461,6 +9546,22 @@
 				"similaridade": 2
 			},
 			{
+				"filme": "Elvis & Nixon",
+				"similaridade": 1
+			},
+			{
+				"filme": "Golpe Duplo",
+				"similaridade": 1
+			},
+			{
+				"filme": "Tinker Bell: O Segredo das Fadas",
+				"similaridade": 1
+			},
+			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 1
+			},
+			{
 				"filme": "Super Mario Bros.",
 				"similaridade": 1
 			},
@@ -8470,22 +9571,6 @@
 			},
 			{
 				"filme": "O Homem de Aço",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Fantasma da Máquina",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luar Sobre Parador",
-				"similaridade": 1
-			},
-			{
-				"filme": "Efeito Colateral",
-				"similaridade": 1
-			},
-			{
-				"filme": "Gigantes de Aço",
 				"similaridade": 1
 			}
 		]
@@ -8542,11 +9627,11 @@
 				"similaridade": 8
 			},
 			{
-				"filme": "Deadpool 2",
+				"filme": "Isolados: Medo Invisível",
 				"similaridade": 7
 			},
 			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"filme": "Deadpool 2",
 				"similaridade": 7
 			}
 		]
@@ -8583,8 +9668,16 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 66
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 65
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 64
 			},
 			{
 				"filme": "Olhos de Gato",
@@ -8601,14 +9694,6 @@
 			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 58
-			},
-			{
-				"filme": "A Noiva de Chucky",
-				"similaridade": 58
-			},
-			{
-				"filme": "O Espelho",
-				"similaridade": 56
 			}
 		]
 	},
@@ -8709,6 +9794,10 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 19
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 18
 			},
@@ -8727,10 +9816,6 @@
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 16
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 15
 			}
 		]
 	},
@@ -8835,6 +9920,10 @@
 				"similaridade": 30
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 28
+			},
+			{
 				"filme": "O Irlandês",
 				"similaridade": 27
 			},
@@ -8849,10 +9938,6 @@
 			{
 				"filme": "Efeito Borboleta",
 				"similaridade": 26
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 25
 			}
 		]
 	},
@@ -8872,8 +9957,16 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 67
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 66
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 64
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -8892,6 +9985,10 @@
 				"similaridade": 51
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 46
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 43
 			},
@@ -8902,18 +9999,6 @@
 			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 42
-			},
-			{
-				"filme": "No Fim do Túnel",
-				"similaridade": 39
-			},
-			{
-				"filme": "O Castelo de Vidro",
-				"similaridade": 38
-			},
-			{
-				"filme": "O Lobo de Wall Street",
-				"similaridade": 37
 			}
 		]
 	},
@@ -8979,6 +10064,128 @@
 		]
 	},
 	{
+		"nome": "Annabelle 2: A Criação do Mal",
+		"duracao": "1:49:43",
+		"ano": 2017,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/4pp9KLp4FhHKuPbCSyzO7O5PvDF.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+		"videoid": "ÜóèêùàÔÚÕÅÅ",
+		"orcamento": "15M",
+		"receita": "306.5M",
+		"similares": [
+			{
+				"filme": "Annabelle",
+				"similaridade": 41
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 32
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 29
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 25
+			},
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 20
+			},
+			{
+				"filme": "A Lenda do Cavaleiro Sem Cabeça",
+				"similaridade": 20
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 19
+			},
+			{
+				"filme": "Doutor Estranho no Multiverso da Loucura",
+				"similaridade": 19
+			},
+			{
+				"filme": "Sobrenatural",
+				"similaridade": 18
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 18
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 18
+			},
+			{
+				"filme": "Annabelle 3: De Volta para Casa",
+				"similaridade": 17
+			}
+		]
+	},
+	{
+		"nome": "Transformers: O Último Cavaleiro",
+		"duracao": "2:34:39",
+		"ano": 2017,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+		"videoid": "ÀЁåЍüúÎòÒÀî",
+		"orcamento": "217M",
+		"receita": "605.4M",
+		"similares": [
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
+				"similaridade": 199
+			},
+			{
+				"filme": "Transformers: A Vingança dos Derrotados",
+				"similaridade": 194
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 168
+			},
+			{
+				"filme": "Transformers",
+				"similaridade": 162
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 159
+			},
+			{
+				"filme": "Transformers: A Era da Extinção",
+				"similaridade": 154
+			},
+			{
+				"filme": "Vingadores: Era de Ultron",
+				"similaridade": 132
+			},
+			{
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 129
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 128
+			},
+			{
+				"filme": "O Homem de Aço",
+				"similaridade": 127
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 127
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 126
+			}
+		]
+	},
+	{
 		"nome": "Dirty Dancing : O Musical",
 		"duracao": "2:10:21",
 		"ano": 2017,
@@ -8996,6 +10203,18 @@
 			{
 				"filme": "Um Violinista no Telhado",
 				"similaridade": 2
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 1
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 1
+			},
+			{
+				"filme": "Prazeres Mortais",
+				"similaridade": 1
 			},
 			{
 				"filme": "Super Mario Bros.",
@@ -9023,18 +10242,6 @@
 			},
 			{
 				"filme": "Transformers",
-				"similaridade": 1
-			},
-			{
-				"filme": "Os 12 Macacos",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Massacre da Serra Elétrica: O Início",
-				"similaridade": 1
-			},
-			{
-				"filme": "Luar Sobre Parador",
 				"similaridade": 1
 			}
 		]
@@ -9083,6 +10290,10 @@
 				"similaridade": 91
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 86
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
 				"similaridade": 86
 			},
@@ -9093,10 +10304,6 @@
 			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 84
-			},
-			{
-				"filme": "Inimigo Mortal",
-				"similaridade": 80
 			}
 		]
 	},
@@ -9128,6 +10335,10 @@
 				"similaridade": 161
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 159
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 147
 			},
@@ -9154,10 +10365,6 @@
 			{
 				"filme": "O Homem de Aço",
 				"similaridade": 134
-			},
-			{
-				"filme": "Tenet",
-				"similaridade": 132
 			}
 		]
 	},
@@ -9201,6 +10408,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 17
+			},
+			{
 				"filme": "John Wick 3: Parabellum",
 				"similaridade": 15
 			},
@@ -9214,10 +10425,6 @@
 			},
 			{
 				"filme": "Transformers: A Era da Extinção",
-				"similaridade": 14
-			},
-			{
-				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 14
 			}
 		]
@@ -9364,6 +10571,10 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 2
+			},
+			{
 				"filme": "Super Mario Bros.",
 				"similaridade": 2
 			},
@@ -9397,10 +10608,6 @@
 			},
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 2
-			},
-			{
-				"filme": "A Lenda do Cavaleiro Sem Cabeça",
 				"similaridade": 2
 			}
 		]
@@ -9453,16 +10660,16 @@
 				"similaridade": 86
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 85
+			},
+			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 85
 			},
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 85
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
-				"similaridade": 83
 			}
 		]
 	},
@@ -9484,6 +10691,14 @@
 			{
 				"filme": "Cidade de Deus",
 				"similaridade": 2
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 1
+			},
+			{
+				"filme": "Golpe Duplo",
+				"similaridade": 1
 			},
 			{
 				"filme": "O Substituto",
@@ -9515,14 +10730,6 @@
 			},
 			{
 				"filme": "Fome de Poder",
-				"similaridade": 1
-			},
-			{
-				"filme": "Need for Speed: O Filme",
-				"similaridade": 1
-			},
-			{
-				"filme": "Guardiões da Galáxia",
 				"similaridade": 1
 			}
 		]
@@ -9612,6 +10819,10 @@
 				"similaridade": 33
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 32
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 32
 			},
@@ -9641,10 +10852,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 27
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 27
 			}
 		]
@@ -9711,6 +10918,67 @@
 		]
 	},
 	{
+		"nome": "Elle",
+		"duracao": "2:11:11",
+		"ano": 2016,
+		"score": 6.9,
+		"poster": "https://image.tmdb.org/t/p/w200/4lbQtYYEXphkDvjJ8sD8EM6eo11.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wmJ1RQMhUr05KNJjFT4AnslgfMW.jpg",
+		"videoid": "ÓÃäòÖÀÐÅÉÊÊ",
+		"orcamento": "9.8M",
+		"receita": "2.3M",
+		"similares": [
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 27
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 26
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 21
+			},
+			{
+				"filme": "Marcas da Violência",
+				"similaridade": 20
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 20
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 20
+			},
+			{
+				"filme": "O Quarto Secreto",
+				"similaridade": 19
+			},
+			{
+				"filme": "Perfume: A História de um Assassino",
+				"similaridade": 19
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 19
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 19
+			},
+			{
+				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 18
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 18
+			}
+		]
+	},
+	{
 		"nome": "Cinema Novo",
 		"duracao": "1:32:39",
 		"ano": 2016,
@@ -9772,6 +11040,67 @@
 		]
 	},
 	{
+		"nome": "Invocação do Mal 2",
+		"duracao": "2:13:53",
+		"ano": 2016,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/o94LZsIKt0priAca7hoN4yz7a1d.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4mfFtlGeInPrQVm1hpv7th02yjx.jpg",
+		"videoid": "ñöÙÁîÓҪÕüÓä",
+		"orcamento": "40M",
+		"receita": "320.4M",
+		"similares": [
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 38
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 33
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 30
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 27
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 25
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 20
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 20
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 19
+			},
+			{
+				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
+				"similaridade": 18
+			},
+			{
+				"filme": "Harry Potter e o Cálice de Fogo",
+				"similaridade": 18
+			},
+			{
+				"filme": "Harry Potter e a Câmara Secreta",
+				"similaridade": 18
+			}
+		]
+	},
+	{
 		"nome": "No Fim do Túnel",
 		"duracao": "2:00:24",
 		"ano": 2016,
@@ -9799,6 +11128,14 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 65
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 63
+			},
+			{
 				"filme": "Olhos de Gato",
 				"similaridade": 62
 			},
@@ -9819,16 +11156,8 @@
 				"similaridade": 55
 			},
 			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 50
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 50
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 49
+				"filme": "Annabelle",
+				"similaridade": 51
 			}
 		]
 	},
@@ -9894,6 +11223,67 @@
 		]
 	},
 	{
+		"nome": "Elvis & Nixon",
+		"duracao": "1:26:10",
+		"ano": 2016,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/e4BoHyGQtdTK1ysypLnFlJcnhW5.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/4qqX8rBDa4Dzqf6pSSumpFoEHMB.jpg",
+		"videoid": "ÌҊýёЁäáÉÂäÑ",
+		"orcamento": 0,
+		"receita": "1.1M",
+		"similares": [
+			{
+				"filme": "O Irlandês",
+				"similaridade": 14
+			},
+			{
+				"filme": "2012",
+				"similaridade": 9
+			},
+			{
+				"filme": "Zodíaco",
+				"similaridade": 9
+			},
+			{
+				"filme": "Fome de Poder",
+				"similaridade": 6
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 6
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
+				"similaridade": 6
+			},
+			{
+				"filme": "MIB - Homens de Preto",
+				"similaridade": 6
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 6
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 6
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 6
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 6
+			}
+		]
+	},
+	{
 		"nome": "O Homem nas Trevas",
 		"duracao": "1:28:33",
 		"ano": 2016,
@@ -9904,6 +11294,10 @@
 		"orcamento": "9.9M",
 		"receita": "159M",
 		"similares": [
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 85
+			},
 			{
 				"filme": "No Fim do Túnel",
 				"similaridade": 84
@@ -9937,20 +11331,16 @@
 				"similaridade": 64
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 63
+			},
+			{
 				"filme": "A Noite dos Arrepios",
 				"similaridade": 63
 			},
 			{
 				"filme": "Pânico",
 				"similaridade": 62
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 60
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 56
 			}
 		]
 	},
@@ -10092,6 +11482,22 @@
 				"similaridade": 3
 			},
 			{
+				"filme": "A Maldição da Freira",
+				"similaridade": 2
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 2
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 2
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 2
+			},
+			{
 				"filme": "Uma Mistura Especial",
 				"similaridade": 2
 			},
@@ -10116,23 +11522,7 @@
 				"similaridade": 2
 			},
 			{
-				"filme": "O Irlandês",
-				"similaridade": 1
-			},
-			{
-				"filme": "O Homem de Aço",
-				"similaridade": 1
-			},
-			{
-				"filme": "Tróia",
-				"similaridade": 1
-			},
-			{
-				"filme": "Cruzeiro das Loucas",
-				"similaridade": 1
-			},
-			{
-				"filme": "Harry Potter e a Ordem da Fênix",
+				"filme": "A Hora da Sua Morte",
 				"similaridade": 1
 			}
 		]
@@ -10214,8 +11604,16 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 51
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 46
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 44
 			},
 			{
 				"filme": "Megatubarão",
@@ -10228,6 +11626,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 39
+			},
+			{
+				"filme": "Prometheus",
+				"similaridade": 38
 			},
 			{
 				"filme": "Velozes & Furiosos 9",
@@ -10244,18 +11646,67 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 37
+			}
+		]
+	},
+	{
+		"nome": "Missão: Impossível - Nação Secreta",
+		"duracao": "2:11:34",
+		"ano": 2015,
+		"score": 7.3,
+		"poster": "https://image.tmdb.org/t/p/w200/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/eR20N1flPCQyp9HzpxlTcxgDAO7.jpg",
+		"videoid": "ÉÌÙèóúõÛðÚó",
+		"orcamento": "150M",
+		"receita": "682.3M",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 112
 			},
 			{
-				"filme": "Eternos",
-				"similaridade": 37
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"similaridade": 110
+			},
+			{
+				"filme": "Hitman: Agente 47",
+				"similaridade": 107
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 104
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 101
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 97
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 95
+			},
+			{
+				"filme": "Agentes Vanguard",
+				"similaridade": 94
+			},
+			{
+				"filme": "As Agentes 355",
+				"similaridade": 94
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 91
+			},
+			{
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 90
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 35
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 35
+				"similaridade": 90
 			}
 		]
 	},
@@ -10382,6 +11833,67 @@
 		]
 	},
 	{
+		"nome": "Sobrenatural: A Origem",
+		"duracao": "1:37:23",
+		"ano": 2015,
+		"score": 6.2,
+		"poster": "https://image.tmdb.org/t/p/w200/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/r5cMwEIkkGs0jeNDAZCu9kClxMq.jpg",
+		"videoid": "ЀÅòäÜҾҾâЎÈЍ",
+		"orcamento": "10M",
+		"receita": "104.3M",
+		"similares": [
+			{
+				"filme": "Sobrenatural",
+				"similaridade": 35
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 23
+			},
+			{
+				"filme": "Sobrenatural: Capítulo 2",
+				"similaridade": 23
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 22
+			},
+			{
+				"filme": "Annabelle 2: A Criação do Mal",
+				"similaridade": 20
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 19
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 19
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 18
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 18
+			},
+			{
+				"filme": "Sobrenatural: A Última Chave",
+				"similaridade": 17
+			},
+			{
+				"filme": "Christine: O Carro Assassino",
+				"similaridade": 17
+			},
+			{
+				"filme": "Piratas do Caribe: A Vingança de Salazar",
+				"similaridade": 17
+			}
+		]
+	},
+	{
 		"nome": "Vingadores: Era de Ultron",
 		"duracao": "2:21:19",
 		"ano": 2015,
@@ -10399,6 +11911,10 @@
 			{
 				"filme": "Mulher-Maravilha",
 				"similaridade": 138
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 132
 			},
 			{
 				"filme": "Deadpool 2",
@@ -10434,10 +11950,6 @@
 			},
 			{
 				"filme": "Deadpool",
-				"similaridade": 105
-			},
-			{
-				"filme": "Velozes & Furiosos 9",
 				"similaridade": 105
 			}
 		]
@@ -10486,6 +11998,10 @@
 				"similaridade": 105
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 103
+			},
+			{
 				"filme": "Velozes e Furiosos 4",
 				"similaridade": 103
 			},
@@ -10496,10 +12012,67 @@
 			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 98
+			}
+		]
+	},
+	{
+		"nome": "Lar Doce Inferno",
+		"duracao": "1:37:52",
+		"ano": 2015,
+		"score": 5.4,
+		"poster": "https://image.tmdb.org/t/p/w200/fpBzu5ekoaDlzr1I6LO5ertxJkn.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/kYDIQ6GSnHStMWUdCYwpmBcXtcm.jpg",
+		"videoid": "åêíóÐüÚèÂÄÛ",
+		"orcamento": "3M",
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Fatal",
+				"similaridade": 11
 			},
 			{
-				"filme": "Transformers: A Era da Extinção",
-				"similaridade": 96
+				"filme": "Laranja Mecânica",
+				"similaridade": 10
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 10
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 9
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 9
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Profissional",
+				"similaridade": 7
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 7
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 7
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 6
+			},
+			{
+				"filme": "Marcas da Violência",
+				"similaridade": 6
+			},
+			{
+				"filme": "Nasce uma Estrela",
+				"similaridade": 6
 			}
 		]
 	},
@@ -10600,6 +12173,10 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Elle",
+				"similaridade": 4
+			},
+			{
 				"filme": "Marcas da Violência",
 				"similaridade": 4
 			},
@@ -10618,10 +12195,67 @@
 			{
 				"filme": "Tróia",
 				"similaridade": 4
+			}
+		]
+	},
+	{
+		"nome": "Golpe Duplo",
+		"duracao": "1:44:45",
+		"ano": 2015,
+		"score": 6.7,
+		"poster": "https://image.tmdb.org/t/p/w200/7kFmz3geXBWtBI5MivEepLcxXdv.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/tJMvfYI2m6npeKRU9rAlLNTLlIj.jpg",
+		"videoid": "ýÁЍûÖÉÓäЌÄÏ",
+		"orcamento": "50.1M",
+		"receita": "154M",
+		"similares": [
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 54
 			},
 			{
-				"filme": "Força Oposta",
-				"similaridade": 4
+				"filme": "Alerta Vermelho",
+				"similaridade": 50
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 49
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 48
+			},
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 48
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 44
+			},
+			{
+				"filme": "Velozes & Furiosos 7",
+				"similaridade": 42
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 42
+			},
+			{
+				"filme": "John Wick: De Volta ao Jogo",
+				"similaridade": 41
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 40
+			},
+			{
+				"filme": "O Irlandês",
+				"similaridade": 39
+			},
+			{
+				"filme": "Busca Sem Limites",
+				"similaridade": 39
 			}
 		]
 	},
@@ -10714,6 +12348,14 @@
 				"similaridade": 63
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 60
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 60
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 59
 			},
@@ -10736,14 +12378,6 @@
 			{
 				"filme": "Perdido em Marte",
 				"similaridade": 53
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 52
-			},
-			{
-				"filme": "Megatubarão",
-				"similaridade": 47
 			}
 		]
 	},
@@ -10767,6 +12401,10 @@
 				"similaridade": 68
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 66
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 63
 			},
@@ -10777,6 +12415,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 62
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 60
 			},
 			{
 				"filme": "Deadpool",
@@ -10797,14 +12439,128 @@
 			{
 				"filme": "O Substituto",
 				"similaridade": 53
+			}
+		]
+	},
+	{
+		"nome": "Prazeres Mortais",
+		"duracao": "1:43:00",
+		"ano": 2014,
+		"score": 6.3,
+		"poster": "https://image.tmdb.org/t/p/w200/k3LcA2rr3mHWpqZlUezClPnvpoO.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/iEK0kIPFgdMaqcwoyHcakBmVzgk.jpg",
+		"videoid": "ÈÉáðíÔҾÁÅÈä",
+		"orcamento": "14M",
+		"receita": "10.1M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 33
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Deadpool",
+				"similaridade": 25
+			},
+			{
+				"filme": "Vingança",
+				"similaridade": 25
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 23
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 23
+			},
+			{
+				"filme": "Uma Questão de Respeito",
+				"similaridade": 22
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 20
+			},
+			{
+				"filme": "De Olhos Bem Fechados",
+				"similaridade": 19
+			},
+			{
+				"filme": "Perigo Para a Sociedade",
+				"similaridade": 19
+			},
+			{
+				"filme": "Cidade de Deus",
+				"similaridade": 19
+			}
+		]
+	},
+	{
+		"nome": "Annabelle",
+		"duracao": "1:38:49",
+		"ano": 2014,
+		"score": 5.6,
+		"poster": "https://image.tmdb.org/t/p/w200/auC4yq2aiM8L7nVuTUJYmb6FKHQ.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2gKX53lskaCYk9ycXmaDJKqWiy.jpg",
+		"videoid": "òòЍãéÙåЎÙҊä",
+		"orcamento": "6.5M",
+		"receita": "257M",
+		"similares": [
+			{
+				"filme": "A Casa do Espanto",
+				"similaridade": 69
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 68
+			},
+			{
+				"filme": "Verônica: Jogo Sobrenatural",
+				"similaridade": 67
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 62
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 58
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 58
+			},
+			{
+				"filme": "A Babá",
+				"similaridade": 57
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 53
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 53
+			},
+			{
+				"filme": "A Noite dos Arrepios",
 				"similaridade": 52
 			},
 			{
-				"filme": "Django Livre",
+				"filme": "No Fim do Túnel",
 				"similaridade": 51
+			},
+			{
+				"filme": "O Exorcista",
+				"similaridade": 50
 			}
 		]
 	},
@@ -10889,6 +12645,10 @@
 				"similaridade": 53
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 50
+			},
+			{
 				"filme": "A Babá",
 				"similaridade": 50
 			},
@@ -10913,20 +12673,16 @@
 				"similaridade": 40
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 35
+			},
+			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 34
 			},
 			{
-				"filme": "O Quarto Secreto",
+				"filme": "Annabelle",
 				"similaridade": 33
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 32
-			},
-			{
-				"filme": "Cemitério Maldito",
-				"similaridade": 32
 			}
 		]
 	},
@@ -10942,12 +12698,20 @@
 		"receita": "233.6M",
 		"similares": [
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 20
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 20
 			},
 			{
 				"filme": "Professor Marston e as Mulheres-Maravilhas",
 				"similaridade": 19
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 17
 			},
 			{
 				"filme": "Laranja Mecânica",
@@ -10980,14 +12744,6 @@
 			{
 				"filme": "Bastardos Inglórios",
 				"similaridade": 14
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 14
-			},
-			{
-				"filme": "Eternos",
-				"similaridade": 14
 			}
 		]
 	},
@@ -11005,6 +12761,10 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 43
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 42
 			},
 			{
 				"filme": "Mulher-Maravilha",
@@ -11045,10 +12805,6 @@
 			{
 				"filme": "Megatubarão",
 				"similaridade": 34
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
-				"similaridade": 34
 			}
 		]
 	},
@@ -11076,12 +12832,20 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 36
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 36
 			},
 			{
 				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 35
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 33
 			},
 			{
 				"filme": "Mente Criminosa",
@@ -11101,14 +12865,6 @@
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 31
-			},
-			{
-				"filme": "Guerra Mundial Z",
-				"similaridade": 31
-			},
-			{
-				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 31
 			}
 		]
@@ -11169,7 +12925,7 @@
 				"similaridade": 109
 			},
 			{
-				"filme": "Velozes & Furiosos 8",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 104
 			}
 		]
@@ -11188,6 +12944,10 @@
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 159
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 154
 			},
 			{
 				"filme": "Transformers: A Vingança dos Derrotados",
@@ -11228,10 +12988,6 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 95
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 93
 			}
 		]
 	},
@@ -11267,6 +13023,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "2012",
+				"similaridade": 13
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 13
 			},
@@ -11276,10 +13036,6 @@
 			},
 			{
 				"filme": "Velozes & Furiosos 7",
-				"similaridade": 13
-			},
-			{
-				"filme": "2012",
 				"similaridade": 13
 			},
 			{
@@ -11393,6 +13149,10 @@
 				"similaridade": 50
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 49
+			},
+			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 49
 			},
@@ -11410,10 +13170,6 @@
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 44
-			},
-			{
-				"filme": "Mate ou Morra",
 				"similaridade": 44
 			}
 		]
@@ -11602,6 +13358,67 @@
 		]
 	},
 	{
+		"nome": "De Repente Pai",
+		"duracao": "1:44:48",
+		"ano": 2013,
+		"score": 6.3,
+		"poster": "https://image.tmdb.org/t/p/w200/4iviSGM2KWEUDhU4m8ujyN9MI6K.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/slU6RI9BrLYFKRNI9pAXjWeLwug.jpg",
+		"videoid": "ÑÂííàÉáЀúñÖ",
+		"orcamento": "26M",
+		"receita": "51.2M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 24
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Irlandês",
+				"similaridade": 21
+			},
+			{
+				"filme": "O Castelo de Vidro",
+				"similaridade": 21
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 20
+			},
+			{
+				"filme": "Fúria Incontrolável",
+				"similaridade": 16
+			},
+			{
+				"filme": "Efeito Borboleta",
+				"similaridade": 16
+			},
+			{
+				"filme": "O Poderoso Chefão",
+				"similaridade": 16
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 15
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 15
+			},
+			{
+				"filme": "A Babá: Rainha da Morte",
+				"similaridade": 15
+			},
+			{
+				"filme": "Fúria Silenciosa",
+				"similaridade": 15
+			}
+		]
+	},
+	{
 		"nome": "A Maldição de Chucky",
 		"duracao": "1:36:42",
 		"ano": 2013,
@@ -11637,6 +13454,10 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 34
+			},
+			{
 				"filme": "Batman",
 				"similaridade": 34
 			},
@@ -11655,10 +13476,6 @@
 			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 30
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 28
 			}
 		]
 	},
@@ -11743,6 +13560,10 @@
 				"similaridade": 31
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 30
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 30
 			},
@@ -11777,10 +13598,6 @@
 			{
 				"filme": "Brinquedo Assassino",
 				"similaridade": 24
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 23
 			}
 		]
 	},
@@ -11808,12 +13625,24 @@
 				"similaridade": 69
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 65
+			},
+			{
 				"filme": "A Babá: Rainha da Morte",
 				"similaridade": 65
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 62
+			},
+			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 61
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 58
 			},
 			{
 				"filme": "A Noite dos Arrepios",
@@ -11830,18 +13659,6 @@
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 54
-			},
-			{
-				"filme": "Boa Noite, Mamãe!",
-				"similaridade": 54
-			},
-			{
-				"filme": "O Quarto Secreto",
-				"similaridade": 46
-			},
-			{
-				"filme": "Batman",
-				"similaridade": 46
 			}
 		]
 	},
@@ -11918,6 +13735,10 @@
 		"receita": "531.9M",
 		"similares": [
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 92
+			},
+			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 88
 			},
@@ -11960,10 +13781,6 @@
 			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 75
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 75
 			}
 		]
 	},
@@ -11995,6 +13812,10 @@
 				"similaridade": 134
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 127
+			},
+			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 125
 			},
@@ -12021,10 +13842,67 @@
 			{
 				"filme": "Deadpool 2",
 				"similaridade": 106
+			}
+		]
+	},
+	{
+		"nome": "Invocação do Mal",
+		"duracao": "1:51:59",
+		"ano": 2013,
+		"score": 7.5,
+		"poster": "https://image.tmdb.org/t/p/w200/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/aQCCpAIdWAp6wyFgjMry4okwrZo.jpg",
+		"videoid": "ïÈöҾîéÏõÛñÅ",
+		"orcamento": "13M",
+		"receita": "319.5M",
+		"similares": [
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 83
 			},
 			{
-				"filme": "Deadpool",
-				"similaridade": 102
+				"filme": "O Exorcista",
+				"similaridade": 70
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 53
+			},
+			{
+				"filme": "As Fitas de Poughkeepsie",
+				"similaridade": 50
+			},
+			{
+				"filme": "A Freira",
+				"similaridade": 41
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 40
+			},
+			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 38
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
+				"similaridade": 38
+			},
+			{
+				"filme": "Harry Potter e o Enigma do Príncipe",
+				"similaridade": 36
+			},
+			{
+				"filme": "Cemitério Maldito",
+				"similaridade": 36
+			},
+			{
+				"filme": "O Espelho",
+				"similaridade": 35
+			},
+			{
+				"filme": "Zodíaco",
+				"similaridade": 34
 			}
 		]
 	},
@@ -12312,6 +14190,10 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 24
+			},
+			{
 				"filme": "Transformers: A Era da Extinção",
 				"similaridade": 24
 			},
@@ -12326,10 +14208,6 @@
 			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 22
-			},
-			{
-				"filme": "Fatal",
-				"similaridade": 21
 			}
 		]
 	},
@@ -12377,6 +14255,10 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 64
+			},
+			{
 				"filme": "Velozes & Furiosos 6",
 				"similaridade": 63
 			},
@@ -12386,10 +14268,6 @@
 			},
 			{
 				"filme": "John Wick 2: Um Novo Dia para Matar",
-				"similaridade": 62
-			},
-			{
-				"filme": "Deadpool",
 				"similaridade": 62
 			}
 		]
@@ -12456,6 +14334,189 @@
 		]
 	},
 	{
+		"nome": "Tinker Bell: O Segredo das Fadas",
+		"duracao": "1:15:04",
+		"ano": 2012,
+		"score": 7.1,
+		"poster": "https://image.tmdb.org/t/p/w200/a4XtmRHjpcN8r4ZUn7g3kGEE3F4.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/wBfvAZ9y5D2HjtHKiLiwsTxP8iu.jpg",
+		"videoid": "ËЁЎýÁúÉðÝÝë",
+		"orcamento": 0,
+		"receita": 0,
+		"similares": [
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 14
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 12
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 11
+			},
+			{
+				"filme": "Guardiões da Galáxia",
+				"similaridade": 10
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 10
+			},
+			{
+				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
+				"similaridade": 9
+			},
+			{
+				"filme": "Harry Potter e o Prisioneiro de Azkaban",
+				"similaridade": 9
+			},
+			{
+				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
+				"similaridade": 9
+			},
+			{
+				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
+				"similaridade": 8
+			},
+			{
+				"filme": "Vingadores: Era de Ultron",
+				"similaridade": 8
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 8
+			},
+			{
+				"filme": "O Apanhador de Sonhos",
+				"similaridade": 7
+			}
+		]
+	},
+	{
+		"nome": "Prometheus",
+		"duracao": "2:03:47",
+		"ano": 2012,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/k1GZVllOORTiN0XTPdumt9CSAcc.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/hO97RyNjBIMfzfFpUjNhsm4zImh.jpg",
+		"videoid": "ÚôЇàÇÊðҾЁïÑ",
+		"orcamento": "130M",
+		"receita": "403.4M",
+		"similares": [
+			{
+				"filme": "O Homem de Aço",
+				"similaridade": 70
+			},
+			{
+				"filme": "Guardiões da Galáxia",
+				"similaridade": 68
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 68
+			},
+			{
+				"filme": "Além da Escuridão - Star Trek",
+				"similaridade": 66
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 63
+			},
+			{
+				"filme": "Transformers: O Lado Oculto da Lua",
+				"similaridade": 62
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 61
+			},
+			{
+				"filme": "Eternos",
+				"similaridade": 59
+			},
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 57
+			},
+			{
+				"filme": "A Morte do Superman",
+				"similaridade": 56
+			},
+			{
+				"filme": "Duna",
+				"similaridade": 53
+			},
+			{
+				"filme": "Vingadores: Era de Ultron",
+				"similaridade": 52
+			}
+		]
+	},
+	{
+		"nome": "Chernobyl: Sinta a Radiação",
+		"duracao": "1:28:26",
+		"ano": 2012,
+		"score": 5.3,
+		"poster": "https://image.tmdb.org/t/p/w200/9kOflOXZFGjcbs6AZOZ6PxQnF7W.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/1BgWRWjZtD6zyJfzlfDx3NHaECQ.jpg",
+		"videoid": "ðùÌÏÁÝёùÏðö",
+		"orcamento": "1M",
+		"receita": "38.4M",
+		"similares": [
+			{
+				"filme": "Batman",
+				"similaridade": 32
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 32
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 31
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 31
+			},
+			{
+				"filme": "O Homem nas Trevas",
+				"similaridade": 30
+			},
+			{
+				"filme": "Liga da Justiça de Zack Snyder",
+				"similaridade": 30
+			},
+			{
+				"filme": "Tenet",
+				"similaridade": 30
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 28
+			},
+			{
+				"filme": "A Noiva de Chucky",
+				"similaridade": 28
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 28
+			},
+			{
+				"filme": "O Enigma de Outro Mundo",
+				"similaridade": 28
+			},
+			{
+				"filme": "Pânico",
+				"similaridade": 27
+			}
+		]
+	},
+	{
 		"nome": "MIB: Homens de Preto 3",
 		"duracao": "1:45:51",
 		"ano": 2012,
@@ -12469,6 +14530,10 @@
 			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 78
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 75
 			},
 			{
 				"filme": "Deadpool 2",
@@ -12509,10 +14574,6 @@
 			{
 				"filme": "O Homem de Aço",
 				"similaridade": 61
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 60
 			}
 		]
 	},
@@ -12544,6 +14605,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 13
+			},
+			{
 				"filme": "O Irlandês",
 				"similaridade": 12
 			},
@@ -12569,10 +14634,6 @@
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 10
-			},
-			{
-				"filme": "Velozes & Furiosos 9",
 				"similaridade": 10
 			}
 		]
@@ -12617,24 +14678,24 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 41
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 40
+			},
+			{
+				"filme": "Campo do Medo",
+				"similaridade": 40
+			},
+			{
 				"filme": "O Poço",
 				"similaridade": 38
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 38
-			},
-			{
-				"filme": "Laranja Mecânica",
-				"similaridade": 35
-			},
-			{
-				"filme": "Efeito Borboleta",
-				"similaridade": 35
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 33
 			}
 		]
 	},
@@ -12837,6 +14898,10 @@
 				"similaridade": 203
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 199
+			},
+			{
 				"filme": "Transformers",
 				"similaridade": 183
 			},
@@ -12875,10 +14940,67 @@
 			{
 				"filme": "Velozes & Furiosos 9",
 				"similaridade": 123
+			}
+		]
+	},
+	{
+		"nome": "Colombiana: Em Busca de Vingança",
+		"duracao": "1:51:36",
+		"ano": 2011,
+		"score": 6.5,
+		"poster": "https://image.tmdb.org/t/p/w200/yfocdCwsdaJQNOpXacHet1S3QEN.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/2PlRuZUjqC58bqm6MOjOAraEdFA.jpg",
+		"videoid": "ÚïҪÒïÐЎôòàü",
+		"orcamento": "40M",
+		"receita": "61M",
+		"similares": [
+			{
+				"filme": "Deadpool 2",
+				"similaridade": 64
 			},
 			{
-				"filme": "Tenet",
-				"similaridade": 114
+				"filme": "Batman",
+				"similaridade": 62
+			},
+			{
+				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"similaridade": 57
+			},
+			{
+				"filme": "O Substituto",
+				"similaridade": 56
+			},
+			{
+				"filme": "Fatal",
+				"similaridade": 56
+			},
+			{
+				"filme": "Velozes & Furiosos 8",
+				"similaridade": 56
+			},
+			{
+				"filme": "Velozes & Furiosos 9",
+				"similaridade": 54
+			},
+			{
+				"filme": "Mulher-Maravilha",
+				"similaridade": 54
+			},
+			{
+				"filme": "O Estrangeiro",
+				"similaridade": 52
+			},
+			{
+				"filme": "A Profissional",
+				"similaridade": 51
+			},
+			{
+				"filme": "Hitman: Agente 47",
+				"similaridade": 51
+			},
+			{
+				"filme": "Mente Criminosa",
+				"similaridade": 51
 			}
 		]
 	},
@@ -12918,6 +15040,10 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 25
+			},
+			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 25
 			},
@@ -12935,10 +15061,6 @@
 			},
 			{
 				"filme": "Uncharted: Fora do Mapa",
-				"similaridade": 21
-			},
-			{
-				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 21
 			}
 		]
@@ -13056,11 +15178,11 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "O Irlandês",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 17
 			},
 			{
-				"filme": "Deadpool",
+				"filme": "O Irlandês",
 				"similaridade": 17
 			}
 		]
@@ -13076,6 +15198,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Prometheus",
+				"similaridade": 18
+			},
 			{
 				"filme": "Harry Potter e o Cálice de Fogo",
 				"similaridade": 18
@@ -13118,10 +15244,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 16
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 16
 			}
 		]
@@ -13188,6 +15310,67 @@
 		]
 	},
 	{
+		"nome": "A Rede Social",
+		"duracao": "2:00:28",
+		"ano": 2010,
+		"score": 7.6,
+		"poster": "https://image.tmdb.org/t/p/w200/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg",
+		"background": "https://image.tmdb.org/t/p/w780/65D7t8wgZFpjOTvIp1HQvHFY0fC.jpg",
+		"videoid": "ЁЍÈÌЀÎôЎЀÖЀ",
+		"orcamento": "40M",
+		"receita": "224.9M",
+		"similares": [
+			{
+				"filme": "O Lobo de Wall Street",
+				"similaridade": 45
+			},
+			{
+				"filme": "Sem Dor, Sem Ganho",
+				"similaridade": 32
+			},
+			{
+				"filme": "Jogador N° 1",
+				"similaridade": 30
+			},
+			{
+				"filme": "Deadpool",
+				"similaridade": 26
+			},
+			{
+				"filme": "Batman",
+				"similaridade": 26
+			},
+			{
+				"filme": "Homem-Aranha: Sem Volta Para Casa",
+				"similaridade": 25
+			},
+			{
+				"filme": "Golpe Duplo",
+				"similaridade": 24
+			},
+			{
+				"filme": "Laranja Mecânica",
+				"similaridade": 24
+			},
+			{
+				"filme": "Mulher-Maravilha 1984",
+				"similaridade": 24
+			},
+			{
+				"filme": "Animais Fantásticos e Onde Habitam",
+				"similaridade": 23
+			},
+			{
+				"filme": "Megatubarão",
+				"similaridade": 23
+			},
+			{
+				"filme": "Cidadão Kane",
+				"similaridade": 23
+			}
+		]
+	},
+	{
 		"nome": "Sobrenatural",
 		"duracao": "1:42:24",
 		"ano": 2010,
@@ -13201,6 +15384,18 @@
 			{
 				"filme": "Sobrenatural: Capítulo 2",
 				"similaridade": 39
+			},
+			{
+				"filme": "Sobrenatural: A Origem",
+				"similaridade": 35
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 29
+			},
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 26
 			},
 			{
 				"filme": "O Espelho",
@@ -13233,18 +15428,6 @@
 			{
 				"filme": "A Casa Sombria",
 				"similaridade": 21
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 21
-			},
-			{
-				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 20
-			},
-			{
-				"filme": "O Homem de Aço",
-				"similaridade": 20
 			}
 		]
 	},
@@ -13372,15 +15555,19 @@
 	},
 	{
 		"nome": "2012",
-		"duracao": "",
+		"duracao": "2:37:50",
 		"ano": 2009,
 		"score": 5.8,
 		"poster": "https://image.tmdb.org/t/p/w200/6ZwQWTKeLfmGyaCxKWEqEM7Ewtq.jpg",
 		"background": "https://image.tmdb.org/t/p/w780/pvxmYJcgrLiYC6G2IQTn1PPNems.jpg",
-		"videoid": "ç:ёЌ:Ёü",
+		"videoid": "ÙЎÃÒÕҊÉÅÌÂö",
 		"orcamento": "200M",
 		"receita": "791.2M",
 		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 60
+			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 58
@@ -13392,6 +15579,10 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 54
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 53
 			},
 			{
 				"filme": "O Homem de Aço",
@@ -13420,14 +15611,6 @@
 			{
 				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
 				"similaridade": 44
-			},
-			{
-				"filme": "Guerra Mundial Z",
-				"similaridade": 43
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 42
 			}
 		]
 	},
@@ -13540,15 +15723,15 @@
 				"similaridade": 31
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 29
+			},
+			{
 				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 29
 			},
 			{
 				"filme": "O Lobo de Wall Street",
-				"similaridade": 29
-			},
-			{
-				"filme": "Premonição 5",
 				"similaridade": 29
 			}
 		]
@@ -13634,6 +15817,10 @@
 				"similaridade": 202
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 194
+			},
+			{
 				"filme": "Transformers: A Era da Extinção",
 				"similaridade": 133
 			},
@@ -13668,10 +15855,6 @@
 			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 92
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 91
 			}
 		]
 	},
@@ -13707,6 +15890,10 @@
 				"similaridade": 62
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 60
+			},
+			{
 				"filme": "O Estrangeiro",
 				"similaridade": 60
 			},
@@ -13729,10 +15916,6 @@
 			{
 				"filme": "Batman",
 				"similaridade": 56
-			},
-			{
-				"filme": "John Wick: De Volta ao Jogo",
-				"similaridade": 55
 			}
 		]
 	},
@@ -13809,6 +15992,10 @@
 		"receita": "43.3M",
 		"similares": [
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 20
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 20
 			},
@@ -13850,10 +16037,6 @@
 			},
 			{
 				"filme": "Pânico",
-				"similaridade": 17
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 17
 			}
 		]
@@ -13967,15 +16150,15 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 25
+			},
+			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 25
 			},
 			{
 				"filme": "O Homem de Aço",
-				"similaridade": 25
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 25
 			}
 		]
@@ -14549,6 +16732,10 @@
 				"similaridade": 183
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 162
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 123
 			},
@@ -14583,10 +16770,6 @@
 			{
 				"filme": "Velozes & Furiosos 8",
 				"similaridade": 77
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 75
 			}
 		]
 	},
@@ -14817,6 +17000,10 @@
 				"similaridade": 52
 			},
 			{
+				"filme": "Invocação do Mal",
+				"similaridade": 50
+			},
+			{
 				"filme": "Clube da Luta",
 				"similaridade": 49
 			},
@@ -14827,10 +17014,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 49
-			},
-			{
-				"filme": "Menina Má.Com",
-				"similaridade": 48
 			}
 		]
 	},
@@ -15370,15 +17553,15 @@
 				"similaridade": 24
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 22
+			},
+			{
 				"filme": "Fatal",
 				"similaridade": 22
 			},
 			{
 				"filme": "John Wick 2: Um Novo Dia para Matar",
-				"similaridade": 22
-			},
-			{
-				"filme": "Christine: O Carro Assassino",
 				"similaridade": 22
 			}
 		]
@@ -15716,11 +17899,11 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "John Wick 2: Um Novo Dia para Matar",
+				"filme": "2012",
 				"similaridade": 10
 			},
 			{
-				"filme": "2012",
+				"filme": "John Wick 2: Um Novo Dia para Matar",
 				"similaridade": 10
 			},
 			{
@@ -15740,11 +17923,11 @@
 				"similaridade": 9
 			},
 			{
-				"filme": "15 Minutes",
+				"filme": "De Repente Pai",
 				"similaridade": 8
 			},
 			{
-				"filme": "Django Livre",
+				"filme": "15 Minutes",
 				"similaridade": 8
 			}
 		]
@@ -15976,20 +18159,20 @@
 				"similaridade": 33
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 32
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 30
+			},
+			{
 				"filme": "Harry Potter e o Cálice de Fogo",
 				"similaridade": 30
 			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 30
-			},
-			{
-				"filme": "Transformers: A Vingança dos Derrotados",
-				"similaridade": 29
-			},
-			{
-				"filme": "Gladiador",
-				"similaridade": 29
 			}
 		]
 	},
@@ -16070,6 +18253,10 @@
 				"similaridade": 74
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 70
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 69
 			},
@@ -16108,10 +18295,6 @@
 			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 52
-			},
-			{
-				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 51
 			}
 		]
 	},
@@ -16159,6 +18342,10 @@
 				"similaridade": 37
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 36
+			},
+			{
 				"filme": "John Wick 3: Parabellum",
 				"similaridade": 36
 			},
@@ -16169,10 +18356,6 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 36
-			},
-			{
-				"filme": "Ninja Assassino",
-				"similaridade": 35
 			}
 		]
 	},
@@ -16505,6 +18688,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "De Repente Pai",
+				"similaridade": 11
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 11
 			},
@@ -16535,10 +18722,6 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 10
-			},
-			{
-				"filme": "O Irlandês",
-				"similaridade": 9
 			}
 		]
 	},
@@ -16578,6 +18761,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 40
+			},
+			{
 				"filme": "Transformers",
 				"similaridade": 40
 			},
@@ -16595,10 +18782,6 @@
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 32
-			},
-			{
-				"filme": "Mulher-Maravilha",
 				"similaridade": 32
 			}
 		]
@@ -16708,6 +18891,10 @@
 				"similaridade": 45
 			},
 			{
+				"filme": "Missão: Impossível - Nação Secreta",
+				"similaridade": 43
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 42
 			},
@@ -16717,10 +18904,6 @@
 			},
 			{
 				"filme": "Deadpool",
-				"similaridade": 40
-			},
-			{
-				"filme": "Tenet",
 				"similaridade": 40
 			}
 		]
@@ -16903,7 +19086,7 @@
 				"similaridade": 16
 			},
 			{
-				"filme": "O Homem de Aço",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 15
 			}
 		]
@@ -17233,6 +19416,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 17
+			},
+			{
 				"filme": "Django Livre",
 				"similaridade": 17
 			},
@@ -17267,10 +19454,6 @@
 			{
 				"filme": "O Castelo de Vidro",
 				"similaridade": 15
-			},
-			{
-				"filme": "Fatal",
-				"similaridade": 14
 			}
 		]
 	},
@@ -17306,6 +19489,10 @@
 				"similaridade": 18
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 17
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 17
 			},
@@ -17322,15 +19509,11 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 15
+			},
+			{
 				"filme": "No Olho do Tornado",
-				"similaridade": 15
-			},
-			{
-				"filme": "O Apanhador de Sonhos",
-				"similaridade": 15
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 15
 			}
 		]
@@ -17367,6 +19550,10 @@
 				"similaridade": 11
 			},
 			{
+				"filme": "A Rede Social",
+				"similaridade": 10
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 10
 			},
@@ -17388,10 +19575,6 @@
 			},
 			{
 				"filme": "Vingança",
-				"similaridade": 9
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 9
 			}
 		]
@@ -17554,6 +19737,10 @@
 				"similaridade": 60
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 59
+			},
+			{
 				"filme": "Eternos",
 				"similaridade": 59
 			},
@@ -17572,10 +19759,6 @@
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 52
-			},
-			{
-				"filme": "John Wick 3: Parabellum",
-				"similaridade": 51
 			}
 		]
 	},
@@ -17757,7 +19940,7 @@
 				"similaridade": 36
 			},
 			{
-				"filme": "Deadpool",
+				"filme": "A Freira",
 				"similaridade": 35
 			}
 		]
@@ -17843,6 +20026,10 @@
 				"similaridade": 42
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 31
+			},
+			{
 				"filme": "Guerra Mundial Z",
 				"similaridade": 30
 			},
@@ -17859,6 +20046,10 @@
 				"similaridade": 27
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 26
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 26
 			},
@@ -17872,14 +20063,6 @@
 			},
 			{
 				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 25
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 25
-			},
-			{
-				"filme": "Alita: Anjo de Combate",
 				"similaridade": 25
 			}
 		]
@@ -18237,15 +20420,15 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Golpe Duplo",
+				"similaridade": 9
+			},
+			{
 				"filme": "John Wick 3: Parabellum",
 				"similaridade": 9
 			},
 			{
 				"filme": "O Irlandês",
-				"similaridade": 9
-			},
-			{
-				"filme": "Zodíaco",
 				"similaridade": 9
 			}
 		]
@@ -18286,6 +20469,10 @@
 				"similaridade": 54
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 51
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
 				"similaridade": 51
 			},
@@ -18304,10 +20491,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 46
-			},
-			{
-				"filme": "Mulher-Maravilha",
-				"similaridade": 45
 			}
 		]
 	},
@@ -18322,6 +20505,10 @@
 		"orcamento": "90M",
 		"receita": "263.9M",
 		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 67
+			},
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 65
@@ -18351,6 +20538,10 @@
 				"similaridade": 55
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 52
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 52
 			},
@@ -18361,14 +20552,6 @@
 			{
 				"filme": "Duna",
 				"similaridade": 51
-			},
-			{
-				"filme": "Transformers",
-				"similaridade": 50
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 50
 			}
 		]
 	},
@@ -18420,15 +20603,15 @@
 				"similaridade": 5
 			},
 			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 4
+			},
+			{
 				"filme": "O Substituto",
 				"similaridade": 4
 			},
 			{
 				"filme": "Fatal",
-				"similaridade": 4
-			},
-			{
-				"filme": "Deadpool 2",
 				"similaridade": 4
 			}
 		]
@@ -18481,15 +20664,15 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 13
+			},
+			{
+				"filme": "2012",
+				"similaridade": 13
+			},
+			{
 				"filme": "Eles Vivem",
-				"similaridade": 13
-			},
-			{
-				"filme": "Deadpool",
-				"similaridade": 13
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 13
 			}
 		]
@@ -18733,7 +20916,7 @@
 				"similaridade": 42
 			},
 			{
-				"filme": "Clube da Luta",
+				"filme": "Isolados: Medo Invisível",
 				"similaridade": 41
 			}
 		]
@@ -18957,6 +21140,10 @@
 				"similaridade": 21
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 19
+			},
+			{
 				"filme": "Jogador N° 1",
 				"similaridade": 18
 			},
@@ -18974,10 +21161,6 @@
 			},
 			{
 				"filme": "O Tigre e o Dragão",
-				"similaridade": 17
-			},
-			{
-				"filme": "Agentes Vanguard",
 				"similaridade": 17
 			}
 		]
@@ -19518,15 +21701,15 @@
 				"similaridade": 44
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 42
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 42
 			},
 			{
 				"filme": "O Substituto",
-				"similaridade": 41
-			},
-			{
-				"filme": "O Homem de Aço",
 				"similaridade": 41
 			}
 		]
@@ -19734,6 +21917,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 14
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 14
 			},
@@ -19750,6 +21937,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Invocação do Mal",
+				"similaridade": 13
+			},
+			{
 				"filme": "A Noiva de Chucky",
 				"similaridade": 13
 			},
@@ -19762,15 +21953,7 @@
 				"similaridade": 13
 			},
 			{
-				"filme": "Christine: O Carro Assassino",
-				"similaridade": 12
-			},
-			{
-				"filme": "A Babá: Rainha da Morte",
-				"similaridade": 12
-			},
-			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Isolados: Medo Invisível",
 				"similaridade": 12
 			}
 		]
@@ -19917,6 +22100,10 @@
 				"similaridade": 25
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 21
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 17
 			},
@@ -19941,19 +22128,15 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 13
+			},
+			{
 				"filme": "Vingadores: Era de Ultron",
 				"similaridade": 12
 			},
 			{
 				"filme": "Jogos de Guerra",
-				"similaridade": 12
-			},
-			{
-				"filme": "Banzé no Oeste",
-				"similaridade": 12
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 12
 			}
 		]
@@ -20096,6 +22279,10 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 16
+			},
+			{
 				"filme": "Laranja Mecânica",
 				"similaridade": 16
 			},
@@ -20120,6 +22307,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 13
+			},
+			{
 				"filme": "Fim dos Dias",
 				"similaridade": 13
 			},
@@ -20130,14 +22321,6 @@
 			{
 				"filme": "Liga da Justiça de Zack Snyder",
 				"similaridade": 13
-			},
-			{
-				"filme": "O Exorcista II: O Herege",
-				"similaridade": 13
-			},
-			{
-				"filme": "Harry Potter e a Ordem da Fênix",
-				"similaridade": 12
 			}
 		]
 	},
@@ -20291,6 +22474,10 @@
 				"similaridade": 10
 			},
 			{
+				"filme": "Golpe Duplo",
+				"similaridade": 9
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 9
 			},
@@ -20316,10 +22503,6 @@
 			},
 			{
 				"filme": "O Castelo de Vidro",
-				"similaridade": 8
-			},
-			{
-				"filme": "A Noite dos Arrepios",
 				"similaridade": 8
 			}
 		]
@@ -20527,6 +22710,10 @@
 				"similaridade": 66
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 61
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 61
 			},
@@ -20561,10 +22748,6 @@
 			{
 				"filme": "O Homem de Aço",
 				"similaridade": 56
-			},
-			{
-				"filme": "Velozes & Furiosos 8",
-				"similaridade": 56
 			}
 		]
 	},
@@ -20582,6 +22765,10 @@
 			{
 				"filme": "Os 12 Macacos",
 				"similaridade": 5
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 3
 			},
 			{
 				"filme": "Super Mario Bros.",
@@ -20620,11 +22807,7 @@
 				"similaridade": 3
 			},
 			{
-				"filme": "Guerra Mundial Z",
-				"similaridade": 2
-			},
-			{
-				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
+				"filme": "Annabelle 3: De Volta para Casa",
 				"similaridade": 2
 			}
 		]
@@ -20738,15 +22921,15 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "Missão: Impossível - Nação Secreta",
+				"similaridade": 11
+			},
+			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 11
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 11
-			},
-			{
-				"filme": "Batman",
 				"similaridade": 11
 			}
 		]
@@ -20767,6 +22950,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 14
+			},
+			{
 				"filme": "O Homem de Aço",
 				"similaridade": 12
 			},
@@ -20775,12 +22962,20 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 11
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 11
 			},
 			{
 				"filme": "Tenet",
 				"similaridade": 11
+			},
+			{
+				"filme": "Moonfall: Ameaça Lunar",
+				"similaridade": 10
 			},
 			{
 				"filme": "Transformers: O Lado Oculto da Lua",
@@ -20796,18 +22991,6 @@
 			},
 			{
 				"filme": "Agentes Vanguard",
-				"similaridade": 10
-			},
-			{
-				"filme": "Duna",
-				"similaridade": 10
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 10
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 10
 			}
 		]
@@ -20909,6 +23092,10 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 5
+			},
+			{
 				"filme": "Os 12 Macacos",
 				"similaridade": 5
 			},
@@ -20926,10 +23113,6 @@
 			},
 			{
 				"filme": "Mate ou Morra",
-				"similaridade": 5
-			},
-			{
-				"filme": "As Agentes 355",
 				"similaridade": 5
 			}
 		]
@@ -21068,6 +23251,10 @@
 		"receita": "7.8M",
 		"similares": [
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 25
+			},
+			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 24
 			},
@@ -21100,20 +23287,16 @@
 				"similaridade": 19
 			},
 			{
+				"filme": "A Freira",
+				"similaridade": 18
+			},
+			{
 				"filme": "Pânico",
 				"similaridade": 18
 			},
 			{
 				"filme": "O Estrangeiro",
 				"similaridade": 18
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 17
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 17
 			}
 		]
 	},
@@ -21145,6 +23328,10 @@
 				"similaridade": 22
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 20
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 19
 			},
@@ -21170,10 +23357,6 @@
 			},
 			{
 				"filme": "Batman",
-				"similaridade": 17
-			},
-			{
-				"filme": "Cidadão Kane",
 				"similaridade": 17
 			}
 		]
@@ -21206,12 +23389,20 @@
 				"similaridade": 71
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 68
+			},
+			{
 				"filme": "O Quarto Secreto",
 				"similaridade": 67
 			},
 			{
 				"filme": "Olhos de Gato",
 				"similaridade": 67
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 63
 			},
 			{
 				"filme": "O Homem nas Trevas",
@@ -21228,14 +23419,6 @@
 			{
 				"filme": "Eles Vivem",
 				"similaridade": 56
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 55
-			},
-			{
-				"filme": "Guardiões da Galáxia",
-				"similaridade": 52
 			}
 		]
 	},
@@ -21312,6 +23495,14 @@
 		"receita": "356.8M",
 		"similares": [
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 40
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 30
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 29
 			},
@@ -21350,14 +23541,6 @@
 			{
 				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 23
-			},
-			{
-				"filme": "Vingadores: Era de Ultron",
-				"similaridade": 21
-			},
-			{
-				"filme": "Velozes e Furiosos",
-				"similaridade": 21
 			}
 		]
 	},
@@ -21417,7 +23600,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Frankenstein: Entre Anjos e Demônios",
+				"filme": "Annabelle",
 				"similaridade": 10
 			}
 		]
@@ -21462,6 +23645,10 @@
 				"similaridade": 20
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 19
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 19
 			},
@@ -21475,10 +23662,6 @@
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 18
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 18
 			}
 		]
@@ -21515,6 +23698,10 @@
 				"similaridade": 72
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 69
+			},
+			{
 				"filme": "Verônica: Jogo Sobrenatural",
 				"similaridade": 66
 			},
@@ -21527,20 +23714,16 @@
 				"similaridade": 65
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 60
+			},
+			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 57
+			},
+			{
 				"filme": "Guardiões da Galáxia",
 				"similaridade": 56
-			},
-			{
-				"filme": "Deadpool 2",
-				"similaridade": 54
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 54
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 53
 			}
 		]
 	},
@@ -21637,6 +23820,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 13
+			},
+			{
 				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 13
 			},
@@ -21658,10 +23845,6 @@
 			},
 			{
 				"filme": "O Irlandês",
-				"similaridade": 12
-			},
-			{
-				"filme": "Deadpool 2",
 				"similaridade": 12
 			}
 		]
@@ -21706,6 +23889,10 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 15
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 15
 			},
@@ -21719,10 +23906,6 @@
 			},
 			{
 				"filme": "Herança Maldita",
-				"similaridade": 15
-			},
-			{
-				"filme": "Os Ritos Satânicos de Drácula",
 				"similaridade": 15
 			}
 		]
@@ -21771,20 +23954,20 @@
 				"similaridade": 54
 			},
 			{
+				"filme": "Campo do Medo",
+				"similaridade": 52
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 47
+			},
+			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 47
 			},
 			{
-				"filme": "Verônica: Jogo Sobrenatural",
-				"similaridade": 43
-			},
-			{
-				"filme": "O Poço",
-				"similaridade": 40
-			},
-			{
-				"filme": "Mate ou Morra",
-				"similaridade": 39
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 46
 			}
 		]
 	},
@@ -21865,6 +24048,10 @@
 				"similaridade": 14
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 12
+			},
+			{
 				"filme": "Zodíaco",
 				"similaridade": 12
 			},
@@ -21903,10 +24090,6 @@
 			{
 				"filme": "A Casa do Espanto",
 				"similaridade": 11
-			},
-			{
-				"filme": "Marcas da Violência",
-				"similaridade": 10
 			}
 		]
 	},
@@ -21938,6 +24121,10 @@
 				"similaridade": 15
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 14
+			},
+			{
 				"filme": "Django Livre",
 				"similaridade": 14
 			},
@@ -21964,10 +24151,6 @@
 			{
 				"filme": "Vingança",
 				"similaridade": 13
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 13
 			}
 		]
 	},
@@ -21982,6 +24165,10 @@
 		"orcamento": 0,
 		"receita": 0,
 		"similares": [
+			{
+				"filme": "Golpe Duplo",
+				"similaridade": 8
+			},
 			{
 				"filme": "Velozes e Furiosos",
 				"similaridade": 8
@@ -22025,10 +24212,6 @@
 			{
 				"filme": "O Tigre e o Dragão",
 				"similaridade": 5
-			},
-			{
-				"filme": "Agentes Vanguard",
-				"similaridade": 5
 			}
 		]
 	},
@@ -22050,6 +24233,10 @@
 			{
 				"filme": "Tenet",
 				"similaridade": 6
+			},
+			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 5
 			},
 			{
 				"filme": "Fatal",
@@ -22086,10 +24273,6 @@
 			{
 				"filme": "Piratas do Caribe: A Vingança de Salazar",
 				"similaridade": 5
-			},
-			{
-				"filme": "Alerta Vermelho",
-				"similaridade": 5
 			}
 		]
 	},
@@ -22125,6 +24308,10 @@
 				"similaridade": 26
 			},
 			{
+				"filme": "A Hora da Sua Morte",
+				"similaridade": 25
+			},
+			{
 				"filme": "O Homem nas Trevas",
 				"similaridade": 24
 			},
@@ -22146,10 +24333,6 @@
 			},
 			{
 				"filme": "Harry Potter e o Cálice de Fogo",
-				"similaridade": 18
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 18
 			}
 		]
@@ -22251,6 +24434,14 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 39
+			},
+			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 37
+			},
+			{
 				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 37
 			},
@@ -22265,14 +24456,6 @@
 			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
 				"similaridade": 35
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 35
-			},
-			{
-				"filme": "Jogador N° 1",
-				"similaridade": 34
 			}
 		]
 	},
@@ -22369,12 +24552,20 @@
 				"similaridade": 9
 			},
 			{
+				"filme": "A Rede Social",
+				"similaridade": 8
+			},
+			{
 				"filme": "O Irlandês",
 				"similaridade": 8
 			},
 			{
 				"filme": "12 Homens e uma Sentença",
 				"similaridade": 8
+			},
+			{
+				"filme": "De Repente Pai",
+				"similaridade": 7
 			},
 			{
 				"filme": "Nasce uma Estrela",
@@ -22386,14 +24577,6 @@
 			},
 			{
 				"filme": "O Poderoso Chefão",
-				"similaridade": 7
-			},
-			{
-				"filme": "O Exorcista",
-				"similaridade": 7
-			},
-			{
-				"filme": "Sindicato de Ladrões",
 				"similaridade": 7
 			}
 		]
@@ -22409,6 +24592,10 @@
 		"orcamento": "22M",
 		"receita": "77.7M",
 		"similares": [
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 30
+			},
 			{
 				"filme": "O Irlandês",
 				"similaridade": 30
@@ -22451,10 +24638,6 @@
 			},
 			{
 				"filme": "O Homem de Aço",
-				"similaridade": 23
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 23
 			}
 		]
@@ -22503,6 +24686,10 @@
 				"similaridade": 12
 			},
 			{
+				"filme": "Elle",
+				"similaridade": 11
+			},
+			{
 				"filme": "De Olhos Bem Fechados",
 				"similaridade": 11
 			},
@@ -22512,10 +24699,6 @@
 			},
 			{
 				"filme": "As Fitas de Poughkeepsie",
-				"similaridade": 11
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
 				"similaridade": 11
 			}
 		]
@@ -22544,6 +24727,10 @@
 				"similaridade": 66
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 63
+			},
+			{
 				"filme": "Fúria Silenciosa",
 				"similaridade": 62
 			},
@@ -22560,6 +24747,10 @@
 				"similaridade": 60
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 59
+			},
+			{
 				"filme": "Deadpool",
 				"similaridade": 59
 			},
@@ -22570,14 +24761,6 @@
 			{
 				"filme": "Eternos",
 				"similaridade": 55
-			},
-			{
-				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 54
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
-				"similaridade": 53
 			}
 		]
 	},
@@ -23024,6 +25207,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 6
+			},
+			{
 				"filme": "Megatubarão",
 				"similaridade": 6
 			},
@@ -23034,6 +25221,10 @@
 			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 6
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 5
 			},
 			{
 				"filme": "Animais Fantásticos e Onde Habitam",
@@ -23057,14 +25248,6 @@
 			},
 			{
 				"filme": "Harry Potter e o Enigma do Príncipe",
-				"similaridade": 5
-			},
-			{
-				"filme": "Grito de Horror",
-				"similaridade": 5
-			},
-			{
-				"filme": "A Maldição de Frankenstein",
 				"similaridade": 5
 			}
 		]
@@ -23158,6 +25341,10 @@
 				"similaridade": 4
 			},
 			{
+				"filme": "Colombiana: Em Busca de Vingança",
+				"similaridade": 3
+			},
+			{
 				"filme": "O Substituto",
 				"similaridade": 3
 			},
@@ -23184,10 +25371,6 @@
 			{
 				"filme": "Quem Sou Eu?",
 				"similaridade": 3
-			},
-			{
-				"filme": "Shang-Chi e a Lenda dos Dez Anéis",
-				"similaridade": 3
 			}
 		]
 	},
@@ -23211,8 +25394,16 @@
 				"similaridade": 16
 			},
 			{
+				"filme": "Invocação do Mal 2",
+				"similaridade": 14
+			},
+			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 2",
 				"similaridade": 14
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 13
 			},
 			{
 				"filme": "Harry Potter e as Relíquias da Morte - Parte 1",
@@ -23231,24 +25422,16 @@
 				"similaridade": 13
 			},
 			{
+				"filme": "Invocação do Mal",
+				"similaridade": 12
+			},
+			{
 				"filme": "Harry Potter e o Cálice de Fogo",
 				"similaridade": 12
 			},
 			{
 				"filme": "Doutor Estranho no Multiverso da Loucura",
 				"similaridade": 12
-			},
-			{
-				"filme": "Homem-Aranha: Sem Volta Para Casa",
-				"similaridade": 11
-			},
-			{
-				"filme": "Os Ritos Satânicos de Drácula",
-				"similaridade": 11
-			},
-			{
-				"filme": "Drácula de Bram Stoker",
-				"similaridade": 11
 			}
 		]
 	},
@@ -23304,12 +25487,12 @@
 				"similaridade": 44
 			},
 			{
-				"filme": "Invasão ao Serviço Secreto",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 43
 			},
 			{
-				"filme": "Need for Speed: O Filme",
-				"similaridade": 40
+				"filme": "Invasão ao Serviço Secreto",
+				"similaridade": 43
 			}
 		]
 	},
@@ -23548,11 +25731,11 @@
 				"similaridade": 26
 			},
 			{
-				"filme": "Velozes & Furiosos: Hobbs & Shaw",
+				"filme": "Transformers: O Último Cavaleiro",
 				"similaridade": 25
 			},
 			{
-				"filme": "Fúria Silenciosa",
+				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 25
 			}
 		]
@@ -23568,6 +25751,18 @@
 		"orcamento": "11M",
 		"receita": "441.3M",
 		"similares": [
+			{
+				"filme": "Invocação do Mal",
+				"similaridade": 70
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 50
+			},
+			{
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
+				"similaridade": 47
+			},
 			{
 				"filme": "Clube da Luta",
 				"similaridade": 46
@@ -23603,18 +25798,6 @@
 			{
 				"filme": "O Lobo de Wall Street",
 				"similaridade": 38
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
-				"similaridade": 37
-			},
-			{
-				"filme": "Fúria Silenciosa",
-				"similaridade": 36
-			},
-			{
-				"filme": "Liga da Justiça de Zack Snyder",
-				"similaridade": 36
 			}
 		]
 	},
@@ -23658,6 +25841,14 @@
 				"similaridade": 29
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 27
+			},
+			{
+				"filme": "Annabelle",
+				"similaridade": 26
+			},
+			{
 				"filme": "Hitman: Agente 47",
 				"similaridade": 26
 			},
@@ -23667,14 +25858,6 @@
 			},
 			{
 				"filme": "Mente Criminosa",
-				"similaridade": 26
-			},
-			{
-				"filme": "O Estrangeiro",
-				"similaridade": 26
-			},
-			{
-				"filme": "O Enigma de Outro Mundo",
 				"similaridade": 26
 			}
 		]
@@ -23813,11 +25996,11 @@
 		"receita": 0,
 		"similares": [
 			{
-				"filme": "O Irlandês",
+				"filme": "2012",
 				"similaridade": 3
 			},
 			{
-				"filme": "2012",
+				"filme": "O Irlandês",
 				"similaridade": 3
 			},
 			{
@@ -23831,6 +26014,10 @@
 			{
 				"filme": "A Viagem de Chihiro",
 				"similaridade": 3
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 2
 			},
 			{
 				"filme": "Marcas da Violência",
@@ -23854,10 +26041,6 @@
 			},
 			{
 				"filme": "O Doador de Memórias",
-				"similaridade": 2
-			},
-			{
-				"filme": "Kiriku e a Feiticeira",
 				"similaridade": 2
 			}
 		]
@@ -23910,15 +26093,15 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 7
+			},
+			{
 				"filme": "A Vingança de Frankenstein",
 				"similaridade": 7
 			},
 			{
 				"filme": "A Morte do Superman",
-				"similaridade": 7
-			},
-			{
-				"filme": "Pânico",
 				"similaridade": 7
 			}
 		]
@@ -24089,6 +26272,10 @@
 				"similaridade": 36
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 35
+			},
+			{
 				"filme": "Inimigo Mortal",
 				"similaridade": 35
 			},
@@ -24098,10 +26285,6 @@
 			},
 			{
 				"filme": "Hitman: Agente 47",
-				"similaridade": 34
-			},
-			{
-				"filme": "Invasão ao Serviço Secreto",
 				"similaridade": 34
 			}
 		]
@@ -24240,8 +26423,16 @@
 		"receita": "37.1M",
 		"similares": [
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 66
+			},
+			{
 				"filme": "Transformers: A Vingança dos Derrotados",
 				"similaridade": 24
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 22
 			},
 			{
 				"filme": "Transformers",
@@ -24260,11 +26451,11 @@
 				"similaridade": 18
 			},
 			{
-				"filme": "Guerra Mundial Z",
+				"filme": "2012",
 				"similaridade": 17
 			},
 			{
-				"filme": "2012",
+				"filme": "Guerra Mundial Z",
 				"similaridade": 17
 			},
 			{
@@ -24278,14 +26469,6 @@
 			{
 				"filme": "Os Doze Condenados",
 				"similaridade": 15
-			},
-			{
-				"filme": "O Irlandês",
-				"similaridade": 14
-			},
-			{
-				"filme": "Bastardos Inglórios",
-				"similaridade": 14
 			}
 		]
 	},
@@ -24374,6 +26557,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 40
+			},
+			{
 				"filme": "Velozes & Furiosos: Hobbs & Shaw",
 				"similaridade": 40
 			},
@@ -24403,10 +26590,6 @@
 			},
 			{
 				"filme": "Deadpool 2",
-				"similaridade": 35
-			},
-			{
-				"filme": "Transformers: O Lado Oculto da Lua",
 				"similaridade": 35
 			}
 		]
@@ -24500,6 +26683,10 @@
 				"similaridade": 8
 			},
 			{
+				"filme": "Annabelle",
+				"similaridade": 7
+			},
+			{
 				"filme": "Eles Vivem",
 				"similaridade": 7
 			},
@@ -24520,15 +26707,11 @@
 				"similaridade": 7
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 6
+			},
+			{
 				"filme": "Animais Fantásticos e Onde Habitam",
-				"similaridade": 6
-			},
-			{
-				"filme": "Django Livre",
-				"similaridade": 6
-			},
-			{
-				"filme": "Bastardos Inglórios",
 				"similaridade": 6
 			}
 		]
@@ -24573,23 +26756,23 @@
 				"similaridade": 6
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 5
+			},
+			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 5
+			},
+			{
+				"filme": "Missão: Impossível - Nação Secreta",
+				"similaridade": 5
+			},
+			{
 				"filme": "Animais Fantásticos: Os Crimes de Grindelwald",
 				"similaridade": 5
 			},
 			{
 				"filme": "Laranja Mecânica",
-				"similaridade": 5
-			},
-			{
-				"filme": "Invasão ao Serviço Secreto",
-				"similaridade": 5
-			},
-			{
-				"filme": "Velozes & Furiosos 9",
-				"similaridade": 5
-			},
-			{
-				"filme": "Alerta Vermelho",
 				"similaridade": 5
 			}
 		]
@@ -24650,7 +26833,7 @@
 				"similaridade": 11
 			},
 			{
-				"filme": "Zodíaco",
+				"filme": "Invocação do Mal 3: A Ordem do Demônio",
 				"similaridade": 10
 			}
 		]
@@ -24797,6 +26980,10 @@
 				"similaridade": 31
 			},
 			{
+				"filme": "Prometheus",
+				"similaridade": 28
+			},
+			{
 				"filme": "Drácula de Bram Stoker",
 				"similaridade": 28
 			},
@@ -24831,10 +27018,6 @@
 			{
 				"filme": "...E Frankenstein Criou a Mulher",
 				"similaridade": 25
-			},
-			{
-				"filme": "Frankenstein: Entre Anjos e Demônios",
-				"similaridade": 24
 			}
 		]
 	},
@@ -25061,6 +27244,10 @@
 				"similaridade": 38
 			},
 			{
+				"filme": "Transformers: O Último Cavaleiro",
+				"similaridade": 37
+			},
+			{
 				"filme": "Deadpool 2",
 				"similaridade": 36
 			},
@@ -25074,10 +27261,6 @@
 			},
 			{
 				"filme": "O Estrangeiro",
-				"similaridade": 35
-			},
-			{
-				"filme": "Mulher-Maravilha 1984",
 				"similaridade": 35
 			}
 		]
@@ -25114,6 +27297,10 @@
 				"similaridade": 41
 			},
 			{
+				"filme": "Isolados: Medo Invisível",
+				"similaridade": 39
+			},
+			{
 				"filme": "O Irlandês",
 				"similaridade": 39
 			},
@@ -25135,10 +27322,6 @@
 			},
 			{
 				"filme": "Guardiões da Galáxia",
-				"similaridade": 32
-			},
-			{
-				"filme": "A Babá",
 				"similaridade": 32
 			}
 		]
@@ -25244,6 +27427,10 @@
 				"similaridade": 28
 			},
 			{
+				"filme": "Midway: Batalha em Alto Mar",
+				"similaridade": 27
+			},
+			{
 				"filme": "Uncharted: Fora do Mapa",
 				"similaridade": 27
 			},
@@ -25257,10 +27444,6 @@
 			},
 			{
 				"filme": "Bastardos Inglórios",
-				"similaridade": 26
-			},
-			{
-				"filme": "Laranja Mecânica",
 				"similaridade": 26
 			}
 		]
